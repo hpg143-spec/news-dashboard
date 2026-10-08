@@ -1,4 +1,599 @@
 {
- "updated": "2026-10-08T18:04:04.311513Z",
- "events": []
+ "updated": "2026-10-08T21:05:53.062043Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791374400,
+   "articles": [
+    {
+     "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Kenya has recorded its first Ebola death, launching an urgent contact-tracing campaign with United Nations and partner support. WHO officials confirmed active tracing efforts to prevent broader transmission.",
+   "why": "The arrival and initial fatality of Ebola in a new national jurisdiction poses a severe, immediate risk of epidemic spread across the region.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791398452,
+   "articles": [
+    {
+     "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+     "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Eritrean troops have advanced south into Ethiopia's Tigray region, according to local residents in Adigrat. Witnesses reported seeing truckloads of Eritrean soldiers moving deeper into the area.",
+   "why": "Cross-border military incursions risk unraveling peace accords and rekindling large-scale armed conflict in the Horn of Africa.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791430355,
+   "articles": [
+    {
+     "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi forces claimed responsibility for attacks on Saudi Arabian airports that killed three people. Officials describe the strikes as an escalation in the regional conflict.",
+   "why": "Lethal strikes on civilian transport infrastructure severely disrupt international transit and escalate cross-border regional warfare.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "A UNDP report found that ongoing conflict, displacement, economic shocks, and climate impacts in Myanmar have led to a simultaneous collapse of healthcare, education, livelihoods, and shelter. Millions of people are facing deepening poverty with severely constrained resources.",
+   "why": "The collapse of core public infrastructure and services across Myanmar threatens the basic survival and socioeconomic stability of millions.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791462732,
+   "articles": [
+    {
+     "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+     "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Italy has approved an overhaul of its election laws amid criticism from opposition parties. Prime Minister Giorgia Meloni stated the reforms aim to deliver stable government, while critics argue it is intended to keep her in power.",
+   "why": "Systemic electoral reforms in a major European democracy directly alter governance, power distribution, and long-term political stability.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791476645,
+   "articles": [
+    {
+     "title": "Zambia signs US health deal after disputes over data-sharing",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Zambia has signed a $1.5bn health agreement with the US following disputes over data-sharing. The deal was negotiated after previous cuts to USAID funding under the Trump administration.",
+   "why": "A massive bilateral health funding package significantly impacts public health infrastructure and patient outcomes nationwide in Zambia.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791461491,
+   "articles": [
+    {
+     "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+     "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "An oil and chemical tanker, identified as the Acers, was struck by multiple projectiles off Qatar in the Gulf. Casualties have been reported on board following the incident.",
+   "why": "Attacks on commercial vessels in critical Middle Eastern waterways threaten maritime transit security and risk escalating regional hostilities.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 10,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1791479238,
+   "articles": [
+    {
+     "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+     "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+     "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+     "source": "NPR World"
+    },
+    {
+     "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+     "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Ukraine reported that a Russian strike on two civilian buses in the front-line city of Kramatorsk killed at least 30 people. Ukrainian officials claimed the crowded vehicles were deliberately targeted.",
+   "why": "It represents a severe mass-casualty attack on public transit infrastructure in Ukraine, intensifying civilian tolls and blackouts.",
+   "impact": 6.0,
+   "under_radar": false,
+   "gap": 0.2
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 5,
+   "ts": 1791492463,
+   "articles": [
+    {
+     "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+     "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "US charges Venezuela’s Nicolas Maduro over torture allegations",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "US prosecutors add new torture charge against Maduro",
+     "link": "https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+     "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+     "source": "NPR World"
+    },
+    {
+     "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
+     "link": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "US prosecutors have filed new charges against Venezuela's Nicolás Maduro for conspiracy to commit torture. The accusations involve the alleged torture of American citizens held in Venezuela during Maduro's rule.",
+   "why": "It escalates legal and diplomatic pressure from the United States against Venezuela's leadership regarding treatment of detained foreign nationals.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.08
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 3,
+   "ts": 1791476589,
+   "articles": [
+    {
+     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+     "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "South Korea recalls Ukraine ambassador amid POW dispute",
+     "link": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+     "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "South Korea is recalling its ambassador to Ukraine following a dispute over prisoners of war. The diplomatic friction arose after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+   "why": "The recall marks a notable diplomatic fracture between Ukraine and South Korea tied directly to the involvement and handling of North Korean troops in the conflict.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 8,
+   "tier": "primary",
+   "sources": [
+    "DW",
+    "UN News"
+   ],
+   "n_sources": 2,
+   "ts": 1791491820,
+   "articles": [
+    {
+     "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+     "source": "UN News"
+    },
+    {
+     "title": "Afghan women facing arrest for dress code violations: UN",
+     "link": "https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UN reported that Afghan women and girls face ongoing threats, detentions, and arrests by Taliban authorities over dress code violations. These restrictions coincide with record numbers of Afghan refugees returning to the country.",
+   "why": "It documents intensifying civil rights crackdowns and systemic oppression affecting millions of women and vulnerable returnees in Afghanistan.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791374400,
+   "articles": [
+    {
+     "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168548",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The UN Humanitarian Coordinator for Ukraine condemned recent Russian strikes on civilians, including overnight attacks in the Chernihiv Region that reportedly killed at least 19 people.",
+   "why": "It reflects ongoing high civilian casualties and infrastructure damage caused by air strikes in northern Ukraine.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791428526,
+   "articles": [
+    {
+     "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+     "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Texas executed Jamaal Howard, marking the first US execution since Christa Pike's botched lethal injections. Howard's legal team had unsuccessfully petitioned a judge to pause the procedure.",
+   "why": "Resumes the use of capital punishment following nationwide scrutiny over flawed lethal injection protocols.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791413400,
+   "articles": [
+    {
+     "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+     "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Federal prosecutors in New York filed an updated indictment against former Venezuelan President Nicolás Maduro. He is expected to face additional legal charges this week.",
+   "why": "Escalates legal and diplomatic pressure from the United States against Venezuela's leadership.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791374400,
+   "articles": [
+    {
+     "title": "Critical funding gap threatens health response in Yemen",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The WHO warned of a critical funding shortage threatening its health response in Yemen amid escalating conflict and mounting humanitarian needs. The agency stressed that significantly increased resources are required to maintain operations.",
+   "why": "Severe funding shortfalls in an active war zone directly undermine life-saving medical aid for an already vulnerable population.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791479792,
+   "articles": [
+    {
+     "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+     "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Human Rights Watch reports that the US has expelled over 500 migrants to African countries, calling the deportations unlawful. The group cited US data when raising concerns about the exploitation of migrant suffering.",
+   "why": "Highlights potential violations of international human rights and legal procedures in deportation practices affecting hundreds of individuals.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791435644,
+   "articles": [
+    {
+     "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "A BBC report found that the US and Lebanon are sheltering wanted Syrian general Bassam al-Hassan. He is reportedly being protected in exchange for intelligence, including information on abducted reporter Austin Tice.",
+   "why": "Reveals sensitive intelligence arrangements and compromises involving high-ranking Syrian figures and detained foreign nationals.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791492214,
+   "articles": [
+    {
+     "title": "South Africa protests turn violent amid rage over asylum ruling",
+     "link": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "South Africa: Anti-migrant protests turn violent",
+     "link": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Anti-migrant protests turned violent in South Africa following an asylum ruling, resulting in torched vehicles. The unrest forced foreign-run businesses to close in Johannesburg's Soweto and Durban.",
+   "why": "Violent xenophobic unrest directly threatens immigrant communities, urban commerce, and public safety in major South African economic hubs.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791374400,
+   "articles": [
+    {
+     "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168547",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Russian health authorities informed the WHO that there is no plague case in Siberia following the death of a lab technician from unexplained pneumonia. The WHO continues to assess the situation.",
+   "why": "Official clarification regarding potential lethal pathogen outbreaks in laboratory settings is critical for regional and global biosecurity.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The United Nations has urged accelerated climate action ahead of the COP31 summit in Türkiye, emphasizing that emissions overshoot is not a reason to surrender. The call comes amid record-breaking heat, severe floods, and an unprecedented El Niño pattern.",
+   "why": "It highlights global multilateral messaging and urgency ahead of upcoming international climate negotiations amid intensifying extreme weather.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791459082,
+   "articles": [
+    {
+     "title": "Residents airlifted to safety after flooding in central Chile",
+     "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Residents in central Chile were airlifted to safety after the Mapocho river burst its banks. The flooding was triggered by unusually heavy rainfall in recent days.",
+   "why": "Represents an immediate danger to local populations, triggering emergency rescues and localized displacement.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791468658,
+   "articles": [
+    {
+     "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+     "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Arizona congressional candidate Bernadette Greene-Placentia reported being knocked unconscious and raped while repairing a campaign sign. She noted her memory of the assault remains spotty.",
+   "why": "A severe violent crime targeting a political candidate with direct implications for local safety and candidate security.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
