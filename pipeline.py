@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 KEY = os.environ.get("GEMINI_API_KEY")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")  # check current free-tier models
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")  # check current free-tier models
 WINDOW_H, TOP_N, BATCH, SIM = 48, 60, 15, 0.78
 TIER_W = {"primary": 3, "wire": 2, "general": 1}
 JUNK = re.compile(r"horoscope|celebrity|box office|bollywood|transfer rumou?r|football|cricket score|viral video|best deals", re.I)
