@@ -1,19 +1,39 @@
 name: update-news
+
 on:
-  schedule: [{cron: "0 */3 * * *"}]
   workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
 permissions:
   contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: {python-version: "3.11", cache: pip}
-      - run: pip install torch --index-url https://download.pytorch.org/whl/cpu && pip install -r requirements.txt
-      - run: python pipeline.py
-        env: {GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}"}
-      - run: |
-          git config user.name bot && git config user.email bot@users.noreply.github.com
-          git add docs/events.json && (git diff --staged --quiet || git commit -m "update events" && git push)
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      - name: Run the pipeline
+        run: python pipeline.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Save results
+        run: |
+          git config user.name bot
+          git config user.email bot@users.noreply.github.com
+          git add docs/events.json
+          git diff --staged --quiet || git commit -m "update events"
+          git push
