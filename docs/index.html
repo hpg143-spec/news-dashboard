@@ -1,1 +1,45 @@
-
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Signal: news by impact</title>
+<style>
+:root{--bg:#f4f5f2;--card:#fff;--ink:#1b2326;--mute:#5d6a6e;--line:#d9ddd8;--acc:#0b6b63;--hi:#b4531c}
+@media(prefers-color-scheme:dark){:root{--bg:#12171a;--card:#1a2125;--ink:#e6ebea;--mute:#93a1a5;--line:#2b363b;--acc:#4cc2b5;--hi:#f09a5e}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+header,main{max-width:860px;margin:0 auto;padding:0 16px}header{padding-top:28px}
+h1{font:700 1.7rem Georgia,serif;margin:0}#upd{color:var(--mute);font-size:.85rem}
+nav{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 8px}
+button{font:inherit;font-size:.9rem;padding:6px 12px;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;cursor:pointer}
+button[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--bg)}button:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}.row.s button{font-size:.8rem;padding:3px 10px}
+article{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+article.r{border-left-color:var(--hi)}h2{font:600 1.15rem/1.3 Georgia,serif;margin:0 0 6px}
+.meta{color:var(--mute);font-size:.82rem;margin-bottom:6px}.why{font-size:.92rem;margin:6px 0}
+.bar{display:inline-block;width:60px;height:6px;background:var(--line);border-radius:3px;vertical-align:middle;margin-right:6px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}
+details{font-size:.88rem;margin-top:6px}summary{cursor:pointer;color:var(--mute)}a{color:var(--acc)}
+.tag{color:var(--hi);font-weight:600}
+</style></head><body>
+<header><h1>Signal</h1><div id="upd">Loading…</div><nav id="cats" aria-label="Categories"></nav><div class="row s" id="scales" aria-label="Scale"></div></header>
+<main id="list"></main>
+<script>
+const SC=["Any scale","Local","State","National","Regional","Global"];
+let data=[],cat="All",sc="Any scale";
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+function pills(id,items,get,set){const box=document.getElementById(id);box.innerHTML="";
+ items.forEach(v=>{const b=el("button",0,v);b.setAttribute("aria-pressed",get()===v);b.onclick=()=>{set(v);render()};box.append(b)})}
+function render(){
+ const cats=[...new Set(data.map(e=>e.category))].sort();
+ pills("cats",["Under the radar","All",...cats],()=>cat,v=>cat=v);pills("scales",SC,()=>sc,v=>sc=v);
+ const list=document.getElementById("list");list.innerHTML="";
+ const rows=data.filter(e=>(cat==="All"||(cat==="Under the radar"?e.under_radar:e.category===cat))&&(sc==="Any scale"||e.scale===sc));
+ if(!rows.length)list.append(el("p","meta","No events match. Try another category or scale."));
+ rows.forEach(e=>{const a=el("article",e.under_radar?"r":"");
+  a.append(el("h2",0,e.articles[0].title));
+  const m=el("div","meta");const bar=el("span","bar");const i=el("i");i.style.width=e.impact*10+"%";bar.append(i);
+  m.append(bar,`Impact ${e.impact} · ${e.category} · ${e.scale} · ${e.n_sources} source${e.n_sources>1?"s":""}`);
+  if(e.under_radar){m.append(" · ");m.append(el("span","tag","Under the radar"))}
+  a.append(m,el("div",0,e.summary),el("div","why",e.why));
+  const d=el("details");d.append(el("summary",0,"Sources"));
+  e.articles.forEach(x=>{const l=el("a",0,x.source+": "+x.title);l.href=x.link;l.target="_blank";l.rel="noopener";d.append(l,el("br"))});
+  a.append(d);list.append(a)})}
+fetch("events.json").then(r=>r.json()).then(j=>{data=j.events;document.getElementById("upd").textContent="Updated "+new Date(j.updated).toLocaleString();render()})
+.catch(()=>document.getElementById("upd").textContent="No data yet. Run the update workflow once.");
+</script></body></html>
