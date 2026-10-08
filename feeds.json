@@ -1,0 +1,13 @@
+[
+ {"name":"UN News","url":"https://news.un.org/feed/subscribe/en/news/all/rss.xml","tier":"primary"},
+ {"name":"WHO","url":"https://www.who.int/rss-feeds/news-english.xml","tier":"primary"},
+ {"name":"ReliefWeb","url":"https://reliefweb.int/updates/rss.xml","tier":"primary"},
+ {"name":"USGS Quakes","url":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom","tier":"primary"},
+ {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","tier":"wire"},
+ {"name":"Al Jazeera","url":"https://www.aljazeera.com/xml/rss/all.xml","tier":"wire"},
+ {"name":"DW","url":"https://rss.dw.com/xml/rss-en-all","tier":"wire"},
+ {"name":"NPR World","url":"https://feeds.npr.org/1004/rss.xml","tier":"wire"},
+ {"name":"The Guardian World","url":"https://www.theguardian.com/world/rss","tier":"wire"},
+ {"name":"The Hindu National","url":"https://www.thehindu.com/news/national/feeder/default.rss","tier":"general"},
+ {"name":"Local: your region","url":"https://news.google.com/rss/search?q=YOUR+REGION&hl=en-IN&gl=IN&ceid=IN:en","tier":"general"}
+]

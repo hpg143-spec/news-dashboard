@@ -1,0 +1,4 @@
+feedparser
+requests
+numpy
+sentence-transformers
