@@ -1,50 +1,26 @@
 {
- "updated": "2026-10-09T00:12:20.287784Z",
+ "updated": "2026-10-09T03:15:17.336903Z",
  "events": [
   {
-   "pre": 7,
+   "pre": 9,
    "tier": "primary",
    "sources": [
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1791374400,
+   "ts": 1791460800,
    "articles": [
     {
-     "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+     "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168555",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Kenya has recorded its first Ebola death, triggering a comprehensive contact-tracing effort supported by the United Nations and partner organizations. The World Health Organization's top official in the country confirmed the emergency response.",
-   "why": "A confirmed Ebola fatality in a regional transit hub like Kenya presents serious epidemic risks for East Africa if containment fails.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791498637,
-   "articles": [
-    {
-     "title": "Putin pledges Russia’s support to end US-led war on Iran",
-     "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Russian President Vladimir Putin met with the Iranian president in Turkmenistan and pledged Russian support to end the US-led war on Iran. The meeting occurred ahead of a regional summit.",
-   "why": "Direct Russian diplomatic and political intervention in a major US-Iran war significantly impacts regional alliance dynamics and conflict escalation.",
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The UN has called for accelerated climate action ahead of November's COP31 climate summit in Türkiye. This urgency is driven by record-breaking heat, devastating floods, and an unprecedented El Niño pattern.",
+   "why": "It highlights mounting diplomatic pressure on global leaders to enact decisive emissions and adaptation policies amid escalating climate catastrophes.",
    "impact": 7.2,
    "under_radar": true,
    "gap": 0.62
@@ -56,82 +32,142 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1791374400,
+   "ts": 1791460800,
    "articles": [
     {
-     "title": "WHO releases first global guidelines on child obesity as cases surge",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168536",
+     "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168550",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "The World Health Organization has issued its first global guidelines targeting child obesity as rates quadruple since 1990. The condition now affects around eight percent of youth aged five to nineteen, up from two percent.",
-   "why": "Establishing the first global clinical and policy guidelines targets a fast-growing worldwide non-communicable disease burden in youth.",
-   "impact": 6.8,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "A UNDP report warns that years of conflict, displacement, economic collapse, and climate shocks have devastated basic systems in Myanmar. This simultaneous collapse of shelter, healthcare, education, and livelihoods affects millions of people.",
+   "why": "The systemic collapse of civil infrastructure and livelihoods threatens millions with severe multi-dimensional poverty and long-term societal breakdown.",
+   "impact": 7.2,
    "under_radar": true,
-   "gap": 0.58
+   "gap": 0.62
   },
   {
-   "pre": 7,
+   "pre": 8,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "Al Jazeera",
+    "BBC World"
    ],
-   "n_sources": 1,
-   "ts": 1791488619,
+   "n_sources": 2,
+   "ts": 1791500063,
    "articles": [
     {
-     "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-     "link": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
+     "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+     "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
+   "scale": "Regional",
+   "summary": "Palestinians in Gaza face continued Israeli strikes and crowded tent living conditions despite an existing ceasefire. Meanwhile, a US-backed plan to end the war remains largely stalled.",
+   "why": "Ongoing strikes and diplomatic deadlock leave hundreds of thousands of displaced civilians vulnerable to continuous violence and deprivation.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791477089,
+   "articles": [
+    {
+     "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+     "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+     "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+     "source": "NPR World"
+    },
+    {
+     "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+     "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
    "scale": "National",
-   "summary": "A Congressional Budget Office report states that at least 81 US aircraft worth up to $3.3 billion have been lost or damaged in the war with Iran. The disclosure adds to scrutiny over the financial and military costs of the conflict.",
-   "why": "Substantial US military asset losses impose major financial burdens and reveal notable operational attrition in an ongoing armed conflict.",
+   "summary": "Ukraine accused Russia of targeting two crowded public buses in the front-line city of Kramatorsk. Officials reported the strike killed at least 30 people.",
+   "why": "Mass-casualty strikes on civilian transit hubs inflict severe immediate loss of life and deepen the humanitarian crisis along the front line.",
+   "impact": 6.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "More than 700,000 displaced people in Tawila, Darfur, face acute shortages of food, water, healthcare, and protection. The WHO has issued an urgent appeal for increased resources as UN sanctions on Sudan were extended.",
+   "why": "A critical deficit of basic aid for over 700,000 displaced individuals threatens a catastrophic rise in preventable deaths and disease outbreaks in Darfur.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
   },
   {
-   "pre": 7,
-   "tier": "wire",
+   "pre": 8,
+   "tier": "primary",
    "sources": [
-    "Al Jazeera",
     "DW",
-    "The Guardian World"
+    "UN News"
    ],
-   "n_sources": 3,
-   "ts": 1791503280,
+   "n_sources": 2,
+   "ts": 1791491820,
    "articles": [
     {
-     "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
-     "link": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+     "source": "UN News"
     },
     {
-     "title": "US to livestream Fort Hood shooter's execution: Pentagon",
-     "link": "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss",
+     "title": "Afghan women facing arrest for dress code violations: UN",
+     "link": "https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-xml-mrss",
      "source": "DW"
-    },
-    {
-     "title": "Pentagon says execution of Fort Hood shooter will be livestreamed",
-     "link": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
-     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Pentagon officials announced that the execution by firing squad of Fort Hood shooter Nidal Hasan will be publicly livestreamed. The decision was confirmed by defense leadership.",
-   "why": "Livestreaming a federal military execution sets an extraordinary and controversial legal and media precedent for US capital punishment.",
-   "impact": 6.4,
-   "under_radar": false,
-   "gap": 0.34
+   "summary": "The UN warned that Afghan women and girls are being arrested, detained, and threatened by Taliban authorities over dress code violations. These enforcements occur as record numbers of returnees attempt to rebuild their lives in Afghanistan.",
+   "why": "It marks intensified repression of women's basic rights in Afghanistan compounded by the strain of mass refugee returns.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
   },
   {
    "pre": 7,
@@ -143,84 +179,229 @@
    "ts": 1791374400,
    "articles": [
     {
-     "title": "Critical funding gap threatens health response in Yemen",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+     "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168548",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Health",
+   "category": "Security",
    "scale": "National",
-   "summary": "The World Health Organization warned that a critical funding gap is hindering its capacity to respond to health needs in Yemen. Significantly more resources are required as conflict and humanitarian needs escalate.",
-   "why": "Inadequate funding for humanitarian healthcare in Yemen directly risks lives amid a protracted conflict.",
+   "summary": "The UN Humanitarian Coordinator for Ukraine called for an immediate halt to attacks on civilians following Russian strikes in the Chernihiv Region. The overnight bombardment reportedly killed at least 19 people.",
+   "why": "Direct attacks on population centers continue to claim significant civilian lives and strain Ukraine's humanitarian response capabilities.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
   },
   {
-   "pre": 7,
+   "pre": 9,
    "tier": "wire",
    "sources": [
     "Al Jazeera",
     "BBC World",
+    "DW",
+    "NPR World",
     "The Guardian World"
    ],
-   "n_sources": 3,
-   "ts": 1791491640,
+   "n_sources": 5,
+   "ts": 1791492463,
    "articles": [
     {
-     "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-     "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+     "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+     "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     },
     {
-     "title": "Israel shuts down British consulate in occupied East Jerusalem",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+     "title": "US charges Venezuela’s Nicolas Maduro over torture allegations",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss",
      "source": "Al Jazeera"
     },
     {
-     "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
-     "link": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
-     "source": "The Guardian World"
+     "title": "US prosecutors add new torture charge against Maduro",
+     "link": "https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     },
     {
-     "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-     "link": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+     "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+     "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+     "source": "NPR World"
+    },
+    {
+     "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
+     "link": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
      "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "US prosecutors have filed new charges against Nicolás Maduro alleging conspiracy to commit torture. The charges stem from the alleged torture of US citizens held in Venezuela during his tenure.",
+   "why": "It sharpens legal and diplomatic conflict between the United States and Venezuela while setting significant international legal precedents regarding the prosecution of foreign leaders.",
+   "impact": 6.0,
+   "under_radar": false,
+   "gap": 0.1
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "‘Age must never diminish rights,’ UN independent expert warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "A UN independent human rights expert warned that older women worldwide suffer violence, neglect, and exploitation. The expert highlighted that they remain largely overlooked in legal, policy, and data frameworks intended to protect women.",
+   "why": "It exposes a widespread global policy gap in legal protections and social safety nets for an expanding aging female population.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "UN human rights chief Volker Türk stated he was appalled by a wave of attacks that killed civilians across Ukraine over four days.",
+   "why": "It documents ongoing civilian casualties and human rights violations from persistent Russian aerial bombardment across Ukraine.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 3,
+   "ts": 1791476589,
+   "articles": [
+    {
+     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+     "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "South Korea recalls Ukraine ambassador amid POW dispute",
+     "link": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+     "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+     "source": "NPR World"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Israel is forcing most UK diplomats to depart their East Jerusalem consulate following British sanctions on West Bank settlements. UK officials stated that vital diplomatic services will remain operational despite the downgrade.",
-   "why": "The diplomatic expulsion escalates bilateral tensions and affects consular support and political presence in occupied East Jerusalem.",
+   "summary": "South Korea is recalling its ambassador to Ukraine amid a diplomatic dispute. The rift emerged after Kyiv disclosed that two North Korean prisoners of war were transferred to Seoul.",
+   "why": "The dispute exposes sensitive diplomatic fallout between Seoul and Kyiv over the handling of North Korean combatants involved in the Ukraine war.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.28
   },
   {
-   "pre": 7,
+   "pre": 8,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "Al Jazeera",
+    "DW"
    ],
-   "n_sources": 1,
-   "ts": 1791460379,
+   "n_sources": 2,
+   "ts": 1791492214,
    "articles": [
     {
-     "title": "Bear kills man in home attack near Mongolian capital",
-     "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "South Africa protests turn violent amid rage over asylum ruling",
+     "link": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "South Africa: Anti-migrant protests turn violent",
+     "link": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Local",
-   "summary": "A bear entered a traditional nomadic dwelling near Ulaanbaatar, Mongolia, killing a man and severely injuring a woman.",
-   "why": "A fatal wildlife encounter is an isolated local incident with minimal societal consequence.",
-   "impact": 4.0,
+   "scale": "National",
+   "summary": "Violent anti-migrant protests erupted in Johannesburg's Soweto and Durban following a court ruling on asylum. Several cars were torched and foreign-run businesses were forced to close.",
+   "why": "Escalating xenophobic civil unrest threatens public safety, migrant livelihoods, and domestic stability in major South African economic centers.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.3
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "UN human rights chief Volker Türk declared that the legacies of slavery and colonialism continue to drive racism against Africans and people of African descent. He called for urgent measures to provide reparatory justice beyond mere financial compensation.",
+   "why": "It elevates high-level international institutional pressure on member states to implement systemic reparatory frameworks for historical injustices.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791374400,
+   "articles": [
+    {
+     "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168547",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Russian health authorities notified the WHO that there are no cases of plague in Siberia. The clarification follows reports of a lab technician dying from pneumonia of an unknown origin.",
+   "why": "Official confirmation helps quell regional biosecurity and infectious disease panic following an unexplained laboratory worker fatality.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
   }
  ]
 }
