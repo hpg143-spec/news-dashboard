@@ -1,4 +1,461 @@
 {
- "updated": "2026-10-09T12:04:56.963431Z",
- "events": []
+ "updated": "2026-10-09T15:10:00.007371Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791475892,
+   "articles": [
+    {
+     "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+     "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Ethiopian government forces launched drone attacks against Eritrean troops that crossed into the Tigray region. The strikes risk triggering a broader regional war beyond Ethiopia's internal conflicts.",
+   "why": "Active military strikes between sovereign armed forces in Tigray risk plunging the wider Horn of Africa into full-scale interstate conflict.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791548698,
+   "articles": [
+    {
+     "title": "Firing squad execution to be livestreamed, Pentagon says",
+     "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Pentagon announced that an execution by firing squad will be public and livestreamed. Legal experts noted the decision is unprecedented and rests on uncertain legal footing.",
+   "why": "Publicly broadcasting a state execution establishes an unprecedented legal and penal norm in the United States.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791555110,
+   "articles": [
+    {
+     "title": "Ethiopia and Eritrea accuse one another of launching war",
+     "link": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Ethiopia and Eritrea have accused each other of initiating warfare. Eritrea denied supporting the TPLF while Ethiopia alleged collusion, worsening tensions between the nations.",
+   "why": "Renewed conflict between Ethiopia and Eritrea threatens widespread destabilization and humanitarian crises in the Horn of Africa.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791552664,
+   "articles": [
+    {
+     "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+     "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The European Union announced support for 46 strategic projects, including lithium and rare earths plants, in an effort to avert an imminent trade crisis with China. Industry commissioner Stéphane Séjourné stated the bloc is taking extensive measures to secure critical mineral supplies.",
+   "why": "It represents a major industrial policy shift to reduce European reliance on Chinese critical minerals and fortify supply chains.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791557580,
+   "articles": [
+    {
+     "title": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
+     "link": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The United States announced new sanctions aimed at dismantling the International Criminal Court. This action represents the latest move by the Trump administration against the intergovernmental body.",
+   "why": "Targeting an international court with unilateral sanctions undermines global legal institutions and multilateral accountability.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791515220,
+   "articles": [
+    {
+     "title": "Ukraine, Europe, US to meet in Miami for talks on ending war",
+     "link": "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Representatives from Ukraine, Europe, and the U.S. are gathering in Miami to negotiate pathways to end the war. The discussions follow recent Russian strikes across Ukraine that killed over 70 people.",
+   "why": "Multilateral diplomatic talks among key Western and Ukrainian officials directly influence the trajectory and potential resolution of the war.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791449077,
+   "articles": [
+    {
+     "title": "Former ambassador on NATO's meeting in Ukraine and the ongoing war",
+     "link": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Military delegates from all 32 NATO member states gathered in Kyiv for an in-person meeting. Former U.S. Ambassador Kurt Volker discussed the gathering and the broader ongoing conflict.",
+   "why": "The unprecedented presence of all 32 NATO military representatives in Kyiv demonstrates direct multilateral security backing for Ukraine.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791546289,
+   "articles": [
+    {
+     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A doctor accused of participating in the 1994 Rwandan genocide will stand trial in the United Kingdom. Dr Vincent Brown allegedly served as a supervisor and leader of violent acts during the genocide.",
+   "why": "It reinforces international universal jurisdiction mechanisms to hold suspected war criminals accountable.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791482656,
+   "articles": [
+    {
+     "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+     "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+     "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+     "source": "NPR World"
+    },
+    {
+     "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
+     "link": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "Former Venezuelan President Nicolás Maduro and his wife have been indicted in the U.S. on charges of conspiracy to commit torture. The accusations involve the alleged torture of U.S. citizens detained in Venezuela during his rule.",
+   "why": "Direct criminal indictments against a foreign former head of state heighten diplomatic confrontation and legal exposure for state leaders.",
+   "impact": 6.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791552728,
+   "articles": [
+    {
+     "title": "Hurricane Isaias intensifies en route to US Gulf Coast",
+     "link": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
+     "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Hurricane Isaias has strengthened and is moving toward the US Gulf Coast, having reached Category 2 status. The approaching storm has already disrupted oil and gas production in the Gulf of Mexico.",
+   "why": "Severe storms pose immediate threats to coastal communities and disrupt critical energy infrastructure.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791546399,
+   "articles": [
+    {
+     "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+     "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia reopened Riyadh airport following a Houthi attack that left three people dead. The incident is part of a recent series of strikes targeting Saudi airports.",
+   "why": "Direct fatal strikes on major civilian aviation hubs threaten regional transportation links and escalate the Yemen conflict.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791554460,
+   "articles": [
+    {
+     "title": "Saudi coalition vows 'firm' response after airport attack kills 3",
+     "link": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia and allied forces in Yemen pledged a firm response after a Houthi attack on Riyadh airport killed three Saudi nationals. Authorities emphasized that civilian infrastructure was targeted.",
+   "why": "Retaliatory pledges by the Saudi coalition raise the likelihood of escalated military operations across the region.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791548332,
+   "articles": [
+    {
+     "title": "ICE agent shoots man in New York City",
+     "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "An ICE agent shot a man in New York City during an arrest operation, according to the Department of Homeland Security. New York's mayor expressed outrage over the incident.",
+   "why": "Federal law enforcement shootings in major cities heighten local-federal jurisdictional tensions and community scrutiny.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791534537,
+   "articles": [
+    {
+     "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Anti-migrant violence in South Africa led to the torching of cars and looting of shops. The country has seen recurrent waves of hostility targeted at migrants from neighbouring nations.",
+   "why": "Xenophobic violence threatens civilian security, damages economic livelihoods, and harms regional diplomatic relations.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791550381,
+   "articles": [
+    {
+     "title": "Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia",
+     "link": "https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Malaysia shuts schools amid toxic haze from Indonesian fires",
+     "link": "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Malaysia closed schools due to hazardous smoke drifting from forest fires in Indonesia. Air quality in Kuala Lumpur reached unhealthy levels on the Air Pollutant Index.",
+   "why": "Transboundary haze significantly affects public health, education, and regional diplomatic relations across Southeast Asia.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791434707,
+   "articles": [
+    {
+     "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+     "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "South Korea stated it will take legal action if fuel shipments from its ports to Russia violated domestic law. The government is currently investigating the matter following a report revealing thousands of tonnes of fuel were transported.",
+   "why": "Enforcement actions could disrupt sanctions evasion routes and escalate diplomatic tensions in Northeast Asia.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791545700,
+   "articles": [
+    {
+     "title": "France promises 3,000 extra teachers in first step to calm student protests",
+     "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Local Civic",
+   "scale": "National",
+   "summary": "France has offered to hire 3,000 extra teachers to appease protesting high school students. The measure follows a wave of demonstrations that have occasionally turned violent.",
+   "why": "Government concessions directly impact national education budgets and seek to de-escalate civil unrest.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791548580,
+   "articles": [
+    {
+     "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
+     "link": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Local Civic",
+   "scale": "National",
+   "summary": "New Delhi was heavily barricaded with police checkpoints and transit cancellations ahead of planned protests against the head of India's Election Commission. Transport disruptions include train and metro cancelations across the capital.",
+   "why": "Mass protests and broad transit shutdowns challenge the credibility of electoral management in the world's most populous nation.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
