@@ -1,110 +1,26 @@
 {
- "updated": "2026-10-10T06:11:30.736169Z",
+ "updated": "2026-10-10T09:08:22.134986Z",
  "events": [
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791611013,
+   "ts": 1791582647,
    "articles": [
     {
-     "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
-     "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The United States hosted productive trilateral negotiations aimed at ending the war between Russia and Ukraine. US envoy Steve Witkoff stated the initiative focuses on achieving a lasting peace ahead of winter.",
-   "why": "Trilateral diplomatic peace talks hold immense potential impact for global security, energy stability, and humanitarian relief.",
-   "impact": 7.8,
-   "under_radar": true,
-   "gap": 0.68
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791460800,
-   "articles": [
-    {
-     "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168550",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "A UNDP report found that ongoing conflict, displacement, economic disruption, and climate shocks have caused a simultaneous collapse of shelter, healthcare, schooling, and livelihoods in Myanmar. The compounding crises currently affect millions of individuals across the country.",
-   "why": "Highlights the broad collapse of essential socioeconomic systems affecting millions in an active conflict zone.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1791604610,
-   "articles": [
-    {
-     "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+     "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
+     "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Hurricane Isaias makes landfall in Florida",
-     "link": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
-     "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
-     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "Hurricane Isaias has made landfall in Florida with life-threatening conditions. Severe impacts from the storm are anticipated across Florida, Alabama, Georgia, and Louisiana.",
-   "why": "A major hurricane making landfall poses immediate danger to human life, extensive property damage, and multi-state economic disruption.",
-   "impact": 6.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791460800,
-   "articles": [
-    {
-     "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Over 700,000 displaced people in Tawila, Darfur, face acute shortages of healthcare, food, water, and protection. The WHO has called for an urgent increase in resources as the UN Security Council extended sanctions in Sudan.",
-   "why": "Underlines a critical humanitarian and health crisis threatening hundreds of thousands of displaced people amid conflict.",
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "JD Vance expressed skepticism regarding the planned firing squad execution of Nidal Hasan. If carried out, it would mark the first US military execution in over six decades.",
+   "why": "The resumption of US military executions after 60 years sets a major legal and executive precedent.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
@@ -127,107 +43,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Ukrainian strikes on Russian data centers have disrupted digital services operated by Russian tech firm Yandex. The company acknowledged that customers may face service interruptions as a result.",
-   "why": "Direct military strikes causing digital service disruptions to a nation's primary tech infrastructure signal an escalating physical-to-cyber warfare front.",
+   "summary": "Ukrainian strikes on Russian data centers have disrupted digital services for search engine Yandex. The company acknowledged ongoing disruptions to its online operations.",
+   "why": "Direct kinetic strikes degrading a nation's core internet infrastructure demonstrate evolving cyber-physical warfare capabilities.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791608929,
-   "articles": [
-    {
-     "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-     "link": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Taiwanese President Lai Ching-te announced an increase in defense spending designed to deter potential military conflict. He affirmed a commitment to peace and freedom, asserting that aggression in the Taiwan Strait will not be tolerated.",
-   "why": "Strategic military spending announcements in the Taiwan Strait directly influence regional stability and deterrence among global powers.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791460800,
-   "articles": [
-    {
-     "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168551",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Taliban authorities are arresting, detaining, and threatening Afghan women and girls over dress code enforcement, according to the UN. These detentions coincide with record numbers of returning refugees trying to resettle in Afghanistan.",
-   "why": "Documents intensifying systemic oppression and human rights violations impacting women amid severe refugee return pressures.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791546289,
-   "articles": [
-    {
-     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Dr Vincent Brown is set to stand trial in the UK over alleged offenses during the 1994 Rwandan genocide. He is accused of having supervised or led violent acts during the start of the genocide.",
-   "why": "The legal prosecution of international genocide crimes in foreign domestic courts enforces universal accountability mechanisms.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791534537,
-   "articles": [
-    {
-     "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-     "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Anti-migrant violence broke out in South Africa, leading to torched cars and looted businesses. Such outbreaks have repeatedly targeted migrants arriving from neighbouring countries.",
-   "why": "Xenophobic civil unrest causes direct physical harm, economic destruction, and regional diplomatic strain.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
   },
   {
    "pre": 5,
@@ -247,59 +67,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "State",
-   "summary": "Death row inmate Christa Pike experienced a major health recovery after surviving an execution attempt by lethal injection. Her attorneys described her turnaround as remarkable in an update on her condition.",
-   "why": "A surviving inmate following a botched capital punishment attempt raises critical Eighth Amendment and procedural execution questions.",
-   "impact": 5.2,
+   "summary": "Christa Pike experienced a significant health recovery after surviving a botched lethal injection execution. Her legal team reported her condition has improved following the failed attempt.",
+   "why": "Botched executions challenge legal protocols and constitutional standards surrounding cruel and unusual punishment.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791547200,
-   "articles": [
-    {
-     "title": "Amid heartache of Nepal flooding disaster, fear remains",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168561",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "National",
-   "summary": "Six weeks after deadly flooding, communities in Nepal continue to struggle to rebuild their lives. UNICEF reports that sustained aid is needed as climate change raises the likelihood of future Himalayan disasters.",
-   "why": "Highlights ongoing humanitarian vulnerability and recovery deficits in climate-vulnerable Himalayan communities.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791582647,
-   "articles": [
-    {
-     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-     "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "JD Vance expressed doubt regarding the planned firing squad execution of Nidal Hasan and stated he will not watch it. If carried out, Hasan's execution would be the first US military execution in over 60 years.",
-   "why": "The resumption of US military executions after six decades carries notable legal and procedural precedent.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
+   "gap": 0.48
   },
   {
    "pre": 5,
@@ -319,8 +91,104 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "The UAE's attorney-general alleges a Flydubai co-pilot was attempting to crash an aircraft into Tel Aviv's airport. Officials stated the attacker began drifting toward extremism and terrorism while in Australia.",
-   "why": "Allegations of an attempted suicide crash into an international airport have serious aviation security and geopolitical counterterrorism implications.",
+   "summary": "The UAE's attorney-general alleges a Flydubai co-pilot radicalized in Australia attempted to crash a plane into Tel Aviv's airport.",
+   "why": "An attempted terror attack involving commercial aviation and a major international airport carries severe security and geopolitical ramifications.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791546289,
+   "articles": [
+    {
+     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Dr Vincent Brown is set to stand trial in the UK over alleged leadership in the 1994 Rwandan genocide. He faces charges of supervising violent acts during the conflict.",
+   "why": "Demonstrates the application of universal jurisdiction to prosecute historic crimes against humanity.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791538249,
+   "articles": [
+    {
+     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "OpenAI researchers stated they were dismissed for prioritizing safety concerns. OpenAI countered that the firings resulted from mishandling sensitive company information.",
+   "why": "Conflicts over AI safety governance at leading frontier labs carry major implications for global technological regulation.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791534537,
+   "articles": [
+    {
+     "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Anti-migrant violence in South Africa resulted in torched vehicles and looted shops. Such outbreaks regularly target migrants from neighboring nations.",
+   "why": "Recurrent xenophobic violence threatens regional stability, public safety, and economic security.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791591192,
+   "articles": [
+    {
+     "title": "US immigration officials defend ICE agents who shot man in same car as child",
+     "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "US immigration officials defended ICE agents who shot Oscar Belgal while a child was in the same vehicle. Belgal survived and is being held in a detention facility outside New York.",
+   "why": "Scrutiny of federal law enforcement use of deadly force near minors impacts civil rights and immigration policy debates.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
@@ -343,122 +211,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "French Education Minister Edouard Geffray announced an offer of 3,000 additional teachers to ease tensions following demonstrations by high-school students. The move comes after days of protests that were sometimes violent.",
-   "why": "A commitment of thousands of state educational jobs directly impacts public sector spending and labor capacity.",
+   "summary": "France's education minister promised 3,000 additional teachers to address demonstrations by high-school students. The move follows days of protests that occasionally turned violent.",
+   "why": "A significant policy and workforce concession by the French government in response to civil unrest.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791538249,
-   "articles": [
-    {
-     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "Terminated OpenAI researchers claim they were dismissed for prioritizing safety concerns. OpenAI countered that the staff were fired for mishandling sensitive information.",
-   "why": "Internal conflict over AI safety versus corporate oversight at a leading tech firm influences systemic governance of artificial intelligence.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "USGS Quakes"
-   ],
-   "n_sources": 1,
-   "ts": 1791611945,
-   "articles": [
-    {
-     "title": "M 6.0 - 7 km N of La Tronosa, Panama",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
-     "source": "USGS Quakes"
-    },
-    {
-     "title": "M 6.6 - 14 km W of Río Grande, Panama",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
-     "source": "USGS Quakes"
-    },
-    {
-     "title": "M 5.8 - 1 km S of El Cacao, Panama",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
-     "source": "USGS Quakes"
-    },
-    {
-     "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-     "source": "USGS Quakes"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "A magnitude 6.6 earthquake struck western Panama at a depth of 10 km, receiving a Yellow PAGER alert. Secondary tremors measuring 6.0 and 5.8 magnitude were also recorded in nearby areas.",
-   "why": "A shallow, significant earthquake that triggered a Yellow PAGER alert indicates localized infrastructure damage and potential casualties.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791609912,
-   "articles": [
-    {
-     "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-     "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Thousands of security personnel have been deployed in Delhi ahead of a planned protest. Several trains to the city have been canceled and dozens of metro stations shut to prevent protesters from gathering.",
-   "why": "Major transit shutdowns and massive security deployments significantly disrupt daily operations and mobility in India's capital.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791591192,
-   "articles": [
-    {
-     "title": "US immigration officials defend ICE agents who shot man in same car as child",
-     "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "US immigration officials defended ICE agents who shot 28-year-old Oscar Belgal while he was in a car with a child. Belgal survived the shooting and is detained outside New York.",
-   "why": "Federal law enforcement use of deadly force involving bystanders sparks civil rights scrutiny and policy debate.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
   }
  ]
 }
