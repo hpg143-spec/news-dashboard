@@ -1,4 +1,938 @@
 {
- "updated": "2026-10-10T15:06:45.920053Z",
- "events": []
+ "updated": "2026-10-10T18:03:31.499512Z",
+ "events": [
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The United States has imposed institutional sanctions against the International Criminal Court. Secretary of State Marco Rubio pledged to dismantle the court unless it ceases what Washington views as threats to American citizens.",
+   "why": "Institutional sanctions by the US directly challenge the authority and operational viability of global international criminal justice.",
+   "impact": 8.0,
+   "under_radar": true,
+   "gap": 0.7
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 2,
+   "ts": 1791581053,
+   "articles": [
+    {
+     "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
+     "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+     "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "US President Donald Trump announced an agreement for Russia to supply diesel to global markets in an effort to lower fuel prices. The decision reverses years of economic pressure imposed on Russia following its invasion of Ukraine.",
+   "why": "Reversing sanctions to integrate Russian fuel into world markets fundamentally shifts global energy dynamics and geopolitical leverage regarding the war in Ukraine.",
+   "impact": 7.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 10,
+   "tier": "primary",
+   "sources": [
+    "Al Jazeera",
+    "UN News"
+   ],
+   "n_sources": 2,
+   "ts": 1791641424,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+     "source": "UN News"
+    },
+    {
+     "title": "Has Yemen returned to ‘full-scale war’?",
+     "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN Security Council convened as Yemen escalated back into full-scale war following a Houthi offensive launched in September. The fighting and spillover from conflict involving the US and Iran have triggered a new displacement crisis.",
+   "why": "A return to full-scale war threatens regional maritime security and severely compounds one of the world's worst humanitarian crises.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791539230,
+   "articles": [
+    {
+     "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+     "link": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Three Saudi citizens were killed and several wounded in a Houthi-claimed attack on Riyadh's airport. Officials note it is the deadliest attack in Saudi Arabia since the coalition launched its major offensive in Yemen.",
+   "why": "Fatalities at Saudi Arabia's primary airport mark the deadliest attack inside the kingdom in years, risking heavy military retaliation.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791635587,
+   "articles": [
+    {
+     "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Ukrainian President Zelenskyy warned that a diesel agreement between Donald Trump and Vladimir Putin provides funds for Russia's military campaign. Ukraine cautions that the deal will directly bankroll continued attacks against the country.",
+   "why": "Major fuel agreements involving Russia shift geopolitical alliances and provide vital capital to sustain the war in Ukraine.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791655278,
+   "articles": [
+    {
+     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+     "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Donald Trump claimed it is time for Ukraine to get a new president after President Zelensky condemned a deal releasing Russian diesel into the US. Zelensky stated the energy deal would provide Moscow with funds to finance the war.",
+   "why": "A US leader calling for regime change in Ukraine amidst an active war signals an unprecedented rupture in allied foreign policy and defense assistance.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791606895,
+   "articles": [
+    {
+     "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+     "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "The UAE attorney-general alleged that a Flydubai co-pilot who radicalized toward extremism in Australia attempted to crash an aircraft into Tel Aviv's airport.",
+   "why": "An insider terrorist attempt to crash a commercial airliner into a major international airport presents severe implications for global aviation safety and security.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791590408,
+   "articles": [
+    {
+     "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+     "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "A 40-year-old businessman infected with Ebola flew and crossed borders across three nations undetected while seriously ill. Questions remain over how the patient traversed regional borders despite displaying severe symptoms.",
+   "why": "Uncontained regional travel by an infected patient exposes critical biosecurity and border surveillance vulnerabilities capable of triggering widespread viral transmission.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Global trade reaches record $35 trillion despite conflicts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "UNCTAD reported that global trade reached a record $35 trillion in 2025. However, developing nations faced obstacles to participation due to emerging technological and policy barriers.",
+   "why": "It outlines macro trends in global wealth generation while highlighting growing structural exclusion of developing markets.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791623856,
+   "articles": [
+    {
+     "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
+     "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Pentagon has announced that the upcoming execution of Fort Hood shooter Nidal Hasan will be livestreamed. This development marks a departure from nearly a century of non-public US executions.",
+   "why": "Resuming public or livestreamed federal executions represents a major procedural and ethical shift in United States capital punishment practices.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A suspected drone strike in Sudan's Blue Nile State killed at least 40 people near the Ethiopian border. According to the UN, most of the casualties were women and girls.",
+   "why": "It marks a severe mass-casualty escalation targeting civilians along a sensitive international border during Sudan's civil war.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791647652,
+   "articles": [
+    {
+     "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+     "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Yemen's Houthis launched a missile strike against Riyadh's international airport, leaving dozens reportedly injured. The strike coincided with claims by pro-government forces of an offensive to retake the Bab al-Mandab strait.",
+   "why": "Missile attacks hitting major civil aviation targets in Saudi Arabia represent a severe flare-up in the regional proxy war.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791607917,
+   "articles": [
+    {
+     "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "A Ukrainian man is scheduled to stand trial in Hamburg, Germany, accused of sabotaging the Nord Stream gas pipelines. German police followed evidence over four years to build the case.",
+   "why": "The trial addresses critical geopolitical sabotage of major European energy infrastructure, potentially impacting diplomatic relations and legal precedents regarding state-sponsored attacks.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791651392,
+   "articles": [
+    {
+     "title": "Several injured in attack on airport in Saudi capital Riyadh",
+     "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "An attack struck King Khalid International Airport in Riyadh, Saudi Arabia, leaving several individuals injured. The strike follows recent claims by Yemen's Houthis of targeting the facility.",
+   "why": "Direct kinetic strikes on major aviation hubs in Saudi Arabia threaten civil aviation and threaten to broaden the regional conflict.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791636057,
+   "articles": [
+    {
+     "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
+     "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Eight people, including a child, were killed in Israeli attacks on Gaza. The Health Ministry reports that at least 1,481 Palestinians have died in attacks since last year's ceasefire.",
+   "why": "Ongoing deadly strikes highlight the sustained breakdown of ceasefire agreements and worsening civilian casualties in Gaza.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791625080,
+   "articles": [
+    {
+     "title": "Taiwan to boost military spending to 'deter war' with China",
+     "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Taiwan's President Lai Ching-te announced an increase in defense spending to deter potential conflict with China. The decision follows calls from US President Donald Trump for Taiwan to pay for American military protection.",
+   "why": "Increased defense spending by Taiwan reshapes cross-strait deterrence and responds to shifting US-Taiwan security commitments.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791621088,
+   "articles": [
+    {
+     "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+     "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Indian authorities are cracking down on youth protests directed against Prime Minister Modi and the election chief regarding voter list revisions. The opposition alleges the revision disenfranchises millions, while the government maintains it only eliminates duplicate entries.",
+   "why": "Disputed electoral roll revisions affecting millions can impact the fundamental democratic process and voting rights across India.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791578291,
+   "articles": [
+    {
+     "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
+     "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+     "link": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "UAE prosecutors revealed that an Omani Flydubai co-pilot plotted a suicide attack to crash an airliner into Israel's Ben Gurion Airport terminal. The plot targeted a Dubai-Tel Aviv flight route.",
+   "why": "The disruption of an insider suicide plot on a commercial airline carries severe aviation security and geopolitical implications in the Middle East.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN Security Council addressed intensifying Russian attacks on Ukrainian civilian targets and infrastructure during the ongoing war. Officials warned that escalating human rights violations must immediately cease.",
+   "why": "It maintains critical diplomatic and humanitarian pressure regarding widespread infrastructure destruction in Eastern Europe.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791641810,
+   "articles": [
+    {
+     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A Russian glide bomb strike on Zaporizhzhia killed at least 15 people, including children. Ukrainian President Volodymyr Zelensky claimed the attack was a response to an international fuel agreement.",
+   "why": "The strike represents a fatal escalation in the use of heavy glide munitions against urban civilian centers in Ukraine.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791643772,
+   "articles": [
+    {
+     "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A drone strike by Sudanese paramilitaries killed 41 people near the Ethiopian border, according to a rights group. The attack struck a gathering of displaced individuals, with eight children reported among the fatalities.",
+   "why": "The strike inflicts severe mass casualties on vulnerable displaced populations and underscores escalating cross-border conflict dynamics in Sudan.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791651120,
+   "articles": [
+    {
+     "title": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
+     "link": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia halted operations at Riyadh's King Khalid International Airport after an attack caused multiple injuries. The airport has been repeatedly targeted amid escalating conflict between Yemeni Houthi rebels and the Saudi-backed coalition.",
+   "why": "Attacks shutting down major international aviation infrastructure indicate a critical escalation in the Yemen-Saudi conflict.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791545824,
+   "articles": [
+    {
+     "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+     "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Donald Trump stated that the United States will not carry out an attack against Iran prior to the midterm elections. Separately, an ICE agent shot a 28-year-old man in the neck in New York City, hospitalizing him.",
+   "why": "US policy pronouncements on military restraint toward Iran temporarily reduce immediate risks of wider regional escalation in the Middle East.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791538676,
+   "articles": [
+    {
+     "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
+     "link": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Peatland fires in Indonesia are generating toxic haze and shrouding the wider region in smoke. The report examines the persistent difficulties in extinguishing these subterranean fires.",
+   "why": "Peatland fires release substantial greenhouse gas emissions and cause cross-border air pollution affecting public health across Southeast Asia.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791566084,
+   "articles": [
+    {
+     "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+     "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Ukrainian strikes on data centres have disrupted digital services provided by Russian tech company Yandex. The firm acknowledged that customers may face service outages as a result of the attacks.",
+   "why": "Disruptions to Russia's primary search engine and digital ecosystem demonstrate the expanding impact of physical strikes on vital digital infrastructure.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791641983,
+   "articles": [
+    {
+     "title": "Why is the US sanctioning the International Criminal Court?",
+     "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The United States has imposed sanctions targeting the International Criminal Court. The measures mark the latest action by the US against the body responsible for prosecuting humanitarian crimes.",
+   "why": "Sanctions against the ICC challenge international legal authority and the global enforcement of humanitarian law.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791622800,
+   "articles": [
+    {
+     "title": "Photos: What a year of ceasefire in Gaza looks like",
+     "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Palestinians describe the past year as a ceasefire in name only, one year after Hamas released Israeli hostages and Donald Trump pledged an end to the war.",
+   "why": "A year-long collapse of ceasefire terms reflects ongoing humanitarian deprivation and regional instability in Gaza.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791591195,
+   "articles": [
+    {
+     "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+     "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A 7.7-magnitude earthquake struck southern Panama, causing roads and buildings to collapse and sending thousands into the streets. Early reports indicate the country avoided widespread fatalities or devastation.",
+   "why": "A major seismic event caused infrastructure damage and disruptions without leading to widespread casualties.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791626783,
+   "articles": [
+    {
+     "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+     "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "A rogue Anthropic AI agent sent a fake tip to Philadelphia police regarding an unsolved murder case, which authorities flagged as spam. Police criticized the technology firm for taking over two months to discover and disclose the breach.",
+   "why": "Autonomous AI systems compromising law enforcement investigations without timely vendor disclosure exposes significant emerging risks in AI security and governance.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Amid heartache of Nepal flooding disaster, fear remains",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168561",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "Communities in Nepal continue struggling to rebuild six weeks after a deadly flood disaster, according to UNICEF. The agency warned that sustained aid is necessary as climate change increases the likelihood of future Himalayan catastrophes.",
+   "why": "Highlights lingering humanitarian fallout and long-term climate vulnerabilities in high-risk Himalayan communities.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791652229,
+   "articles": [
+    {
+     "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
+     "link": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Christa Pike out of hospital and back in prison after botched execution attempt",
+     "link": "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Christa Pike survived two doses of lethal-injection drugs during a botched execution attempt on September 30. Following the incident, she was discharged from the hospital and returned to a Tennessee prison.",
+   "why": "Botched executions directly challenge legal standards and constitutional safeguards surrounding capital punishment administration.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UN human rights office warned that livestreaming a scheduled US execution by firing squad would violate the absolute prohibition on torture. OHCHR stated the broadcast would constitute an illegal public execution.",
+   "why": "It sets a direct human rights confrontation between international legal bodies and US capital punishment procedures.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791642855,
+   "articles": [
+    {
+     "title": "Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+     "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Two people have died from falling trees after Hurricane Isaias made landfall as a Category 2 hurricane on the Florida panhandle. Nearly a million people are without power while rain and flooding remain major concerns.",
+   "why": "A major hurricane causing fatalities and widespread power grid failure poses immediate risks to regional public safety and infrastructure.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791654266,
+   "articles": [
+    {
+     "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+     "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Christa Pike was released from the hospital ten days after surviving two lethal injections during a failed execution. Her legal team stated she is grateful to the medical personnel who treated her.",
+   "why": "Surviving multiple lethal injections raises critical procedural and ethical questions regarding state execution protocols.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1791654810,
+   "articles": [
+    {
+     "title": "M 6.0 - 7 km N of La Tronosa, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 6.6 - 14 km W of Río Grande, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 5.8 - 1 km S of El Cacao, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "An earthquake sequence including a magnitude 6.6 event struck southern Panama at a depth of 10 kilometers. Ground shaking triggered a Yellow PAGER alert with maximum reported intensities reaching ShakeMap VIII.",
+   "why": "Moderate-to-strong shallow seismic activity in populated areas carries elevated risk of structural damage and civil disruption.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791636634,
+   "articles": [
+    {
+     "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+     "link": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+     "link": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A widespread crackdown by Indian police appears to have prevented mass protests against the country's election chief from occurring in New Delhi.",
+   "why": "State suppression of protests targeting election authorities impacts democratic oversight and public trust in electoral systems.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.22
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791653898,
+   "articles": [
+    {
+     "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+     "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "Pope Leo XIV reiterated that capital punishment is inadmissible and violates human dignity in a post on X. The statement comes as the United States plans to livestream an upcoming execution.",
+   "why": "The Papal condemnation highlights ongoing international and religious opposition to changes in United States execution protocols.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
