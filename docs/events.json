@@ -1,4 +1,375 @@
 {
- "updated": "2026-10-09T21:13:25.909459Z",
- "events": []
+ "updated": "2026-10-10T00:07:08.944555Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791521630,
+   "articles": [
+    {
+     "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+     "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Russian strikes targeting Ukrainian energy and power infrastructure, alongside approaching winter conditions, have prompted residents to evacuate Kyiv. The renewed infrastructure attacks are complicating living conditions in the capital.",
+   "why": "Targeted infrastructure degradation ahead of winter causes large-scale civilian displacement and threatens essential urban survival systems.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Over 700,000 displaced individuals in Tawila, Darfur, face acute shortages of healthcare, food, water, and protection. The WHO has issued an urgent call for expanded resources amid ongoing conflict in Sudan.",
+   "why": "A massive population of displaced persons faces life-threatening shortages of fundamental humanitarian necessities.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "A UNDP report found that years of conflict, displacement, economic crisis, and climate shocks have caused a collapse of shelter, healthcare, education, and livelihoods in Myanmar. The compounding crises currently impact millions of residents.",
+   "why": "Documents severe multi-sectoral institutional and economic collapse impacting millions across Myanmar.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791569706,
+   "articles": [
+    {
+     "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+     "link": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "More than 100 humanitarian and human rights NGOs issued a statement warning that the Gaza ceasefire exists in name only. The groups cited continuing killings and severe restrictions imposed by Israel across the enclave.",
+   "why": "Highlights the failure of a ceasefire framework impacting the humanitarian conditions of an entire conflict zone.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791554460,
+   "articles": [
+    {
+     "title": "Saudi coalition vows 'firm' response after airport attack kills 3",
+     "link": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Saudi Arabia and allied forces vowed a firm response after a Houthi attack on Riyadh airport killed three Saudi nationals. Authorities condemned the continued targeting of civilian infrastructure.",
+   "why": "A deadly strike on a major international capital airport threatens to escalate the regional conflict between Saudi Arabia and Houthi forces.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1791590081,
+   "articles": [
+    {
+     "title": "M 6.6 - 14 km W of Río Grande, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 5.8 - 1 km S of El Cacao, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A major earthquake sequence, including a magnitude 7.7 event at a depth of 10 km, struck Panama near Pitaloza Arriba. The event triggered a Yellow PAGER alert and experienced ShakeMap intensity VIII.",
+   "why": "A shallow magnitude 7.7 earthquake presents significant risks of structural damage and casualties in affected regions.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UN reported that Afghan women and girls are facing arrest, detention, and threats from Taliban authorities over dress codes. This enforcement occurs alongside record numbers of refugees returning to the country.",
+   "why": "Details ongoing systematic repression of women's rights in Afghanistan compounded by a major refugee reintegration crisis.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791576804,
+   "articles": [
+    {
+     "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+     "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The UAE Attorney General announced that a Flydubai co-pilot plotted a suicide attack on Israel. Authorities stated the suspect admitted to acting alone and had prepared psychologically and physically.",
+   "why": "Involves a disrupted commercial aviation insider plot targeting another sovereign state.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791534537,
+   "articles": [
+    {
+     "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Anti-migrant violence in South Africa has resulted in torched cars and looted businesses. The country continues to face recurrent episodes of violence directed at migrants from neighbouring nations.",
+   "why": "Recurrent xenophobic violence threatens regional stability, migrant livelihoods, and national internal security.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791546289,
+   "articles": [
+    {
+     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "International",
+   "summary": "Dr Vincent Brown is set to stand trial in the UK over allegations of leading violent acts during the 1994 Rwandan genocide. He is accused of serving as a leader or supervisor of violent offences during the onset of the mass killings.",
+   "why": "It tests international universal jurisdiction mechanisms for prosecuting historical crimes against humanity.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Amid heartache of Nepal flooding disaster, fear remains",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168561",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "Six weeks after a deadly flooding disaster in Nepal, communities are still struggling to rebuild. UNICEF warned that sustained assistance is necessary as global warming elevates the risk of future Himalayan disasters.",
+   "why": "Highlights the prolonged recovery challenges and escalating climate vulnerabilities in the Himalayan region.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791511785,
+   "articles": [
+    {
+     "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+     "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Lawyers for death-row inmate Christa Pike reported a remarkable health recovery after she survived a botched lethal injection. Her legal team provided an update on her condition following the failed execution attempt.",
+   "why": "Failed executions raise serious constitutional questions regarding cruel and unusual punishment and the protocols of capital punishment.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791563606,
+   "articles": [
+    {
+     "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+     "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Border tensions are increasing along NATO's eastern flank as Latvia and Lithuania experience security challenges linked to Belarus. Experts warn that a surge in border crossings could occur.",
+   "why": "Signals heightened geopolitical and border friction between NATO members and Belarus.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791538249,
+   "articles": [
+    {
+     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Dismissed OpenAI researchers claim their terminations were due to prioritising safety concerns. OpenAI stated that the employees were removed for mishandling sensitive company information.",
+   "why": "Internal conflicts over safety protocols at frontier AI companies directly influence the governance and development pace of artificial intelligence.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791545700,
+   "articles": [
+    {
+     "title": "France promises 3,000 extra teachers in first step to calm student protests",
+     "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "France's Education Minister Edouard Geffray announced plans to add 3,000 teachers to address high-school student protests. The concession follows multiple days of demonstrations that were occasionally violent.",
+   "why": "The allocation of 3,000 public education positions directly impacts national schooling resources and public unrest.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
