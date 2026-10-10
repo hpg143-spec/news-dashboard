@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-10T00:07:08.944555Z",
+ "updated": "2026-10-10T03:09:03.675053Z",
  "events": [
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 4,
+   "ts": 1791593151,
+   "articles": [
+    {
+     "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+     "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
+     "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+     "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Donald Trump announced an agreement to release Russian diesel to US and world markets amid high fuel prices. Ukrainian President Zelensky criticized the deal as an investment that prolongs the war.",
+   "why": "A US-Russia energy deal fundamentally reshapes the global sanctions regime and the geopolitical landscape of the Ukraine war.",
+   "impact": 7.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 10,
+   "tier": "primary",
+   "sources": [
+    "Al Jazeera",
+    "UN News"
+   ],
+   "n_sources": 2,
+   "ts": 1791579361,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+     "source": "UN News"
+    },
+    {
+     "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+     "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A UN envoy warned that Yemen has returned to full-scale war following a September Houthi offensive. The escalation alongside spillover from the US-Iran war has triggered a new displacement crisis.",
+   "why": "A return to full-scale war reignites widespread humanitarian suffering and threatens broader Middle Eastern regional stability.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791559483,
+   "articles": [
+    {
+     "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+     "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Eritrean troops in Ethiopia raise fears of a regional war",
+     "link": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Truckloads of Eritrean troops crossed the border into Ethiopia, leading Ethiopia to warn it will defend itself and reportedly conduct drone strikes. The incursions have heightened fears of a broader regional conflict.",
+   "why": "Direct military engagement between Ethiopia and Eritrea risks expanding into an interstate war across the Horn of Africa.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791553825,
+   "articles": [
+    {
+     "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+     "link": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi missile attacks on Riyadh airport killed three Saudi nationals. The strike marks an escalation in hostilities between the Iran-backed group and Saudi Arabia.",
+   "why": "Lethal strikes targeting major Saudi infrastructure threaten critical transport hubs and regional ceasefire efforts.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
   {
    "pre": 5,
    "tier": "wire",
@@ -8,22 +140,148 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791521630,
+   "ts": 1791590408,
    "articles": [
     {
-     "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-     "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+     "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+     "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Russian strikes targeting Ukrainian energy and power infrastructure, alongside approaching winter conditions, have prompted residents to evacuate Kyiv. The renewed infrastructure attacks are complicating living conditions in the capital.",
-   "why": "Targeted infrastructure degradation ahead of winter causes large-scale civilian displacement and threatens essential urban survival systems.",
-   "impact": 6.4,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "New information reveals that an Ebola patient traveled across three countries by air and land borders undetected while seriously ill. Authorities are scrutinizing border screening procedures following the lapse.",
+   "why": "Demonstrates critical breakdowns in regional biosecurity surveillance with severe risks of uncontrolled viral transmission.",
+   "impact": 7.2,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.62
+  },
+  {
+   "pre": 10,
+   "tier": "primary",
+   "sources": [
+    "DW",
+    "UN News"
+   ],
+   "n_sources": 2,
+   "ts": 1791557580,
+   "articles": [
+    {
+     "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+     "source": "UN News"
+    },
+    {
+     "title": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
+     "link": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The United States has imposed institutional sanctions on the International Criminal Court. Secretary of State Marco Rubio pledged to dismantle the court unless it ceases what Washington considers a threat to its citizens.",
+   "why": "Direct US sanctions against the ICC threaten the functioning and international authority of global war crimes tribunals.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791571210,
+   "articles": [
+    {
+     "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+     "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The US unveiled sanctions against the International Criminal Court, prompting condemnation as an assault on the rule of law. Several member states, including the UK, voiced strong disagreement with the measures.",
+   "why": "Sanctioning the ICC drives an acute diplomatic rift between the US and key allies regarding international legal institutions.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.48
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791578291,
+   "articles": [
+    {
+     "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
+     "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+     "link": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "UAE officials revealed that an Omani Flydubai co-pilot planned a suicide attack to crash a Dubai-Tel Aviv flight into Ben Gurion Airport's terminal.",
+   "why": "The thwarted plot exposes severe aviation security vulnerabilities and potential extremist targeting of Israel-Gulf air routes.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791591195,
+   "articles": [
+    {
+     "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+     "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+     "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+     "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A magnitude 7.7 earthquake struck Panama, causing damage to buildings. Tsunami warnings were subsequently issued for neighboring countries.",
+   "why": "A major earthquake with tsunami warnings risks extensive structural damage and loss of life across Central American coastlines.",
+   "impact": 6.6,
+   "under_radar": false,
+   "gap": 0.36
   },
   {
    "pre": 7,
@@ -43,11 +301,11 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "Over 700,000 displaced individuals in Tawila, Darfur, face acute shortages of healthcare, food, water, and protection. The WHO has issued an urgent call for expanded resources amid ongoing conflict in Sudan.",
-   "why": "A massive population of displaced persons faces life-threatening shortages of fundamental humanitarian necessities.",
-   "impact": 6.2,
+   "summary": "Over 700,000 displaced people in Tawila, Darfur, face critical shortages of healthcare, food, water, and protection. The WHO has called for an urgent surge in resources amid the ongoing crisis.",
+   "why": "Mass displacement and severe resource deprivation in Darfur threaten hundreds of thousands of vulnerable lives.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.56
   },
   {
    "pre": 7,
@@ -67,11 +325,59 @@
    "skip": false,
    "category": "Economy",
    "scale": "National",
-   "summary": "A UNDP report found that years of conflict, displacement, economic crisis, and climate shocks have caused a collapse of shelter, healthcare, education, and livelihoods in Myanmar. The compounding crises currently impact millions of residents.",
-   "why": "Documents severe multi-sectoral institutional and economic collapse impacting millions across Myanmar.",
-   "impact": 6.2,
+   "summary": "A UNDP report revealed that prolonged conflict, displacement, economic shocks, and climate events have caused a simultaneous collapse of shelter, healthcare, schooling, and livelihoods in Myanmar. The multifaceted crisis affects millions across the country.",
+   "why": "The institutional breakdown threatens basic survival and economic viability for millions across Myanmar.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791521630,
+   "articles": [
+    {
+     "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+     "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Renewed Russian strikes targeting energy infrastructure have caused Kyiv residents to prepare to leave ahead of winter.",
+   "why": "Threatens critical winter power availability for millions, potentially driving a major domestic displacement crisis.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A suspected drone strike in Sudan's Blue Nile State near the Ethiopian border killed at least 40 people. According to UN officials, the majority of casualties were women and girls.",
+   "why": "Mass civilian casualties from drone warfare worsen the humanitarian catastrophe in Sudan's conflict zones.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -91,32 +397,32 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "More than 100 humanitarian and human rights NGOs issued a statement warning that the Gaza ceasefire exists in name only. The groups cited continuing killings and severe restrictions imposed by Israel across the enclave.",
-   "why": "Highlights the failure of a ceasefire framework impacting the humanitarian conditions of an entire conflict zone.",
-   "impact": 6.2,
+   "summary": "More than 100 non-governmental organizations stated that the Gaza ceasefire exists in name only. The groups cited ongoing killings by Israel and sustained operational restrictions across the enclave.",
+   "why": "A collective denunciation by over 100 aid groups indicates the severe failure of truce terms and ongoing humanitarian peril.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.54
   },
   {
    "pre": 7,
-   "tier": "wire",
+   "tier": "primary",
    "sources": [
-    "DW"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1791554460,
+   "ts": 1791547200,
    "articles": [
     {
-     "title": "Saudi coalition vows 'firm' response after airport attack kills 3",
-     "link": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "Saudi Arabia and allied forces vowed a firm response after a Houthi attack on Riyadh airport killed three Saudi nationals. Authorities condemned the continued targeting of civilian infrastructure.",
-   "why": "A deadly strike on a major international capital airport threatens to escalate the regional conflict between Saudi Arabia and Houthi forces.",
+   "summary": "The UN Security Council convened to address escalating violence and recent Russian attacks on civilian targets and infrastructure in Ukraine. The meeting highlighted growing human rights violations in the ongoing war.",
+   "why": "Heightened attacks on vital civilian infrastructure deepen Ukraine's humanitarian and energy crises.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
@@ -128,7 +434,7 @@
     "USGS Quakes"
    ],
    "n_sources": 1,
-   "ts": 1791590081,
+   "ts": 1791600826,
    "articles": [
     {
      "title": "M 6.6 - 14 km W of Río Grande, Panama",
@@ -148,12 +454,120 @@
    ],
    "skip": false,
    "category": "Environment",
+   "scale": "Regional",
+   "summary": "A major earthquake sequence, including a magnitude 7.7 event near Pitaloza Arriba, struck Panama at a shallow depth of 10 km. Shaking reached severe intensity (ShakeMap VIII) with a yellow PAGER alert.",
+   "why": "A shallow magnitude 7.7 earthquake poses significant risks of structural damage and casualties in affected regions.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791601080,
+   "articles": [
+    {
+     "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Hurricane Isaias makes landfall in Florida",
+     "link": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
+     "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Hurricane Isaias made landfall in Florida with life-threatening conditions. Severe impacts are projected to extend across Alabama, Georgia, and Louisiana.",
+   "why": "A major hurricane landfall across multiple US states poses immediate threats to life, property, and regional infrastructure.",
+   "impact": 6.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791566084,
+   "articles": [
+    {
+     "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+     "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Russian search engine Yandex announced customers may face digital service disruptions following Ukrainian strikes on its data centres.",
+   "why": "Shows the expansion of Ukrainian strike capabilities directly impacting major Russian civilian and corporate digital infrastructure.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
    "scale": "National",
-   "summary": "A major earthquake sequence, including a magnitude 7.7 event at a depth of 10 km, struck Panama near Pitaloza Arriba. The event triggered a Yellow PAGER alert and experienced ShakeMap intensity VIII.",
-   "why": "A shallow magnitude 7.7 earthquake presents significant risks of structural damage and casualties in affected regions.",
+   "summary": "UN human rights chief Volker Türk reported that a wave of Russian attacks killed civilians across Ukraine over four days.",
+   "why": "Sustained attacks on civilian population centers reflect ongoing severe human rights violations in the Russia-Ukraine war.",
    "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Global trade reaches record $35 trillion despite conflicts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "UNCTAD reported that global trade reached a record $35 trillion in 2025. However, developing nations faced barriers to economic participation due to new technological and policy hurdles.",
+   "why": "The milestone tracks global macroeconomic expansion while highlighting growing technological and policy disparities for developing nations.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 7,
@@ -173,11 +587,59 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "The UN reported that Afghan women and girls are facing arrest, detention, and threats from Taliban authorities over dress codes. This enforcement occurs alongside record numbers of refugees returning to the country.",
-   "why": "Details ongoing systematic repression of women's rights in Afghanistan compounded by a major refugee reintegration crisis.",
-   "impact": 5.6,
+   "summary": "The UN reported that Afghan women and girls face ongoing arrests, detention, and threats over dress codes from Taliban authorities. This crack-down coincides with record numbers of returning refugees trying to rebuild their lives.",
+   "why": "It documents intensified enforcement against civil liberties targeting women during a major refugee return crisis.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791538249,
+   "articles": [
+    {
+     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Fired OpenAI researchers stated they were terminated for prioritizing safety, while OpenAI claimed they were dismissed for mishandling sensitive information.",
+   "why": "Reflects deep internal divisions and governance disputes over safety standards within leading frontier AI development organizations.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791547200,
+   "articles": [
+    {
+     "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UN human rights office warned that livestreaming a planned US execution by firing squad would amount to a public execution. The agency stated that this would breach the absolute prohibition on torture.",
+   "why": "It marks an international legal intervention against unprecedented methods of broadcasting capital punishment in the US.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
   },
   {
    "pre": 7,
@@ -186,22 +648,22 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791576804,
+   "ts": 1791590400,
    "articles": [
     {
-     "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-     "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+     "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "The UAE Attorney General announced that a Flydubai co-pilot plotted a suicide attack on Israel. Authorities stated the suspect admitted to acting alone and had prepared psychologically and physically.",
-   "why": "Involves a disrupted commercial aviation insider plot targeting another sovereign state.",
-   "impact": 5.6,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The Kremlin stated that the US president welcomed Russian involvement in diplomatic efforts to reach a settlement regarding Iran.",
+   "why": "Cooperation or dialogue between major powers regarding Iran has direct implications for Middle Eastern stability and nuclear diplomacy.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.42
   },
   {
    "pre": 5,
@@ -221,35 +683,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Anti-migrant violence in South Africa has resulted in torched cars and looted businesses. The country continues to face recurrent episodes of violence directed at migrants from neighbouring nations.",
-   "why": "Recurrent xenophobic violence threatens regional stability, migrant livelihoods, and national internal security.",
+   "summary": "Anti-migrant violence broke out in South Africa, resulting in torched vehicles and looted shops. The clashes follow recurring historic patterns of attacks targeting foreign nationals.",
+   "why": "Threatens regional migrant safety and risks worsening xenophobic civil instability across urban centers.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.42
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791546289,
-   "articles": [
-    {
-     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "International",
-   "summary": "Dr Vincent Brown is set to stand trial in the UK over allegations of leading violent acts during the 1994 Rwandan genocide. He is accused of serving as a leader or supervisor of violent offences during the onset of the mass killings.",
-   "why": "It tests international universal jurisdiction mechanisms for prosecuting historical crimes against humanity.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
   },
   {
    "pre": 7,
@@ -269,11 +707,107 @@
    "skip": false,
    "category": "Environment",
    "scale": "National",
-   "summary": "Six weeks after a deadly flooding disaster in Nepal, communities are still struggling to rebuild. UNICEF warned that sustained assistance is necessary as global warming elevates the risk of future Himalayan disasters.",
-   "why": "Highlights the prolonged recovery challenges and escalating climate vulnerabilities in the Himalayan region.",
+   "summary": "Six weeks after deadly flooding in Nepal, communities continue to struggle to rebuild. UNICEF reported that sustained assistance is necessary as global warming elevates the risk of subsequent disasters.",
+   "why": "It highlights an ongoing humanitarian recovery challenge compounded by rising climate vulnerability in Nepal.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791576804,
+   "articles": [
+    {
+     "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+     "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The UAE Attorney General announced that a Flydubai co-pilot admitted to acting alone in plotting a suicide attack against Israel. The suspect reportedly prepared both physically and psychologically for the operation.",
+   "why": "A thwarted plot involving commercial aviation personnel against a foreign state raises critical aviation security and diplomatic concerns.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791546289,
+   "articles": [
+    {
+     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Dr. Vincent Brown is set to stand trial in the UK over alleged offenses during the 1994 Rwandan genocide. He is accused of serving as a leader or supervisor of violent acts during the conflict.",
+   "why": "Marks a significant development in universal jurisdiction and international accountability for historic genocide charges.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791582647,
+   "articles": [
+    {
+     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+     "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "JD Vance has expressed doubts regarding the planned execution of Nidal Hasan by firing squad, stating he will not watch it. If carried out, it would represent the first U.S. military execution in over 60 years.",
+   "why": "It touches on precedent-setting military capital punishment protocols and high-level political scrutiny of military justice executions.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The UN called for accelerated climate action ahead of the COP31 summit in Türkiye. The call comes amid record-breaking heat, devastating floods, and an unprecedented El Niño pattern.",
+   "why": "It emphasizes intensifying climate disruptions ahead of major international policy negotiations.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
   },
   {
    "pre": 5,
@@ -293,11 +827,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "State",
-   "summary": "Lawyers for death-row inmate Christa Pike reported a remarkable health recovery after she survived a botched lethal injection. Her legal team provided an update on her condition following the failed execution attempt.",
-   "why": "Failed executions raise serious constitutional questions regarding cruel and unusual punishment and the protocols of capital punishment.",
-   "impact": 4.8,
+   "summary": "Lawyers for death-row inmate Christa Pike reported a remarkable turnaround in her condition after she survived a botched lethal injection. Her legal team provided an update on her health recovery.",
+   "why": "Highlights severe systemic execution protocol failures that carry substantial constitutional and legal consequences.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.38
+   "gap": 0.36
   },
   {
    "pre": 7,
@@ -306,43 +840,19 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791563606,
+   "ts": 1791591772,
    "articles": [
     {
-     "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-     "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
+     "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+     "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "Border tensions are increasing along NATO's eastern flank as Latvia and Lithuania experience security challenges linked to Belarus. Experts warn that a surge in border crossings could occur.",
-   "why": "Signals heightened geopolitical and border friction between NATO members and Belarus.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791538249,
-   "articles": [
-    {
-     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "National",
-   "summary": "Dismissed OpenAI researchers claim their terminations were due to prioritising safety concerns. OpenAI stated that the employees were removed for mishandling sensitive company information.",
-   "why": "Internal conflicts over safety protocols at frontier AI companies directly influence the governance and development pace of artificial intelligence.",
+   "summary": "An Israeli drone strike near the Syrian border in Lebanon injured six people, including five Syrians and one Lebanese national. The figures were confirmed by Lebanese health authorities.",
+   "why": "Cross-border strikes risk further regional military escalation and civilian harm.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
@@ -363,10 +873,106 @@
     }
    ],
    "skip": false,
+   "category": "Local Civic",
+   "scale": "National",
+   "summary": "France's education minister promised 3,000 additional teachers to address ongoing, sometimes violent student demonstrations. The commitment serves as a first step to de-escalate nationwide high-school protests.",
+   "why": "Represents significant public policy concessions and public sector hiring prompted by nationwide civil unrest.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791591192,
+   "articles": [
+    {
+     "title": "US immigration officials defend ICE agents who shot man in same car as child",
+     "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "France's Education Minister Edouard Geffray announced plans to add 3,000 teachers to address high-school student protests. The concession follows multiple days of demonstrations that were occasionally violent.",
-   "why": "The allocation of 3,000 public education positions directly impacts national schooling resources and public unrest.",
+   "summary": "U.S. immigration officials defended ICE agents who shot 28-year-old Oscar Belgal while a child was in the vehicle. Belgal survived the shooting and is currently detained outside New York.",
+   "why": "Involves public accountability and use of lethal force practices by federal immigration enforcement.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 13,
+   "tier": "primary",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "NPR World",
+    "The Guardian World",
+    "UN News"
+   ],
+   "n_sources": 5,
+   "ts": 1791581159,
+   "articles": [
+    {
+     "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168558",
+     "source": "UN News"
+    },
+    {
+     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+     "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+     "source": "NPR World"
+    },
+    {
+     "title": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
+     "link": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Global",
+   "summary": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was announced as the winner of the 2026 Nobel Peace Prize.",
+   "why": "It confers the world's most prestigious peace honor on a veteran international jurist, spotlighting human rights advocacy.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": -0.1
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791460800,
+   "articles": [
+    {
+     "title": "‘Age must never diminish rights,’ UN independent expert warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "A UN independent expert warned that older women worldwide experience violence, exploitation, and neglect. The expert noted they remain largely absent from protective laws, policies, data, and services.",
+   "why": "It underscores a systemic policy gap in international legal and welfare protections for an aging demographic.",
    "impact": 4.0,
    "under_radar": false,
    "gap": 0.3
