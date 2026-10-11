@@ -1,6 +1,184 @@
 {
- "updated": "2026-10-11T18:08:28.643008Z",
+ "updated": "2026-10-11T21:07:22.113952Z",
  "events": [
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791675447,
+   "articles": [
+    {
+     "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+     "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+     "source": "NPR World"
+    },
+    {
+     "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+     "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "A surge in attacks against Saudi airports, military facilities, and oil infrastructure followed a major offensive by a Saudi-led coalition against the Houthis.",
+   "why": "Attacks targeting critical oil and transit infrastructure risk broader international military intervention and global energy disruption.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791744477,
+   "articles": [
+    {
+     "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+     "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The economic impact and inflationary pressures of war and high debt are set to dominate IMF-World Bank meetings in Bangkok.",
+   "why": "Macroeconomic instability and conflict-driven inflation directly affect global monetary policy and development financing.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791743142,
+   "articles": [
+    {
+     "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Palestinians are fleeing Israeli attacks in Gaza. Panicked residents continue to evacuate affected areas.",
+   "why": "Ongoing military assaults and displacement in Gaza pose severe humanitarian risks and exacerbate regional instability.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791738890,
+   "articles": [
+    {
+     "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israel is pushing its 'Yellow Line' deeper into the Gaza Strip.",
+   "why": "Redrawing or advancing security boundaries inside Gaza alters territorial control and directly impacts displaced populations.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791750526,
+   "articles": [
+    {
+     "title": "Zelenskyy welcomes US-announced energy ceasefire",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+     "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+     "link": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+     "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+     "source": "The Guardian World"
+    },
+    {
+     "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+     "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "President Zelenskyy responded to Donald Trump's announcement that Russia and Ukraine agreed to an energy ceasefire.",
+   "why": "A ceasefire on energy infrastructure could halt the widespread destruction of critical power grids affecting millions of civilians.",
+   "impact": 6.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791751457,
+   "articles": [
+    {
+     "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+     "link": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "An air strike struck a gold mine near the Sudan-Egypt border, killing at least 72 people and injuring more than 50.",
+   "why": "A massive mass-casualty strike on economic infrastructure highlights dangerous military spillover near international borders.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
+  },
   {
    "pre": 5,
    "tier": "wire",
@@ -18,12 +196,95 @@
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "State",
-   "summary": "Pakistani President Asif Ali Zardari has imposed emergency rule on Khyber Pakhtunkhwa, effectively suspending its provincial government. The northwestern province is a key political stronghold run by former Prime Minister Imran Khan's PTI party.",
-   "why": "It marks a significant constitutional and political escalation that disenfranchises an elected provincial government and risks widespread unrest.",
+   "scale": "National",
+   "summary": "Pakistani President Asif Ali Zardari has suspended the provincial government of Khyber Pakhtunkhwa under emergency rule. The province is governed by former Prime Minister Imran Khan's PTI party.",
+   "why": "Suspending an opposition-led provincial government sharpens national political conflict and threatens federal stability.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791741802,
+   "articles": [
+    {
+     "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+     "source": "The Guardian World"
+    },
+    {
+     "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+     "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi strikes targeted Riyadh airport, damaging Saudi Arabia's reputation for stability despite repairable physical damage.",
+   "why": "Direct strikes on the Saudi capital's primary aviation hub threaten critical transportation infrastructure and escalate regional conflict.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791739855,
+   "articles": [
+    {
+     "title": "Is the Yemen war entering a new phase?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia accused Yemeni Houthis of killing 12 people and injuring 300 in an attack on King Khalid International Airport.",
+   "why": "High casualty numbers from strikes on a major international airport mark a severe escalation in regional hostilities.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791746390,
+   "articles": [
+    {
+     "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+     "link": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "A Republican senator warned that US President Trump's bid to lower diesel prices by easing sanctions on Russia may be illegal.",
+   "why": "Disputes over easing sanctions on Russia touch on legal limits of executive power, international sanctions enforcement, and global fuel markets.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
    "pre": 5,
@@ -41,13 +302,73 @@
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Health",
    "scale": "Regional",
-   "summary": "A migrant boat sank off the coast of Djibouti en route to Yemen, leaving at least 139 people confirmed dead and 84 missing. According to the UN migration agency, 15 children died and at least 80 Ethiopians survived.",
-   "why": "It involves a catastrophic loss of human life along a major irregular migration corridor.",
-   "impact": 5.6,
+   "summary": "A migrant boat heading to Yemen sank off the coast of Djibouti, leaving at least 139 dead and 84 missing according to the UN. The casualties include 15 children, while at least 80 Ethiopians survived.",
+   "why": "Mass casualty events along dangerous migration routes highlight severe ongoing humanitarian and border control crises.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791739644,
+   "articles": [
+    {
+     "title": "Poland detains man suspected of planning assassination of PM Tusk",
+     "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Poland arrests man over plot to kill PM Donald Tusk",
+     "link": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Donald Tusk says man accused of plotting to kill him detained",
+     "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Polish police detained a man suspected of plotting attacks against Prime Minister Donald Tusk and his defence minister following credible information.",
+   "why": "Credible assassination plots against top national leadership threaten political stability in a key NATO frontline state.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.28
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791745020,
+   "articles": [
+    {
+     "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+     "link": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Russia announced a military battalion formed of Ukrainian 'volunteers'. However, veterans and former prisoners of war offer conflicting accounts regarding the nature of the unit.",
+   "why": "Coercion or recruitment of prisoners of war into combat units violates international humanitarian norms.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 5,
@@ -66,12 +387,200 @@
    ],
    "skip": false,
    "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Germany's foreign minister reaffirmed full support for Ukrainian President Volodymyr Zelenskyy, rejecting demands from Donald Trump. Separately, the CEO of Deutsche Bank warned that rising political extremism is deterring investors.",
-   "why": "It demonstrates continued European diplomatic and strategic divergence from US political rhetoric regarding the war in Ukraine.",
+   "scale": "Global",
+   "summary": "Germany's foreign minister reaffirmed full support for Ukraine's president and rejected a demand from Donald Trump. Concurrently, Deutsche Bank's CEO warned that rising political extremism is deterring investors.",
+   "why": "Germany's refusal to shift its Ukraine policy counters emerging US political pressure and maintains European strategic alignment.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791703260,
+   "articles": [
+    {
+     "title": "Germany's population is shrinking, but not everywhere",
+     "link": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Projections indicate Germany will have an older population, fewer workers, and a smaller overall populace by 2045. However, certain competitive regions are expected to buck the declining demographic trend.",
+   "why": "Long-term demographic contraction strains labor markets, pension systems, and regional economic balances.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791729490,
+   "articles": [
+    {
+     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+     "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Ukraine struck a data centre belonging to Russian tech giant Yandex, forcing the company to suspend operations in its third targeted attack this week.",
+   "why": "Attacks directly disrupting major digital infrastructure demonstrate the expanding physical scope of wartime targeting against vital civilian and dual-use tech services.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791644335,
+   "articles": [
+    {
+     "title": "Woman injures three people in third Poland school knife attack in a week",
+     "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A woman injured three people in the third school knife attack in Poland within a week, prompting police deployments.",
+   "why": "A rapid cluster of violent attacks in schools presents an immediate challenge to public safety and educational institution security.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1791752113,
+   "articles": [
+    {
+     "title": "M 6.0 - 7 km N of La Tronosa, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 6.6 - 14 km W of Río Grande, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 5.8 - 1 km S of El Cacao, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A magnitude 6.6 earthquake struck western Panama at a shallow depth of 10.00 km, triggering a yellow PAGER alert.",
+   "why": "Shallow, strong earthquakes pose direct risks of structural damage and local casualties.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791734448,
+   "articles": [
+    {
+     "title": "At least five people missing as flash floods in Nepal sweep away houses",
+     "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "Flash floods in central Nepal have swept away houses, leaving at least five people missing. Authorities have urged villagers to relocate to safer areas after a river burst its banks.",
+   "why": "Natural disasters cause immediate displacement, destruction of housing, and loss of life.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791704700,
+   "articles": [
+    {
+     "title": "Surrogacy in Georgia is booming, but at what cost?",
+     "link": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Georgia has developed a rapidly growing surrogacy industry since the start of Russia's full-scale invasion of Ukraine in 2022. The boom has introduced complex personal and financial costs for parents and surrogates.",
+   "why": "Geopolitical displacement can rapidly reshape international medical tourism and reproductive labor markets.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791738369,
+   "articles": [
+    {
+     "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
+     "link": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Tour bus crash in Turkiye leaves at least 11 dead",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A tour bus collision with a truck on a highway in western Turkiye killed 11 people and injured 27. Police have detained the tour bus driver.",
+   "why": "A fatal traffic collision causes severe loss of life and injuries locally.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
   }
  ]
 }
