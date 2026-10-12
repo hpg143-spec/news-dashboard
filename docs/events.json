@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:08:16.989687Z",
+ "updated": "2026-10-12T12:13:31.541229Z",
  "events": [
   {
    "pre": 5,
@@ -8,70 +8,22 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791756506,
+   "ts": 1791803822,
    "articles": [
     {
-     "title": "At least 72 Sudanese miners killed in air strike: Rights monitor",
-     "link": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "An air strike in northern Sudan has killed at least 72 miners, according to a rights monitor. The legal group Emergency Lawyers blamed Egypt for conducting the deadly attack.",
-   "why": "Allegations of foreign airstrikes killing dozens of workers in Sudan could trigger major diplomatic and cross-border conflict escalations.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791771081,
-   "articles": [
-    {
-     "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-     "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+     "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "An attack on King Khalid International Airport in Riyadh killed one Pakistani national and injured 11 people. This marks the latest strike targeting the Saudi capital's airport.",
-   "why": "Direct strikes causing casualties at a major international aviation hub escalate regional security risks and disrupt commercial transport networks.",
-   "impact": 6.6,
+   "summary": "New footage confirms a Houthi strike targeted Riyadh's airport. Saudi Arabia stated it remains resilient following the attack.",
+   "why": "Direct strikes on the capital's commercial airport represent a serious escalation in regional conflict dynamics and civil aviation vulnerability.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791763200,
-   "articles": [
-    {
-     "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Riyadh airport was struck again as Iran described a US diplomatic reply as 'inadequate'. Iran noted the US had accepted some of its peace terms amid the ongoing conflict.",
-   "why": "Ongoing kinetic strikes combined with stalled diplomatic negotiations heighten the danger of expanded interstate war in the Middle East.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
+   "gap": 0.6
   },
   {
    "pre": 5,
@@ -80,448 +32,142 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791760846,
+   "ts": 1791797232,
    "articles": [
     {
-     "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+     "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
+     "link": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Saudi authorities reported that a second Houthi strike on Riyadh's airport killed a Pakistani national and injured several others. The attack marks another direct strike against the facility.",
-   "why": "Direct, lethal strikes against a major international aviation hub threaten civil aviation and invite military escalation.",
+   "summary": "Israel has restricted access to 65 percent of the Gaza Strip, confining 2.1 million residents into the remaining area one year into a ceasefire.",
+   "why": "Confining over two million people into severely reduced territory drastically worsens living conditions and displacement pressures.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791794801,
+   "articles": [
+    {
+     "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
+     "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "More than 1.4 million individuals face acute food shortages across Gaza as humanitarian aid volumes fail to cover baseline survival needs.",
+   "why": "Widespread acute malnutrition presents an imminent threat of mass mortality and irreversible long-term health crises.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791760400,
+   "articles": [
+    {
+     "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "An investigation by BBC Africa Eye revealed that mourners killed by Kenyan police at a memorial for Raila Odinga were not involved in violence. The findings were based on an analysis of roughly 1,500 videos and images showing victims were far from clashes.",
+   "why": "It provides evidence of unlawful lethal force by state security forces against peaceful citizens, raising accountability issues.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791795265,
+   "articles": [
+    {
+     "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
+     "link": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Pakistan's federal government has assumed control of Khyber Pakhtunkhwa province through governor rule, displacing the administration governed by Imran Khan's PTI.",
+   "why": "Imposing federal emergency rule over an opposition-led province substantially alters Pakistan's constitutional balance and domestic political stability.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791794863,
+   "articles": [
+    {
+     "title": "Russia introduces drone classes in public schools",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Russian public schools have added drone assembly and flight instruction to the mandatory national education curriculum.",
+   "why": "Integrating military-relevant technology into primary education systematically militarizes civilian schooling across an entire nation.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
   },
   {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791729490,
-   "articles": [
-    {
-     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-     "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Ukraine struck a data centre belonging to Russian tech giant Yandex in its third attack on the company this week. The strike forced Yandex to suspend its operations.",
-   "why": "Targeting core digital infrastructure marks an expansion of Ukraine's kinetic strikes against critical Russian technology and commercial services.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791777656,
-   "articles": [
-    {
-     "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Ethiopian government forces entered Adigrat in northern Tigray near the Eritrean border. The advance occurred after rebel fighters withdrew from the area.",
-   "why": "Territorial shifts near the Eritrean border significantly alter the military balance and humanitarian landscape in the volatile Tigray conflict.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1791724982,
-   "articles": [
-    {
-     "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-     "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "A missile strike on Riyadh's King Khalid International Airport has challenged the US administration's regional strategy regarding conflicts in Iran and Yemen. The escalation complicates US efforts to sideline those conflicts.",
-   "why": "Escalating cross-border missile strikes directly undermine US strategic posture and diplomatic negotiations across the Middle East.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
    "pre": 5,
    "tier": "wire",
    "sources": [
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791760725,
+   "ts": 1791732743,
    "articles": [
     {
-     "title": "Trump faces growing backlash over plans to import diesel from Russia",
-     "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+     "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+     "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "US lawmakers from both major parties have criticized plans to import diesel from Russia ahead of the US midterm elections. The proposed deal faces growing bipartisan backlash.",
-   "why": "Importing Russian energy would fundamentally break US sanctions policy and reshape global fuel trade dynamics.",
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "At least 139 people, including children, died after an overcrowded boat carrying 305 individuals capsized off the coast of Djibouti. The vessel was en route to Yemen when the accident occurred near Obock.",
+   "why": "Represents a massive loss of life along a dangerous migration corridor.",
    "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791774551,
-   "articles": [
-    {
-     "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "At least 139 migrants, including 15 children, died and 84 remain missing after a boat capsized. The vessel was traveling along the route from Djibouti to Yemen.",
-   "why": "The mass drowning highlights the severe, ongoing loss of life along dangerous maritime migration routes.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791765548,
-   "articles": [
-    {
-     "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
-     "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Iran's foreign minister urged diplomacy during a phone call with his Saudi counterpart. Tehran offered to facilitate negotiations between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom.",
-   "why": "Iranian diplomatic mediation could potentially de-escalate cross-border missile exchanges and reshape regional security dynamics.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791752102,
-   "articles": [
-    {
-     "title": "Watch: What's behind Trump's energy ceasefire claim?",
-     "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The US president announced an energy ceasefire in a social media post. The claim reportedly surprised Ukraine, while Russia has not yet commented.",
-   "why": "Unilateral ceasefire announcements regarding critical energy infrastructure directly affect the trajectory of the Russia-Ukraine war and global energy markets.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1791794827,
-   "articles": [
-    {
-     "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-     "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
-     "link": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "UK politics live: Tories accuse Burnham of being ‘dangerous and divisive’ after he confirms Russian interference in Brexit campaign",
-     "link": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "UK Prime Minister Andy Burnham stated that Russia interfered in the 2016 Brexit referendum. This is the first public acknowledgment of such interference by a sitting UK prime minister.",
-   "why": "Official executive acknowledgment of foreign interference in a pivotal referendum impacts diplomatic relations with Russia and domestic political accountability.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.22
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1791776232,
-   "articles": [
-    {
-     "title": "North Korea fires multiple ballistic missiles towards the sea",
-     "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "North Korea fires missiles after Seoul's hypersonic test",
-     "link": "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "North Korea fired multiple ballistic missiles towards the sea following a South Korean hypersonic test. South Korea's military reported that one missile flew more than 900 kilometers.",
-   "why": "Reciprocal long-range missile tests increase escalation risks and accelerate the arms race on the Korean Peninsula.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791782842,
-   "articles": [
-    {
-     "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Heavy clashes have broken out between Houthi fighters and Yemeni forces as Houthis advance toward Taiz. The confrontations are taking place near the strategic southern city.",
-   "why": "Advances on strategic cities can shift military balances and worsen the ongoing humanitarian crisis in Yemen.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791764506,
-   "articles": [
-    {
-     "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-     "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "Hurricane Isaias caused widespread destruction across the US Gulf Coast, cutting power to hundreds of thousands of people. Cleanup operations are underway in Florida and Alabama.",
-   "why": "Widespread utility failures and infrastructure damage severely disrupt livelihoods and regional economic activity.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791781252,
-   "articles": [
-    {
-     "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "International",
-   "summary": "A BBC investigation revealed that paperwork was backdated and falsified to conceal Russian oligarch Roman Abramovich's yachts and mansions from accounts to evade taxes.",
-   "why": "Documented evidence of systemic fraud to evade sanctions and taxes drives international legal enforcement and scrutiny of offshore financial networks.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791760625,
-   "articles": [
-    {
-     "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-     "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "The US Homeland Security secretary stated he sees no risk from the decision to livestream the execution of Nidal Hasan. The move has drawn severe criticism and warnings that it could incite violence.",
-   "why": "Publicly broadcasting a federal execution sets an unprecedented legal and administrative precedent with potential public safety ramifications.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791779058,
-   "articles": [
-    {
-     "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
-     "link": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Israeli Prime Minister Netanyahu has demanded a probe into anonymous sources behind the documentary film NAZA. The film cites 24 Israeli sources alleging the military killed Palestinians in Gaza using AI systems.",
-   "why": "Allegations regarding AI-directed lethal targeting spark serious scrutiny over military transparency, whistleblowers, and warfare ethics.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791768266,
-   "articles": [
-    {
-     "title": "Bridge washed away by torrent of water in Nepal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Local",
-   "summary": "Flash floods along the Budhi Gandaki River in Nepal swept away homes and bridges. The disaster forced local residents to flee to higher ground.",
-   "why": "The destruction of critical local infrastructure leaves communities displaced and vulnerable to severe transport and supply disruptions.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1791784308,
-   "articles": [
-    {
-     "title": "Delhi police shut metro stations ahead of election protest march",
-     "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Delhi authorities closed six metro stations and issued traffic warnings as opposition groups organized demonstrations against a voter list revision. Protesters include opposition parties and youth movement supporters.",
-   "why": "Urban infrastructure closures and mass protests over disputed voter rolls threaten civil stability and electoral integrity in India's capital.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791757447,
-   "articles": [
-    {
-     "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Footage released by Al Arabiya shows the moment of a Houthi strike hitting Riyadh's international airport on Saturday.",
-   "why": "Documenting strikes on vital infrastructure highlights vulnerabilities in regional air defense networks.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
   },
   {
    "pre": 5,
@@ -540,141 +186,201 @@
    ],
    "skip": false,
    "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The United States, Australia, Canada, Japan, South Korea, and New Zealand have issued warnings advising their citizens to avoid travel to Saudi Arabia following Houthi attacks.",
+   "why": "Coordinated multi-nation travel warnings disrupt international aviation, commerce, and diplomatic engagement with Saudi Arabia.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791782842,
+   "articles": [
+    {
+     "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
    "scale": "Regional",
-   "summary": "Countries including the US, Australia, Canada, Japan, South Korea, and New Zealand have issued warnings advising citizens against travel to Saudi Arabia. These warnings follow recent Houthi attacks targeting the kingdom.",
-   "why": "Widespread travel advisories by major global powers signal escalating regional security risks and disrupt international travel and commerce.",
+   "summary": "Heavy fighting broke out between Houthi forces and Yemeni troops as Houthi units advanced toward the strategic city of Taiz.",
+   "why": "Territorial advances near a pivotal urban center threaten to destabilize critical supply routes and prolong conflict in southern Yemen.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791732752,
+   "articles": [
+    {
+     "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Houthi attacks targeted Riyadh airport, challenging Saudi Arabia's reputation for domestic stability. Although physical damage is repairable, the strikes escalate tensions in the ongoing regional conflict.",
+   "why": "Strikes on major civilian aviation hubs in Gulf capitals threaten regional security and economic confidence.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791804630,
+   "articles": [
+    {
+     "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
+     "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Yemen's Southern Giants Brigades have positioned themselves as a leading military faction combating Houthi forces.",
+   "why": "Shifts in front-line faction leadership influence the military balance and fragmentation within the Yemeni civil war.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791739644,
+   "articles": [
+    {
+     "title": "Poland detains man suspected of planning assassination of PM Tusk",
+     "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Polish police detained a man suspected of planning the assassination of Prime Minister Donald Tusk. Authorities acted on credible intelligence regarding planned attacks against Tusk and Poland's defence minister.",
+   "why": "An assassination plot against a head of government represents a critical national security threat and potential political crisis.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791786902,
+   "articles": [
+    {
+     "title": "Watch: How did Roman Abramovich's advisors help hide his wealth?",
+     "link": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "A BBC Panorama and Bureau of Investigative Journalism report revealed that Deloitte helped Russian billionaire Roman Abramovich hide his assets. The reporting exposes the advisory mechanisms used to conceal wealth.",
+   "why": "Highlights systemic vulnerabilities in professional auditing and regulatory enforcement concerning sanctions and offshore wealth.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791714842,
+   "articles": [
+    {
+     "title": "Buildings swept away as flash floods hit central Nepal",
+     "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A flash flood along the Budhi Gandaki River in central Nepal swept away multiple buildings and bridges. The disaster occurred just two months after earlier catastrophic flooding impacted the country.",
+   "why": "Severe flooding destroys essential regional infrastructure and compounds ongoing recovery crises in vulnerable areas.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791731932,
+   "articles": [
+    {
+     "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+     "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Polish Prime Minister Donald Tusk linked recent school stabbings to the online glorification of violence. The attacks resulted in one death and multiple injuries.",
+   "why": "Addresses youth violence and emerging digital safety concerns at a national policy level.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "BBC World",
-    "DW",
-    "NPR World"
+    "BBC World"
    ],
-   "n_sources": 3,
+   "n_sources": 1,
    "ts": 1791725935,
    "articles": [
     {
      "title": "Pope Leo to have surgery after lump found on lung",
      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
-     "link": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Pope Leo XIV to undergo lung surgery this week",
-     "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
-     "source": "NPR World"
     }
    ],
    "skip": false,
-   "category": "Health",
+   "category": "Other",
    "scale": "Global",
-   "summary": "Pope Leo XIV is set to undergo surgery to remove a nodule on his lung. The 71-year-old pontiff stated the lump was detected at an early stage.",
-   "why": "The health and potential incapacitation of the head of the Catholic Church has substantial implications for global church governance.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.12
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791792016,
-   "articles": [
-    {
-     "title": "India opposition plans New Delhi protest to demand election chief resign",
-     "link": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Indian opposition groups plan a protest rally in New Delhi demanding the resignation of the election chief. Thousands of security personnel have been deployed ahead of the demonstration.",
-   "why": "Growing unrest challenging electoral authorities threatens the institutional credibility and stability of the world's largest democracy.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791785264,
-   "articles": [
-    {
-     "title": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "India's main opposition Congress party announced a protest march to the Supreme Court alleging 'vote theft'. The march demands the removal of the chief election commissioner.",
-   "why": "Direct legal and street mobilization by major opposition parties against election officials indicates deepening political polarization over institutional legitimacy.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791781081,
-   "articles": [
-    {
-     "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-     "link": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "China has imposed sanctions on ministers from Paraguay and Belize. The Chinese Foreign Ministry cited national sovereignty and Taiwan separatist activities as reasons for the measures.",
-   "why": "China's diplomatic retaliation exerts economic and political pressure on the few remaining nations maintaining formal ties with Taiwan.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791758963,
-   "articles": [
-    {
-     "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "CCTV footage recorded a Russian strike hitting a residential street and grocery store in Kharkiv, Ukraine.",
-   "why": "Strikes on civilian retail infrastructure directly threaten non-combatant safety and vital urban food access.",
+   "summary": "Pope Leo will undergo surgery after a nodule was discovered on his lung. The 71-year-old pontiff stated that the growth was detected at an early stage.",
+   "why": "The health of the leader of the Catholic Church carries substantial religious and institutional implications worldwide.",
    "impact": 4.2,
    "under_radar": false,
    "gap": 0.32
