@@ -1,77 +1,101 @@
 {
- "updated": "2026-10-12T03:21:50.204807Z",
+ "updated": "2026-10-12T06:07:29.265797Z",
  "events": [
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791763200,
+   "ts": 1791756506,
    "articles": [
     {
-     "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+     "title": "At least 72 Sudanese miners killed in air strike: Rights monitor",
+     "link": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Iran stated that the US accepted some of its peace terms but termed the response inadequate, amid repeated strikes hitting Riyadh airport.",
-   "why": "Direct negotiations and ongoing missile strikes involving regional infrastructure heavily impact Middle Eastern stability and energy security.",
+   "category": "Security",
+   "scale": "National",
+   "summary": "An air strike in northern Sudan killed at least 72 Sudanese miners, according to rights monitor Emergency Lawyers. The monitor attributed the deadly attack to Egypt.",
+   "why": "Cross-border accusations of lethal strikes against civilian miners could significantly escalate regional tensions involving Egypt and Sudan.",
    "impact": 7.2,
    "under_radar": true,
    "gap": 0.62
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "The Guardian World"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791724982,
+   "ts": 1791623856,
    "articles": [
     {
-     "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-     "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-     "source": "The Guardian World"
+     "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
+     "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "A Houthi missile attack on Riyadh's King Khalid international airport has complicated US administration plans regarding conflicts in Iran and Yemen.",
-   "why": "Targeting major civil aviation hubs escalates regional conflict and challenges international strategic plans.",
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Pentagon announced that the upcoming execution of Fort Hood shooter Nidal Hasan will be livestreamed. This marks the resumption of public executions in the US after nearly a century.",
+   "why": "Livestreaming a military execution breaks a century-long precedent against public capital punishment in the United States.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791744477,
+   "ts": 1791760400,
    "articles": [
     {
-     "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-     "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "The upcoming IMF-World Bank meetings in Bangkok will focus heavily on the US-Israel conflict with Iran, high debt, and rising inflation.",
-   "why": "Global financial leaders will address sovereign debt distress and the economic fallout of escalating Middle Eastern conflict.",
-   "impact": 6.4,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A BBC Africa Eye investigation of 1,500 videos and images found that mourners killed by Kenyan police at a memorial were located far from violent scuffles.",
+   "why": "Evidence of lethal police action against non-violent attendees raises serious issues of state accountability and human rights.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791670388,
+   "articles": [
+    {
+     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+     "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Young men in Myanmar face forcible abductions to be sold into military service. The actions occur as the ruling junta engages in a war of attrition against ethnic militias and civilian resistance.",
+   "why": "Forced conscription indicates deep military distress and directly escalates human rights violations across the country.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
    "pre": 5,
@@ -89,64 +113,130 @@
     }
    ],
    "skip": false,
-   "category": "Health",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "At least 139 people, including children, died after a boat carrying 305 individuals capsized off Djibouti en route to Yemen.",
-   "why": "A major maritime disaster underscores the severe human mortality along migration routes between the Horn of Africa and the Arabian Peninsula.",
-   "impact": 6.4,
+   "summary": "A boat carrying 305 people from Djibouti to Yemen capsized near the port town of Obock on Thursday night. According to the UN, at least 139 people died, including children.",
+   "why": "It represents a mass-casualty incident highlighting extreme dangers along established East African migrant routes.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.56
   },
   {
-   "pre": 6,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
     "BBC World"
    ],
-   "n_sources": 2,
-   "ts": 1791768266,
+   "n_sources": 1,
+   "ts": 1791732752,
    "articles": [
     {
-     "title": "Homes and bridges swept away as fresh floods hit Nepal",
-     "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+     "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Bridge washed away by torrent of water in Nepal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
-     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Environment",
-   "scale": "National",
-   "summary": "Fresh floods in Nepal swept away homes and bridges. The country is still attempting to recover from floods two months prior that caused thousands of casualties.",
-   "why": "Repeated extreme flooding compounds humanitarian disasters and destroys critical transport infrastructure.",
-   "impact": 6.2,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi attacks targeted Riyadh airport, damaging Saudi Arabia's reputation for stability despite repairable physical damage.",
+   "why": "Strikes on major civil aviation infrastructure risk broader regional escalation and disruptions to critical transport hubs.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.42
+   "gap": 0.56
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791746390,
+   "ts": 1791760846,
    "articles": [
     {
-     "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
-     "link": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+     "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A second Houthi strike on Riyadh's airport killed a Pakistani national and injured several other people. Saudi authorities confirmed the casualties following the attack.",
+   "why": "Direct and fatal attacks on a major international capital airport mark an acute escalation in regional hostilities.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791774551,
+   "articles": [
+    {
+     "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A migrant boat traveling from Djibouti to Yemen capsized, leaving at least 139 people dead, including 15 children. An additional 84 passengers remain missing.",
+   "why": "The disaster represents a severe loss of life along a perilous and active regional migration corridor.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791760625,
+   "articles": [
+    {
+     "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+     "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "A Republican senator criticized President Trump's bid to lower diesel prices by easing Russian sanctions, warning the agreement may be illegal.",
-   "why": "Bipartisan pushback over executive sanctions relief could trigger legal challenges and disrupt global energy trade.",
+   "summary": "The US Homeland Security secretary stated there is no risk stemming from a decision to livestream the execution of Nidal Hasan. The move has faced severe criticism and warnings that it could incite violence.",
+   "why": "Publicly broadcasting a federal execution establishes a controversial legal precedent with potential security implications.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791714842,
+   "articles": [
+    {
+     "title": "Buildings swept away as flash floods hit central Nepal",
+     "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Flash floods along the Budhi Gandaki River swept away multiple buildings and bridges in central Nepal. The disaster comes two months after earlier catastrophic flooding impacted the country.",
+   "why": "The destruction of critical transport links and homes compounds regional vulnerability following consecutive natural disasters.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
@@ -169,32 +259,80 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Polish Prime Minister Donald Tusk linked recent school stabbing attacks, which killed one and injured others, to online glorification of violence.",
-   "why": "Violent incidents in educational institutions raise urgent national security and regulatory concerns over youth and online content.",
+   "summary": "Polish Prime Minister Donald Tusk stated that violent school stabbings were driven by the online glorification of violence. The attacks resulted in one death and several injuries.",
+   "why": "Lethal violence in schools prompts national security reviews and regulatory debate surrounding online content.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
   },
   {
-   "pre": 7,
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791660303,
+   "articles": [
+    {
+     "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+     "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Former US President Donald Trump stated that it is time for Ukraine to get a new president. He alleged that President Volodymyr Zelensky wants to make problems for the world.",
+   "why": "Rhetoric from a prominent US leader signals potential shifts in American diplomatic and military support for Ukraine.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791645827,
+   "articles": [
+    {
+     "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "Nobel peace laureate Navi Pillay called the Trump administration's sweeping sanctions on the International Criminal Court unprecedented and unacceptable.",
+   "why": "US sanctions on the ICC challenge the authority and operational independence of international judicial bodies.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
    "tier": "wire",
    "sources": [
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791748755,
+   "ts": 1791782842,
    "articles": [
     {
-     "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+     "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Saudi Arabia's health minister Fahad Aljalajel visited survivors of Saturday's deadly attack on Riyadh airport.",
-   "why": "Highlights the human toll and domestic government response to the lethal airport strike.",
+   "summary": "Heavy clashes have broken out between Houthi fighters and Yemeni forces near the strategic southern city of Taiz. The fighting comes as Houthi forces advance toward the area.",
+   "why": "An advance toward strategic cities threatens to escalate the protracted conflict in Yemen and alter territorial control.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
@@ -206,22 +344,238 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791695143,
+   "ts": 1791760725,
    "articles": [
     {
-     "title": "US justice department investigates TV networks over Trump pool coverage",
-     "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+     "title": "Trump faces growing backlash over plans to import diesel from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Both Republican and Democratic lawmakers have criticized plans to import diesel from Russia. The deal was announced weeks ahead of the US midterm elections.",
+   "why": "Importing Russian energy marks a controversial shift in US sanctions policy with significant geopolitical and domestic political ramifications.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791765548,
+   "articles": [
+    {
+     "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+     "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Iran's Foreign Minister called his Saudi counterpart to urge diplomacy following deadly strikes on Saudi Arabia. Tehran offered to facilitate discussions between Saudi Arabia and Yemen's Houthis.",
+   "why": "Diplomatic outreach between Iran and Saudi Arabia could reduce regional tensions and alter the course of the Yemeni war.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791641593,
+   "articles": [
+    {
+     "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+     "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "The US Department of Justice is investigating television networks over pool coverage decisions after the White House blocked access for several news outlets.",
-   "why": "Investigating press pool arrangements touches on federal oversight and press freedom boundaries.",
-   "impact": 5.0,
+   "summary": "Thousands of security personnel were deployed in Delhi, leading to the detention of hundreds of youth protesters from the Cockroach Janta Party. The demonstration was organized to demand electoral reforms.",
+   "why": "Mass detentions in response to youth-led demonstrations reflect state resistance to civil demands for electoral reform.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791764506,
+   "articles": [
+    {
+     "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
+     "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Hurricane Isaias caused widespread damage along the US Gulf Coast, cutting power to hundreds of thousands of people. Clean-up crews have been mobilized in Florida and Alabama to handle the aftermath.",
+   "why": "Major storm damage disrupts regional electrical infrastructure and requires significant disaster recovery resources.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791757447,
+   "articles": [
+    {
+     "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Al Arabiya released CCTV footage capturing a deadly Houthi strike on Riyadh's international airport on Saturday.",
+   "why": "Visual confirmation of strikes on major civil aviation hubs highlights severe regional security vulnerabilities.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791760431,
+   "articles": [
+    {
+     "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+     "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "American ranchers and farmers in pro-Trump states are facing surging costs weeks ahead of the midterm elections.",
+   "why": "Economic pressure on the agricultural sector can drive shifts in national trade policy and voter alignment.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791779058,
+   "articles": [
+    {
+     "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+     "link": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Israeli Prime Minister Benjamin Netanyahu has called for an investigation into the sources for the documentary NAZA. The film relies on 24 anonymous Israeli sources accusing the military of using AI systems to kill Palestinians in Gaza.",
+   "why": "Demands for probes into whistleblowers could impact military accountability and the scrutiny of AI usage in combat.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791758963,
+   "articles": [
+    {
+     "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "CCTV footage captured a Russian strike hitting a residential street and grocery store in Kharkiv, Ukraine.",
+   "why": "Ongoing strikes on civilian infrastructure in urban areas compound local humanitarian suffering and destruction.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791781252,
+   "articles": [
+    {
+     "title": "Documents falsified to evade tax on Abramovich's wealth",
+     "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "A BBC investigation found that backdated paperwork was used to falsify documents and evade taxes on Roman Abramovich's wealth. The altered paperwork also removed yachts and mansions from his accounts.",
+   "why": "The findings expose methods used by Russian oligarchs to evade international financial scrutiny and sanctions.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791781081,
+   "articles": [
+    {
+     "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+     "link": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "China has imposed sanctions on ministers from Paraguay and Belize due to their diplomatic ties with Taiwan. The Chinese Foreign Ministry cited national sovereignty and Taiwan separatist activities as justification.",
+   "why": "China continues to use targeted diplomatic and economic retaliation against officials in nations maintaining ties with Taiwan.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
   }
  ]
 }
