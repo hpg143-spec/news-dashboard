@@ -1,74 +1,289 @@
 {
- "updated": "2026-10-12T12:13:31.541229Z",
+ "updated": "2026-10-12T15:12:45.792754Z",
  "events": [
   {
-   "pre": 5,
+   "pre": 8,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "NPR World",
+    "The Guardian World"
    ],
-   "n_sources": 1,
-   "ts": 1791803822,
+   "n_sources": 2,
+   "ts": 1791757730,
    "articles": [
     {
-     "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
+     "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+     "source": "NPR World"
+    },
+    {
+     "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+     "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+     "source": "The Guardian World"
+    },
+    {
+     "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "New footage confirms a Houthi strike targeted Riyadh's airport. Saudi Arabia stated it remains resilient following the attack.",
-   "why": "Direct strikes on the capital's commercial airport represent a serious escalation in regional conflict dynamics and civil aviation vulnerability.",
-   "impact": 7.0,
+   "summary": "A projectile struck a passenger terminal at Riyadh's international airport on Sunday, marking the second consecutive day of strikes. The previous day's missile strike hit the same terminal and killed 12 people.",
+   "why": "Direct, repeated strikes on a major Gulf capital's civilian airport mark a severe escalation in regional conflict with massive aviation and security ramifications.",
+   "impact": 8.2,
    "under_radar": true,
-   "gap": 0.6
+   "gap": 0.62
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "Al Jazeera"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1791797232,
+   "ts": 1791806400,
    "articles": [
     {
-     "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
-     "link": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168574",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The UN development chief reported that multidimensional poverty has risen for the first time in 15 years, reaching 1.2 billion people. Families globally are struggling to meet their most basic needs.",
+   "why": "A reversal of a 15-year decline in global poverty signifies broad systemic failure in socioeconomic resilience affecting over a billion people.",
+   "impact": 8.0,
+   "under_radar": true,
+   "gap": 0.7
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The UN refugee agency warned that the global asylum support system is buckling, having received only $3 billion of its required $8.5 billion budget this year. The funding shortfall affects 117 million people forcibly displaced worldwide.",
+   "why": "A multi-billion dollar funding shortfall for UNHCR threatens essential aid and basic survival support for over 100 million displaced people globally.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 2,
+   "ts": 1791787317,
+   "articles": [
+    {
+     "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+     "link": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+     "source": "NPR World"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Israel has restricted access to 65 percent of the Gaza Strip, confining 2.1 million residents into the remaining area one year into a ceasefire.",
-   "why": "Confining over two million people into severely reduced territory drastically worsens living conditions and displacement pressures.",
-   "impact": 7.0,
+   "summary": "US President Donald Trump stated that Ukraine and Russia agreed to an immediate 'energy ceasefire'. Under the purported agreement, both sides would stop targeting oil refineries, power plants, and other energy infrastructure.",
+   "why": "A halt to attacks on critical energy infrastructure would significantly alter the trajectory of the war and stabilize energy supplies for millions.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.6
+   "gap": 0.54
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "NPR World"
    ],
    "n_sources": 1,
-   "ts": 1791794801,
+   "ts": 1791667973,
    "articles": [
     {
-     "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
-     "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+     "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+     "source": "NPR World"
     }
    ],
    "skip": false,
-   "category": "Health",
+   "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "More than 1.4 million individuals face acute food shortages across Gaza as humanitarian aid volumes fail to cover baseline survival needs.",
-   "why": "Widespread acute malnutrition presents an imminent threat of mass mortality and irreversible long-term health crises.",
+   "summary": "President Donald Trump is considering direct involvement in hostilities against the Houthis following an attack on Riyadh airport. The escalation follows a major military offensive launched by a Saudi-led coalition against the group.",
+   "why": "Potential direct US military intervention against the Houthis significantly raises the risk of a wider regional conflict in the Middle East.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791724982,
+   "articles": [
+    {
+     "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
+     "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "A fatal Houthi missile attack on King Khalid International Airport in Riyadh has disrupted Trump's regional foreign policy strategy. The strike marks an escalation exporting the Yemen war back into Saudi territory.",
+   "why": "Strikes on major Saudi civilian hubs undermine de-escalation efforts and risk drawing international powers into direct confrontation.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791802080,
+   "articles": [
+    {
+     "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+     "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+     "link": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The European Union officially added nearly 1,600 new sanctions targeting Russia's military-industrial complex. Meanwhile, Ukrainian President Zelenskyy accused Russia of violating an energy ceasefire brokered by Donald Trump.",
+   "why": "Massive new EU sanctions significantly expand economic pressure on Russia's defense sector amid volatile diplomatic negotiations over energy infrastructure.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791806040,
+   "articles": [
+    {
+     "title": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
+     "link": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukraine reported Russian strikes on Kharkiv less than 24 hours following Donald Trump's announcement of an 'energy ceasefire.' The Kremlin stated it would only consider a single-day ceasefire for an election.",
+   "why": "The immediate collapse of an energy truce underscores the ongoing vulnerability of critical civilian infrastructure in the war.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791805774,
+   "articles": [
+    {
+     "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+     "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia extended the suspension of all flights to and from its primary international airport following a deadly Houthi missile attack. The strike breached Saudi defenses amid recent military offensives.",
+   "why": "Repeated strikes shutting down major civil aviation infrastructure pose direct threats to regional transport corridors and energy hub stability.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791720000,
+   "articles": [
+    {
+     "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168572",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "UN Secretary-General António Guterres condemned a Houthi missile strike on Riyadh's main airport, demanding attacks cease immediately. Saudi authorities stated the attack killed 12 people and injured more than 300.",
+   "why": "A high-casualty strike on Saudi Arabia's primary aviation hub draws top-level international condemnation and heightens regional war risks.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791813175,
+   "articles": [
+    {
+     "title": "Cyber-attack like OpenAI Medicare breach ‘seems likely’ in UK, says minister",
+     "link": "https://www.theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "UK minister Kanishka Narayan warned that an AI-driven cyberattack resembling the OpenAI breach in Australia is likely or inevitable in the UK. Officials expressed concern that British cyber defenses could be bypassed by autonomous AI agents.",
+   "why": "Government acknowledgment of AI-driven vulnerabilities signals an impending overhaul of national critical infrastructure defenses.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
@@ -77,145 +292,447 @@
    "pre": 5,
    "tier": "wire",
    "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791815000,
+   "articles": [
+    {
+     "title": "Why are the Houthis striking Saudi airports?",
+     "link": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi strikes against Saudi airports represent the deadliest attacks on Saudi territory in more than a decade.",
+   "why": "Represents a major milestone in conflict escalation with direct civilian infrastructure casualties.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791760400,
+   "ts": 1791729490,
    "articles": [
     {
-     "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+     "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "An investigation by BBC Africa Eye revealed that mourners killed by Kenyan police at a memorial for Raila Odinga were not involved in violence. The findings were based on an analysis of roughly 1,500 videos and images showing victims were far from clashes.",
-   "why": "It provides evidence of unlawful lethal force by state security forces against peaceful citizens, raising accountability issues.",
+   "summary": "Ukraine carried out its third strike this week against Russian tech giant Yandex, hitting a data center. The assault forced Yandex to suspend its operations.",
+   "why": "Repeated kinetic targeting of major digital and computing infrastructure expands the scope of cross-border infrastructure warfare.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1791795265,
+   "ts": 1791815405,
    "articles": [
     {
-     "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
-     "link": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "State",
-   "summary": "Pakistan's federal government has assumed control of Khyber Pakhtunkhwa province through governor rule, displacing the administration governed by Imran Khan's PTI.",
-   "why": "Imposing federal emergency rule over an opposition-led province substantially alters Pakistan's constitutional balance and domestic political stability.",
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The Kremlin rejected a 60-day ceasefire proposed by Volodymyr Zelenskyy to facilitate presidential elections and declined to comment on a Trump-announced 'energy ceasefire.' Zelenskyy indicated the proposed energy deal was unexpected news to him.",
+   "why": "Rejection of diplomatic truce offers solidifies continued large-scale conflict and delays political processes in Ukraine.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1791794863,
+   "ts": 1791805080,
    "articles": [
     {
-     "title": "Russia introduces drone classes in public schools",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in Ukraine war | First Thing",
+     "link": "https://www.theguardian.com/us-news/2026/oct/12/first-thing-zelenskyy-blindsided-trump-announces-energy-ceasefire-ukraine-war-russia",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Russian public schools have added drone assembly and flight instruction to the mandatory national education curriculum.",
-   "why": "Integrating military-relevant technology into primary education systematically militarizes civilian schooling across an entire nation.",
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukrainian President Volodymyr Zelenskyy stated that Donald Trump's announced 'energy ceasefire' was unknown to him, reporting that Russia continues to target energy infrastructure.",
+   "why": "Diplomatic misalignment between key allies over ceasefires complicates defense coordination and civilian infrastructure protection.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
   },
   {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791817361,
+   "articles": [
+    {
+     "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+     "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Federal agents search Ilhan Omar’s home as part of criminal investigation",
+     "link": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Federal immigration agents searched the home of US Congresswoman Ilhan Omar as part of a criminal investigation. Omar is a vocal critic of President Donald Trump and has served in Congress since 2018.",
+   "why": "Federal law enforcement searches targeting an active member of Congress represent an extraordinary institutional and political escalation.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791815155,
+   "articles": [
+    {
+     "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+     "link": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Iran's IRGC is targeting vessels linked to an alleged US-UAE crude oil shuttle operating beyond the Strait of Hormuz.",
+   "why": "Direct interdiction of oil tankers in critical maritime chokepoints threatens global energy supply lines.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791720000,
+   "articles": [
+    {
+     "title": "Djibouti shipwreck: Death toll rises to 139 as 84 remain missing",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168573",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "At least 139 migrants died and 84 others remain missing after their boat capsized off the coast of Djibouti. The figures were confirmed by the International Organization for Migration.",
+   "why": "The disaster represents a major mass-casualty incident highlighting the deadly hazards on migration routes in the Horn of Africa.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791815409,
+   "articles": [
+    {
+     "title": "Fridges in French supermarkets hit by cyber attack",
+     "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "An overnight cyberattack compromised refrigeration systems across hundreds of French supermarkets. The attack spoiled millions of euros worth of fresh and frozen food.",
+   "why": "Demonstrates an emerging cyber vulnerability in physical supply chains and automated retail refrigeration systems.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791787355,
+   "articles": [
+    {
+     "title": "Indian opposition leaders march to top court to demand election chief resign",
+     "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Indian opposition leaders marched to the Supreme Court to demand the resignation of the country's election chief. The protest follows days of unrest in Delhi where police detained thousands of demonstrators.",
+   "why": "Major institutional confrontation over electoral oversight raises tensions regarding democratic integrity in the world's largest democracy.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791795346,
+   "articles": [
+    {
+     "title": "Indian opposition defies lockdown, marches to demand election chief sacking",
+     "link": "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Indian opposition parties and student groups have petitioned the Supreme Court to demand the removal of the election chief. Protesters marched despite lockdown restrictions to demand the ouster.",
+   "why": "Disputes over election oversight authorities challenge the institutional integrity and governance of the world's most populous democracy.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791797880,
+   "articles": [
+    {
+     "title": "India news: Opposition parties march to Supreme Court",
+     "link": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Opposition parties in India are holding a protest march to the Supreme Court demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+   "why": "A concerted push by opposition parties against electoral leadership threatens the stability of national election administration.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
    "pre": 5,
    "tier": "wire",
    "sources": [
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791732743,
+   "ts": 1791797883,
    "articles": [
     {
-     "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-     "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+     "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+     "link": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "At least 139 people, including children, died after an overcrowded boat carrying 305 individuals capsized off the coast of Djibouti. The vessel was en route to Yemen when the accident occurred near Obock.",
-   "why": "Represents a massive loss of life along a dangerous migration corridor.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791784425,
-   "articles": [
-    {
-     "title": "Countries warn against travel to Saudi Arabia following Houthi attacks",
-     "link": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The United States, Australia, Canada, Japan, South Korea, and New Zealand have issued warnings advising their citizens to avoid travel to Saudi Arabia following Houthi attacks.",
-   "why": "Coordinated multi-nation travel warnings disrupt international aviation, commerce, and diplomatic engagement with Saudi Arabia.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1791782842,
-   "articles": [
-    {
-     "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Heavy fighting broke out between Houthi forces and Yemeni troops as Houthi units advanced toward the strategic city of Taiz.",
-   "why": "Territorial advances near a pivotal urban center threaten to destabilize critical supply routes and prolong conflict in southern Yemen.",
+   "summary": "CCTV footage captured people taking cover as a missile struck Riyadh airport on Saturday.",
+   "why": "Direct missile impacts on commercial civilian hubs mark acute escalations in regional warfare.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1791816853,
+   "articles": [
+    {
+     "title": "M 6.0 - 7 km N of La Tronosa, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 6.6 - 14 km W of Río Grande, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 5.8 - 1 km S of El Cacao, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
+     "source": "USGS Quakes"
+    },
+    {
+     "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A magnitude 6.6 earthquake struck western Panama at a depth of 10 km, registering ShakeMap intensity VIII with a Yellow PAGER alert. Secondary tremors measuring M 6.0 and M 5.8 were also recorded.",
+   "why": "Strong, shallow earthquakes with high shaking intensity threaten local infrastructure and community safety in Panama.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791811588,
+   "articles": [
+    {
+     "title": "Azerbaijan’s hijab restrictions spark school protests and arrests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-azerbaijan-protest-sv?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Azerbaijan’s school hijab ban: What’s behind it, and what’s next?",
+     "link": "https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "New school uniform regulations in Azerbaijan barred girls wearing hijabs from attending classes, triggering public anger, protests, and arrests.",
+   "why": "Restrictions on religious dress in state schools provoke significant civil unrest and rights disputes in Azerbaijan.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1791814853,
+   "articles": [
+    {
+     "title": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
+     "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Nobel Prize in Economics goes to pair of US economists",
+     "link": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+     "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The Nobel Memorial Prize in Economic Sciences has been awarded to US economists Robert Hall and Michael Woodford. The Swedish academy noted their crisis-smoothing models are widely utilized by central banks and governments globally.",
+   "why": "Recognition of macroeconomic models highlights foundational tools that shape global monetary and fiscal crisis policies.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.24
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791804654,
+   "articles": [
+    {
+     "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+     "link": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Criticism has emerged over Donald Trump's proposed energy truce, with concerns that it aids Russian war finances amid rising consumer costs and diesel shortages.",
+   "why": "Energy market policies directly affect global fuel supply, consumer inflation, and funding flows in international conflicts.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "UN aid operation underway in Nepal following fresh floods",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "Fresh flash floods swept away homes and bridges in Nepal's central Gorkha district. The United Nations launched an aid operation to assist the affected areas.",
+   "why": "The destruction of homes and transport links compounds severe vulnerability for local populations following previous catastrophic floods.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
   },
   {
    "pre": 5,
@@ -233,13 +750,13 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "Houthi attacks targeted Riyadh airport, challenging Saudi Arabia's reputation for domestic stability. Although physical damage is repairable, the strikes escalate tensions in the ongoing regional conflict.",
-   "why": "Strikes on major civilian aviation hubs in Gulf capitals threaten regional security and economic confidence.",
-   "impact": 5.4,
+   "summary": "Houthi forces have targeted Riyadh airport with attacks. While physical damage can be repaired quickly, the strikes challenge Saudi Arabia's reputation for stability.",
+   "why": "Strikes on major international aviation infrastructure threaten regional security and economic confidence in Saudi Arabia.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.4
   },
   {
    "pre": 5,
@@ -248,22 +765,46 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791804630,
+   "ts": 1791815269,
    "articles": [
     {
-     "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
-     "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
+     "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+     "link": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Yemen's Southern Giants Brigades have positioned themselves as a leading military faction combating Houthi forces.",
-   "why": "Shifts in front-line faction leadership influence the military balance and fragmentation within the Yemeni civil war.",
-   "impact": 5.4,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Tehran is pursuing dialogue with Saudi Arabia regarding Yemen, cautioning that a military approach threatens wider regional stability.",
+   "why": "Diplomatic engagement between regional rivals could reshape the trajectory of the Yemen war.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791813657,
+   "articles": [
+    {
+     "title": "Rent-tech platforms sidestepping credit card surcharge ban with new fees and paid ‘memberships’",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/13/renters-credit-card-surcharge-ban-paid-memberships-online-property-management",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Online property management platforms are introducing new fees and paid memberships to navigate around the Reserve Bank's credit card surcharge ban. Tenants are being urged to seek free alternatives in response.",
+   "why": "Circumvention of central bank payment regulations increases financial friction and living costs for renters.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
   },
   {
    "pre": 5,
@@ -272,22 +813,46 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1791739644,
+   "ts": 1791807301,
    "articles": [
     {
-     "title": "Poland detains man suspected of planning assassination of PM Tusk",
-     "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+     "title": "Why is it so hard to fight the Houthis?",
+     "link": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Polish police detained a man suspected of planning the assassination of Prime Minister Donald Tusk. Authorities acted on credible intelligence regarding planned attacks against Tusk and Poland's defence minister.",
-   "why": "An assassination plot against a head of government represents a critical national security threat and potential political crisis.",
-   "impact": 5.2,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Iran-backed Houthi forces continue to challenge Saudi military efforts using precision strikes and guerrilla tactics.",
+   "why": "Explains persistent military dynamics driving conflict across the Arabian Peninsula.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.42
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791810943,
+   "articles": [
+    {
+     "title": "At least 20 injured in northern Israel explosion",
+     "link": "https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "An explosion caused by unexploded ordnance in northern Israel near the Lebanese border injured at least 20 people.",
+   "why": "A significant casualty event highlighting remnants of war risks in a volatile border zone.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
   },
   {
    "pre": 5,
@@ -305,82 +870,10 @@
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "Global",
-   "summary": "A BBC Panorama and Bureau of Investigative Journalism report revealed that Deloitte helped Russian billionaire Roman Abramovich hide his assets. The reporting exposes the advisory mechanisms used to conceal wealth.",
-   "why": "Highlights systemic vulnerabilities in professional auditing and regulatory enforcement concerning sanctions and offshore wealth.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791714842,
-   "articles": [
-    {
-     "title": "Buildings swept away as flash floods hit central Nepal",
-     "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
+   "category": "Economy",
    "scale": "National",
-   "summary": "A flash flood along the Budhi Gandaki River in central Nepal swept away multiple buildings and bridges. The disaster occurred just two months after earlier catastrophic flooding impacted the country.",
-   "why": "Severe flooding destroys essential regional infrastructure and compounds ongoing recovery crises in vulnerable areas.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791731932,
-   "articles": [
-    {
-     "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-     "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Polish Prime Minister Donald Tusk linked recent school stabbings to the online glorification of violence. The attacks resulted in one death and multiple injuries.",
-   "why": "Addresses youth violence and emerging digital safety concerns at a national policy level.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791725935,
-   "articles": [
-    {
-     "title": "Pope Leo to have surgery after lump found on lung",
-     "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Other",
-   "scale": "Global",
-   "summary": "Pope Leo will undergo surgery after a nodule was discovered on his lung. The 71-year-old pontiff stated that the growth was detected at an early stage.",
-   "why": "The health of the leader of the Catholic Church carries substantial religious and institutional implications worldwide.",
+   "summary": "An investigation by BBC Panorama and the Bureau of Investigative Journalism revealed that Deloitte assisted Russian billionaire Roman Abramovich in concealing his wealth.",
+   "why": "Exposes corporate complicity in offshore wealth concealment and sanctions evasion mechanisms.",
    "impact": 4.2,
    "under_radar": false,
    "gap": 0.32
