@@ -1,4 +1,269 @@
 {
- "updated": "2026-10-13T15:11:34.861874Z",
- "events": []
+ "updated": "2026-10-13T18:06:57.182513Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168574",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The number of individuals living in multidimensional poverty has reached 1.2 billion, marking an increase for the first time in 15 years. UN development leadership described the reversal as a critical global wake-up call.",
+   "why": "The first rise in global multidimensional poverty in 15 years represents a major regression in worldwide socioeconomic development.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "UNHCR has received only $3 billion of its $8.5 billion annual funding requirement, even as global displacement reaches 117 million people. Chief Barham Salih warned that the worldwide asylum support system is buckling under these severe budget shortfalls.",
+   "why": "A multi-billion dollar funding shortfall for primary refugee operations directly risks life-saving support for tens of millions of displaced individuals worldwide.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168577",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A severe El Niño drought combined with ongoing war is escalating the risk of famine across Greater Darfur and Greater Kordofan. The alert was issued on Monday by the UN-backed global hunger monitor.",
+   "why": "Famine compounded by armed conflict threatens mass starvation, severe displacement, and deep regional destabilization in Sudan.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791903119,
+   "articles": [
+    {
+     "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Bulgaria summoned the Russian ambassador after a merchant ship sank in the Black Sea following a drone attack. Six crew members were rescued while ten remain missing.",
+   "why": "Direct attacks on commercial shipping in the Black Sea heighten international maritime security risks and draw NATO member states closer to direct confrontation.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791840051,
+   "articles": [
+    {
+     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Ukrainian President Zelensky reported that Russia has struck six Ukrainian energy sites despite an announced ceasefire on energy targets. Ukrainian officials stated that attacks have continued regardless of the announcement.",
+   "why": "Failure of targeted ceasefires threatens Ukraine's civilian power grid and complicates diplomatic mediation efforts.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "General Assembly adopts pandemic declaration, but not by consensus",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168581",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The UN General Assembly adopted a political declaration on pandemic prevention, preparedness, and response with 153 votes in favor. Argentina, Israel, and the United States voted against the declaration, while New Zealand and Paraguay abstained.",
+   "why": "Adopting a global pandemic framework without consensus from key powers limits future international coordination and compliance during major health crises.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The UN Security Council convened to discuss Syria's transition amid economic strain, sectarian unrest in Sweida, and ongoing Israeli incursions in the south. Concurrently, Damascus reported progress regarding its chemical weapons programme and path toward elections.",
+   "why": "Sustained multi-front instability in Syria complicates political transitions and raises risks of wider regional escalation.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Disasters cost $228 billion in housing losses every year",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Communities worldwide face an estimated $228 billion annually in rebuilding costs due to housing destruction from disasters.",
+   "why": "Highlights the massive recurring macroeconomic and developmental toll of climate and natural hazards on global shelter infrastructure.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Nearly ten years after Colombia's peace deal, the UN's top official warned the Security Council that the agreement faces strain from growing insecurity and cannot be allowed to fail.",
+   "why": "A collapse of Colombia's landmark peace accord risks reigniting broad internal conflict and regional instability.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "UN aid operation underway in Nepal following fresh floods",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "The United Nations initiated an aid operation in Nepal's central Gorkha district after fresh flash floods destroyed homes and bridges on Sunday. The event followed destructive floods in the country's north just weeks prior.",
+   "why": "Successive natural disasters exhaust local recovery capacity and heighten humanitarian vulnerabilities in remote communities.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Global action to end violence against children is lagging behind risks: UN expert",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168582",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The UN Special Representative on Violence Against Children stated that global action to protect children is lagging behind mounting risks across increasing crises.",
+   "why": "Points to ongoing institutional deficits in international child protection mechanisms amidst compounding global conflicts.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
