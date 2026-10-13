@@ -1,4 +1,760 @@
 {
- "updated": "2026-10-13T00:15:35.518748Z",
- "events": []
+ "updated": "2026-10-13T03:08:33.694936Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791820914,
+   "articles": [
+    {
+     "title": "India's opposition parties march to top court as protests over voter lists escalate",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Opposition parties marched to India's Supreme Court after authorities removed over 130 million names from the voter roll. Opposition figures allege the revisions unfairly favor Prime Minister Narendra Modi's party.",
+   "why": "The disenfranchisement of over 130 million voters strikes at the core of democratic governance in the world's largest electorate.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791840793,
+   "articles": [
+    {
+     "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+     "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Prime Minister Mark Carney urged unity in a Thanksgiving address ahead of an upcoming secession vote in Alberta. The province is scheduled to hold its referendum within a week.",
+   "why": "A provincial secession referendum represents a major constitutional and economic crisis that could fracture Canada's federation.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791757730,
+   "articles": [
+    {
+     "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+     "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+     "source": "The Guardian World"
+    },
+    {
+     "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A projectile struck a passenger terminal at Riyadh's King Khalid airport, killing one person and injuring 11. The escalating Houthi strikes threaten to draw more countries into the Yemen conflict.",
+   "why": "Strikes causing civilian casualties inside capital transit infrastructure significantly elevate the risk of wider multinational military confrontation.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791760725,
+   "articles": [
+    {
+     "title": "Trump faces growing backlash over plans to import diesel from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Bipartisan lawmakers in the US have criticized plans to import diesel fuel from Russia. The controversial deal was announced shortly before the US midterm elections.",
+   "why": "Importing energy from Russia directly contradicts international sanctions regimes and reshapes global energy trade and domestic policy.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791806040,
+   "articles": [
+    {
+     "title": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
+     "link": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Russian strikes targeted Kyiv, Kharkiv, and Donetsk within 24 hours of Donald Trump announcing an energy ceasefire. The Kremlin indicated it would only contemplate a single-day ceasefire for an election.",
+   "why": "Direct rejection of US-announced ceasefire terms signals ongoing disruption to critical Ukrainian infrastructure and dim prospects for peace deals.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791854762,
+   "articles": [
+    {
+     "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+     "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A Saudi minister vowed a serious response after Houthi attacks killed 13 people across Riyadh's airport and another facility. The armed group's strikes represent a significant escalation in the conflict.",
+   "why": "Pledges of military retaliation follow significant loss of life and direct hits on critical Saudi infrastructure, risking broader escalation.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791840051,
+   "articles": [
+    {
+     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "President Zelensky reported that Russia struck six Ukrainian energy sites despite a ceasefire announcement by the US president. Ukraine stated that strikes have persisted regardless of the announced pause.",
+   "why": "It demonstrates the failure of high-level diplomatic ceasefire announcements and threatens Ukraine's civilian energy stability during ongoing conflict.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791760400,
+   "articles": [
+    {
+     "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "An investigation by BBC Africa Eye showed that mourners killed by Kenyan police during a memorial for former PM Raila Odinga were not involved in violence. An analysis of 1,500 recordings confirmed the victims were located away from the clashes.",
+   "why": "Forensic evidence of lethal force used against peaceful citizens establishes state accountability and could inflame domestic unrest.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791823116,
+   "articles": [
+    {
+     "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
+     "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A cyber-attack forced fridges in hundreds of French supermarkets, including Intermarché and Coopérative U, to heat up to 50C overnight. Officials fear Dutch chains may also be affected by the breach.",
+   "why": "Demonstrates an unprecedented cyber-physical attack vector causing large-scale food supply disruption and commercial property damage.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791819757,
+   "articles": [
+    {
+     "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+     "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia suspended all flights to and from its main international airport following another deadly Houthi attack. The paramilitary group breached defenses despite statements from the Saudi energy minister.",
+   "why": "Direct attacks shutting down major Saudi aviation hubs threaten regional transportation links, global energy markets, and escalate the Yemen conflict.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791841428,
+   "articles": [
+    {
+     "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukraine reported that Russia is continuing strikes and disregarding an energy ceasefire announced by President Trump.",
+   "why": "Highlights the divergence between unilateral US diplomatic declarations and combat realities on the ground.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791831720,
+   "articles": [
+    {
+     "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+     "link": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The UK Prime Minister stated that incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran. Authorities linked the two military base incidents to foreign state action.",
+   "why": "Direct state-coordinated operations targeting military bases in the UK could trigger diplomatic crises or military retaliation against Iran.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791817003,
+   "articles": [
+    {
+     "title": "Why the US is bringing back firing squads",
+     "link": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The US Army faces the potential execution of Fort Hood shooter Nidal Hasan via firing squad. This would mark the first military execution by firing squad in the United States since 1945.",
+   "why": "It represents a significant precedent in military justice by reviving a capital punishment method unused by the US Army in decades.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791818357,
+   "articles": [
+    {
+     "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+     "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Thousands of demonstrators marched to the Indian Supreme Court to demand the resignation of the election chief. This follows a weekend in Delhi during which thousands of protesters were detained by police.",
+   "why": "Mass protests targeting election leadership challenge the institutional integrity of democratic processes in the world's most populous country.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791729490,
+   "articles": [
+    {
+     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+     "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Ukraine struck a Yandex data centre in its third attack this week on the Russian tech giant. The strike forced the company to suspend operations.",
+   "why": "Physical kinetic strikes directly disabling major tech infrastructure represent an expanding vector of warfare targeting digital services.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791849600,
+   "articles": [
+    {
+     "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "US President Trump condemned escalating Houthi attacks as Saudi Arabia halted flights at Riyadh airport.",
+   "why": "Attacks threatening the Saudi capital and halting international aviation pose substantial risks to regional security and transport hubs.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791849245,
+   "articles": [
+    {
+     "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+     "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi forces targeted King Khalid airport in Riyadh for a third consecutive day, while Saudi Arabia reported intercepting a ballistic missile over the capital.",
+   "why": "Sustained ballistic missile attacks targeting major international airports disrupt civilian airspace and escalate regional conflict.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791842731,
+   "articles": [
+    {
+     "title": "Immigration agents search congresswoman Ilhan Omar's home",
+     "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "US federal agents search home of Trump critic Ilhan Omar",
+     "link": "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-ilhan-omar/a-79643360?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Federal immigration agents searched the home of US Congresswoman Ilhan Omar. Omar characterized the action as an attempt to target political enemies.",
+   "why": "Federal law enforcement actions targeting sitting federal lawmakers carry serious constitutional implications and escalate domestic political conflict.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791732743,
+   "articles": [
+    {
+     "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+     "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "At least 139 people, including children, died after a boat carrying 305 passengers capsized off the coast of Obock, Djibouti. The vessel was en route to Yemen when the incident occurred.",
+   "why": "A mass-casualty disaster underscores the extreme humanitarian dangers along migration corridors in the Horn of Africa.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791797883,
+   "articles": [
+    {
+     "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+     "link": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "CCTV footage recorded the moment a missile struck Riyadh airport on Saturday. The video shows people seeking cover as the impact occurred inside the facility.",
+   "why": "Direct missile impact on a primary civilian airport poses severe risks to international air transit and escalates Gulf hostilities.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791797880,
+   "articles": [
+    {
+     "title": "India news: Opposition parties march to Supreme Court",
+     "link": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Indian opposition parties are marching to the Supreme Court to demand the resignation of Chief Election Commissioner Gyanesh Kumar.",
+   "why": "A coordinated push by national opposition parties against election leadership directly challenges the administration of national polls.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791846590,
+   "articles": [
+    {
+     "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+     "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Hurricane Simon and storm Rachel hit Mexico's coastline, causing at least two reported fatalities. The storms culminate a Pacific hurricane season characterized by record-breaking intensity.",
+   "why": "Deadly extreme weather events highlight the escalating severity of record-setting storm seasons.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791845040,
+   "articles": [
+    {
+     "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+     "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+     "link": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Two Turkish citizens were arrested in Germany facing sabotage charges linked to a fire at a Starlink station in Poland. Warsaw reported the arrests in connection to last month's Russia-linked incident.",
+   "why": "It exposes physical hybrid sabotage operations against critical satellite communications infrastructure supporting Ukraine across European borders.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791732752,
+   "articles": [
+    {
+     "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Houthi attacks targeted Riyadh airport, damaging Saudi Arabia's reputation for domestic stability. While physical infrastructure can be repaired, the strikes mark an escalation in the regional conflict.",
+   "why": "Strikes on major civil aviation hubs in the Gulf threaten regional security and international transit.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791739644,
+   "articles": [
+    {
+     "title": "Poland detains man suspected of planning assassination of PM Tusk",
+     "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Polish police detained a man suspected of plotting an assassination targeting Prime Minister Donald Tusk. Authorities had obtained credible intelligence regarding threats against Tusk and the country's defence minister.",
+   "why": "A credible assassination plot against a head of government threatens national political stability and European security.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791812945,
+   "articles": [
+    {
+     "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "US authorities detained Álvaro Pulido, who is accused in a multi-billion dollar Venezuelan money laundering scheme. Officials had previously offered a $10 million reward for his capture.",
+   "why": "Capturing key figures in multi-billion dollar illicit networks disrupts state-linked financial evasion and corruption channels.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791731932,
+   "articles": [
+    {
+     "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+     "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Prime Minister Donald Tusk attributed recent violent attacks at Polish schools to the online glorification of violence. The stabbings resulted in one death and several injuries.",
+   "why": "Fatal school violence prompts national security and educational safety scrutiny in Poland.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "NPR World"
+   ],
+   "n_sources": 3,
+   "ts": 1791832004,
+   "articles": [
+    {
+     "title": "Pope Leo to have surgery after lump found on lung",
+     "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
+     "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Pope Leo XIV to undergo lung surgery this week",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Global",
+   "summary": "Pope Leo is scheduled to undergo surgery to remove a lung nodule identified at an early stage. The 71-year-old pontiff will have the procedure in Rome.",
+   "why": "The health of the global leader of the Catholic Church influences leadership and administration across a worldwide institution.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.12
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791815039,
+   "articles": [
+    {
+     "title": "Indian opposition figures lead march to police barricades around supreme court",
+     "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Thousands of protesters led by opposition figures marched in India's capital toward the supreme court to demand the election commissioner's resignation. Delhi police obstructed the demonstrations following mass unrest.",
+   "why": "Mass protests disputing election oversight challenge the institutional integrity and democratic processes of the world's most populous nation.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791838888,
+   "articles": [
+    {
+     "title": "Pupil arrested after two teachers shot at French school",
+     "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A 14-year-old student was arrested after shooting and injuring a middle-school principal and a teacher in France. Both educators were wounded during the incident.",
+   "why": "Gun violence in European schools is rare and affects local community safety and national educational security debates.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
