@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-14T06:26:09.623538Z",
+ "updated": "2026-10-14T09:21:56.526878Z",
  "events": [
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791806400,
-   "articles": [
-    {
-     "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "UNHCR warned that global refugee protection is collapsing due to severe funding shortfalls, having secured only $3 billion of its required $8.5 billion budget. The agency is currently attempting to support a record 117 million forcibly displaced individuals.",
-   "why": "A multi-billion-dollar aid deficit forces deep cuts to basic life-saving support for over 117 million displaced people worldwide.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
   {
    "pre": 7,
    "tier": "primary",
@@ -43,11 +19,11 @@
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "Multidimensional poverty has risen for the first time in 15 years, reaching 1.2 billion people worldwide according to the UN development chief. Families across affected regions are increasingly unable to meet basic daily necessities.",
-   "why": "Marks a historic reversal in global poverty alleviation trends, impacting over a billion people.",
-   "impact": 7.6,
+   "summary": "The global multidimensional poverty population has grown for the first time in 15 years, reaching 1.2 billion people according to the UN development chief. Millions of families are increasingly unable to fulfill fundamental survival needs.",
+   "why": "Reverses a 15-year downward trend in global poverty, indicating systemic macroeconomic failure to secure basic human welfare.",
+   "impact": 7.8,
    "under_radar": true,
-   "gap": 0.66
+   "gap": 0.68
   },
   {
    "pre": 9,
@@ -66,12 +42,36 @@
    ],
    "skip": false,
    "category": "Health",
-   "scale": "National",
-   "summary": "A severe El Niño drought combined with ongoing armed conflict is pushing parts of Greater Darfur and Greater Kordofan toward famine. The UN-backed global hunger monitor issued the warning as conditions sharply deteriorate.",
-   "why": "The confluence of warfare and extreme drought puts millions at immediate risk of mass starvation and irreversible mortality.",
-   "impact": 7.2,
+   "scale": "Regional",
+   "summary": "A severe El Niño drought combined with ongoing armed conflict is pushing Greater Darfur and Greater Kordofan towards famine. The warning was issued by the UN-backed global hunger monitor regarding worsening food insecurity in war-torn Sudan.",
+   "why": "The convergence of climate shocks and active warfare threatens millions with catastrophic starvation and irreversible mortality.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.62
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Global",
+   "summary": "With 117 million individuals forcibly displaced worldwide, UNHCR has secured only $3 billion of its required $8.5 billion annual budget. Agency head Barham Salih warned that the international asylum and refugee protection architecture is beginning to buckle under financial shortfalls.",
+   "why": "A critical funding deficit leaves tens of millions of displaced individuals without baseline humanitarian aid or legal protection.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
   },
   {
    "pre": 7,
@@ -91,11 +91,11 @@
    "skip": false,
    "category": "Health",
    "scale": "Global",
-   "summary": "The UN General Assembly adopted a political declaration on pandemic prevention, preparedness, and response by a vote of 153 in favor to three against, with two abstentions. The United States, Israel, and Argentina voted against the declaration.",
-   "why": "Establishes an international framework for future pandemic preparedness, though key member state opposition signals friction in global health diplomacy.",
-   "impact": 7.0,
+   "summary": "The UN General Assembly adopted a political declaration on pandemic prevention, preparedness, and response with 153 votes in favor. The measure faced opposition from the United States, Israel, and Argentina, while two nations abstained.",
+   "why": "Divergence among major global powers undermines cohesive multilateral frameworks intended to govern future pandemic responses.",
+   "impact": 7.2,
    "under_radar": true,
-   "gap": 0.6
+   "gap": 0.62
   },
   {
    "pre": 7,
@@ -115,35 +115,113 @@
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "The UNDP warned that approximately 800 million young people in developing economies face unemployment upon entering the labour market unless structural interventions are made. In response, the agency launched two initiatives aimed at boosting investment and employment.",
-   "why": "A widespread failure to absorb 800 million youth into labor markets threatens extensive global economic stagnation and political instability.",
+   "summary": "Approximately 800 million young people in developing economies face unemployment unless countries intervene, warned the head of UNDP. In response, the UN agency launched two initiatives aimed at boosting international investment and employment.",
+   "why": "Mass youth unemployment at this scale risks prolonged economic instability, poverty, and social unrest across developing regions.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791963144,
+   "articles": [
+    {
+     "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
+     "link": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Former DRC President Joseph Kabila has formed an alliance with the M23 rebel group. The development substantiates persistent allegations by the Kinshasa government regarding his ties to armed insurgents.",
+   "why": "An explicit pact between a former head of state and an armed rebel force significantly destabilizes governance and security in eastern DRC.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791819757,
+   "articles": [
+    {
+     "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+     "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Saudi Arabia has suspended all flights to and from its primary international airport following a deadly Houthi attack. The missile strike successfully breached Saudi defensive systems.",
+   "why": "A successful fatal strike shutting down major Saudi aviation marks a severe escalation in regional conflict and security vulnerability.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1791806400,
+   "ts": 1791963489,
    "articles": [
     {
-     "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168578",
-     "source": "UN News"
+     "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
+     "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "The UN Security Council convened to address Syria's transition amid severe economic unrest, ongoing Israeli incursions in the south, and sectarian strife in Sweida. Updates were also reviewed regarding the country's chemical weapons programme.",
-   "why": "Compound pressures from foreign strikes, internal sectarian conflict, and economic breakdown heighten the risk of systemic regional re-escalation.",
+   "summary": "Demolished residences, altering military demarcation lines, and halted troop withdrawals along Israel's 'Yellow Line' have created uncertainty for southern Lebanese residents. Displaced civilians remain unsure if they will ever be able to return.",
+   "why": "Shifting territorial buffer zones and residential destruction alter demographic geography and entrench displacement in border conflict zones.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791934942,
+   "articles": [
+    {
+     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+     "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+     "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "German authorities have put a Ukrainian national, Serhii K, on trial for the sabotage of Russia's Nord Stream gas pipelines to Germany. The trial commences four years after the undersea explosions occurred.",
+   "why": "The prosecution provides formal legal scrutiny into a critical act of international infrastructure sabotage with significant geopolitical fallout.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
   },
   {
    "pre": 7,
@@ -163,11 +241,95 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Communities worldwide face an estimated $228 billion annually in housing losses caused by natural disasters. The figure reflects the recurring scale of reconstruction needs following climate and seismic catastrophes.",
-   "why": "Massive recurring structural losses divert critical capital and deepen housing vulnerability worldwide.",
+   "summary": "Natural disasters impose an estimated $228 billion annual cost worldwide specifically for rebuilding damaged housing. Global communities are repeatedly burdened with these massive expenditures to recover from recurring catastrophe.",
+   "why": "Disproportionate infrastructure losses to climate and natural disasters deplete critical capital needed for broader economic development.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Global action to end violence against children is lagging behind risks: UN expert",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168582",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The UN Special Representative on Violence Against Children warned that global initiatives to protect minors are lagging behind multiplying crises. Current institutional and international efforts are falling short of safeguarding vulnerable children.",
+   "why": "Identifies an institutional gap in international child protection mechanisms amid multiplying worldwide humanitarian emergencies.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791967430,
+   "articles": [
+    {
+     "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Overnight Russian strikes targeted critical infrastructure across Ukraine, leaving 600,000 people without electricity and killing at least three. President Zelenskyy stated the strikes showed disregard for the United States.",
+   "why": "Mass energy outages threaten humanitarian conditions and public safety for hundreds of thousands during wartime.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791968020,
+   "articles": [
+    {
+     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+     "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Vatican confirms Pope Leo underwent surgery for lung cancer",
+     "link": "https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The Vatican confirmed that Pope Leo was diagnosed with lung cancer and underwent surgery to remove the lower lobe of his right lung. Officials reported he had a peaceful night of recovery following the procedure.",
+   "why": "A severe medical crisis for the head of the Catholic Church has substantial implications for global church leadership and succession.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
   },
   {
    "pre": 9,
@@ -185,37 +347,13 @@
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Health",
    "scale": "Regional",
-   "summary": "Yemen's southwestern city of Taiz faces a devastating humanitarian crisis marked by escalating tensions, food price hikes, and supply shortages. The situation is compounding existing difficulties from aid cuts and disease outbreaks in the region.",
-   "why": "Worsening blockades and supply shortages threaten hundreds of thousands of civilians already suffering from malnutrition and disease.",
+   "summary": "Yemen's southwestern city of Taiz is experiencing a devastating humanitarian crisis marked by escalating tensions, food price hikes, and supply shortages according to the UN. The city also faces an ongoing Houthi siege, cholera outbreak, and aid cuts putting civilians at risk.",
+   "why": "Severe supply shortages and disease outbreaks in besieged urban centers compound severe civilian suffering and mortality risks in conflict zones.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791806400,
-   "articles": [
-    {
-     "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Colombia's 2016 peace accord faces mounting strain from rising insecurity across the country. UN officials briefed the Security Council, emphasizing that the landmark agreement must not be permitted to fail.",
-   "why": "Collapse of the peace framework risks returning Colombia to widespread armed conflict and destabilizing the Andean region.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
   },
   {
    "pre": 7,
@@ -235,11 +373,359 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Russian attacks on Kharkiv and Kyiv killed and injured civilians while damaging homes and critical infrastructure. The UN Office for the Coordination of Humanitarian Affairs reported on the impacts following the recent strikes.",
-   "why": "Sustained strikes on major urban centers systematically degrade critical infrastructure and endanger millions of civilians.",
+   "summary": "Recent Russian attacks on Kharkiv and Kyiv killed and injured civilians while damaging homes and civilian infrastructure, according to OCHA. The strikes targeted Ukraine's two largest population centers.",
+   "why": "Continued strikes on major urban centers degrade vital civilian infrastructure and increase civilian casualties in Ukraine.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791951617,
+   "articles": [
+    {
+     "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+     "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
+     "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The Saudi-led coalition fighting in Yemen carried out an airstrike on a fuel depot near the Houthi-controlled capital of Sanaa. Following the attack, missiles were intercepted near Riyadh after being launched toward Saudi Aramco headquarters.",
+   "why": "Escalation in strikes targeting energy infrastructure poses direct risks to global oil security and regional stability in the Middle East.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791928903,
+   "articles": [
+    {
+     "title": "Who's to blame for the toxic haze choking South East Asia?",
+     "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Toxic haze continues to cover South East Asia due to agricultural land burning by companies in Indonesia. Public frustration is intensifying over the failure of local authorities to stop the illegal burns.",
+   "why": "Transboundary haze presents severe cross-border public health crises and stokes environmental tensions across Southeast Asian nations.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791929260,
+   "articles": [
+    {
+     "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+     "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "The Pakistani government has imposed a lockdown on the stronghold of former Prime Minister Imran Khan. Observers warn that the intensifying standoff between authorities and Khan's supporters could exacerbate national instability.",
+   "why": "State suppression of a dominant political faction threatens nationwide stability and democratic norms in a nuclear-armed state.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The UN Security Council convened to discuss Syria's complex transition amid economic hardship, southern Israeli incursions, and sectarian unrest in Sweida. Concurrently, Damascus reported ongoing developments concerning its chemical weapons program.",
+   "why": "Multifront instability in Syria continues to pose risks of wider regional escalation and unresolved chemical weapons oversight.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791961712,
+   "articles": [
+    {
+     "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+     "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A massive Russian attack killed at least six people and damaged power sites across Ukraine. President Volodymyr Zelenskyy stated that partner nations failed to provide advance warning of the ballistic missile strike on Kyiv.",
+   "why": "The strike inflicts deadly damage on energy infrastructure and exposes friction in allied intelligence sharing.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791881220,
+   "articles": [
+    {
+     "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
+     "link": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "Germany is shifting its approach toward China, moving to pursue stronger European Union trade-defense measures to shield its industrial base. The decision marks a departure from its previous reluctance to risk trade retaliation from Beijing.",
+   "why": "A strategic shift by Europe's largest economy toward defensive trade policy could fundamentally reshape EU-China commercial relations.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791965322,
+   "articles": [
+    {
+     "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+     "link": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The US president announced that oil, gas, and mineral exploration is set to begin in Greenland. The statement also highlighted security advantages stemming from a recent agreement with Denmark and Greenland.",
+   "why": "Resource extraction and security alliances in Greenland alter Arctic geopolitics and global critical mineral supplies.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1791841428,
+   "articles": [
+    {
+     "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "International",
+   "summary": "Ukraine's leadership reported that Russia is actively attacking Ukraine, ignoring an 'energy ceasefire' unilaterally announced by President Trump. Questions remain over whether either belligerent was aware of or agreed to the declaration.",
+   "why": "The disconnect exposes the fragility of unilateral diplomatic intervention in the ongoing war.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791968927,
+   "articles": [
+    {
+     "title": "Turkish police raid opposition TV station, halting live broadcasts",
+     "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Turkish police conducted a raid on the opposition television station Halk TV in Istanbul, disrupting live broadcasts. Staff members have been locked out of the premises, and a new manager has been instated.",
+   "why": "The takeover of a major opposition news outlet represents a critical erosion of press freedom and political pluralism in Turkey.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791927769,
+   "articles": [
+    {
+     "title": "Saudi employee charged with planting recording device in OpenAI office",
+     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A Saudi employee has been charged after allegedly planting a recording device wrapped in toilet paper inside an executive conference room at OpenAI. Prosecutors stated the device was connected via a TV USB port.",
+   "why": "It highlights physical espionage threats targeting leading artificial intelligence developers and critical proprietary technologies.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791963094,
+   "articles": [
+    {
+     "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
+     "link": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Members and associates of Sri Lanka's former ruling Rajapaksa dynasty, including the wife of ex-President Mahinda Rajapaksa, have been arrested. Authorities are investigating the political family for corruption and various criminal charges.",
+   "why": "Legal accountability for previously untouchable political leadership marks a major shift in national anti-corruption enforcement.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A decade after Colombia's landmark peace accord, the UN's top official informed the Security Council that growing insecurity is straining the agreement. Officials underscored that the historic pact cannot be allowed to collapse.",
+   "why": "Deteriorating security conditions jeopardize years of peacebuilding efforts and risk reigniting organized insurgent conflict in Colombia.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791952469,
+   "articles": [
+    {
+     "title": "US judge extends media outlets' White House access",
+     "link": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+     "link": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A federal judge extended an order preventing the Trump administration from barring media outlets from the White House. The ruling stated that the banned news organizations have reasonable grounds to succeed in their lawsuit.",
+   "why": "The ruling reinforces First Amendment protections against executive retaliation and restricts government efforts to control press access.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791906735,
+   "articles": [
+    {
+     "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+     "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "MI5 Director General Sir Ken McCallum warned that the UK faces significant threats from Russia, Iran, and artificial intelligence. He noted that UK operations addressing hostile state threats have grown to roughly equal the scale of counter-terrorism efforts.",
+   "why": "It signals a formal strategic pivot in British intelligence priorities toward state-backed espionage and technological threats.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
   },
   {
    "pre": 9,
@@ -257,10 +743,10 @@
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Economy",
    "scale": "Global",
-   "summary": "UN Secretary-General António Guterres proposed a $3.3 billion programme budget for next year, representing a $40.8 million cut. The proposal comes amid growing demands spurred by conflict, hunger, and technological shifts.",
-   "why": "Reductions in the UN core budget constrain global diplomatic, peacekeeping, and humanitarian operational capabilities.",
+   "summary": "UN Secretary-General António Guterres presented a $3.3 billion programme budget proposal for next year, representing a $40.8 million cut. Guterres stressed that the need for the UN has never been greater amid compounding global challenges like climate disruption and hunger.",
+   "why": "A reduced core budget constrains the operating capacity of the world's primary multilateral institution during widespread global crises.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.42
@@ -282,12 +768,269 @@
    ],
    "skip": false,
    "category": "Environment",
-   "scale": "Local",
-   "summary": "Flash floods in Nepal's central Gorkha district swept away homes and bridges, prompting emergency relief operations by the United Nations. The disaster follows severe flooding in the northern regions just weeks prior.",
-   "why": "Repeated extreme flooding destroys critical transit infrastructure and displaces vulnerable mountain communities.",
+   "scale": "National",
+   "summary": "The United Nations launched relief operations following flash floods in Nepal's central Gorkha district that destroyed homes and bridges. The disaster occurred just weeks after catastrophic flooding struck northern areas of the country.",
+   "why": "Repeated flash flooding impairs critical transit routes and overwhelms local recovery capacity in vulnerable mountainous communities.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791885605,
+   "articles": [
+    {
+     "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+     "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A scandal involving the judge who convicted Jair Bolsonaro has created a political crisis within Brazil's top court. The development risks weakening President Lula's administration while bolstering the Bolsonaro political movement.",
+   "why": "Institutional turmoil in the judiciary could alter the balance of power and future governance in Brazil.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791963680,
+   "articles": [
+    {
+     "title": "Palestinians say Israel’s democracy ‘is a joke’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+     "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "Palestinians residing in the occupied West Bank expressed disenfranchisement and lack of hope for change as Israeli elections approach. They remain excluded from participating in the vote.",
+   "why": "The institutional exclusion of occupied populations underpins long-term regional instability and human rights debates.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1791955800,
+   "articles": [
+    {
+     "title": "Iran: Political infighting deepens as economic woes mount during war",
+     "link": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Hardliners in Iran are intensifying pressure on President Masoud Pezeshkian's government and seeking the removal of Foreign Minister Abbas Araghchi. The push follows the resignation of Iran's oil minister amid wartime economic difficulties.",
+   "why": "Internal political fracturing during wartime threatens Iranian regime stability and foreign policy coordination.",
    "impact": 5.0,
    "under_radar": false,
    "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791963768,
+   "articles": [
+    {
+     "title": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
+     "link": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "A proposed tax crackdown targeting online marketplaces like Amazon and eBay is being prepared for Chancellor John Healey's first budget. The measure is estimated to generate up to £1 billion in additional revenue for the UK Treasury.",
+   "why": "The proposed measure would alter tax liabilities for major e-commerce platforms and raise significant revenue for UK public finances.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1791964803,
+   "articles": [
+    {
+     "title": "Russia arrests Japanese journalist on spying charges",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Russia arrests Japanese journalist on allegations of spying",
+     "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Russian authorities arrested a Hokkaido Shimbun journalist on espionage charges. Moscow accuses the Japanese reporter of gathering intelligence regarding its defence capabilities for Tokyo.",
+   "why": "The arrest of foreign journalists on espionage charges escalates diplomatic friction and further restricts international press freedom inside Russia.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Regional",
+   "summary": "The IOM reported that while fewer West African migrants are reaching Europe by sea, the passage remains dangerous. The report comes amid broader international updates regarding maritime borders and global crises.",
+   "why": "Persistent maritime dangers maintain a high death toll among irregular migrants despite dropping crossing volumes.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1791815039,
+   "articles": [
+    {
+     "title": "Indian opposition figures lead march to police barricades around supreme court",
+     "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Local Civic",
+   "scale": "National",
+   "summary": "Delhi police barricaded and obstructed thousands of protesters led by Indian opposition leaders in New Delhi. The demonstration was organized to march on the Supreme Court and submit a petition demanding the resignation of the election commissioner.",
+   "why": "Growing opposition challenges to election authorities highlight heightened tensions over electoral integrity in India.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1791928929,
+   "articles": [
+    {
+     "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "A commercial paid companionship industry is growing in China to address widespread loneliness among citizens.",
+   "why": "The rise of commercial companionship services reflects profound demographic shifts and emerging service sector economies driven by social isolation.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1791921074,
+   "articles": [
+    {
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years",
+     "link": "https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Former gang leader Duane Davis was sentenced to 40 years in prison for his role in the 1996 drive-by shooting of rap superstar Tupac Shakur. Davis was found guilty last month following decades of investigation.",
+   "why": "It marks the legal resolution of one of the most high-profile and long-unsolved murder cases in modern American cultural history.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.2
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1791964665,
+   "articles": [
+    {
+     "title": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
+     "link": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A dispute over the hijab in Azerbaijan has left teachers fearful of losing their livelihoods and students facing potential exclusion. Close ally Turkiye has also expressed critical views regarding the situation.",
+   "why": "Religious dress restrictions affect civil liberties and risk straining diplomatic relations with key regional allies.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
