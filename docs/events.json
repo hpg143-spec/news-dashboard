@@ -1,4 +1,293 @@
 {
- "updated": "2026-10-14T03:26:41.195669Z",
- "events": []
+ "updated": "2026-10-14T06:26:09.623538Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "UNHCR warned that global refugee protection is collapsing due to severe funding shortfalls, having secured only $3 billion of its required $8.5 billion budget. The agency is currently attempting to support a record 117 million forcibly displaced individuals.",
+   "why": "A multi-billion-dollar aid deficit forces deep cuts to basic life-saving support for over 117 million displaced people worldwide.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168574",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Multidimensional poverty has risen for the first time in 15 years, reaching 1.2 billion people worldwide according to the UN development chief. Families across affected regions are increasingly unable to meet basic daily necessities.",
+   "why": "Marks a historic reversal in global poverty alleviation trends, impacting over a billion people.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168577",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "A severe El Niño drought combined with ongoing armed conflict is pushing parts of Greater Darfur and Greater Kordofan toward famine. The UN-backed global hunger monitor issued the warning as conditions sharply deteriorate.",
+   "why": "The confluence of warfare and extreme drought puts millions at immediate risk of mass starvation and irreversible mortality.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "General Assembly adopts pandemic declaration, but not by consensus",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168581",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The UN General Assembly adopted a political declaration on pandemic prevention, preparedness, and response by a vote of 153 in favor to three against, with two abstentions. The United States, Israel, and Argentina voted against the declaration.",
+   "why": "Establishes an international framework for future pandemic preparedness, though key member state opposition signals friction in global health diplomacy.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "800 million young people face a future without jobs",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168588",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The UNDP warned that approximately 800 million young people in developing economies face unemployment upon entering the labour market unless structural interventions are made. In response, the agency launched two initiatives aimed at boosting investment and employment.",
+   "why": "A widespread failure to absorb 800 million youth into labor markets threatens extensive global economic stagnation and political instability.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The UN Security Council convened to address Syria's transition amid severe economic unrest, ongoing Israeli incursions in the south, and sectarian strife in Sweida. Updates were also reviewed regarding the country's chemical weapons programme.",
+   "why": "Compound pressures from foreign strikes, internal sectarian conflict, and economic breakdown heighten the risk of systemic regional re-escalation.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Disasters cost $228 billion in housing losses every year",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Communities worldwide face an estimated $228 billion annually in housing losses caused by natural disasters. The figure reflects the recurring scale of reconstruction needs following climate and seismic catastrophes.",
+   "why": "Massive recurring structural losses divert critical capital and deepen housing vulnerability worldwide.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Yemen's southwestern city of Taiz faces a devastating humanitarian crisis marked by escalating tensions, food price hikes, and supply shortages. The situation is compounding existing difficulties from aid cuts and disease outbreaks in the region.",
+   "why": "Worsening blockades and supply shortages threaten hundreds of thousands of civilians already suffering from malnutrition and disease.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Colombia's 2016 peace accord faces mounting strain from rising insecurity across the country. UN officials briefed the Security Council, emphasizing that the landmark agreement must not be permitted to fail.",
+   "why": "Collapse of the peace framework risks returning Colombia to widespread armed conflict and destabilizing the Andean region.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168585",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Russian attacks on Kharkiv and Kyiv killed and injured civilians while damaging homes and critical infrastructure. The UN Office for the Coordination of Humanitarian Affairs reported on the impacts following the recent strikes.",
+   "why": "Sustained strikes on major urban centers systematically degrade critical infrastructure and endanger millions of civilians.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168586",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "UN Secretary-General António Guterres proposed a $3.3 billion programme budget for next year, representing a $40.8 million cut. The proposal comes amid growing demands spurred by conflict, hunger, and technological shifts.",
+   "why": "Reductions in the UN core budget constrain global diplomatic, peacekeeping, and humanitarian operational capabilities.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791806400,
+   "articles": [
+    {
+     "title": "UN aid operation underway in Nepal following fresh floods",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "Flash floods in Nepal's central Gorkha district swept away homes and bridges, prompting emergency relief operations by the United Nations. The disaster follows severe flooding in the northern regions just weeks prior.",
+   "why": "Repeated extreme flooding destroys critical transit infrastructure and displaces vulnerable mountain communities.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  }
+ ]
 }
