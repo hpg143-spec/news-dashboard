@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:16:19.973418Z",
+ "updated": "2026-10-15T03:27:36.626443Z",
  "events": [
   {
    "pre": 7,
@@ -19,11 +19,11 @@
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "The UN Development Programme warned that roughly 800 million young people in developing economies face unemployment upon entering the workforce unless decisive action is taken. In response, the agency launched two initiatives intended to stimulate job creation and investment.",
-   "why": "Structural unemployment affecting 800 million youths represents a monumental demographic and economic stability risk for developing nations.",
-   "impact": 6.8,
+   "summary": "The UNDP warned that approximately 800 million young people entering the workforce in developing economies face unemployment without state intervention. In response, the agency introduced two initiatives aimed at stimulating investment and job creation.",
+   "why": "Persistent widespread youth unemployment on this scale threatens global economic development and social stability across developing nations.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.58
+   "gap": 0.6
   },
   {
    "pre": 7,
@@ -43,11 +43,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Escalating combat in Yemen has blocked critical humanitarian assistance to 800,000 individuals, according to the World Food Programme. Moving frontlines, damaged transit routes, and worsening insecurity have cut access to Taiz and other conflict zones.",
-   "why": "Cutting off food and life-saving aid to nearly a million people risks immediate mass starvation.",
-   "impact": 6.2,
+   "summary": "Intensifying combat in Yemen has severed life-saving assistance to 800,000 individuals due to blocked roads and shifting frontlines. The UN World Food Programme warned of an impending humanitarian catastrophe, particularly around Taiz and other conflict zones.",
+   "why": "Blocking emergency aid to nearly a million people directly creates imminent risks of mass starvation and humanitarian collapse.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.56
   },
   {
    "pre": 7,
@@ -67,11 +67,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Haiti faces an acute security crisis as armed gangs control large areas of Port-au-Prince and expand into rural areas. Gang activities include killings, sexual violence, kidnappings, and extortion as sanctions targeting illicit weapons are renewed.",
-   "why": "The near-total collapse of state security in Haiti exposes millions of citizens to pervasive gang violence and humanitarian collapse.",
-   "impact": 6.0,
+   "summary": "Armed gangs in Haiti control significant portions of Port-au-Prince and are expanding into rural regions. Gangs are carrying out killings, sexual assaults, kidnappings, and extortion amid an acute security crisis.",
+   "why": "The expansion of armed gang control across Haiti undermines state authority and severely compromises basic safety for millions.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.5
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -91,11 +91,11 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "A worsening cholera epidemic in the Democratic Republic of the Congo has resulted in over 125,000 suspected cases and 3,644 deaths between January 2025 and late September 2026. The outbreak continues to spread alongside concurrent efforts to contain Ebola.",
-   "why": "The massive death toll and scale of the epidemic compound existing health crises in a fragile health infrastructure.",
-   "impact": 6.0,
+   "summary": "The WHO reported over 125,000 suspected cholera cases and 3,644 suspected deaths in the Democratic Republic of Congo between January 2025 and September 2026. The outbreak continues to spread alongside concurrent efforts to combat Ebola.",
+   "why": "A massive, ongoing cholera epidemic overlapping with Ebola strains fragile healthcare systems and drives high mortality.",
+   "impact": 6.2,
    "under_radar": true,
-   "gap": 0.5
+   "gap": 0.52
   },
   {
    "pre": 7,
@@ -115,11 +115,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Recent Russian strikes targeting Kharkiv and Kyiv caused civilian deaths and dozens of injuries, according to the UN aid coordination office. The attacks also inflicted damage on residential housing and vital civilian infrastructure.",
-   "why": "Direct bombardment of major population centers continues to erode Ukraine's civilian infrastructure and inflict non-combatant casualties.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "Russian strikes on Kharkiv and Kyiv killed and injured civilians while inflicting damage on homes and civilian infrastructure. The details were confirmed by the UN aid coordination office.",
+   "why": "Direct attacks on major civilian population centers exacerbate the humanitarian toll and degrade critical infrastructure during an ongoing war.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 7,
@@ -139,8 +139,56 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Global disasters cause approximately $228 billion in residential housing losses annually. Communities worldwide face this recurring financial burden each year to rebuild shelter following disasters.",
-   "why": "The recurring multi-hundred-billion-dollar cost of disaster damage strains global economies and diverts capital from long-term development.",
+   "summary": "Communities worldwide face an estimated $228 billion annually in housing losses resulting from natural disasters.",
+   "why": "Massive recurring housing damages from disasters divert significant global capital into reconstruction and threaten community resilience.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "UN independent experts endorsed a landmark corporate accountability ruling by Colombia’s Special Jurisdiction for Peace against oil company Ecopetrol. The experts urged the provision of reparations to victims of the armed conflict.",
+   "why": "Holding major corporations legally liable for armed conflict abuses sets a significant legal precedent for corporate accountability and victim reparations.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The UN reported that the southwestern Yemeni city of Taiz is confronting a devastating humanitarian crisis. Escalating tensions are driving up food prices and creating severe supply shortages.",
+   "why": "Severe supply shortages and price spikes in an active conflict zone heighten the risk of famine and death for hundreds of thousands of civilians.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
@@ -161,13 +209,37 @@
     }
    ],
    "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "The UN and its partners are preparing humanitarian aid in Gaza for the impending cold and rainy season. Civilian-impacting attacks persist alongside these preparations, according to UN OCHA.",
+   "why": "Severe weather compounded by active conflict poses an immediate life-threatening risk to displaced populations lacking adequate shelter.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "UN agencies are preparing for the upcoming cold and rainy season in Gaza as attacks impacting civilians persist. Concurrently, international efforts continue addressing security patrols in CAR and urban sustainability initiatives.",
-   "why": "Impending severe weather conditions will severely aggravate the already critical survival conditions for displaced civilians in Gaza.",
-   "impact": 5.6,
+   "summary": "The IOM reported that while fewer migrants from West Africa are reaching Europe via maritime routes, the journeys remain equally dangerous.",
+   "why": "Continued perilous migration journeys result in high fatality rates among vulnerable migrant populations despite lower overall crossing volumes.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.4
   },
   {
    "pre": 9,
@@ -179,43 +251,19 @@
    "ts": 1791892800,
    "articles": [
     {
-     "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+     "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168586",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "Local",
-   "summary": "Yemen's southwestern city of Taiz is facing a devastating humanitarian crisis marked by escalating tensions, food shortages, and spiking prices. A Houthi siege, cholera outbreak, and aid cuts continue to severely affect civilians.",
-   "why": "It highlights an acute compounding humanitarian emergency threatening basic survival in a major Yemeni urban center.",
-   "impact": 5.4,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "UN Secretary-General António Guterres proposed a $3.3 billion programme budget for next year, representing a $40.8 million reduction. The proposal comes amid ongoing challenges including war, hunger, and climate disruption.",
+   "why": "Budget reductions to core UN programs can directly constrain global peacekeeping, diplomatic, and humanitarian operations.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791979200,
-   "articles": [
-    {
-     "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168597",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "UN independent experts welcomed a landmark corporate accountability ruling by Colombia's Special Jurisdiction for Peace regarding oil company Ecopetrol. The experts urged the provision of reparations to victims of the country's armed conflict.",
-   "why": "It establishes a notable precedent for corporate accountability and legal liability for human rights abuses in armed conflict zones.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
+   "gap": 0.36
   },
   {
    "pre": 7,
@@ -235,59 +283,11 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "The head of the World Health Organization called for urgent measures to safeguard public health across the Eastern Mediterranean. The region contains major ongoing humanitarian crises, including those in Sudan, Yemen, and the Occupied Palestinian Territory.",
-   "why": "Multiple concurrent crises have severely eroded regional public health infrastructure across several conflict zones.",
-   "impact": 5.2,
+   "summary": "The head of the WHO called for urgent action to promote, provide, and protect health across the Eastern Mediterranean. The appeal highlighted ongoing severe humanitarian crises in Sudan, Yemen, and the Occupied Palestinian Territory.",
+   "why": "Multiple concurrent humanitarian crises in the region are overwhelming regional health infrastructures.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791892800,
-   "articles": [
-    {
-     "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "The International Organization for Migration reported that sea arrivals from West Africa to Europe have declined, though the crossing remains equally dangerous. Other global events noted include Argentina bringing a maritime dispute with the UK to an international tribunal.",
-   "why": "It shows changing migration flows alongside persistent mortal hazards on maritime crossing routes into Europe.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791892800,
-   "articles": [
-    {
-     "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Global",
-   "summary": "UN Secretary-General António Guterres presented a $3.3 billion programme budget proposal for next year, representing a $40.8 million reduction. He emphasized that the need for the UN has never been greater amid climate disruptions, artificial intelligence advances, war, and hunger.",
-   "why": "Budget constraints at the UN directly affect the operational capacity of global peacekeeping, humanitarian aid, and development programs.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
+   "gap": 0.36
   },
   {
    "pre": 7,
@@ -307,11 +307,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "The UN envoy informed the Security Council that institutional division, economic decline, and security fragility continue to imperil stability in Libya despite political progress. Leaders were urged to resolve disputes to facilitate national elections.",
-   "why": "Sustained political paralysis in Libya threatens regional stability and prolongs long-standing governance vacuums.",
-   "impact": 4.6,
+   "summary": "The UN envoy informed the Security Council that institutional divisions, economic decline, and security fragility threaten stability in Libya despite political process gains. Leaders were urged to resolve disputes to enable national elections.",
+   "why": "Persistent institutional divisions in Libya risk reigniting open conflict and destabilizing North African regional security.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.36
+   "gap": 0.34
   },
   {
    "pre": 8,
@@ -337,11 +337,35 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Demonstrations by thousands of students demanding improved university conditions and job prospects turned violent in Albania. Protesters clashed with police and set government buildings on fire during the second day of unrest.",
-   "why": "Violent civil unrest directed at state institutions indicates deepening domestic instability and widespread youth economic grievances.",
+   "summary": "Buildings were set on fire during a second day of protests by thousands of Albanian students demanding better university conditions and job prospects. Demonstrations turned violent as participants clashed with police.",
+   "why": "Violent civic unrest and arson targeting state institutions threaten domestic political stability in Albania.",
    "impact": 4.0,
    "under_radar": false,
    "gap": 0.2
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "Health workers tackle taboos over drinking with new AI tool",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168594",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "The WHO launched an AI-powered hub designed to help healthcare professionals detect alcohol-related risks. The tool is intended to facilitate discussions with patients regarding risks, including the link between alcohol and cancer.",
+   "why": "Deploying AI tools for clinical screening can improve public health intervention and preventive healthcare strategies.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
