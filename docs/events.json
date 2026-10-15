@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-14T21:17:56.778477Z",
+ "updated": "2026-10-15T00:16:19.973418Z",
  "events": [
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791992059,
-   "articles": [
-    {
-     "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-     "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "The Singapore-flagged container ship GFS Pride sank in the Strait of Hormuz after being struck by a projectile. Authorities reported that all 21 crew members were evacuated safely.",
-   "why": "Hostile attacks leading to ship sinkings in the Strait of Hormuz threaten a critical global chokepoint for international trade and maritime transit.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
   {
    "pre": 7,
    "tier": "primary",
@@ -43,70 +19,11 @@
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "The head of the UNDP warned that approximately 800 million young people entering developing economies' labor markets will not find jobs without decisive intervention. In response, the agency launched two initiatives aimed at stimulating investment and employment.",
-   "why": "Mass structural youth unemployment across the developing world risks widespread economic stagnation, migration pressures, and social unrest.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "NPR World"
-   ],
-   "n_sources": 2,
-   "ts": 1792000500,
-   "articles": [
-    {
-     "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
-     "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-     "link": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "How will a diesel deal with Russia impact the U.S. market?",
-     "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "US President Trump has entered into a diesel deal with Russia, alarming Ukraine and allied nations. The agreement raises questions about its effects on domestic markets and international relations.",
-   "why": "A direct US-Russia energy deal disrupts established geopolitical alliances and sanctions regimes amidst the war in Ukraine.",
+   "summary": "The UN Development Programme warned that roughly 800 million young people in developing economies face unemployment upon entering the workforce unless decisive action is taken. In response, the agency launched two initiatives intended to stimulate job creation and investment.",
+   "why": "Structural unemployment affecting 800 million youths represents a monumental demographic and economic stability risk for developing nations.",
    "impact": 6.8,
    "under_radar": true,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791979200,
-   "articles": [
-    {
-     "title": "DR Congo: Cholera cases spike amid fight against Ebola",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168595",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "More than 125,000 suspected cholera cases and 3,644 suspected deaths were recorded in the Democratic Republic of Congo between January 2025 and September 2026. The World Health Organization warned that the outbreak continues to spread alongside concurrent efforts against Ebola.",
-   "why": "A massive, deadly epidemic spreading in a fragile state strains already depleted medical resources and poses severe mortality risks.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
+   "gap": 0.58
   },
   {
    "pre": 7,
@@ -126,8 +43,56 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Intensified fighting in Yemen has severed life-saving aid access to 800,000 people across frontlines and blocked transit corridors into Taiz. The World Food Programme warned of a potential humanitarian catastrophe resulting from these blockades.",
-   "why": "Cutting off critical food and medical relief to nearly a million people significantly accelerates the risk of acute starvation and death.",
+   "summary": "Escalating combat in Yemen has blocked critical humanitarian assistance to 800,000 individuals, according to the World Food Programme. Moving frontlines, damaged transit routes, and worsening insecurity have cut access to Taiz and other conflict zones.",
+   "why": "Cutting off food and life-saving aid to nearly a million people risks immediate mass starvation.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Haiti faces an acute security crisis as armed gangs control large areas of Port-au-Prince and expand into rural areas. Gang activities include killings, sexual violence, kidnappings, and extortion as sanctions targeting illicit weapons are renewed.",
+   "why": "The near-total collapse of state security in Haiti exposes millions of citizens to pervasive gang violence and humanitarian collapse.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "DR Congo: Cholera cases spike amid fight against Ebola",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168595",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "A worsening cholera epidemic in the Democratic Republic of the Congo has resulted in over 125,000 suspected cases and 3,644 deaths between January 2025 and late September 2026. The outbreak continues to spread alongside concurrent efforts to contain Ebola.",
+   "why": "The massive death toll and scale of the epidemic compound existing health crises in a fragile health infrastructure.",
    "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
@@ -150,62 +115,14 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Recent Russian attacks on Kharkiv and Kyiv killed and injured civilians while inflicting damage on homes and civilian infrastructure. The casualties and infrastructure impacts were reported by the UN aid coordination office.",
-   "why": "Continued strikes against major Ukrainian population centers degrade essential civic infrastructure and cause ongoing civilian casualties.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "Recent Russian strikes targeting Kharkiv and Kyiv caused civilian deaths and dozens of injuries, according to the UN aid coordination office. The attacks also inflicted damage on residential housing and vital civilian infrastructure.",
+   "why": "Direct bombardment of major population centers continues to erode Ukraine's civilian infrastructure and inflict non-combatant casualties.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791977065,
-   "articles": [
-    {
-     "title": "Mauritius reels from worst riots in decades after woman shot by police",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Mauritius is experiencing its worst riots in decades following the police shooting of a woman, leading the Prime Minister to impose a curfew. The civil unrest originally began over water shortages.",
-   "why": "Resource shortages combined with state violence have triggered unprecedented civil unrest and a national curfew in Mauritius.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791927769,
-   "articles": [
-    {
-     "title": "Saudi employee charged with planting recording device in OpenAI office",
-     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A Saudi employee at OpenAI has been charged with planting a covert recording device inside an executive conference room. The device was reportedly plugged into a television USB port and wrapped in toilet paper.",
-   "why": "Physical corporate espionage within a frontier AI firm highlights severe national security and intellectual property vulnerabilities.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 9,
+   "pre": 7,
    "tier": "primary",
    "sources": [
     "UN News"
@@ -214,16 +131,16 @@
    "ts": 1791892800,
    "articles": [
     {
-     "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+     "title": "Disasters cost $228 billion in housing losses every year",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Yemen's southwestern city of Taiz faces an escalating humanitarian crisis driven by rising food prices and supply shortages. The situation is exacerbated by heightened local tensions and ongoing conflict conditions.",
-   "why": "Escalating supply shortages and price surges directly threaten civilian survival in an already heavily contested urban center.",
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Global disasters cause approximately $228 billion in residential housing losses annually. Communities worldwide face this recurring financial burden each year to rebuild shelter following disasters.",
+   "why": "The recurring multi-hundred-billion-dollar cost of disaster damage strains global economies and diverts capital from long-term development.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
@@ -246,11 +163,83 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "The UN and its partners are preparing Gaza for the oncoming cold and rainy season as ongoing attacks continue to impact civilians. OCHA reported the stepping up of seasonal humanitarian support amidst active hostilities.",
-   "why": "Adverse winter weather combined with active military strikes threatens mass exposure and secondary health crises for displaced civilians.",
-   "impact": 5.8,
+   "summary": "UN agencies are preparing for the upcoming cold and rainy season in Gaza as attacks impacting civilians persist. Concurrently, international efforts continue addressing security patrols in CAR and urban sustainability initiatives.",
+   "why": "Impending severe weather conditions will severely aggravate the already critical survival conditions for displaced civilians in Gaza.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.46
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791892800,
+   "articles": [
+    {
+     "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Local",
+   "summary": "Yemen's southwestern city of Taiz is facing a devastating humanitarian crisis marked by escalating tensions, food shortages, and spiking prices. A Houthi siege, cholera outbreak, and aid cuts continue to severely affect civilians.",
+   "why": "It highlights an acute compounding humanitarian emergency threatening basic survival in a major Yemeni urban center.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "UN independent experts welcomed a landmark corporate accountability ruling by Colombia's Special Jurisdiction for Peace regarding oil company Ecopetrol. The experts urged the provision of reparations to victims of the country's armed conflict.",
+   "why": "It establishes a notable precedent for corporate accountability and legal liability for human rights abuses in armed conflict zones.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "WHO calls for urgent health action across the Eastern Mediterranean",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "The head of the World Health Organization called for urgent measures to safeguard public health across the Eastern Mediterranean. The region contains major ongoing humanitarian crises, including those in Sudan, Yemen, and the Occupied Palestinian Territory.",
+   "why": "Multiple concurrent crises have severely eroded regional public health infrastructure across several conflict zones.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
   },
   {
    "pre": 7,
@@ -262,97 +251,19 @@
    "ts": 1791892800,
    "articles": [
     {
-     "title": "Disasters cost $228 billion in housing losses every year",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
+     "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Global communities face an estimated $228 billion annually in rebuilding costs due to disaster-related housing destruction.",
-   "why": "The immense annual capital loss from natural disasters places severe long-term fiscal burdens on global economies and slows post-disaster recovery.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791993244,
-   "articles": [
-    {
-     "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-     "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "FBI agents arrested OpenAI employee Abdulrahman Alfozan, who had worked at the company for over a year, for planting hidden recording devices. The device was concealed in an executive conference room.",
-   "why": "The FBI arrest of an insider at a major artificial intelligence lab underscores growing security threats targeting advanced tech infrastructure.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791991574,
-   "articles": [
-    {
-     "title": "US inflation rises more than expected - here's what is happening with prices",
-     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "US inflation accelerated to 3.7% in the year to September, rising more than anticipated. Higher motor fuel costs were the primary driver of the price increases.",
-   "why": "Higher-than-expected inflation affects millions of consumers and influences upcoming central bank interest rate decisions.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1791994020,
-   "articles": [
-    {
-     "title": "Turkish police raid opposition TV station, halting live broadcasts",
-     "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Turkey: Government raids, takes over top news channel",
-     "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Turkish police raided an opposition TV station and halted live broadcasts. It represents the latest action in a series of government crackdowns on critical media.",
-   "why": "State suppression of major news broadcasts marks a significant erosion of press freedom and democratic checks in Turkey.",
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The International Organization for Migration reported that sea arrivals from West Africa to Europe have declined, though the crossing remains equally dangerous. Other global events noted include Argentina bringing a maritime dispute with the UK to an international tribunal.",
+   "why": "It shows changing migration flows alongside persistent mortal hazards on maritime crossing routes into Europe.",
    "impact": 5.2,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.42
   },
   {
    "pre": 9,
@@ -372,11 +283,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "Global",
-   "summary": "UN Secretary-General António Guterres presented a $3.3 billion programme budget proposal for next year, representing a $40.8 million cut. The proposal comes despite mounting global challenges including war, climate disruption, and hunger.",
-   "why": "Budget reductions for the United Nations directly constrain resources for international diplomacy, peacekeeping, and humanitarian coordination worldwide.",
-   "impact": 5.0,
+   "summary": "UN Secretary-General António Guterres presented a $3.3 billion programme budget proposal for next year, representing a $40.8 million reduction. He emphasized that the need for the UN has never been greater amid climate disruptions, artificial intelligence advances, war, and hunger.",
+   "why": "Budget constraints at the UN directly affect the operational capacity of global peacekeeping, humanitarian aid, and development programs.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.38
   },
   {
    "pre": 7,
@@ -396,148 +307,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "The UN envoy warned the Security Council that institutional division, economic decay, and fragile security threaten Libya's stability despite political progress. Libyan leaders were urged to resolve their differences to enable national elections.",
-   "why": "Persistent state fragmentation in Libya risks reigniting broader armed conflict and disrupting regional security in North Africa.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1791998880,
-   "articles": [
-    {
-     "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
-     "link": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Russia arrests Japanese journalist on allegations of spying",
-     "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "A Japanese newspaper journalist was arrested on suspicion of espionage in Russia's Far East. The incident has intensified existing diplomatic friction linked to disputed regional islands.",
-   "why": "The espionage arrest of a foreign journalist heightens diplomatic tensions between Tokyo and Moscow amid territorial disputes.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.28
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791987498,
-   "articles": [
-    {
-     "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-     "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Hundreds of thousands of workers have initiated strikes across the Republic of Ireland. The action stems from an unresolved pay dispute between public sector employees and the Irish government.",
-   "why": "Massive public sector strikes disrupt nationwide public services and create significant fiscal pressure on the government.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791892800,
-   "articles": [
-    {
-     "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Other",
-   "scale": "Regional",
-   "summary": "The International Organization for Migration reported that fewer West African migrants are reaching Europe by sea, although the journey remains hazardous.",
-   "why": "Shifts in maritime migration flows reflect changing border enforcement dynamics alongside persistent risks to human life at sea.",
+   "summary": "The UN envoy informed the Security Council that institutional division, economic decline, and security fragility continue to imperil stability in Libya despite political progress. Leaders were urged to resolve disputes to facilitate national elections.",
+   "why": "Sustained political paralysis in Libya threatens regional stability and prolongs long-standing governance vacuums.",
    "impact": 4.6,
    "under_radar": false,
    "gap": 0.36
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World"
-   ],
-   "n_sources": 2,
-   "ts": 1792010000,
-   "articles": [
-    {
-     "title": "World's oldest shipwreck found off coast of Turkey",
-     "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "World’s oldest shipwreck found off coast of Turkiye",
-     "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "World’s oldest known shipwreck found in Turkiye",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "Archaeologists have discovered the world's oldest known shipwreck off the coast of Turkey. The wreck is estimated to be up to 4,700 years old, dating back to the Early Bronze Age.",
-   "why": "The discovery provides critical archaeological evidence regarding Early Bronze Age maritime history and ancient trade routes.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.26
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1791996452,
-   "articles": [
-    {
-     "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-     "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Netflix is eliminating approximately 1,000 jobs, marking its steepest workforce reduction since 2022. The cuts represent roughly 6% of the company's global staff.",
-   "why": "Large-scale layoffs at a major streaming platform reflect broader economic tightening across the tech and media sectors.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
   },
   {
    "pre": 8,
@@ -547,10 +321,10 @@
     "The Guardian World"
    ],
    "n_sources": 2,
-   "ts": 1792009745,
+   "ts": 1792019983,
    "articles": [
     {
-     "title": "Student protesters attack government buildings in Tirana",
+     "title": "Student protesters attack government buildings in Albania",
      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     },
@@ -563,35 +337,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Thousands of student demonstrators in Albania clashed with police and attacked government buildings, setting some on fire. The protests were organized to demand improved university conditions and better employment prospects.",
-   "why": "Violent civil unrest targeting state buildings indicates escalating domestic instability and severe youth dissatisfaction in Albania.",
-   "impact": 4.2,
+   "summary": "Demonstrations by thousands of students demanding improved university conditions and job prospects turned violent in Albania. Protesters clashed with police and set government buildings on fire during the second day of unrest.",
+   "why": "Violent civil unrest directed at state institutions indicates deepening domestic instability and widespread youth economic grievances.",
+   "impact": 4.0,
    "under_radar": false,
-   "gap": 0.22
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1791979200,
-   "articles": [
-    {
-     "title": "Health workers tackle taboos over drinking with new AI tool",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168594",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "The WHO announced a new AI-powered hub designed to help healthcare professionals identify alcohol-related risks and discuss issues like alcohol-induced cancer with patients.",
-   "why": "It introduces a standardized technological intervention into primary healthcare to identify early substance risks and reduce long-term chronic disease.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
+   "gap": 0.2
   }
  ]
 }
