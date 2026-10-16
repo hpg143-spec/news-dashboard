@@ -1,310 +1,400 @@
 {
- "updated": "2026-10-15T21:19:42.786208Z",
+ "updated": "2026-10-16T00:14:21.547934Z",
  "events": [
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792058717,
+   "ts": 1792065600,
    "articles": [
     {
-     "title": "Brazil's Congress approves shorter working week in win for Lula",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "A new UN report warns that fewer than half of national targets to protect global biodiversity and ecosystems are on track ahead of the COP17 conference in Armenia. The findings highlight widespread lag in international efforts to preserve plants and animals.",
+   "why": "Failure to meet global biodiversity goals accelerates ecosystem collapse and permanent species extinction worldwide.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "A new UN report warns that neurotechnology is advancing faster than human rights protections, calling for international limits. It cautions that brain signals gathered from consumer gadgets could eventually be weaponized as evidence in legal proceedings.",
+   "why": "Unregulated neurotechnology creates unprecedented risks for mental privacy, legal rights, and human autonomy globally.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "WHO urges vigilance after Kenya confirms second Ebola case",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Kenya has confirmed its second case of Ebola, specifically the Bundibugyo virus, prompting the WHO to urge vigilance and maintain containment support. Health authorities are actively working to control further spread.",
+   "why": "The appearance of multiple Ebola cases poses severe cross-border public health containment risks in East Africa.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168600",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The WHO called for accelerated global measures against lead exposure, warning it causes over 3.5 million deaths each year. The organization emphasized that lead toxicity continues to affect hundreds of millions of children globally.",
+   "why": "Lead exposure remains a widespread, lethal environmental toxin causing millions of preventable deaths and irreversible cognitive harm.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
    "scale": "National",
-   "summary": "Brazil's Congress approved legislation establishing a shorter working week. The legislative victory comes 10 days ahead of a presidential run-off election.",
-   "why": "A major nationwide labor policy reform that directly affects national working conditions and economic output.",
+   "summary": "Afghanistan has reached record-high levels of acute hunger and malnutrition, with 15.9 million people suffering acute food insecurity according to a global hunger report. Conditions are projected to deteriorate further in the coming months.",
+   "why": "Mass acute food insecurity threatens the survival of millions and deepens an already catastrophic humanitarian crisis in Afghanistan.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
   },
   {
-   "pre": 5,
+   "pre": 9,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "Al Jazeera",
+    "BBC World",
+    "The Guardian World"
    ],
-   "n_sources": 1,
-   "ts": 1792098301,
+   "n_sources": 3,
+   "ts": 1792107526,
    "articles": [
     {
-     "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
+     "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
+     "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
      "source": "Al Jazeera"
     },
     {
-     "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
-     "link": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+     "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Global",
-   "summary": "An Israeli firm operating as an ad-tech company was used to deliver spyware onto devices belonging to Al Jazeera journalists. The operation disguised malicious surveillance tools as digital advertisements.",
-   "why": "The covert use of digital advertising networks to deploy spyware against international journalists poses significant risks to press freedom and cybersecurity.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
+   "scale": "National",
+   "summary": "A Houthi ballistic missile strike on al-Maashiq presidential palace in Aden killed five people, according to Yemen's information minister. The prime minister and other cabinet members were reported unharmed in the attack.",
+   "why": "Targeting the seat of Yemen's internationally recognized government threatens fragile leadership stability and escalates the Yemeni conflict.",
+   "impact": 6.8,
+   "under_radar": false,
+   "gap": 0.38
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792040423,
+   "ts": 1791979200,
    "articles": [
     {
-     "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-     "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+     "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Armed gangs in Haiti have expanded control over Port-au-Prince and pushed into rural areas, committing widespread killings, rapes, kidnappings, and extortion. International sanctions have been renewed in an effort to curb ammunition and weapons flows to the gangs.",
+   "why": "Widespread gang control and violence threaten total state collapse and severe ongoing human rights abuses in Haiti.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792096192,
+   "articles": [
+    {
+     "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+     "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
+    },
+    {
+     "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+     "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "A BBC Verify review found 254 incidents over three years where the Israeli military reported investigating alleged harm without publishing public outcomes. These cases involve military killings currently under review.",
-   "why": "It documents systemic lack of transparency and accountability in military investigations regarding civilian casualties.",
+   "summary": "A drone attack left a tanker ablaze off Romania's coast in the Black Sea, leaving seven crew members missing. A search and rescue operation is underway following the strike.",
+   "why": "Attacks on commercial shipping near NATO waters heighten maritime security risks and threaten vital Black Sea transit routes.",
+   "impact": 6.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Russian strikes on UN warehouses in Ukraine have destroyed over $1.5 million worth of medical supplies across four attacks since July. The destruction of essential medicines is causing severe disruptions to the country's healthcare system.",
+   "why": "Direct destruction of humanitarian medical reserves undermines essential healthcare delivery to war-affected civilian populations.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A UN report warns that fast-paced transitions in artificial intelligence, digital tech, and green energy risk worsening socio-economic inequalities. While offering new opportunities, the shifts threaten to leave vulnerable communities behind.",
+   "why": "Macroeconomic restructuring driven by AI and green transitions could fundamentally deepen global wealth and access divides.",
    "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792045485,
+   "ts": 1792065600,
    "articles": [
     {
-     "title": "North Korea and China open new bridge after 12-year delay",
-     "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168599",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "North Korea and China have opened a new cross-border bridge following a 12-year delay. China serves as Pyongyang's primary trading partner and economic lifeline against international sanctions.",
-   "why": "The bridge strengthens critical trade and logistical infrastructure between China and North Korea, directly impacting sanction enforcement and regional trade.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
+   "summary": "The UN Security Council convened an open debate addressing surges in Israeli strikes, demolitions, and casualties in Gaza and the West Bank. The session centered on the worsening conditions across the Occupied Palestinian Territory.",
+   "why": "Security Council scrutiny reflects high-level diplomatic pressure amidst escalating violence and territorial destruction in the Palestinian territories.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792077976,
+   "ts": 1791979200,
+   "articles": [
+    {
+     "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "UN independent experts welcomed a landmark ruling by Colombia’s Special Jurisdiction for Peace regarding oil company Ecopetrol. The experts called on the company to provide reparations to victims of the nation's armed conflict.",
+   "why": "Establishing corporate legal accountability and reparations for wartime abuses sets a major precedent for transitional justice.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792090500,
+   "articles": [
+    {
+     "title": "Maduro pleads not guilty to new torture-related charges in New York",
+     "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Venezuela's Nicolas Maduro pleads not guilty to torture charges",
+     "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+     "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "International",
+   "summary": "Venezuelan President Nicolás Maduro pleaded not guilty to newly added torture-related charges in a New York court. Maduro stated in court that he entirely rejected the document containing the allegations.",
+   "why": "The prosecution of a sitting or contested head of state in US court carries major legal and diplomatic implications for Venezuela and international law.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1792096262,
    "articles": [
     {
      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "At least 33 students and a teacher were killed after a school roof collapsed through three classrooms in Pakistan. Children were buried under the falling debris, according to police.",
-   "why": "A catastrophic infrastructure failure resulting in severe mass casualties among children.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792086442,
-   "articles": [
+    },
     {
-     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-     "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+     "title": "At the scene of a school roof collapse in Pakistan",
+     "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     },
     {
-     "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
-     "link": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss",
+     "title": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
+     "link": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
      "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Donald Trump stated that the execution of Fort Hood shooter Nidal Hasan by firing squad will not be livestreamed. Hasan's execution marks the first military execution in the United States in over 60 years.",
-   "why": "Addresses procedural decisions surrounding the first US military capital punishment case in over six decades.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792058729,
-   "articles": [
+    },
     {
-     "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-     "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Local",
-   "summary": "Istanbul experienced its heaviest rainfall in 84 years, leaving two people dead. The governor advised residents to stay inside their homes unless travel is absolutely necessary.",
-   "why": "A record-breaking meteorological event causing fatalities and severe urban disruption in a major metropolitan area.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792094784,
-   "articles": [
+     "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+     "link": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+     "source": "NPR World"
+    },
     {
-     "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
-     "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+     "title": "Pakistan school roof collapse kills at least 34 children and teacher",
+     "link": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "National",
-   "summary": "The FBI and US Postal Inspection Service are investigating letters containing an unknown powdery substance sent to state and election officials nationwide. The incidents prompted evacuations of election offices in Louisiana and Oklahoma ahead of the November elections.",
-   "why": "Threats targeting election infrastructure risk disrupting national electoral administration and public safety.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792034796,
-   "articles": [
-    {
-     "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-     "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "State",
-   "summary": "Thick orange smog from nearby raging wildfires has blanketed the Indonesian city of Palangka Raya. Residents shared footage documenting the dense haze covering local communities.",
-   "why": "Wildfire smoke causes immediate and severe public health and environmental hazards across populated urban centers.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792031167,
-   "articles": [
-    {
-     "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-     "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Seventy-two retired US officers sent a letter urging the Pentagon to cancel the planned livestreamed execution of Nidal Hasan. The former generals stated that broadcasting the execution would dishonor the military and the country.",
-   "why": "The proposal raises unprecedented legal, military, and ethical questions regarding public or livestreamed capital punishment by the US military.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792098946,
-   "articles": [
-    {
-     "title": "Several people dead or missing after Istanbul floods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
    "scale": "Local",
-   "summary": "Torrential rain triggered extensive flooding throughout Istanbul, leaving at least three people dead. Several other individuals remain missing as emergency situations unfolded across the city.",
-   "why": "Severe flash flooding caused confirmed fatalities and acute disruptions in a major metropolitan region.",
-   "impact": 4.6,
+   "summary": "A school roof collapsed through three classrooms in Pakistan, killing at least 33 students and one teacher. Police reported that children were buried under the fallen debris.",
+   "why": "The fatal structural failure demonstrates severe infrastructure vulnerabilities risking civilian and child safety in the region.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792086769,
-   "articles": [
-    {
-     "title": "Albania’s PM dismisses calls to resign as student protests spread",
-     "link": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Albania’s prime minister vows not to resign over student-led protests",
-     "link": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Local Civic",
-   "scale": "National",
-   "summary": "Albanian Prime Minister Edi Rama condemned unrest and vowed not to resign as student-led protests entered their third day. The demonstrations have spread from the capital to other cities.",
-   "why": "Expanding nationwide protests represent a direct challenge to the political stability of Albania's government.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.22
+   "gap": 0.16
   }
  ]
 }
