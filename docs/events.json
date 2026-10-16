@@ -1,4 +1,461 @@
 {
- "updated": "2026-10-16T09:19:46.505560Z",
- "events": []
+ "updated": "2026-10-16T12:16:52.281382Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792058717,
+   "articles": [
+    {
+     "title": "Brazil's Congress approves shorter working week in win for Lula",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Brazil's Congress has approved a shorter working week, marking a political win for President Lula. Supporters anticipate the decision will bolster his standing ahead of an upcoming presidential run-off.",
+   "why": "A national reduction in work hours fundamentally alters labor conditions, economic output, and compensation across an entire country.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792126648,
+   "articles": [
+    {
+     "title": "They fled Russia, but the West sent them back",
+     "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "The European Union and the United States have seen a sharp increase in the deportation of anti-government activists back to Russia over the past year. These individuals were actively seeking asylum from Russian persecution.",
+   "why": "Signals a breakdown of asylum protections in Western democracies for dissidents facing severe retribution upon forced return.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792150691,
+   "articles": [
+    {
+     "title": "Why is China buying up gold?",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "China is accumulating significant quantities of gold as part of a strategic shift away from US dollar-denominated assets.",
+   "why": "State de-dollarization by the world's second-largest economy accelerates structural shifts in global reserve currencies.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792083018,
+   "articles": [
+    {
+     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+     "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Russia accused Ukraine of striking an oil refinery after President Zelensky declared an end to a pause on targeting energy infrastructure. The resumption followed recent Russian attacks on Ukraine.",
+   "why": "Renewed strikes on critical energy infrastructure escalate warfare and heighten risks for regional fuel supply chains.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792058729,
+   "articles": [
+    {
+     "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+     "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "Record rainfall in Istanbul—the heaviest in 84 years—has caused two deaths. The governor instructed residents to remain indoors unless travel is strictly necessary.",
+   "why": "Extreme weather events breaking multi-decade records disrupt major urban centers and present acute public safety threats.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792045485,
+   "articles": [
+    {
+     "title": "North Korea and China open new bridge after 12-year delay",
+     "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "North Korea and China have opened a new cross-border bridge following a 12-year delay. China serves as North Korea's largest trading partner and an economic lifeline against international sanctions.",
+   "why": "Expands physical trade infrastructure between Pyongyang and Beijing, undermining international sanctions regimes.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792040423,
+   "articles": [
+    {
+     "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+     "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "BBC Verify revealed that 254 incidents over three years involving alleged lethal harm by the Israeli military remain under review with no public outcome.",
+   "why": "Systemic lack of resolution in official military investigations impairs accountability for civilian casualties under international law.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792151650,
+   "articles": [
+    {
+     "title": "‘Trying to dominate’: How Israel is embedding itself in the Cypriot state",
+     "link": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Israel has increasingly integrated into Cyprus's vital infrastructure, including water, gas, healthcare, and defence sectors. The growing involvement has prompted domestic fears among Cypriots regarding national sovereignty.",
+   "why": "Strategic integration by a foreign power into an EU member state's core utilities and defense reshapes regional Eastern Mediterranean security.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792063519,
+   "articles": [
+    {
+     "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Regional",
+   "summary": "Starlink internet functions as the core military communications backbone for Ukraine's armed forces. The satellite service supplies high-speed internet connectivity across active frontlines.",
+   "why": "Commercial satellite internet has become an indispensable, single-point dependency in modern warfare command and control.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792134053,
+   "articles": [
+    {
+     "title": "UK law could deny Fayed accusers recognition as victims of human trafficking",
+     "link": "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UK's independent anti-slavery commissioner warned that credibility tests in a new immigration and asylum bill could wrongly deny sexual violence survivors recognition as trafficking victims. The measure could potentially affect accusers in high-profile abuse cases.",
+   "why": "Statutory changes to victim identification standards determine legal protections and state support for human trafficking survivors.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792086442,
+   "articles": [
+    {
+     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+     "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Donald Trump canceled a planned livestream of the execution by firing squad of Fort Hood attacker Nidal Hasan. Hasan's execution represents the first US military execution in over 60 years.",
+   "why": "The resumption of US military executions after six decades sets a significant legal and procedural precedent.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792150918,
+   "articles": [
+    {
+     "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+     "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A shooting at Silver Rail Elementary School in Bend, Oregon, resulted in the deaths of three children and a teacher. The suspect was subsequently shot by a bystander.",
+   "why": "A fatal school shooting claims multiple lives and intensifies concerns over public safety and school security.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792031167,
+   "articles": [
+    {
+     "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Seventy-two retired military officers signed a letter urging the Pentagon to cancel plans to livestream the execution of Nidal Hasan. The former generals stated the broadcast would taint military honor and national standing.",
+   "why": "Public broadcast of military capital punishment raises serious constitutional and human rights concerns regarding military legal norms.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792123250,
+   "articles": [
+    {
+     "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+     "link": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Yemen's former prime minister warned that the Yemen civil war and the Houthi militia's use of drones threaten western security. Meanwhile, a besieged Yemeni city faces food and fuel shortages amid an anticipated breakthrough.",
+   "why": "Regional instability and Houthi military operations directly impact maritime corridors and broader security.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792075020,
+   "articles": [
+    {
+     "title": "EU summit to focus on China, Ukraine and bloc budget",
+     "link": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "EU leaders are meeting in Brussels to address the bloc's large trade deficit with China. They are also working to reach an agreement on the next EU budget ahead of upcoming major elections.",
+   "why": "Decisions on the EU budget and trade policy toward China carry significant economic consequences for member states and global trade.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792140354,
+   "articles": [
+    {
+     "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+     "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Chinese Foreign Minister Wang Yi urged Israeli President Isaac Herzog to stop the forced establishment of West Bank settlements. The discussion occurred during a meeting on the sidelines of a conference.",
+   "why": "Direct diplomatic friction between China and Israel highlights expanding geopolitical engagement in Middle Eastern territorial disputes.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792052227,
+   "articles": [
+    {
+     "title": "Actor Imran Khan ordered to leave India after participating in protest",
+     "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Actor Imran Khan has been ordered to leave India after taking part in a Mumbai protest. He had previously been detained and released during the October 10 demonstration.",
+   "why": "Demonstrates official intolerance and severe immigration penalties for political assembly by non-citizen residents.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792076405,
+   "articles": [
+    {
+     "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+     "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "An analysis of a 75,000-year-old Neanderthal spear wound suggests lethal fighting was more prevalent among early hominids than previously understood.",
+   "why": "Provides empirical archaeological evidence altering historical models of violence in human evolution.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792083972,
+   "articles": [
+    {
+     "title": "Watch: Moment drone hits supermarket in Odesa",
+     "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "CCTV footage confirmed a drone strike struck a supermarket in Mayaky, a town located in Ukraine's Odesa region.",
+   "why": "Reflects ongoing tactical strikes on civilian commercial infrastructure in Ukraine.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
