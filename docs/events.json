@@ -1,4 +1,281 @@
 {
- "updated": "2026-10-16T15:16:59.247100Z",
- "events": []
+ "updated": "2026-10-16T18:14:25.635118Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792147260,
+   "articles": [
+    {
+     "title": "How prepared is Kenya for an Ebola outbreak?",
+     "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Kenya has reported its first two confirmed cases of Ebola, raising questions regarding border controls and public health readiness. The country's Health Ministry stated there is currently no need for panic.",
+   "why": "An Ebola outbreak in Kenya poses severe public health and epidemic containment risks across East Africa.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792166430,
+   "articles": [
+    {
+     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+     "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukrainian forces have reclaimed key territory in the Donbas during Operation Vivaldi, with Starlink playing an essential operational role. However, battlefield momentum has been tempered by deteriorating relations with US President Donald Trump.",
+   "why": "Territorial shifts in Donbas and shifting US diplomatic support hold major consequences for the course of the war in Ukraine.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792123250,
+   "articles": [
+    {
+     "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+     "link": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Yemen's former Prime Minister Maeen Abdulmalik Saeed warned that the future of Western security is at stake amid battles against Iran-backed militias using advanced drones. Meanwhile, a besieged Yemeni city faces dwindling food and fuel reserves against Houthi offensives.",
+   "why": "The conflict's escalation threatens strategic regional waterways, energy security, and stability in the Middle East.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792167540,
+   "articles": [
+    {
+     "title": "Ethiopia announces instalment of interim government in Tigray",
+     "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
+     "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Ethiopian Prime Minister Abiy Ahmed has installed an interim government in the Tigray region following military actions pushing back the TPLF. Ahmed also pledged that free elections would be held within six months.",
+   "why": "The appointment of interim leadership in Tigray is a critical juncture for regional governance and stability following armed conflict.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792166370,
+   "articles": [
+    {
+     "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+     "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Ukrainian President Volodymyr Zelensky asserted Ukraine's right to defend itself after Donald Trump criticized recent strikes as a 'disgrace'. European Union leaders have rallied behind Zelensky following Trump's remarks that the Ukrainian leader is harder to deal with than Vladimir Putin.",
+   "why": "A diplomatic rift between US leadership and Ukraine strains the Western alliance and influences international military aid.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792161399,
+   "articles": [
+    {
+     "title": "Pope pictured for first time since surgery and cancer diagnosis",
+     "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Global",
+   "summary": "The Pope appeared in public photographs for the first time since undergoing surgery and receiving a lung cancer diagnosis at Rome's Gemelli Hospital.",
+   "why": "The health status of the Roman Catholic Church's leader impacts global ecclesiastical governance.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792160390,
+   "articles": [
+    {
+     "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+     "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "US senators have called for an inquiry into Starlink after Ukraine reported that temporary speed limits disrupted its military operations. The restrictions reportedly impaired Ukrainian missions on the battlefield.",
+   "why": "Congressional scrutiny over private satellite network controls underlines reliance on corporate infrastructure for sovereign defense.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792075020,
+   "articles": [
+    {
+     "title": "EU summit to focus on China, Ukraine and bloc budget",
+     "link": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "EU leaders are convening in Brussels to address the bloc's substantial trade deficit with China. The summit will also seek consensus on the upcoming EU budget ahead of major elections next year.",
+   "why": "Decisions on EU trade strategy with China and multi-year budget plans directly impact the European and global economy.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792161212,
+   "articles": [
+    {
+     "title": "Albanian protests turn violent: What we know",
+     "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Long-running protests by the anti-government 'Flamingo' movement in Albania's capital, Tirana, escalated into widespread violence. Authorities reported the escalation represented a substantial shift in scale compared to prior demonstrations.",
+   "why": "Violent unrest in the capital poses an immediate threat to Albania's internal political stability.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792077976,
+   "articles": [
+    {
+     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+     "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Pakistan school roof collapse kills at least 34 children and teacher",
+     "link": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A school roof collapse in Pakistan crashed through three classrooms, leaving at least 33 pupils and a teacher dead. Authorities confirmed that children were trapped and buried under debris.",
+   "why": "A deadly infrastructure failure resulting in mass child casualties highlights critical gaps in local public building safety.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792151071,
+   "articles": [
+    {
+     "title": "India's 'cockroach' party founder detained ahead of protest",
+     "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The founder of India's youth-led 'cockroach' party was detained in Delhi ahead of a planned protest. The demonstration was organized following mass detentions and the imprisonment of two movement leaders the previous week.",
+   "why": "Preemptive state detentions of political organizers signal heightened domestic restrictions on public assembly.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  }
+ ]
 }
