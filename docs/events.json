@@ -1,8 +1,38 @@
 {
- "updated": "2026-10-16T21:18:08.175248Z",
+ "updated": "2026-10-17T00:15:03.002798Z",
  "events": [
   {
-   "pre": 7,
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792189800,
+   "articles": [
+    {
+     "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+     "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+     "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Deforestation in the Brazilian Amazon dropped to 3,335 square kilometers in the year ending July, marking the lowest level since 1988. Officials have characterized the decline as an historic achievement.",
+   "why": "A multi-decade low in Amazonian deforestation has profound, measurable benefits for global carbon cycles and biodiversity conservation.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 9,
    "tier": "primary",
    "sources": [
     "UN News"
@@ -11,64 +41,16 @@
    "ts": 1792065600,
    "articles": [
     {
-     "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+     "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Tech & Science",
+   "category": "Environment",
    "scale": "Global",
-   "summary": "A UN report warns that neurotechnology is advancing faster than human rights laws, raising risks that brain data from wellness gadgets and gaming headsets could be used in court. The agency called for clear legal limits to protect neurological privacy.",
-   "why": "The absence of governance around neurotechnology exposes fundamental mental privacy and human rights to corporate and legal exploitation.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "WHO scales up Ebola readiness in 22 countries across three continents",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "The World Health Organization is expanding Ebola preparedness measures across 22 countries in Africa, Asia, and Europe. The readiness effort comes amid widespread conflict and mass displacement affecting millions across these regions.",
-   "why": "Heightened preparedness is critical to prevent a lethal pathogen from causing a multicontinental outbreak in areas destabilized by conflict.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792147260,
-   "articles": [
-    {
-     "title": "How prepared is Kenya for an Ebola outbreak?",
-     "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Kenya has confirmed its first two cases of Ebola, prompting questions regarding national public health preparedness and border controls. The Health Ministry stated there is no need for panic.",
-   "why": "Ebola has an extremely high fatality rate, and its introduction into a major regional hub poses severe containment and public health risks.",
+   "summary": "A UN report warns that fewer than half of national biodiversity targets are on track ahead of the COP17 conference in Armenia. The findings highlight lagging global progress in protecting ecosystems, plants, and animals.",
+   "why": "Widespread failure to meet ecological protection targets accelerates irreversible global species extinction and ecosystem collapse.",
    "impact": 7.4,
    "under_radar": true,
    "gap": 0.64
@@ -90,84 +72,12 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Regional",
-   "summary": "The UN Security Council convened to address Sudan's conflict as drone strikes kill civilians and famine spreads across Darfur and Kordofan. Diplomats are pushing for a ceasefire, an end to weapons flows, and humanitarian aid access amid the world's largest hunger and displacement crisis.",
-   "why": "Unchecked warfare in Sudan threatens millions with starvation and risks destabilizing neighboring regions across East Africa.",
+   "scale": "National",
+   "summary": "The UN Security Council convened to address Sudan's escalating conflict, where drone strikes and famine spread across Darfur, Kordofan, and other regions. Ambassadors are pushing for a ceasefire, aid access, and a halt to weapons flows.",
+   "why": "Sudan represents the world's largest hunger and displacement emergency, with millions facing acute famine and escalating warfare.",
    "impact": 7.2,
    "under_radar": true,
    "gap": 0.62
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792065600,
-   "articles": [
-    {
-     "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "A UN report warns that fewer than half of national targets to protect ecosystems, plants, and animals are currently on track. The warning was issued ahead of the COP17 biodiversity conference in Yerevan, Armenia.",
-   "why": "Failing to meet biodiversity targets accelerates global ecosystem collapse and undermines natural resources essential for human survival.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792065600,
-   "articles": [
-    {
-     "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168600",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "The World Health Organization called for faster national action to prevent lead exposure, which affects hundreds of millions of children. The agency estimates that lead exposure causes over 3.5 million deaths globally each year.",
-   "why": "Lead exposure causes irreversible neurological damage and millions of preventable deaths worldwide, making global prevention critical for public health.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "UNICEF reported that more than 340 children have been killed and hundreds more injured in Gaza since a ceasefire agreement was announced between Israel and Hamas. The casualties occurred over the span of a little more than one year following the truce announcement.",
-   "why": "Persistent child casualties despite an agreed ceasefire highlight the complete failure of protection mechanisms for vulnerable civilians in the conflict zone.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
   },
   {
    "pre": 7,
@@ -187,8 +97,56 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "Acute malnutrition and hunger in Afghanistan have reached record highs, with 15.9 million people facing acute food insecurity. A global hunger monitor report warns that humanitarian conditions are projected to deteriorate further in coming months.",
-   "why": "Record food insecurity leaves nearly half of Afghanistan's population at immediate risk of starvation and severe health crises.",
+   "summary": "A global hunger monitor reported that 15.9 million people in Afghanistan face acute food insecurity, reaching the highest malnutrition levels ever recorded. The crisis is expected to worsen in the coming months.",
+   "why": "Record levels of severe hunger threaten millions with starvation and permanent developmental harm in a collapsed economy.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792166430,
+   "articles": [
+    {
+     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+     "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "International",
+   "summary": "Ukrainian forces have regained territory in the Donbas under Operation Vivaldi, with Starlink playing a crucial operational role. Concurrently, diplomatic relations with Donald Trump have grown strained.",
+   "why": "Shifts in frontline territorial control and critical communications infrastructure have direct consequences for the trajectory of the war in Ukraine.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "UN human rights monitors reported that Ukrainian civilian casualties reached record levels following intensified Russian attacks in September. The escalated strikes reflect a broader surge in civilian harm throughout 2026.",
+   "why": "Surging casualty rates and infrastructure attacks severely deteriorate civilian survival conditions across Ukraine.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
@@ -210,81 +168,33 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Regional",
-   "summary": "Reports of vessel attacks near the Strait of Hormuz reached a record high after 12 ships were struck within a single week. The spike in maritime strikes coincides with a slowdown in oil exports.",
-   "why": "Sustained attacks in the world's most critical maritime transit corridor threaten energy markets and increase the probability of direct military conflict.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792179228,
-   "articles": [
-    {
-     "title": "Trump denies limiting Ukraine access to Starlink network",
-     "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
    "scale": "Global",
-   "summary": "Speed curbs on the Starlink network limited Ukraine's defences during deadly Russian strikes. Donald Trump denied responsibility for limiting Ukraine's access to the satellite network.",
-   "why": "Disruptions to vital battlefield communication infrastructure directly impact military survival and raise profound questions about technological leverage in warfare.",
+   "summary": "Reports of ship attacks near the Strait of Hormuz reached a record high as 12 vessels were struck within one week, according to data from a UK maritime agency. The attacks coincide with a slowdown in oil exports.",
+   "why": "Disruptions to the Strait of Hormuz directly threaten global energy supplies and maritime trade routes.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "DW"
    ],
    "n_sources": 1,
-   "ts": 1792161399,
+   "ts": 1792147260,
    "articles": [
     {
-     "title": "Pope pictured for first time since surgery and cancer diagnosis",
-     "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "How prepared is Kenya for an Ebola outbreak?",
+     "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Health",
-   "scale": "Global",
-   "summary": "Pope Francis has been diagnosed with lung cancer following surgery at Rome's Gemelli Hospital. Photographs of the pontiff have been released for the first time since the procedure.",
-   "why": "A critical cancer diagnosis for the leader of the Catholic Church sets in motion major governance and succession dynamics for over a billion adherents.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792058717,
-   "articles": [
-    {
-     "title": "Brazil's Congress approves shorter working week in win for Lula",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Brazil's Congress has approved a measure to shorten the working week, delivering a legislative victory for President Lula. Supporters anticipate the reform will enhance Lula's popularity ahead of an upcoming presidential run-off.",
-   "why": "National legislation reducing work hours directly alters labor rights, business productivity, and the broader economy for tens of millions of workers.",
+   "scale": "Regional",
+   "summary": "Kenya has recorded its first two confirmed Ebola cases, sparking concerns regarding the nation's public health preparedness and border controls. The Health Ministry has stated that there is no need for panic.",
+   "why": "The entry of Ebola into a regional transit hub poses severe containment risks and high mortality threats.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
@@ -299,16 +209,16 @@
    "ts": 1792152000,
    "articles": [
     {
-     "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+     "title": "WHO scales up Ebola readiness in 22 countries across three continents",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Health",
    "scale": "Regional",
-   "summary": "UN human rights monitors reported that civilian casualties in Ukraine remain at record levels following intensified Russian attacks against energy infrastructure. The harm recorded far exceeds rates observed in previous years.",
-   "why": "Systematic strikes on energy infrastructure compound humanitarian suffering and risk leaving millions without basic utilities ahead of winter.",
+   "summary": "The World Health Organization is enhancing Ebola preparedness measures across 22 countries in Africa, Asia, and Europe. The scaling up comes as conflict and displacement increase epidemiological risks for millions.",
+   "why": "Conflict-driven displacement sharply increases the danger of rapid, cross-border transmission of deadly pathogens.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
@@ -323,16 +233,16 @@
    "ts": 1792065600,
    "articles": [
     {
-     "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+     "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
+   "category": "Tech & Science",
    "scale": "Global",
-   "summary": "A UN report warns that rapid transitions in artificial intelligence, digital tech, and green energy risk worsening socioeconomic inequality worldwide. While these shifts offer new economic opportunities, vulnerable communities face significant risk of being left behind.",
-   "why": "Unmanaged technological and energy transitions can entrench global economic disparities and destabilize labor markets.",
+   "summary": "A UN report warned that neurotechnology is developing faster than human rights laws, potentially allowing brain data from consumer gadgets to be used in court. The agency called for strict limits to protect cognitive privacy.",
+   "why": "Unregulated neurotechnology poses unprecedented legal and human rights challenges regarding mental privacy and self-incrimination.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
@@ -354,105 +264,33 @@
    ],
    "skip": false,
    "category": "Health",
-   "scale": "National",
-   "summary": "Kenya has confirmed a second person infected with the Bundibugyo Ebola virus. The World Health Organization continues to assist the country's containment measures and has urged vigilance.",
-   "why": "A second confirmed case of Ebola indicates active transmission that risks developing into a wider regional outbreak if containment fails.",
+   "scale": "Regional",
+   "summary": "The World Health Organization is supporting Kenya's containment efforts after a second person tested positive for the Bundibugyo Ebola virus. The announcement was made by the UN agency's representative in the country.",
+   "why": "A confirmed second case of Ebola in Kenya signals potential cross-border outbreak risks in East Africa.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792166430,
+   "ts": 1792152000,
    "articles": [
     {
-     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-     "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "Ukrainian forces have launched Operation Vivaldi to push back Russian forces and regain territory in the Donbas, supported by Starlink. However, Ukrainian optimism is pressured by strained relations with President Trump.",
-   "why": "Major shifts in front-line territory in the Donbas directly alter the strategic balance of the ongoing war.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792086442,
-   "articles": [
-    {
-     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-     "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Donald Trump cancelled plans to livestream the firing squad execution of Fort Hood attacker Nidal Hasan. Hasan's execution marks the first U.S. military execution in over six decades.",
-   "why": "It involves the historic resumption of U.S. military capital punishment and controversial executive decisions regarding public executions.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792083018,
-   "articles": [
-    {
-     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-     "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Russia has accused Ukraine of striking an oil refinery after President Zelensky declared an end to a pause on targeting energy infrastructure. Zelensky stated the strikes would resume following renewed Russian attacks.",
-   "why": "The resumption of strikes against critical energy infrastructure escalates the war and directly impacts regional and global energy security.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792174289,
-   "articles": [
-    {
-     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-     "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "National",
-   "summary": "Australia has proposed legislation that would mandate social media platforms to provide users with an option to turn off algorithmic content recommendations.",
-   "why": "Mandating an off-switch for content algorithms sets a major regulatory precedent for digital platform governance and user autonomy.",
+   "summary": "UNICEF reported that over 340 children have been killed and hundreds more injured in Gaza over a year after a ceasefire agreement between Israel and Hamas. The casualties demonstrate ongoing severe risks to children despite formal agreements.",
+   "why": "Persistent high civilian child casualties reveal the failure of ceasefire arrangements to protect vulnerable populations.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
@@ -464,19 +302,43 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792152000,
+   "ts": 1792065600,
    "articles": [
     {
-     "title": "Guterres urges faster action and financing to stop biodiversity loss",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+     "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168600",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Environment",
+   "category": "Health",
    "scale": "Global",
-   "summary": "The UN Secretary-General urged governments, businesses, and communities to accelerate financing and concrete actions to halt biodiversity loss. The appeal emphasizes the urgent need to protect planetary ecosystems for future generations.",
-   "why": "Without rapid mobilization of international funding, efforts to halt irreversible global species extinction and habitat loss will fail.",
+   "summary": "The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The agency estimates lead exposure causes over 3.5 million deaths each year and impacts hundreds of millions of children.",
+   "why": "Lead exposure remains a widespread global health hazard responsible for millions of preventable deaths annually.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Russian strikes have hit four UN-used warehouses in Ukraine since July, destroying over $1.5 million worth of essential medicines and supplies. The attacks have resulted in critical disruptions to the country's healthcare system.",
+   "why": "The deliberate or collateral destruction of humanitarian medical stockpiles directly cripples healthcare delivery during wartime.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
@@ -499,35 +361,83 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "A drone attack set a tanker ablaze off Romania's coast, leaving seven crew members missing. A maritime search and rescue operation is currently underway in the Black Sea.",
-   "why": "Drone strikes against commercial vessels near NATO member waters represent an alarming escalation of naval vulnerability in the Black Sea.",
+   "summary": "Seven crew members are missing after a drone attack left a tanker ablaze off the coast of Romania. A search and rescue operation is currently underway in the Black Sea.",
+   "why": "Drone strikes on commercial maritime vessels near NATO territory escalate Black Sea security risks and shipping hazards.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
   },
   {
    "pre": 7,
-   "tier": "wire",
+   "tier": "primary",
    "sources": [
-    "Al Jazeera"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792173588,
+   "ts": 1792152000,
    "articles": [
     {
-     "title": "Ukraine president targets Trump, Putin at EU summit",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Guterres urges faster action and financing to stop biodiversity loss",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "President Zelenskyy addressed an EU summit, warning that Russian territorial ambitions extend past eastern Ukraine. He also stated that Russian drone attacks pose a direct threat to NATO.",
-   "why": "Direct warnings from Ukraine to European leadership raise pressure for increased defense spending and collective security measures against Russian expansion.",
-   "impact": 6.2,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The UN Secretary-General called on governments, businesses, and communities to hasten biodiversity protection and increase financing. The appeal aims to safeguard ecosystems for future generations.",
+   "why": "Mobilizing capital and governmental commitments is essential to halt the accelerating global loss of natural habitats.",
+   "impact": 6.0,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792065600,
+   "articles": [
+    {
+     "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A UN report warned that transitions in artificial intelligence, digital tech, renewable energy, and demographics risk deepening global inequalities. While creating economic opportunities, these shifts could leave vulnerable populations behind.",
+   "why": "Unequal technological and energy transitions risk exacerbating structural poverty and labor displacement worldwide.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792082312,
+   "articles": [
+    {
+     "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+     "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "Former Venezuelan President Nicolás Maduro denied torture allegations during an appearance in a New York court. The revised indictment accuses Maduro and his wife of directing a campaign of torture alongside drug trafficking offenses.",
+   "why": "The prosecution of a former head of state in a foreign court carries major international legal and diplomatic implications.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
    "pre": 9,
@@ -547,11 +457,11 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Ahead of the COP31 climate conference in Antalya, representatives from three successive summit presidencies met to discuss restoring trust in global climate action. The meeting comes amid mounting climate disasters and the ongoing impacts of a warming planet.",
-   "why": "Declining trust and mounting disasters threaten international consensus and follow-through on planetary emissions reduction commitments.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "Representatives of three successive summit presidencies met ahead of the COP31 climate conference in Antalya, Türkiye. They discussed restoring trust in global climate action as climate impacts continue to intensify.",
+   "why": "International diplomatic alignment is crucial for coordinating binding multilateral climate commitments and financing.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 8,
@@ -577,35 +487,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "A Houthi ballistic missile strike on Yemen's al-Maashiq presidential palace killed five people. Yemen's information minister stated that the prime minister and other cabinet members were unharmed in the attack.",
-   "why": "Direct missile strikes on Yemen's governing compound jeopardize the stability of the internationally recognized government and escalate internal conflict.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792058729,
-   "articles": [
-    {
-     "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-     "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Local",
-   "summary": "Two people have died in Istanbul following the city's heaviest rainfall in 84 years. The governor has urged residents to stay indoors unless travel is strictly necessary.",
-   "why": "Historic extreme weather events in major metropolitan centers cause loss of life and strain urban infrastructure.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "A Houthi ballistic missile strike on al-Maashiq Palace in Yemen killed five people. Yemen's information minister stated that the prime minister and other cabinet members were unhurt.",
+   "why": "Direct attacks on national leadership facilities threaten state continuity and exacerbate Yemen's fragile political stability.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.38
   },
   {
    "pre": 9,
@@ -642,35 +528,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Ukrainian President Volodymyr Zelenskyy addressed an EU summit in Brussels to seek continued backing amid rising tensions with the United States. During the appearance, Zelenskyy thanked European officials whom he referred to as real leaders.",
-   "why": "Shifts in Western military and financial backing directly determine Ukraine's capacity to sustain its defense against Russia.",
-   "impact": 5.8,
+   "summary": "Ukrainian President Volodymyr Zelenskyy addressed an EU summit in Brussels, thanking European leaders for their backing. The meeting occurred amid questions over future international aid and political tensions involving the United States.",
+   "why": "EU political and financial alignment is critical for sustaining Ukraine's defense and governance during the war.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.28
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792065600,
-   "articles": [
-    {
-     "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Russian attacks across Ukraine have destroyed more than $1.5 million worth of medicines and supplies across four UN warehouses since July. These ongoing strikes are causing severe disruption to the country's healthcare system.",
-   "why": "The deliberate or collateral destruction of humanitarian medical stockpiles directly imperils emergency healthcare delivery across a war-torn population.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "gap": 0.26
   },
   {
    "pre": 7,
@@ -679,19 +541,43 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792104409,
+   "ts": 1792085497,
    "articles": [
     {
-     "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-     "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+     "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+     "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
+   "scale": "Regional",
+   "summary": "Ukraine's president told Elon Musk that restrictions on the Starlink system cost lives in the war against Russia.",
+   "why": "Military reliance on commercial satellite networks exposes critical vulnerabilities in wartime communications infrastructure.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792184930,
+   "articles": [
+    {
+     "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+     "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
    "scale": "National",
-   "summary": "Letters containing suspicious substances have been mailed to US senators and election offices across multiple states. Confirmed targets include state offices in Oklahoma, Ohio, and Louisiana.",
-   "why": "Coordinated mailings targeting election administrators and lawmakers pose direct threats to civil servants and election operations.",
+   "summary": "Internal messages reported by a Brazilian daily show Meta employees claiming Lula da Silva's accounts were restricted during the Brazilian election. The reports also allege the platform recommended Jair Bolsonaro's profile and WhatsApp channel.",
+   "why": "Allegations of algorithmic bias by major social platforms during presidential elections raise severe electoral integrity questions.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
@@ -714,11 +600,11 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "The US has recorded 4,410 measles cases as an outbreak continues to expand. The CDC reports 451 hospitalisations nationwide while expanding vaccination efforts.",
-   "why": "A surge in a preventable, highly contagious disease with hundreds hospitalized indicates significant vulnerabilities in public health immunity.",
-   "impact": 5.4,
+   "summary": "The CDC reports that a growing US measles outbreak has reached 4,410 cases, resulting in 451 hospitalizations nationwide. Health officials are actively expanding vaccination efforts in response.",
+   "why": "A massive surge in a highly contagious, preventable disease threatens public health systems and signals declining immunization coverage.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.46
   },
   {
    "pre": 6,
@@ -743,39 +629,39 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Local",
-   "summary": "A school roof collapse in Pakistan crushed three classrooms, killing at least 33 to 34 children and a teacher. Victims were buried under the debris according to police.",
-   "why": "A severe infrastructure disaster resulting in a mass casualty event among schoolchildren.",
-   "impact": 5.4,
+   "scale": "National",
+   "summary": "A school roof collapsed in Pakistan, burying children under debris across three classrooms. The incident resulted in the deaths of a teacher and at least 33 to 34 pupils.",
+   "why": "A catastrophic infrastructure failure that caused severe loss of life and highlights critical public safety hazards in educational facilities.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.36
   },
   {
-   "pre": 8,
+   "pre": 6,
    "tier": "wire",
    "sources": [
     "BBC World",
     "The Guardian World"
    ],
    "n_sources": 2,
-   "ts": 1792083164,
+   "ts": 1792191822,
    "articles": [
     {
-     "title": "Maduro pleads not guilty to new torture-related charges in New York",
-     "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+     "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+     "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     },
     {
-     "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-     "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+     "title": "Shooter in fatal Bend, Oregon, school shooting was former student there",
+     "link": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Nicolás Maduro pleaded not guilty to newly added torture-related charges during a court proceeding in New York. Maduro fully rejected the charges presented in the document.",
-   "why": "The formal prosecution of a foreign head of state on torture charges sets significant precedents in international law and diplomatic accountability.",
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A 16-year-old former student opened fire at a primary school in Bend, Oregon. Three children aged 5, 8, and 11, along with a teacher, were killed in the shooting.",
+   "why": "A deadly school shooting causing irreversible casualties and drawing critical attention to school security and gun violence.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.32
@@ -798,35 +684,35 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "The UN Security Council convened an open debate focusing on the Occupied Palestinian Territory on Thursday. The session follows an increase in demolitions, violence, and lethal Israeli strikes in Gaza and the West Bank.",
-   "why": "Formal UN Security Council debates reflect international pressure and diplomatic tension surrounding escalating civilian casualties and land demolitions.",
-   "impact": 5.2,
+   "summary": "The UN Security Council held an open debate regarding the Occupied Palestinian Territory amid rising Israeli strikes, demolitions, and violence in Gaza and the West Bank.",
+   "why": "UN Security Council debates reflect international diplomatic pressure regarding the escalating conflict in Gaza and the West Bank.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.42
+   "gap": 0.38
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792161212,
+   "ts": 1792173588,
    "articles": [
     {
-     "title": "Albanian protests turn violent: What we know",
-     "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Ukraine president targets Trump, Putin at EU summit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Anti-government protests led by the 'Flamingo' movement in Albania's capital, Tirana, have escalated into violence after months of demonstrations. The unrest marks a significant escalation in scale compared to prior protests.",
-   "why": "Escalating violent civil unrest in a national capital poses serious risks to state stability and governance.",
-   "impact": 5.0,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "At an EU summit, President Zelenskyy warned that Russian ambitions extend beyond eastern Ukraine and stated that Russian drone attacks threaten NATO.",
+   "why": "High-level diplomatic warnings underscore the ongoing potential for the Ukraine war to spill over into NATO territory.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.38
   },
   {
    "pre": 7,
@@ -844,91 +730,37 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Economy",
    "scale": "Regional",
-   "summary": "EU leaders will meet in Brussels to examine measures addressing the bloc's large trade deficit with China. The summit will also address the next EU budget ahead of major elections next year.",
-   "why": "Decisions regarding EU-China trade policies and the bloc's multiannual budget carry multi-billion-euro implications for international trade and European governance.",
+   "summary": "EU leaders are convening in Brussels to address the bloc's large trade deficit with China. The summit will also focus on advancing agreements on the EU budget and support for Ukraine.",
+   "why": "EU-level decisions on the bloc budget and trade policy directly influence continental economic stability and geopolitical trade flows.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
   },
   {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792172760,
-   "articles": [
-    {
-     "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-     "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
-     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Rare public protests broke out in Azerbaijan after students wearing hijabs were turned away from schools under headscarf ban regulations. The enforcement has also contributed to a diplomatic dispute with Turkey.",
-   "why": "The enforcement of school dress bans highlights growing civil liberties disputes in Azerbaijan and risks straining relations with a key regional ally.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.26
-  },
-  {
    "pre": 5,
    "tier": "wire",
    "sources": [
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792140354,
+   "ts": 1792192058,
    "articles": [
     {
-     "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-     "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "Chinese Foreign Minister Wang Yi called on Israel to halt the forced establishment of West Bank settlements. The statement was delivered during discussions with Israeli President Isaac Herzog at a conference.",
-   "why": "Direct diplomatic pressure from a major global power on Israeli settlement policy impacts Middle Eastern geopolitical dynamics.",
-   "impact": 4.6,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A teacher confronted a 16-year-old former student who targeted a special educational needs classroom at an Oregon primary school. The suspect was subsequently shot multiple times by an armed parent.",
+   "why": "Details on the mitigation and intervention during a fatal school attack inform local safety dynamics and active shooter protocols.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792052227,
-   "articles": [
-    {
-     "title": "Actor Imran Khan ordered to leave India after participating in protest",
-     "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Bollywood actor Imran Khan was ordered to leave India after participating in a protest in Mumbai on 10 October. Khan had previously been detained and released in connection with the demonstration.",
-   "why": "Deporting a public figure for civil demonstration highlights tightening government crackdowns on protest and free assembly.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
+   "gap": 0.38
   },
   {
    "pre": 9,
@@ -960,11 +792,41 @@
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "Israeli settlers attacked Palestinian farmers and set fire to olive trees during the harvest in the West Bank. The attacks also resulted in injuries to a U.S. photojournalist.",
-   "why": "Targeted destruction of farmland and settler violence aggravate regional tensions and threaten rural Palestinian livelihoods.",
-   "impact": 4.4,
+   "summary": "Israeli settlers attacked Palestinian farmers, burned olive trees, and beat civilians along with a U.S. photojournalist in the West Bank. The assaults took place during the local olive harvest.",
+   "why": "Attacks on agricultural livelihoods and journalists heighten instability and displacement risks in the occupied West Bank.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.14
+   "gap": 0.16
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792172760,
+   "articles": [
+    {
+     "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+     "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Rules barring students wearing hijabs from schools in Azerbaijan have sparked rare public protests. The restrictions have also led to diplomatic friction between Azerbaijan and Turkey.",
+   "why": "The enforcement touches religious freedoms and civil rights domestically while introducing diplomatic friction with a key regional ally.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.26
   },
   {
    "pre": 7,
@@ -984,56 +846,8 @@
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "Masked settlers attacked Palestinians attempting to harvest olives, leaving Palestinians and an American journalist injured. The event occurred amid a broader surge in similar harvest-related incidents.",
-   "why": "Targeted attacks on farmers and international journalists aggravate local instability and threaten vulnerable agrarian livelihoods in contested areas.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792162671,
-   "articles": [
-    {
-     "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Local",
-   "summary": "Approximately 200 patients were rescued from a suspected illegal rehabilitation centre in South Africa. Some patients were discovered in chains, kept in overcrowded rooms, and covered in sores.",
-   "why": "It exposes egregious human rights abuses and severe regulatory failures in illegal healthcare and rehabilitation facilities.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792106841,
-   "articles": [
-    {
-     "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-     "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A 19-year-old suspect's planned attack on a Hindu temple was thwarted when his firearm jammed outside the venue. Police noted the foiled plot followed an initial tip-off.",
-   "why": "The prevention of a violent attack on a house of worship highlights the critical role of tip-offs in averting fatal hate crimes.",
+   "summary": "Masked Israeli settlers attacked Palestinians attempting to harvest olives in the West Bank, injuring Palestinians and a US journalist. The incident occurs amid a surge in similar attacks.",
+   "why": "Violence against harvesters and foreign press exacerbates tensions and human rights concerns in the West Bank.",
    "impact": 4.0,
    "under_radar": false,
    "gap": 0.3
