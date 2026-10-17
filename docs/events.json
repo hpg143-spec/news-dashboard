@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-17T15:12:02.580744Z",
+ "updated": "2026-10-17T18:15:14.223799Z",
  "events": [
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792189800,
+   "articles": [
+    {
+     "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+     "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+     "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Deforestation in the Brazilian Amazon dropped to 3,335 square kilometers for the year ending in July, marking the lowest level recorded since 1988. Officials hailed the decline as a major milestone ahead of crucial upcoming votes.",
+   "why": "A historic drop in Amazon deforestation has critical positive implications for global carbon capture and climate stability.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN Security Council convened to address the expanding war in Sudan as drone strikes and famine spread across Darfur, Kordofan, and other regions. Ambassadors prepared to press for a ceasefire, humanitarian access, and an end to arms flows.",
+   "why": "Sudan represents the world's largest hunger and displacement crisis, threatening regional stability across East Africa.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "WHO scales up Ebola readiness in 22 countries across three continents",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The World Health Organization is scaling up Ebola preparedness across 22 countries spanning Africa, Asia, and Europe. The measures respond to heightened transmission risks driven by conflict and mass displacement.",
+   "why": "Proactive multi-continent epidemic preparedness is crucial to prevent the international spread of a lethal pathogen amid refugee crises.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
   {
    "pre": 7,
    "tier": "wire",
@@ -29,115 +107,13 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Law & Policy",
    "scale": "Global",
-   "summary": "The US president has temporarily waived multiple congressional sanctions against Russia, citing national security concerns. The decision comes amidst heightened political tensions between Donald Trump and Ukrainian President Zelenskyy.",
-   "why": "Unilateral pauses on sanctions alter geopolitical pressure on Russia and mark a major shift in US foreign policy regarding the war.",
-   "impact": 7.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792239056,
-   "articles": [
-    {
-     "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-     "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "Both the US and Iran have claimed control of the Strait of Hormuz following naval mine attacks on two vessels this week.",
-   "why": "Disruptions in the Strait of Hormuz threaten a critical global shipping choke point and raise risks of direct military escalation.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792189800,
-   "articles": [
-    {
-     "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
-     "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-     "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "Deforestation in the Brazilian Amazon dropped to 3,335 square kilometers in the year ending July, marking the lowest level since 1988. The decline has been hailed as a historic achievement.",
-   "why": "Preserving the Amazon rainforest is critical for global biodiversity, carbon sequestration, and mitigating climate change.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792236161,
-   "articles": [
-    {
-     "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A new wave of Russian strikes across Ukraine killed at least eight civilians and injured nearly 60 others.",
-   "why": "Results in immediate loss of life and continues the systematic destruction of civilian infrastructure.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The UN Security Council convened to address the escalating conflict in Sudan as drone strikes and famine spread across Darfur and Kordofan. Ambassadors are pressing for an immediate ceasefire, humanitarian access, and an end to weapon flows.",
-   "why": "Sudan represents the world's largest hunger and displacement crisis, with severe regional destabilization risks.",
+   "summary": "The US president waived and suspended several congressional sanctions recently imposed on Russia, citing national security concerns. The decision comes amid escalating diplomatic tensions with Ukraine.",
+   "why": "Suspending congressional sanctions on Russia alters global economic pressure, impacting the trajectory of the war in Ukraine.",
    "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
+   "under_radar": false,
+   "gap": 0.4
   },
   {
    "pre": 9,
@@ -157,56 +133,8 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "UNICEF reported that over 340 children have been killed and hundreds injured in Gaza over a year following a ceasefire announcement between Israel and Hamas. The casualty counts highlight continued violence despite formal agreements.",
-   "why": "High child casualty rates demonstrate the fragility and failure of ceasefire mechanisms in safeguarding civilians.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792166430,
-   "articles": [
-    {
-     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-     "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Ukrainian forces under Operation Vivaldi have regained territory in the Donbas using Starlink support. Ground optimism remains tempered by deteriorating relations with US President Trump.",
-   "why": "Territorial shifts on the front lines and reliance on satellite infrastructure shape the geopolitical balance and outcome of the conflict.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792235422,
-   "articles": [
-    {
-     "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-     "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "The US has eased sanctions on Russian oil, a move analysts say will primarily benefit Russia. The development comes amid scrutiny over Europe's continued purchases of Russian gas.",
-   "why": "Shifts global energy flows, sanctions enforcement dynamics, and geopolitical leverage amid ongoing conflicts.",
+   "summary": "UNICEF reported that over 340 children have been killed and hundreds more injured since a ceasefire agreement was announced between Israel and Hamas. The casualties occurred over the span of a little more than one year.",
+   "why": "Continued high child casualties highlight the failure of ceasefire arrangements to protect civilian life in Gaza.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
@@ -229,11 +157,89 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "UN human rights monitors reported that civilian casualties in Ukraine remain at record levels, ranking among the deadliest in years following intensified Russian strikes. These assaults have particularly targeted energy infrastructure.",
-   "why": "Targeted infrastructure degradation ahead of colder months threatens power grids and life support systems for millions.",
+   "summary": "UN human rights monitors reported that Ukrainian civilian casualty rates remain at record highs following intensified Russian strikes in September. Attacks on energy infrastructure have contributed to harm levels exceeding previous years.",
+   "why": "Rising civilian casualties and systematic energy grid attacks jeopardize basic survival infrastructure entering winter.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792259340,
+   "articles": [
+    {
+     "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+     "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Egyptian President Abdel Fattah el-Sisi pledged to take any measure necessary to defend Saudi Arabia in response to Houthi attacks.",
+   "why": "A security commitment by Egypt to Saudi Arabia could expand regional military alliances against Houthi forces.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Guterres urges faster action and financing to stop biodiversity loss",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The UN Secretary-General urged governments, businesses, and communities to accelerate financing and action to halt biodiversity loss. The appeal emphasized the protection of ecosystems for future generations.",
+   "why": "Halting global biodiversity loss is necessary to sustain planetary food systems, water security, and ecological balance.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "As disasters mount, next UN climate summit faces a test of trust",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Representatives of three successive summit presidencies met ahead of the COP31 climate conference in Antalya, Türkiye. They discussed how to restore global trust in climate action amid intensifying warming impacts.",
+   "why": "Multilateral climate negotiations govern global emissions commitments and climate adaptation financing.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
    "pre": 7,
@@ -253,272 +259,32 @@
    "skip": false,
    "category": "Environment",
    "scale": "National",
-   "summary": "Brazil has recorded a steep decline in Amazon rainforest deforestation as an election approaches. Deforestation previously expanded during the administration of former president Jair Bolsonaro.",
-   "why": "Preservation of the Amazon basin directly alters global carbon capture capacity and regional ecological stability.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792194875,
-   "articles": [
-    {
-     "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "Italian Defence Minister Guido Crosetto warned that US moves to restrict support for Ukraine risk prolonging Russia's invasion rather than ending it. He characterized Donald Trump's approach as completely wrong.",
-   "why": "Shifts in allied military assistance directly affect the trajectory of the war in Ukraine and broader European security.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "WHO scales up Ebola readiness in 22 countries across three continents",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "The World Health Organization is scaling up Ebola preparedness across 22 countries spanning Africa, Asia, and Europe. The measures are driven by concurrent conflict and displacement affecting millions in the region.",
-   "why": "Cross-continental disease readiness prevents potential high-mortality outbreaks across vulnerable and displaced populations.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792229507,
-   "articles": [
-    {
-     "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
-     "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "The IMF chief called for urgent support for low-income nations grappling with war spillovers and severe inflation. Poorer countries are currently expending up to 14 percent of national revenue solely on debt servicing.",
-   "why": "Excessive sovereign debt burdens threaten to push multiple developing nations into default and derail critical public services.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792245624,
-   "articles": [
-    {
-     "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
-     "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Egyptian President Sisi has sought authorization to provide defense assistance to Saudi Arabia. He pledged that Egypt would take any measure to defend Saudi Arabia if requested.",
-   "why": "Deepens military alignment between key regional powers, shifting Middle Eastern security dynamics.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792085497,
-   "articles": [
-    {
-     "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-     "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "National",
-   "summary": "President Zelenskyy informed Elon Musk that restricting access to the Starlink satellite system causes loss of human lives. Starlink remains an operational communications component for Ukraine during the war.",
-   "why": "Private satellite network control has decisive operational consequences for frontline military and civilian communications.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792230287,
-   "articles": [
-    {
-     "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-     "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Sudan's army reported killing dozens of RSF fighters during an attack in Nyala. Conversely, the Rapid Support Forces stated the army killed 30 civilians at a crowded livestock market.",
-   "why": "Continued high-fatality urban warfare in Darfur deepens Sudan's catastrophic humanitarian crisis and civilian displacement.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792238430,
-   "articles": [
-    {
-     "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak",
-     "link": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "State",
-   "summary": "The CDC is dispatching a disease specialist to Pennsylvania to combat a measles outbreak that has claimed six lives. The central county lacks its own dedicated health department, complicating containment efforts.",
-   "why": "Fatal outbreaks of preventable infectious diseases reveal critical institutional deficiencies in local public health infrastructure.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792139236,
-   "articles": [
-    {
-     "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-     "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A 16-year-old opened fire at a primary school in Bend, Oregon, killing a teacher and three children aged 5, 8, and 11. Police have confirmed the fatalities following the incident.",
-   "why": "Fatal mass shootings at elementary schools inflict irreversible loss of life and drive intense national discourse on public safety.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792249044,
-   "articles": [
-    {
-     "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-     "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Thousands of protesters gathered in Tunisia for the largest demonstration in years against President Saied. Unions and opposition groups joined together to oppose poor living conditions and curbs on political freedoms.",
-   "why": "Signifies escalating domestic instability and organized resistance against democratic backsliding in Tunisia.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792174289,
-   "articles": [
-    {
-     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-     "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "National",
-   "summary": "The Australian government is seeking to introduce an off switch for social media algorithms. The measure aims to protect users from being served content they do not wish to see.",
-   "why": "National regulation of algorithmic feeds sets significant regulatory precedent for tech platform accountability and user protection.",
+   "summary": "Brazil recorded a notable decrease in Amazon rainforest deforestation ahead of upcoming elections. The reduction reverses previous expansion of forest clearing seen in earlier years.",
+   "why": "Slowing Amazon deforestation preserves crucial carbon sinks and biodiversity vital to global climate stability.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792241283,
+   "ts": 1792245389,
    "articles": [
     {
-     "title": "Child, four women among Palestinians injured in West Bank pogroms",
-     "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+     "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+     "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A child and four women were among Palestinians injured during attacks in the West Bank. The violence followed a religious edict issued by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
-   "why": "Directly harms civilians and risks inflaming wider regional conflict through religiously sanctioned territorial violence.",
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "California Governor Gavin Newsom signed an executive order examining kill switches and other regulatory measures for AI models. This action follows his earlier veto of certain related measures.",
+   "why": "California state regulations frequently establish de facto standards for the broader tech sector.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
@@ -552,203 +318,41 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Ukrainian President Zelenskyy addressed an EU summit in Brussels, thanking European leaders for their support amid tensions with Donald Trump. EU leaders reaffirmed their commitment to supporting Ukraine.",
-   "why": "Shifts in Western alliance dynamics critically influence wartime aid packages and defense strategies for Ukraine.",
-   "impact": 5.2,
+   "summary": "Ukrainian President Volodymyr Zelenskyy addressed EU leaders in Brussels ahead of a summit meeting. He thanked European leaders for their continued backing amid rising diplomatic tensions.",
+   "why": "Sustained European backing is vital for Ukraine's defense posture as transatlantic diplomatic dynamics shift.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.26
   },
   {
-   "pre": 7,
+   "pre": 8,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792245389,
-   "articles": [
-    {
-     "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-     "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "State",
-   "summary": "California Governor Gavin Newsom signed an executive order to study kill switches and other safety measures for AI models. This action follows measures Newsom had previously vetoed.",
-   "why": "California sets regulatory precedents for the global tech sector, and state action on AI safety frameworks can ripple across national and international tech policy.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
+    "DW",
     "The Guardian World"
    ],
-   "n_sources": 1,
-   "ts": 1792082312,
+   "n_sources": 2,
+   "ts": 1792256534,
    "articles": [
     {
-     "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-     "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+     "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+     "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Masked settlers attack European diplomats in occupied West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Geopolitics",
    "scale": "National",
-   "summary": "Former Venezuelan president Nicolás Maduro appeared in a New York court, claiming that torture allegations in a rewritten drug trafficking indictment are false. The revised indictment charges both Maduro and his wife, Cilia Flores, with running a torture campaign.",
-   "why": "The unprecedented legal prosecution of a former foreign head of state in US courts carries immense diplomatic and legal consequences.",
-   "impact": 5.2,
+   "summary": "Israeli settlers attacked vehicles carrying European diplomats in the West Bank. The attack drew diplomatic condemnation from Belgium.",
+   "why": "Direct physical targeting of foreign diplomats by settlers escalates diplomatic friction between Israel and European nations.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792153951,
-   "articles": [
-    {
-     "title": "Watch: Did Tesla really just unveil a flying car?",
-     "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "Tesla CEO Elon Musk showcased a flying car model at a SpaceX facility. The vehicle was developed in collaboration with SpaceX.",
-   "why": "The introduction of vertical or flying consumer transport models could influence future aerospace and transportation technology trajectories.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792248131,
-   "articles": [
-    {
-     "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-     "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Elon Musk and America PAC agreed to settle two proposed class actions alleging fraud over their $1 million daily petition giveaway during the 2024 election.",
-   "why": "The settlement addresses high-profile legal challenges concerning the boundaries of financial incentives in political campaigns and elections.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792239118,
-   "articles": [
-    {
-     "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-     "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "A nursery owner in China and five staff members received life sentences after hundreds of children were poisoned. Investigators found they added inedible paint to meals to enhance their appearance.",
-   "why": "Mass poisonings of children highlight critical lapses in institutional food safety standards and institutional oversight.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "As disasters mount, next UN climate summit faces a test of trust",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168617",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "Ahead of the COP31 UN climate conference in Antalya, Türkiye, representatives from three summit presidencies met to discuss restoring trust in global climate action. The meeting focuses on rebuilding confidence as consequences of global warming mount.",
-   "why": "International climate diplomacy shapes multilateral funding and emissions policy, though summit preparations represent incremental dialogue.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "Guterres urges faster action and financing to stop biodiversity loss",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "UN Secretary-General António Guterres called on governments, businesses, and communities to speed up actions and financing to combat biodiversity loss. He emphasized the necessity of these interventions to safeguard future generations.",
-   "why": "High-level UN appeals maintain pressure for biodiversity financing, though substantive policy changes depend on member state follow-through.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792231921,
-   "articles": [
-    {
-     "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-     "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Filipinos are investing in rooftop solar panels as electricity bills, already the highest in Southeast Asia, continue to climb. The surge comes amid rising energy costs linked to broader geopolitical conflict.",
-   "why": "Accelerated consumer adoption of decentralized renewable energy transforms grid dynamics and energy independence in emerging economies facing fossil fuel shocks.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
+   "gap": 0.24
   },
   {
    "pre": 7,
@@ -768,11 +372,35 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Girls wearing hijabs are being barred from schools in Azerbaijan despite government regulations lacking an explicit ban. The enforcement of unwritten rules has sparked unusual civil protests involving children.",
-   "why": "Uncodified state restrictions on religious attire infringe on educational access and trigger rare domestic civil dissent in an authoritarian context.",
-   "impact": 4.8,
+   "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, prompting rare protests involving children. Official government rules make no explicit mention of hijabs, raising questions over the enforcement of unwritten bans.",
+   "why": "Religious dress restrictions in public education impact civil liberties and can catalyze broader societal unrest.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.38
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792220424,
+   "articles": [
+    {
+     "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+     "link": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The war in Gaza has separated families, leaving spouses parted and fathers separated from their children. Wijdan Abu Matar and her eight children evacuated for medical care in late 2023 while her injured husband stayed behind.",
+   "why": "The ongoing conflict causes severe humanitarian displacement and lasting family separation.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
   },
   {
    "pre": 6,
@@ -797,197 +425,42 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "National",
-   "summary": "A Mexican court sentenced three men to 158 years in prison each for the murders of two Australian brothers and an American friend. The victims were killed during an apparent robbery on a surfing trip.",
-   "why": "High-profile judicial resolutions of violent crimes against foreign nationals affect bilateral security perceptions and cross-border tourism.",
-   "impact": 4.8,
+   "scale": "Local",
+   "summary": "A Mexican judge sentenced three men to 158 years in prison each for the murders of Australian brothers Jake and Callum Robinson and their American friend Carter Rhoad. The three victims were killed during an apparent botched robbery on a surfing trip.",
+   "why": "Resolves a prominent cross-border criminal trial involving the killing of foreign nationals in Mexico.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.28
+   "gap": 0.24
   },
   {
-   "pre": 5,
+   "pre": 6,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "BBC World",
+    "The Guardian World"
    ],
-   "n_sources": 1,
-   "ts": 1792197718,
+   "n_sources": 2,
+   "ts": 1792259780,
    "articles": [
     {
-     "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-     "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+     "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
+    },
+    {
+     "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+     "link": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "Local",
-   "summary": "Jantar Mantar, an 18th-century site long synonymous with demonstrations in Delhi, has been denotified as a protest site. The decision ends its official role as a venue for public demonstrations.",
-   "why": "Revoking designated public demonstration sites restricts civic space and alters historical avenues for public assembly.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792244682,
-   "articles": [
-    {
-     "title": "Protesters clash with police during nationwide demonstrations in France",
-     "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Protests spread across France as ‘yellow vests’ set to join",
-     "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Protesters clashed with police during nationwide demonstrations across France, including thousands gathering in Paris. The protests brought together students, teachers, labor unions, and 'yellow vests'.",
-   "why": "Widespread civil unrest reflects significant domestic friction and potential disruption to national governance.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792247287,
-   "articles": [
-    {
-     "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-     "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "Hurricane Trudy is heading toward Mexico's Pacific coast, threatening the region with heavy rainfall. It represents the latest in a series of storms impacting the area this year.",
-   "why": "Severe weather threatens vulnerable coastal infrastructure and civilian safety.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 9,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "NPR World",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1792168498,
-   "articles": [
-    {
-     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-     "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-     "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-     "source": "NPR World"
-    },
-    {
-     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Israeli settlers attacked Palestinian farmers and set fire to olive trees in the West Bank. The incidents occurred during the annual olive harvest season.",
-   "why": "Attacks on agrarian livelihoods and civilians exacerbate ongoing territorial and communal conflicts in the West Bank.",
+   "summary": "A judge dismissed child sex abuse charges against actor Timothy Busfield, citing the prosecutor's failure to act in a fair and impartial manner.",
+   "why": "A rare judicial dismissal of serious criminal charges due to official prosecutorial misconduct.",
    "impact": 4.2,
    "under_radar": false,
-   "gap": 0.12
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792231097,
-   "articles": [
-    {
-     "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A 16-year-old former pupil targeted a special educational needs classroom at a US primary school. A teacher fought the attacker before an armed parent shot the suspect multiple times.",
-   "why": "School attacks impact community safety and fuel ongoing debates regarding campus security measures.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "USGS Quakes"
-   ],
-   "n_sources": 1,
-   "ts": 1792226951,
-   "articles": [
-    {
-     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-     "source": "USGS Quakes"
-    }
-   ],
-   "skip": false,
-   "category": "Other",
-   "scale": "Local",
-   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a shallow depth of 10.0 km. The event triggered a yellow PAGER alert with a maximum ShakeMap intensity of VII.",
-   "why": "A shallow magnitude 5.7 quake with yellow PAGER status indicates potential localized structural damage and injuries.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792161064,
-   "articles": [
-    {
-     "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-     "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Masked Israeli settlers injured Palestinians and a US journalist while attempting to harvest olives in the West Bank. The assault occurred during a noted surge in settler-related incidents.",
-   "why": "Targeting of foreign press and local farmers increases diplomatic scrutiny of settler violence in occupied territories.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
+   "gap": 0.22
   },
   {
    "pre": 6,
@@ -997,27 +470,56 @@
     "DW"
    ],
    "n_sources": 2,
-   "ts": 1792239535,
+   "ts": 1792244682,
    "articles": [
+    {
+     "title": "Tens of thousands protest for reforms in France amid tear gas and unrest",
+     "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
     {
      "title": "France tackles new wave of nationwide protests",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
      "source": "Al Jazeera"
     },
     {
-     "title": "France braces for nationwide protests",
-     "link": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
+     "title": "France: Police and protesters clash in nationwide protests",
+     "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
      "source": "DW"
     }
    ],
    "skip": false,
-   "category": "Economy",
+   "category": "Local Civic",
    "scale": "National",
-   "summary": "Students, unions, and activists are rallying across France against inequality and high prices. Nationwide protests have broken out as the country tackles this new wave of unrest.",
-   "why": "Widespread civil unrest over inflation and living costs can disrupt national economies and pressure government fiscal policies.",
+   "summary": "Tens of thousands of people joined nationwide cross-sector protests in France uniting students, teachers, unions, and Yellow Vests. Clashes and tear gas were reported in Paris and other cities as demonstrators pushed for reforms.",
+   "why": "Widespread civil unrest across multiple economic sectors creates substantial pressure on the French government.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.22
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792248131,
+   "articles": [
+    {
+     "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+     "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Elon Musk and America PAC agreed to settle two proposed class actions alleging fraud related to a $1 million daily petition giveaway during the 2024 election.",
+   "why": "The settlement addresses legal boundaries around monetary incentives linked to political petition signing and voter engagement.",
    "impact": 4.0,
    "under_radar": false,
-   "gap": 0.2
+   "gap": 0.3
   }
  ]
 }
