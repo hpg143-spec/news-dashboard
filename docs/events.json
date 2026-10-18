@@ -1,4 +1,741 @@
 {
- "updated": "2026-10-18T03:25:43.032182Z",
- "events": []
+ "updated": "2026-10-18T06:18:18.837044Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 3,
+   "ts": 1792285825,
+   "articles": [
+    {
+     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+     "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Trump puts new Russia sanctions on hold",
+     "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The US president has temporarily waived several congressional restrictions on Moscow, citing national security concerns. The decision comes amidst heightened political tensions with Ukrainian leadership.",
+   "why": "Unilateral suspension of US sanctions shifts the balance of international economic pressure against Russia and alters geopolitical leverage in the Ukraine conflict.",
+   "impact": 7.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN Security Council convened to address Sudan's escalating hunger and displacement crisis as drone strikes and famine spread across Darfur, Kordofan, and other regions. Ambassadors are expected to push for a ceasefire, humanitarian aid access, and an end to weapon flows.",
+   "why": "Sudan represents the world's largest displacement and hunger catastrophe, threatening wider regional stability across East Africa.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "UNICEF reported that over 340 children have been killed and hundreds more injured in Gaza despite an announced ceasefire between Hamas and Israel. These casualties occurred over the span of a little more than one year since the agreement.",
+   "why": "Sustained child fatalities highlight systemic failures in ceasefire compliance and civilian protection frameworks.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792189800,
+   "articles": [
+    {
+     "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+     "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+     "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Annual clearance of the Brazilian Amazon dropped to 3,335 square kilometers in the year ending in July, marking the lowest level since 1988. Officials have described this historic decline as a major milestone.",
+   "why": "Reaching the lowest level of Amazon deforestation in nearly four decades preserves critical ecosystems vital for global climate regulation.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "UN human rights monitors reported that Ukrainian civilian casualties reached record highs following intensified Russian strikes in September. The recorded harm significantly exceeds levels seen in preceding years.",
+   "why": "Surging casualty figures and targeting of energy infrastructure indicate worsening conditions for Ukraine's civilian population heading into winter.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "WHO scales up Ebola readiness in 22 countries across three continents",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The World Health Organization is stepping up Ebola preparedness operations across 22 countries situated in Africa, Asia, and Europe. This initiative responds to heightened risks tied to regional conflict and mass displacement affecting millions.",
+   "why": "Proactive multi-continent containment measures are critical to preventing an uncontrollable outbreak of a high-fatality pathogen.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792281611,
+   "articles": [
+    {
+     "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Fires were reported on three tankers amid attacks off the UAE and Yemen, while drones were downed near Riyadh. Masked settlers also attacked European politicians in the occupied West Bank.",
+   "why": "Targeted attacks on commercial maritime tankers threaten international trade routes and escalate broader regional hostilities.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792299871,
+   "articles": [
+    {
+     "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "A wave of homemade, synthetic drugs is sweeping the United States, deepening the country's drug crisis. Recovery workers, prison officials, users, and dealers report that the nation is battling a deadly new epidemic.",
+   "why": "The proliferation of novel synthetic substances complicates emergency medical interventions and intensifies public health burdens.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792204389,
+   "articles": [
+    {
+     "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+     "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The Amazon rainforest is a crucial buffer against climate change, but deforestation had expanded under former president Jair Bolsonaro. Brazil has now recorded a record fall in Amazon deforestation as a key election approaches.",
+   "why": "Reductions in deforestation directly impact global carbon absorption and planetary climate stabilization.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792299061,
+   "articles": [
+    {
+     "title": "St Petersburg under attack from Ukrainian drone swarm",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Social media video shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+   "why": "Deep strikes into major Russian population centers represent an escalation in the geographic scope of the conflict.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792287046,
+   "articles": [
+    {
+     "title": "Buildings burn as French protests go into the night",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
+     "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Masked protesters set fire to the Limoges town hall, which officials say is largely lost, as demonstrations continued across France. Over 1,200 arrests were made and multiple buildings were set ablaze during clashes with police.",
+   "why": "Large-scale urban destruction targeting civic institutions tests the French state's security apparatus and governance.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792238400,
+   "articles": [
+    {
+     "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Residents in the Gaza Strip are preparing for another winter of cold and rain that threatens to cause flooding. Families continue to struggle for survival inside tattered tents and damaged buildings.",
+   "why": "The absence of adequate shelter exposes displaced populations to severe weather-related humanitarian and health hazards.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "Guterres urges faster action and financing to stop biodiversity loss",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The UN Secretary-General urged governments, the private sector, and communities to hasten biodiversity protection efforts. The appeal emphasized increasing financing to secure ecosystems for future generations.",
+   "why": "International leadership is attempting to mobilize capital to stem irreversible global rates of ecosystem collapse and species extinction.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 3,
+   "ts": 1792302980,
+   "articles": [
+    {
+     "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+     "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "How day of protests unfolded as disorder breaks out across France",
+     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+     "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Student protests widen into greater social unrest in France",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Nationwide demonstrations over the cost of living drew over 500,000 participants across France, leading to widespread urban unrest, fires, and looting. Police arrested more than 1,200 individuals following the violent clashes.",
+   "why": "Large-scale domestic unrest over economic strain threatens national economic productivity and political stability in a key European power.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.28
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792152000,
+   "articles": [
+    {
+     "title": "As disasters mount, next UN climate summit faces a test of trust",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Ahead of the COP31 climate conference in Antalya, Türkiye, representatives of three successive summit presidencies met to discuss restoring trust in climate action. The talks address mounting public skepticism as severe consequences of a warming planet are already occurring.",
+   "why": "Erosion of trust among negotiating nations threatens global consensus and funding mechanisms for climate adaptation.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World"
+   ],
+   "n_sources": 2,
+   "ts": 1792299569,
+   "articles": [
+    {
+     "title": "Deaths confirmed in major fire at Canada military base",
+     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Deaths and injuries have been confirmed following a major fire at an Alberta military base. Canada's defence minister described the situation as active and delicate with an unknown total number of casualties.",
+   "why": "Lethal incidents at domestic military facilities disrupt armed forces operations and prompt immediate investigations into safety protocols.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 10,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1792285357,
+   "articles": [
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+     "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Israeli settlers attack European diplomats in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "European diplomats were attacked by Israeli settlers in the West Bank. The Israeli military condemned the violence, while the prime minister's office labeled it part of a smear campaign.",
+   "why": "Direct settler violence targeting foreign diplomats risks escalating diplomatic friction between European nations and Israel.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.14
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 2,
+   "ts": 1792249814,
+   "articles": [
+    {
+     "title": "Pope Leo leaves hospital after cancer surgery",
+     "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "Pope Leo left a hospital in Rome four days after undergoing surgery for lung cancer. His doctors reported that he was well enough to return home.",
+   "why": "The health status of the head of the Catholic Church has substantial implications for the global leadership and governance of over a billion adherents.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792179720,
+   "articles": [
+    {
+     "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+     "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+     "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Ukrainian President Zelenskyy addressed European leaders in Brussels ahead of an EU summit amid public friction with Donald Trump. He offered thanks to 'real leaders' while seeking continued international backing.",
+   "why": "Strains in diplomatic alignment between Ukraine and US leadership could alter the trajectory of Western financial and military assistance.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World"
+   ],
+   "n_sources": 2,
+   "ts": 1792297306,
+   "articles": [
+    {
+     "title": "At least 17 dead in crush at Hindu festival event in India",
+     "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "At least 19 killed in stampede at religious gathering in India",
+     "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "At least 17 to 19 people were killed and many more injured in a stampede at a Hindu festival gathering in Kolkata, India.",
+   "why": "Mass-casualty crowd collapses highlight ongoing regulatory and infrastructural failures in managing public safety at large gatherings.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792172760,
+   "articles": [
+    {
+     "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, triggering an unusual wave of protests involving children. Schools are enforcing these unwritten rules despite government regulations containing no mention of hijabs.",
+   "why": "Enforcing unwritten restrictions on religious attire tests educational access and challenges civic assembly in a state where protests are rare.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792220424,
+   "articles": [
+    {
+     "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+     "link": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The war in Gaza has scattered families, forcing mothers like Wijdan Abu Matar to leave for medical treatment with her children while her injured husband remained behind.",
+   "why": "The conflict causes extensive and enduring fractures in social structures and family cohesion through medical evacuations and displacement.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World"
+   ],
+   "n_sources": 2,
+   "ts": 1792270380,
+   "articles": [
+    {
+     "title": "Anti-government protesters battle with police in Albania",
+     "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Violent clashes broke out between anti-government demonstrators and riot police throughout Saturday in Albania's capital, Tirana. Protesters have also alleged police brutality as the confrontations continued.",
+   "why": "Sustained violent demonstrations against a national government undermine public order and domestic political stability.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792168498,
+   "articles": [
+    {
+     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+     "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+     "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+     "source": "NPR World"
+    },
+    {
+     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Israeli settlers attacked Palestinian farmers and set fire to olive trees in the West Bank. The incidents occurred during the annual olive harvest season.",
+   "why": "Destruction of agricultural resources damages local Palestinian livelihoods and deepens land-conflict tensions.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.12
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792206670,
+   "articles": [
+    {
+     "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+     "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A Mexican judge sentenced three men to 158 years in prison each for the murders of Australian brothers Jake and Callum Robinson and American Carter Rhoad. The victims were killed during a surfing trip in an apparent botched robbery.",
+   "why": "High-profile maximum sentences against perpetrators of violent crime against foreign visitors carry diplomatic and judicial significance in Mexico.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.22
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792300436,
+   "articles": [
+    {
+     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a shallow depth of 10 km. The event triggered a Yellow PAGER alert indicating potential localized damage and casualties.",
+   "why": "Shallow earthquakes of this magnitude in populated areas can cause substantial localized structural collapse and human casualties.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
