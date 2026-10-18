@@ -1,161 +1,29 @@
 {
- "updated": "2026-10-18T09:14:02.512932Z",
+ "updated": "2026-10-18T12:11:27.286899Z",
  "events": [
   {
    "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792290108,
-   "articles": [
-    {
-     "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-     "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Former DRC President Joseph Kabila has joined an active rebellion in the eastern region of the country. His involvement has raised serious concerns regarding the ongoing war and the viability of peace.",
-   "why": "The defection of a former head of state to an active insurgency drastically destabilizes the Democratic Republic of the Congo and the broader Great Lakes region.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792288458,
-   "articles": [
-    {
-     "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-     "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Two oil tankers carrying approximately two million barrels of crude oil each caught fire after striking mines in the Strait of Hormuz. Iran's IRGC stated the vessels were navigating an unauthorized route.",
-   "why": "Attacks on oil tankers in the world's most critical energy chokepoint immediately threaten global oil supply chains and risk triggering major military conflict.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW",
-    "NPR World"
-   ],
-   "n_sources": 3,
    "ts": 1792285825,
    "articles": [
     {
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Trump puts new Russia sanctions on hold",
-     "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-     "source": "NPR World"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "The US president has temporarily waived several recently passed congressional sanctions on Moscow, citing national security concerns. The decision comes amid escalating tensions between Washington and Ukrainian President Zelensky.",
-   "why": "Waiving US sanctions on Russia fundamentally shifts international enforcement pressure and alters diplomatic dynamics surrounding the Ukraine war.",
-   "impact": 7.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "UN human rights monitors reported that Ukrainian civilian casualties reached record levels in 2026, driven by intensified Russian strikes in September. Attacks on energy infrastructure have further exacerbated the ongoing crisis.",
-   "why": "Persistent infrastructure destruction and surging civilian casualty rates severely degrade national survival systems heading into winter.",
-   "impact": 7.0,
+   "summary": "The US president has temporarily waived multiple sanctions recently imposed by Congress on Russia, citing national security concerns. The decision comes amid escalating tensions with Ukrainian President Zelensky.",
+   "why": "Unilateral suspension of sanctions disrupts international pressure on Russia and alters the course of US foreign policy in Europe.",
+   "impact": 7.8,
    "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "WHO scales up Ebola readiness in 22 countries across three continents",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "The World Health Organization is scaling up Ebola preparedness across 22 countries spanning Africa, Asia, and Europe. The measures come as widespread conflict and population displacement increase the risk of disease transmission.",
-   "why": "Cross-continental disease readiness efforts mitigate the high risk of catastrophic epidemics amid active humanitarian displacement.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792281611,
-   "articles": [
-    {
-     "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Fires were reported on three oil tankers following attacks off the UAE and Yemen, while drones were intercepted near Riyadh. Concurrently, masked settlers attacked European politicians in the occupied West Bank.",
-   "why": "Coordinated assaults on maritime energy transport and diplomatic figures pose severe risks to global shipping routes and regional geopolitical stability.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
+   "gap": 0.68
   },
   {
    "pre": 5,
@@ -175,59 +43,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Ukrainian forces have reclaimed territory in the Donbas under Operation Vivaldi, with Starlink playing a critical role in the offensive. However, progress comes amid rising friction with US President Trump.",
-   "why": "Territorial shifts in the Russia-Ukraine war combined with shifting US political support directly impact the course of the broader geopolitical conflict.",
+   "summary": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas with the aid of Starlink communications. However, strategic optimism is constrained by deteriorating relations with President Donald Trump.",
+   "why": "Shifts in frontline control and diplomatic friction among allies directly impact the trajectory of the Russia-Ukraine war.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The UN Security Council convened to address the expanding war in Sudan as civilian-killing drone strikes and famine spread across Darfur and Kordofan. Ambassadors are expected to demand a ceasefire, unimpeded aid access, and a halt to weapon flows.",
-   "why": "Sudan represents the world's largest hunger and displacement emergency, with active military escalations worsening extreme famine risks.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792152000,
-   "articles": [
-    {
-     "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Over 340 children have been killed and hundreds more wounded in Gaza since a ceasefire was announced between Israel and Hamas fighters, according to UNICEF.",
-   "why": "Demonstrates persistent high civilian casualties and severe ceasefire violations directly impacting children.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
   },
   {
    "pre": 5,
@@ -247,8 +67,8 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "The United States is battling a deadly new drug epidemic driven by a wave of homemade, synthetic drugs. The crisis has drawn concerns from users, dealers, prison staff, and recovery workers across the country.",
-   "why": "The spread of novel homemade synthetic drugs compounds an already severe public health crisis and strains healthcare and correctional systems.",
+   "summary": "A deadly wave of homemade, synthetic drugs is spreading across the United States. Frontline workers, users, and correctional facilities report an escalating crisis.",
+   "why": "The proliferation of illicit synthetic drugs intensifies the public health burden and fatal overdose rates nationwide.",
    "impact": 6.8,
    "under_radar": true,
    "gap": 0.58
@@ -260,22 +80,22 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792302813,
+   "ts": 1792316560,
    "articles": [
     {
-     "title": "Guatemalan former prosecutor shot dead at sports centre",
-     "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+     "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+     "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "National",
-   "summary": "Guatemalan former prosecutor Juan Francisco Solorzano Foppa was shot dead at a sports centre. Police have arrested two men in connection with the killing.",
-   "why": "The targeted assassination of a prominent former prosecutor highlights severe threats to the rule of law and judicial safety in Guatemala.",
-   "impact": 6.4,
+   "scale": "Global",
+   "summary": "Ukraine has requested access to Starshield, the military-grade version of Starlink, to facilitate deep strikes inside Russia. US official Rubio stated that Ukraine currently lacks access, with future provisions under discussion.",
+   "why": "Granting advanced military satellite access could substantially alter Ukraine's deep-strike capabilities and impact the escalation dynamics of the war.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.58
   },
   {
    "pre": 8,
@@ -300,84 +120,156 @@
    ],
    "skip": false,
    "category": "Environment",
-   "scale": "National",
-   "summary": "Deforestation in the Brazilian Amazon has dropped to the lowest level on record ahead of a pivotal election. The decrease follows a period of expanded deforestation under former president Jair Bolsonaro.",
-   "why": "The Amazon rainforest is a critical global carbon sink, making major changes in deforestation rates ecologically significant worldwide.",
-   "impact": 6.2,
+   "scale": "Global",
+   "summary": "Deforestation in the Brazilian Amazon has reached a record low ahead of a pivotal election. The Amazon serves as an essential global climate buffer following years of expansion under former president Jair Bolsonaro.",
+   "why": "A record drop in Amazon deforestation has massive implications for global climate stabilization, biodiversity retention, and Brazilian domestic politics.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.42
+   "gap": 0.46
   },
   {
-   "pre": 6,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "Al Jazeera",
-    "The Guardian World"
+    "UN News"
    ],
-   "n_sources": 2,
-   "ts": 1792287046,
+   "n_sources": 1,
+   "ts": 1792238400,
    "articles": [
     {
-     "title": "Buildings burn as French protests go into the night",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
+     "title": "COP17: The world has a plan to save nature. Is it working?",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168618",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Governments are gathering in Yerevan, Armenia, for COP17 to evaluate progress toward global biodiversity goals. The meeting follows calls from the UN Secretary-General to end the war on nature.",
+   "why": "International biodiversity summits determine collective ecological targets and policy commitments necessary to prevent global ecosystem collapse.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792324669,
+   "articles": [
     {
-     "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
-     "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-     "source": "The Guardian World"
+     "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+     "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Widespread clashes across France led to more than 1,200 arrests and multiple building fires during overnight protests. In Limoges, masked demonstrators set fire to the town hall, which officials reported as largely destroyed.",
-   "why": "Mass arrests and the destruction of municipal civic infrastructure signal acute domestic unrest and strain on state security forces.",
-   "impact": 6.0,
+   "summary": "An overnight strike on St. Petersburg killed at least one person, hitting oil facilities and a data centre used by Russia's equivalent of Facebook.",
+   "why": "Successful long-range strikes against key Russian energy and technological infrastructure mark an escalation in deep-strike capabilities.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.4
+   "gap": 0.54
   },
   {
-   "pre": 8,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "DW",
-    "NPR World",
-    "The Guardian World"
+    "Al Jazeera"
    ],
-   "n_sources": 4,
-   "ts": 1792310168,
+   "n_sources": 1,
+   "ts": 1792319649,
    "articles": [
     {
-     "title": "‘Serious incident’ at Canada military base causes deaths, injuries",
-     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+     "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+     "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
      "source": "Al Jazeera"
-    },
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A Ukrainian drone strike on energy sites in St. Petersburg killed one person, while overnight Russian attacks killed two people in Ukraine. President Zelenskyy stated that Moscow continues to violate an energy ceasefire.",
+   "why": "Reciprocal strikes on critical energy infrastructure undermine potential ceasefire arrangements and threaten broader energy security.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792315364,
+   "articles": [
     {
-     "title": "Canada: Major fire reported at military base in Alberta",
-     "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
+     "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+     "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Chronically ill citizens in Sudan face critical shortages and escalating costs of essential medicine. These hardships are being driven by the ongoing civil war.",
+   "why": "The collapse of healthcare access amidst conflict directly endangers millions suffering from chronic conditions across Sudan.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792315014,
+   "articles": [
     {
-     "title": "Major fire breaks out in Alberta after deadly incident at military base",
-     "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
-     "source": "NPR World"
-    },
+     "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+     "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Intensified fighting between Yemeni government forces and Houthis has caused casualties on both sides. Humanitarian agencies have warned of a worsening crisis.",
+   "why": "Renewed clashes threaten fragile peace efforts and exacerbate one of the world's worst humanitarian crises.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792264756,
+   "articles": [
     {
-     "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-     "source": "The Guardian World"
+     "title": "At least 17 dead in crush at Hindu festival event in India",
+     "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "State",
-   "summary": "A serious incident caused a major fire at a military base in Alberta, Canada, resulting in deaths and injuries. Canadian Defence Minister David McGuinty confirmed the casualties following the event.",
-   "why": "Fatal incidents at national defense installations raise urgent operational safety and defense readiness concerns.",
-   "impact": 5.8,
+   "summary": "At least 17 people died and many others were injured during a crowd crush at a Hindu festival event in Kolkata.",
+   "why": "The deadly stampede reveals critical crowd control and safety failures at mass public gatherings.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.18
+   "gap": 0.46
   },
   {
    "pre": 5,
@@ -397,38 +289,33 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "The Australian government is seeking an 'off switch' to prevent social media algorithms from serving unwanted content to users. The initiative aims to protect the public from algorithmic exposure to toxic material.",
-   "why": "National legislation targeting algorithmic content delivery sets a regulatory precedent for platform accountability and digital consumer protection.",
-   "impact": 5.8,
+   "summary": "The Australian government is pursuing policy to provide users an 'off switch' for social media algorithms. The measure aims to prevent platforms from serving unwanted content.",
+   "why": "A potential regulatory precedent for consumer algorithmic choice that could influence global tech policy.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.46
   },
   {
    "pre": 8,
    "tier": "wire",
    "sources": [
     "Al Jazeera",
-    "BBC World",
     "DW",
-    "NPR World"
+    "NPR World",
+    "The Guardian World"
    ],
    "n_sources": 4,
-   "ts": 1792311719,
+   "ts": 1792324375,
    "articles": [
-    {
-     "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-     "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "How day of protests unfolded as disorder breaks out across France",
-     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
     {
      "title": "Photos: Protests across France spiral into looting, blazes and clashes",
      "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
      "source": "Al Jazeera"
+    },
+    {
+     "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
+     "link": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     },
     {
      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
@@ -439,16 +326,21 @@
      "title": "Student protests widen into greater social unrest in France",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
      "source": "NPR World"
+    },
+    {
+     "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Economy",
+   "category": "Security",
    "scale": "National",
-   "summary": "More than half a million people joined nationwide cost-of-living protests across France, leading to widespread disorder, fires, and clashes. Over 1,200 individuals were arrested as violence and looting erupted in several cities.",
-   "why": "Massive civil unrest driven by economic pressures can disrupt national governance, supply chains, and domestic stability.",
-   "impact": 5.6,
+   "summary": "Cost-of-living protests in multiple French cities led to 1,200 arrests and 150 injured police officers amid looting and arson.",
+   "why": "Severe nationwide unrest and widespread civil disorder challenge domestic stability and economic governance in France.",
+   "impact": 5.4,
    "under_radar": false,
-   "gap": 0.16
+   "gap": 0.14
   },
   {
    "pre": 7,
@@ -457,22 +349,51 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792299061,
+   "ts": 1792321886,
    "articles": [
     {
-     "title": "St Petersburg under attack from Ukrainian drone swarm",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+     "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+     "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Multiple explosions were reported in St Petersburg, Russia, following a suspected Ukrainian drone swarm. Social media footage showed the aftermath of the strikes.",
-   "why": "Direct aerial attacks reaching major Russian urban centers far from the front line signal expanded Ukrainian strike capabilities and potential escalation.",
-   "impact": 5.6,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Egypt is set to provide strictly defensive support to Saudi Arabia amid escalating Houthi attacks and intensifying conflict in Yemen.",
+   "why": "Egyptian defense involvement alters the regional security architecture surrounding the Red Sea and the Yemeni civil war.",
+   "impact": 5.4,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792319616,
+   "articles": [
+    {
+     "title": "Russia’s war in Ukraine puts Europe on edge",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Poland's Foreign Minister addressed rising concerns regarding the potential spillover of Russia's war in Ukraine into neighboring NATO countries.",
+   "why": "The risk of war expanding into NATO territory holds catastrophic geopolitical and collective defense implications.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
   },
   {
    "pre": 5,
@@ -481,19 +402,19 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792239118,
+   "ts": 1792313561,
    "articles": [
     {
-     "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-     "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+     "title": "Several dead or injured in major fire at Canada military base",
+     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Security",
    "scale": "National",
-   "summary": "A nursery owner and five staff members in China were sentenced after poisoning hundreds of children by adding inedible paint to meals to make them look more appealing. The owner received a life sentence for the crime.",
-   "why": "Large-scale poisoning of schoolchildren reflects severe regulatory and food safety breaches, resulting in heavy judicial penalties.",
+   "summary": "A major fire at Canadian Forces Base Wainwright has left several people dead or injured. Officials have withheld specific casualties citing an active and delicate situation.",
+   "why": "Fatalities and structural disruption at a military facility represent a serious domestic defense emergency.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
@@ -515,166 +436,52 @@
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Jantar Mantar, an 18th-century site long synonymous with demonstrations in Delhi, has been formally denotified as a protest site. The decision brings an end to decades of demonstrations hosted at the landmark location.",
-   "why": "Denotifying a nation's primary protest hub curtails public assembly rights and alters the dynamics of civic demonstration in the capital.",
+   "scale": "Local",
+   "summary": "Authorities have denotified Jantar Mantar as an authorized protest site in Delhi. The historic 18th-century site has long served as a central hub for civic demonstrations.",
+   "why": "Restricts civil liberties and the right to assemble at one of India's most prominent public demonstration spaces.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
   },
   {
-   "pre": 6,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "DW",
-    "NPR World"
-   ],
-   "n_sources": 2,
-   "ts": 1792249814,
-   "articles": [
-    {
-     "title": "Pope Leo leaves hospital after cancer surgery",
-     "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Other",
-   "scale": "Global",
-   "summary": "Pope Leo was discharged from a hospital in Rome four days after undergoing lung cancer surgery. Physicians confirmed he was well enough to return home.",
-   "why": "The health and recovery of the head of the Catholic Church has substantial implications for Vatican governance and papal succession.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "USGS Quakes"
-   ],
-   "n_sources": 1,
-   "ts": 1792300436,
-   "articles": [
-    {
-     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-     "source": "USGS Quakes"
-    }
-   ],
-   "skip": false,
-   "category": "Other",
-   "scale": "Local",
-   "summary": "A magnitude 5.7 earthquake struck at a depth of 10.0 km approximately 48 km west-northwest of Khuzdar, Pakistan. The seismic event registered a Yellow PAGER alert and a maximum ShakeMap intensity of VII.",
-   "why": "Moderate-to-strong shallow earthquakes pose immediate threats of localized structural damage and casualties in populated regions.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792172760,
-   "articles": [
-    {
-     "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
-     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Girls wearing headscarves were turned away from schools in Azerbaijan, prompting rare protests involving children. Official government regulations do not explicitly mandate a hijab ban.",
-   "why": "Unwritten state or institutional enforcement of religious dress bans tests civil liberties and state-society relations in Azerbaijan.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
     "BBC World"
    ],
-   "n_sources": 2,
-   "ts": 1792297306,
+   "n_sources": 1,
+   "ts": 1792239118,
    "articles": [
     {
-     "title": "At least 17 dead in crush at Hindu festival event in India",
-     "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+     "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+     "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "At least 19 dead in stampede at Kolkata Hindu festival",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-     "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Health",
    "scale": "Local",
-   "summary": "At least 17 to 19 people died in a stampede at a Hindu festival event in Kolkata, India. Numerous other attendees were injured during the crush.",
-   "why": "The disaster resulted in significant loss of life and highlights recurring public safety and crowd control vulnerabilities at mass religious gatherings.",
-   "impact": 4.8,
+   "summary": "A nursery owner in China was sentenced to life in prison after poisoning hundreds of children. She and five staff members used inedible paint in meals to alter their appearance.",
+   "why": "It represents a severe, criminal mass food safety breach with life-altering health consequences for hundreds of young children.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.28
+   "gap": 0.42
   },
   {
-   "pre": 5,
+   "pre": 9,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792296882,
-   "articles": [
-    {
-     "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-     "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Tunisia's economic crisis has deepened due to high unemployment, failing public services, and rising living costs. The hardship has increasingly affected populations across the country.",
-   "why": "Widespread economic degradation threatens macroeconomic stability and civil stability across North Africa.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 10,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
     "BBC World",
     "DW",
     "The Guardian World"
    ],
-   "n_sources": 4,
-   "ts": 1792285357,
+   "n_sources": 3,
+   "ts": 1792281158,
    "articles": [
     {
      "title": "European diplomats attacked by Israeli settlers in West Bank",
      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-     "source": "Al Jazeera"
     },
     {
      "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
@@ -690,11 +497,185 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Israeli settlers attacked European diplomats in the occupied West Bank. While the Israeli military condemned the violence, the prime minister's office labeled it part of a smear campaign.",
-   "why": "Attacks specifically targeting foreign diplomats create direct diplomatic friction between Israel and European nations.",
-   "impact": 4.6,
+   "summary": "European diplomats were attacked by Israeli settlers in the West Bank. While the Israeli military condemned the violence, the prime minister's office labeled it part of a smear campaign.",
+   "why": "Direct attacks on foreign diplomatic personnel significantly escalate diplomatic tensions between Israel and European nations over West Bank settlements.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.06
+   "gap": 0.2
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792320498,
+   "articles": [
+    {
+     "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+     "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A surge in drug smuggling from Israel to Jordan using drones and balloons has prompted allegations of border guard collusion.",
+   "why": "Technologically aided cross-border narcotics trafficking poses national security challenges and strains bilateral border enforcement.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 2,
+   "ts": 1792310168,
+   "articles": [
+    {
+     "title": "Canada: Major fire reported at military base in Alberta",
+     "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Major fire breaks out in Alberta after deadly incident at military base",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A serious incident triggered a major fire at a military base in Alberta. Canadian Prime Minister Mark Carney confirmed the fire but did not provide details on its cause.",
+   "why": "A major fire at a military installation raises national defense and operational security concerns.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792321119,
+   "articles": [
+    {
+     "title": "Parisians wake up to protest damage and looted shops",
+     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Widespread violence, property damage, and store looting occurred in Paris and across France on Saturday. The unrest accompanied protests over school conditions and the cost of living.",
+   "why": "Escalating civil unrest threatens public order, commerce, and national economic stability in France.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792272797,
+   "articles": [
+    {
+     "title": "How day of protests unfolded as disorder breaks out across France",
+     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Nationwide demonstrations in France escalated into violent clashes, arson, and looting. Protesters set fire to vehicles and buildings while ransacking retail shops.",
+   "why": "Significant domestic disorder disrupting public safety and infrastructure across an entire country.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792324804,
+   "articles": [
+    {
+     "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+     "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Iran has appointed Mehrdad Akhlaghi as its new defense minister. His background centers on aerospace technology, ballistic missiles, and defense-industrial production.",
+   "why": "The appointment signals Iran's defense priorities focusing heavily on domestic missile technology and aerospace capabilities.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792322683,
+   "articles": [
+    {
+     "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+     "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A funeral was held for 75 Palestinians after their remains were recovered from ruins in Gaza. The Health Ministry stated that most victims were from Gaza City's Daraj neighborhood.",
+   "why": "It reflects the severe ongoing human toll and recovery operations resulting from the conflict in Gaza.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792238400,
+   "articles": [
+    {
+     "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Families in the Gaza Strip are preparing for another winter of cold, rain, and potential flooding while living in tattered tents and damaged buildings. Individuals like Ahmed Al-Omari are using flour sacks as flood barriers to endure the season.",
+   "why": "The ongoing lack of adequate shelter exacerbates an acute humanitarian and health crisis for hundreds of thousands of displaced people facing winter conditions.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
   },
   {
    "pre": 6,
@@ -719,33 +700,33 @@
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A Mexican court sentenced three men to 158 years in prison each for the murders of two Australian brothers and an American surfer. The killings occurred during a botched robbery while the victims were on a surfing trip.",
-   "why": "The landmark sentence resolves a prominent cross-border criminal case that drew international scrutiny to tourist safety in Mexico.",
-   "impact": 4.6,
+   "scale": "Local",
+   "summary": "Three men were sentenced to 158 years in prison in Mexico for murdering two Australian brothers and an American friend. The victims were killed during a botched robbery on a surfing trip.",
+   "why": "The sentencing concludes a high-profile cross-border criminal case involving international tourists.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.26
+   "gap": 0.28
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "DW"
    ],
    "n_sources": 1,
-   "ts": 1792313561,
+   "ts": 1792172760,
    "articles": [
     {
-     "title": "Several dead or injured in major fire at Canada military base",
-     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "A major fire at Canadian Forces Base Wainwright has left several people dead or injured. Officials have not yet released an official cause or casualty toll due to the active and delicate situation.",
-   "why": "Fatal incidents at major military installations raise operational readiness concerns and trigger formal safety investigations.",
+   "summary": "Girls wearing headscarves are being turned away from schools in Azerbaijan under unwritten rules not found in government policy. This has sparked rare public protests involving children.",
+   "why": "Unwritten restrictions on religious attire in public education infringe on civil liberties and prompt rare public demonstrations.",
    "impact": 4.6,
    "under_radar": false,
    "gap": 0.36
@@ -757,94 +738,22 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792270380,
+   "ts": 1792325251,
    "articles": [
     {
-     "title": "Anti-government protesters battle with police in Albania",
-     "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+     "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+     "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Violent clashes broke out between anti-government demonstrators and riot police in Tirana, Albania. Protesters battled police throughout Saturday across the capital.",
-   "why": "Violent unrest in a nation's capital signals acute political instability and potential governance challenges.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792290794,
-   "articles": [
-    {
-     "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
-     "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
-     "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Local",
-   "summary": "A search is underway for 11 missing individuals after a boat sank off the coast of Mexico's Baja peninsula. Sixteen survivors were rescued, with some treated for suspected shark bites.",
-   "why": "Represents a fatal maritime disaster requiring cross-border search and rescue operations.",
-   "impact": 4.4,
+   "scale": "National",
+   "summary": "Nationwide protests across France escalated into riots, looting, and vandalism, leaving streets littered with burnt-out cars. Approximately 1,800 people were arrested following the unrest.",
+   "why": "Mass arrests and widespread urban disorder present severe public safety and domestic stability challenges.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792238400,
-   "articles": [
-    {
-     "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Local",
-   "summary": "Displaced residents in the Gaza Strip are bracing for another winter without safe shelter, using flour sacks as flood barriers. Many families continue to live in damaged buildings and tattered tents amid bitter cold and rain.",
-   "why": "Highlights the severe humanitarian exposure and risk to life for displaced populations facing harsh weather conditions without adequate infrastructure.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792153951,
-   "articles": [
-    {
-     "title": "Watch: Did Tesla really just unveil a flying car?",
-     "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "Tesla CEO Elon Musk showcased a flying vehicle developed with assistance from SpaceX. The presentation occurred at a SpaceX facility.",
-   "why": "A technological development in flying vehicles backed by major aerospace and automotive manufacturers could accelerate commercial urban air mobility.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
+   "gap": 0.36
   },
   {
    "pre": 5,
@@ -864,11 +773,137 @@
    "skip": false,
    "category": "Other",
    "scale": "Global",
-   "summary": "The Pope has been discharged from the hospital days after undergoing lung cancer surgery. He is scheduled to lead the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-   "why": "The health and recovery of the head of the Catholic Church has substantial implications for global church leadership and succession.",
+   "summary": "The Pope was discharged from the hospital following lung cancer surgery. He is scheduled to deliver the Angelus prayer and blessing in St Peter's Square.",
+   "why": "The health and recovery of the head of the Catholic Church has substantial implications for global church leadership.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792321772,
+   "articles": [
+    {
+     "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+     "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Global",
+   "summary": "Pope Leo XIV delivered the Angelus prayer from the Apostolic Palace balcony in his first public appearance following cancer surgery. He thanked well-wishers for their support.",
+   "why": "Signals the resumption of public governance by the leader of the global Catholic Church.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792153951,
+   "articles": [
+    {
+     "title": "Watch: Did Tesla really just unveil a flying car?",
+     "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Tesla CEO Elon Musk unveiled a flying vehicle prototype at a SpaceX facility. SpaceX reportedly assisted Tesla in developing the model.",
+   "why": "Demonstrates potential technological and commercial advancements in urban air mobility from major aerospace and automotive manufacturers.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792300436,
+   "articles": [
+    {
+     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "State",
+   "summary": "A magnitude 5.7 earthquake with a yellow PAGER alert occurred at a depth of 10.0 km west-northwest of Khuzdar, Pakistan.",
+   "why": "Shallow moderate earthquakes near populated areas can trigger local casualties and structural damage.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792231097,
+   "articles": [
+    {
+     "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A 16-year-old former pupil targeted a special educational needs classroom at a primary school before a teacher intervened and an armed father shot the suspect. Police confirmed the attacker was shot multiple times.",
+   "why": "School attacks present immediate threats to child safety and trigger community-wide trauma and security reviews.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792168498,
+   "articles": [
+    {
+     "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+     "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+     "source": "NPR World"
+    },
+    {
+     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Masked Israeli settlers attacked Palestinians harvesting olives in the West Bank, injuring several people including a photojournalist for The Washington Post.",
+   "why": "Physical attacks targeting agrarian livelihoods and international press highlight escalating West Bank violence and press safety risks.",
    "impact": 4.0,
    "under_radar": false,
-   "gap": 0.3
+   "gap": 0.2
   }
  ]
 }
