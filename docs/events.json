@@ -1,41 +1,95 @@
 {
- "updated": "2026-10-19T18:16:25.161110Z",
+ "updated": "2026-10-19T21:20:45.739437Z",
  "events": [
   {
-   "pre": 9,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "BBC World",
-    "DW",
-    "The Guardian World"
+    "Al Jazeera"
    ],
-   "n_sources": 3,
-   "ts": 1792430123,
+   "n_sources": 1,
+   "ts": 1792439830,
    "articles": [
     {
-     "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
+     "title": "Finland seeking one million land mines as it eyes Russian threat",
+     "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Finland is seeking one million land mines to address security concerns along its eastern border with Russia. This comes after Helsinki recently withdrew from a UN convention banning the munitions.",
+   "why": "Finland's re-arming with landmines along the Russian border marks a stark escalation in European border militarization and reverses decades of international arms-control treaties.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792421153,
+   "articles": [
     {
-     "title": "Houthi strike on Yemen government military camp kills at least 50",
-     "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+     "title": "Drone attack near market kills 80 in Sudan",
+     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Three Houthi missiles struck a government-controlled training camp in Shabwa province, Yemen. The attack killed roughly 50 security recruits.",
-   "why": "A major mass-casualty strike escalates the ongoing conflict and destabilizes security in Yemen.",
+   "summary": "A double drone strike near a transport hub and market in al-Dibab, southern Sudan, killed 80 people. Most of the victims were commuters attempting to catch rides home.",
+   "why": "It is one of the single deadliest aerial attacks on civilians recorded in the ongoing Sudanese conflict.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1792441881,
+   "articles": [
+    {
+     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Kenya convicts cult leader over the murder of 190 children",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
+     "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Kenyan cult leader Paul Mackenzie was convicted on 191 counts of murder. All but one of the victims were children.",
+   "why": "It brings legal accountability for one of the worst mass child starvation atrocities in recent history.",
    "impact": 6.6,
    "under_radar": false,
-   "gap": 0.36
+   "gap": 0.26
   },
   {
    "pre": 7,
@@ -55,11 +109,35 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "At the UN Biodiversity Conference in Yerevan, officials emphasized that biodiversity loss threatens the future prosperity of billions. The conference leader called for urgent global action to protect the planet.",
-   "why": "Global biodiversity policy directly impacts environmental stability and human livelihood worldwide.",
-   "impact": 6.4,
+   "summary": "Talks at the UN Biodiversity Conference in Yerevan opened with a focus on urgent action to counter biodiversity decline. Officials warned that continuing losses disrupt the livelihoods and future prosperity of billions.",
+   "why": "International biodiversity frameworks directly dictate ecological sustainability and global economic resilience.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792299871,
+   "articles": [
+    {
+     "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "A wave of homemade, synthetic drugs is sweeping the United States, deepening a deadly public health epidemic. The impact is being felt across users, dealers, recovery workers, and the prison system.",
+   "why": "The proliferation of new synthetic drugs exacerbates public health crises, increases mortality, and strains healthcare and legal systems.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
   },
   {
    "pre": 11,
@@ -103,14 +181,14 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "Funding shortages have compelled the World Food Programme to cut food assistance in the Gaza Strip by roughly one-third. The reduction will impact approximately 500,000 individuals as winter approaches.",
-   "why": "It severely reduces vital food aid for half a million vulnerable people facing imminent winter conditions.",
-   "impact": 6.2,
+   "summary": "Funding shortages have forced the World Food Programme to cut food assistance in the Gaza Strip by roughly one-third. The reduction will impact approximately 500,000 individuals heading into winter.",
+   "why": "It severely threatens the nutritional survival of half a million vulnerable people in an active conflict and blockade zone.",
+   "impact": 6.4,
    "under_radar": false,
-   "gap": 0.12
+   "gap": 0.14
   },
   {
-   "pre": 7,
+   "pre": 9,
    "tier": "wire",
    "sources": [
     "BBC World",
@@ -118,30 +196,378 @@
     "The Guardian World"
    ],
    "n_sources": 3,
-   "ts": 1792430284,
+   "ts": 1792430123,
    "articles": [
     {
-     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     },
     {
-     "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
-     "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
+     "title": "Houthi strike on Yemen government military camp kills at least 50",
+     "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss",
      "source": "DW"
     },
     {
-     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
      "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Three Houthi missiles struck a government-controlled military training camp in Yemen's Shabwa province. The strike resulted in at least 50 casualties among security recruits.",
+   "why": "It marks a significant escalation in casualties that threatens to intensify the regional Yemeni conflict.",
+   "impact": 6.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The UN informed the Security Council that armed gangs in Haiti are adjusting to security operations by escalating attacks on civilians and pushing into rural regions. Consequently, national elections remain suspended.",
+   "why": "Gang adaptation prevents state rebuilding and delays democratic elections amid a nationwide security breakdown.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Drone strikes across Sudan killed and injured dozens on Monday amid ongoing civil war. The broader conflict continues to drive soaring displacement and hunger across the nation.",
+   "why": "Escalating aerial warfare worsens the severe humanitarian and displacement crisis across Sudan.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792422420,
+   "articles": [
+    {
+     "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+     "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ethiopia installed a new administration in Tigray following the pushback of Tigrayan forces by federal troops. Ongoing friction with Eritrea continues to trigger concerns over an expanded regional war.",
+   "why": "The installation of a new regional government alongside border friction directly impacts peace in the Horn of Africa.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792442979,
+   "articles": [
+    {
+     "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "The Ukrainian army announced it successfully completed the world's first drone evacuation of a wounded soldier from the front line. The operation marks a technological milestone in battlefield casualty evacuation.",
+   "why": "Pioneering the use of unmanned systems for medical evacuation represents a paradigm shift in military tactics and combat medical care.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israeli strikes in Gaza killed at least six Palestinians over the weekend despite a ceasefire agreement. In the West Bank, settler violence disrupted the olive harvest, prompting warnings from UN experts.",
+   "why": "Ongoing attacks undermine ceasefire agreements and threaten basic agricultural livelihoods in occupied territories.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792438720,
+   "articles": [
+    {
+     "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "The Spanish military is rescuing residents by hoisting them from the rooftops of inundated homes amid deadly flooding. Severe floodwaters have submerged residential areas across parts of the country.",
+   "why": "Lethal flooding requiring military intervention causes immediate human displacement, loss of life, and massive infrastructural damage.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792428001,
+   "articles": [
+    {
+     "title": "UN voices security concerns in Haiti amid attacks and election preparations",
+     "link": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A UN official warned of escalating violence in Haiti as security forces face retaliatory attacks by armed gangs. The warnings come amidst preparations for national elections.",
+   "why": "Systemic gang attacks on security personnel directly imperil state stability and democratic processes in Haiti.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792418813,
+   "articles": [
+    {
+     "title": "Catalonia's former rebel president can return to Spain, court rules",
+     "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "A Spanish court upheld the removal of an arrest warrant for former Catalan president Carles Puigdemont. The legal ruling permits his return to Spain following charges linked to the 2017 independence bid.",
+   "why": "The decision resolves a years-long legal standoff and could significantly shift domestic Spanish and Catalan political dynamics.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1792357211,
+   "articles": [
+    {
+     "title": "Political rivals implicated under Pakistan's anti-terror law",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+     "source": "NPR World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Kenyan pastor Paul Mackenzie was convicted on 191 counts of murder. All but one of the victims were children.",
-   "why": "It concludes legal proceedings for one of the deadliest cult starvation massacres in recent history.",
-   "impact": 6.2,
+   "summary": "Additional opposition figures in Pakistan have been implicated under the country's anti-terror law. The charges occur amid an ongoing political standoff.",
+   "why": "The state's use of anti-terror legislation against political rivals significantly impacts civil liberties and political governance.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792441786,
+   "articles": [
+    {
+     "title": "Trump signs order launching women’s health division at NIH, White House",
+     "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "President Trump signed an executive order establishing a women's health division at the NIH and the White House. The initiative was championed by First Lady Melania Trump as a transformative move for women's healthcare.",
+   "why": "Federal restructuring and resource allocation via executive action can redirect national research agendas and funding for healthcare.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World"
+   ],
+   "n_sources": 2,
+   "ts": 1792444350,
+   "articles": [
+    {
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+     "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "A court filing alleges an ex-OpenAI employee accused of planting a device received backing from Saudi Arabia. The Saudi government did not immediately respond to requests for comment.",
+   "why": "State-sponsored corporate espionage against frontier AI companies presents serious international security and technological ramifications.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "UN human rights chief Volker Türk reported that more than a quarter of humanity struggles to obtain adequate food despite sufficient global production. Türk attributed ongoing hunger to injustice and the denial of human rights.",
+   "why": "It highlights systemic global policy and distribution failures affecting over two billion people.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers who died while serving in Lebanon. Guterres defended UN peacekeeping operations during the memorial.",
+   "why": "Fatalities among international peacekeepers highlight the escalating danger in the Lebanon border conflict zone.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792418994,
+   "articles": [
+    {
+     "title": "Australian MP critically injured after being hit by car in apparent attack",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Australian MP seriously hurt in suspected car attack",
+     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "An Australian independent politician is hospitalized with critical injuries after being hit by a car. The prime minister stated the incident may have been a deliberate attack.",
+   "why": "Targeted violence against elected officials poses a direct threat to democratic governance and national political stability.",
+   "impact": 5.2,
    "under_radar": false,
    "gap": 0.32
   },
@@ -180,36 +606,36 @@
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "State",
-   "summary": "Voters in Alberta are heading to the polls to decide whether to hold a referendum on separating from Canada. While polling indicates most residents prefer to remain, the issue has sparked significant debate.",
-   "why": "A referendum on separation could fundamentally challenge Canada's territorial integrity and constitutional framework.",
-   "impact": 5.8,
+   "scale": "National",
+   "summary": "Voters in Alberta are participating in a poll on whether to hold a referendum regarding separation from Canada. Current polling indicates a majority of Albertans prefer remaining within Canada.",
+   "why": "Secession movements challenge the constitutional integrity and economic cohesion of a major federal state.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.18
+   "gap": 0.12
   },
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1792418813,
+   "ts": 1792348763,
    "articles": [
     {
-     "title": "Catalonia's former rebel president can return to Spain, court rules",
-     "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+     "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A Spanish court upheld the revocation of an arrest warrant for former Catalan leader Carles Puigdemont. The ruling permits him to return to Spain following charges linked to the 2017 independence bid.",
-   "why": "Lifting the warrant clears the way for a prominent secessionist leader's return, altering Spanish and regional politics.",
-   "impact": 5.6,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Video footage captured masked Israeli militants shortly before an assault on a visiting delegation of European diplomats, French clerics, and a French mayor in the West Bank. Israeli Prime Minister Benjamin Netanyahu responded by casting doubt on the incident.",
+   "why": "Direct militant attacks on foreign diplomats and elected officials carry severe diplomatic and international security ramifications.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.42
   },
   {
    "pre": 7,
@@ -218,46 +644,22 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792428001,
+   "ts": 1792433461,
    "articles": [
     {
-     "title": "Search under way for four soldiers missing after gang attack in Haiti",
-     "link": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+     "title": "Benny Gantz drops out of Israel’s election race",
+     "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "International",
-   "summary": "A search is underway for four soldiers missing after a gang attack on UN-backed forces in Haiti. The incident is scheduled to be addressed at an upcoming UN Security Council meeting.",
-   "why": "Direct attacks on international forces in Haiti threaten the viability of global peacekeeping and stabilization efforts.",
-   "impact": 5.6,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Benny Gantz has dropped out of Israel's election race. His exit follows polls indicating his Blue and White party fell below the 3.25 percent electoral threshold.",
+   "why": "A major party leader withdrawing directly alters the coalition math and outcome of a national election.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792426932,
-   "articles": [
-    {
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "A court filing alleges that a former OpenAI worker accused of planting a device received support from Saudi Arabia. The Saudi government did not immediately respond to requests for comment.",
-   "why": "Allegations of foreign state-sponsored espionage within leading AI firms present serious national security and technological risks.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
+   "gap": 0.4
   },
   {
    "pre": 7,
@@ -277,95 +679,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "A Brazilian judge ordered Meta to demonstrate that political leaders Lula and Bolsonaro receive equal treatment on its platforms. The court also doubled daily fines for failing to comply with content regulations.",
-   "why": "It establishes strong judicial oversight and regulatory penalties regarding political content on major social platforms.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792430182,
-   "articles": [
-    {
-     "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-     "link": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "Donald Trump endorsed Israeli Prime Minister Benjamin Netanyahu after previously withholding full political backing. The move raises questions regarding potential joint strategic actions toward Iran.",
-   "why": "Shifts in US political endorsements can alter Middle Eastern geopolitical alignments and defense strategies.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "USGS Quakes"
-   ],
-   "n_sources": 1,
-   "ts": 1792300436,
-   "articles": [
-    {
-     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-     "source": "USGS Quakes"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a depth of 10 km. The event registered a PAGER Yellow alert and ShakeMap intensity VII.",
-   "why": "Moderate-to-strong shallow earthquakes pose immediate threats to infrastructure and human life in populated areas.",
+   "summary": "A Brazilian court ordered Meta to demonstrate that Lula and Bolsonaro receive equal treatment on its platforms. The judge also doubled daily fines for noncompliance with an order regulating political content.",
+   "why": "It establishes strong judicial oversight and regulatory financial pressure on major social media platforms during national elections.",
    "impact": 5.0,
    "under_radar": false,
    "gap": 0.4
-  },
-  {
-   "pre": 9,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 3,
-   "ts": 1792418994,
-   "articles": [
-    {
-     "title": "Australian MP critically injured after being hit by car in apparent attack",
-     "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Australian Member of Parliament critically injured after being hit by a car",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Australian MP seriously hurt in suspected car attack",
-     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "An independent Australian Member of Parliament is critically injured and hospitalized after being struck by a car. The prime minister stated the incident may have been a deliberate attack.",
-   "why": "A potential targeted political attack on a sitting lawmaker poses major security and democratic concerns.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.18
   },
   {
    "pre": 7,
@@ -385,11 +703,227 @@
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "HSBC's Sharia-compliant fund invested $130 million into companies associated with Israel's military. The investments were made in breach of Islamic finance compliance rules.",
-   "why": "It exposes major regulatory and compliance failures in Islamic finance standards at a major international bank.",
+   "summary": "HSBC purchased $130 million in shares of companies tied to Israel's military through its Sharia fund. This investment breached compliance requirements under Islamic law.",
+   "why": "It represents a significant regulatory and contractual breach in Islamic finance and ethical fund management.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792398360,
+   "articles": [
+    {
+     "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+     "link": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Artificial intelligence is playing a significant role in Israeli elections for the first time. Observers have warned that deepfakes, bots, and influence campaigns could impact voter decisions.",
+   "why": "It marks an inflection point in the real-world deployment of generative AI tools in democratic elections.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792392035,
+   "articles": [
+    {
+     "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "More than half a million people demonstrated across France over the weekend amid widespread violence. In Paris, riots led to shops being looted and restaurants gutted.",
+   "why": "Mass nationwide mobilization combined with severe urban property destruction signals significant civic instability in a major European economy.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792439333,
+   "articles": [
+    {
+     "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+     "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The state of Florida has issued an arrest warrant for Cuban leader Raul Castro. The legal move mirrors a prior federal indictment as the US intensifies pressure on Cuba's government.",
+   "why": "State-level legal actions targeting foreign heads of state escalate diplomatic confrontation between the US and Cuba.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792433054,
+   "articles": [
+    {
+     "title": "Mauritius lifts curfew imposed amid wave of violent protests",
+     "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Mauritius has lifted a curfew enacted in response to violent protests across the archipelago. The civil unrest was ignited after police fatally shot a woman during demonstrations over water shortages and the cost of living.",
+   "why": "Violent demonstrations fueled by resource shortages and fatal police intervention threaten the political and social stability of the island nation.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792423263,
+   "articles": [
+    {
+     "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+     "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Violent protests across France have resulted in landmarks being damaged and destroyed. The widespread destruction has shocked many across the country.",
+   "why": "Significant civil unrest causing damage to national infrastructure reflects escalating domestic political and social tensions in France.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792272797,
+   "articles": [
+    {
+     "title": "How day of protests unfolded as disorder breaks out across France",
+     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Demonstrations across France turned into nationwide disorder with cars and buildings set on fire. Commercial stores were also ransacked during the protests.",
+   "why": "Widespread rioting and arson across a country threaten public safety and challenge state control.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792357222,
+   "articles": [
+    {
+     "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+     "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Local",
+   "summary": "Communities in Chicago are confronting an influx of synthetic drugs that are flooding the United States. Local frontline workers and residents are actively battling the wave.",
+   "why": "Local drug outbreaks highlight the direct community impact and operational strain of the wider synthetic narcotic crisis.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792300436,
+   "articles": [
+    {
+     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a depth of 10 km. The event triggered a Yellow PAGER alert with maximum shaking intensity of VII.",
+   "why": "Moderate-to-strong shallow earthquakes pose immediate risks of structural damage and casualties in populated zones.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792427802,
+   "articles": [
+    {
+     "title": "Journalists forced to flee homes after Tommy Robinson shared images of where they lived online, court told",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Two MailOnline journalists and their families fled their homes after activist Tommy Robinson published images of their residences online. Robinson has been charged with two counts of harassment causing fear of violence.",
+   "why": "It involves direct criminal intimidation and endangerment of press members leading to forced displacement.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
   }
  ]
 }
