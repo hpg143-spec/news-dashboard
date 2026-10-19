@@ -1,4 +1,395 @@
 {
- "updated": "2026-10-19T15:23:35.366032Z",
- "events": []
+ "updated": "2026-10-19T18:16:25.161110Z",
+ "events": [
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792430123,
+   "articles": [
+    {
+     "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Houthi strike on Yemen government military camp kills at least 50",
+     "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Three Houthi missiles struck a government-controlled training camp in Shabwa province, Yemen. The attack killed roughly 50 security recruits.",
+   "why": "A major mass-casualty strike escalates the ongoing conflict and destabilizes security in Yemen.",
+   "impact": 6.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "At the UN Biodiversity Conference in Yerevan, officials emphasized that biodiversity loss threatens the future prosperity of billions. The conference leader called for urgent global action to protect the planet.",
+   "why": "Global biodiversity policy directly impacts environmental stability and human livelihood worldwide.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 11,
+   "tier": "primary",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "The Guardian World",
+    "UN News"
+   ],
+   "n_sources": 5,
+   "ts": 1792426017,
+   "articles": [
+    {
+     "title": "Gaza: Funding cuts leave half a million without food assistance",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+     "source": "UN News"
+    },
+    {
+     "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+     "link": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+     "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Funding shortages have compelled the World Food Programme to cut food assistance in the Gaza Strip by roughly one-third. The reduction will impact approximately 500,000 individuals as winter approaches.",
+   "why": "It severely reduces vital food aid for half a million vulnerable people facing imminent winter conditions.",
+   "impact": 6.2,
+   "under_radar": false,
+   "gap": 0.12
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792430284,
+   "articles": [
+    {
+     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
+     "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Kenyan pastor Paul Mackenzie was convicted on 191 counts of murder. All but one of the victims were children.",
+   "why": "It concludes legal proceedings for one of the deadliest cult starvation massacres in recent history.",
+   "impact": 6.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1792422540,
+   "articles": [
+    {
+     "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+     "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Canada: Alberta votes on holding independence referendum",
+     "link": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Alberta voters weigh future in Canada",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
+     "source": "NPR World"
+    },
+    {
+     "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
+     "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Voters in Alberta are heading to the polls to decide whether to hold a referendum on separating from Canada. While polling indicates most residents prefer to remain, the issue has sparked significant debate.",
+   "why": "A referendum on separation could fundamentally challenge Canada's territorial integrity and constitutional framework.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.18
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792418813,
+   "articles": [
+    {
+     "title": "Catalonia's former rebel president can return to Spain, court rules",
+     "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A Spanish court upheld the revocation of an arrest warrant for former Catalan leader Carles Puigdemont. The ruling permits him to return to Spain following charges linked to the 2017 independence bid.",
+   "why": "Lifting the warrant clears the way for a prominent secessionist leader's return, altering Spanish and regional politics.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792428001,
+   "articles": [
+    {
+     "title": "Search under way for four soldiers missing after gang attack in Haiti",
+     "link": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "International",
+   "summary": "A search is underway for four soldiers missing after a gang attack on UN-backed forces in Haiti. The incident is scheduled to be addressed at an upcoming UN Security Council meeting.",
+   "why": "Direct attacks on international forces in Haiti threaten the viability of global peacekeeping and stabilization efforts.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792426932,
+   "articles": [
+    {
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "A court filing alleges that a former OpenAI worker accused of planting a device received support from Saudi Arabia. The Saudi government did not immediately respond to requests for comment.",
+   "why": "Allegations of foreign state-sponsored espionage within leading AI firms present serious national security and technological risks.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792430668,
+   "articles": [
+    {
+     "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+     "link": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A Brazilian judge ordered Meta to demonstrate that political leaders Lula and Bolsonaro receive equal treatment on its platforms. The court also doubled daily fines for failing to comply with content regulations.",
+   "why": "It establishes strong judicial oversight and regulatory penalties regarding political content on major social platforms.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792430182,
+   "articles": [
+    {
+     "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+     "link": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Donald Trump endorsed Israeli Prime Minister Benjamin Netanyahu after previously withholding full political backing. The move raises questions regarding potential joint strategic actions toward Iran.",
+   "why": "Shifts in US political endorsements can alter Middle Eastern geopolitical alignments and defense strategies.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792300436,
+   "articles": [
+    {
+     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a depth of 10 km. The event registered a PAGER Yellow alert and ShakeMap intensity VII.",
+   "why": "Moderate-to-strong shallow earthquakes pose immediate threats to infrastructure and human life in populated areas.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 3,
+   "ts": 1792418994,
+   "articles": [
+    {
+     "title": "Australian MP critically injured after being hit by car in apparent attack",
+     "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Australian Member of Parliament critically injured after being hit by a car",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Australian MP seriously hurt in suspected car attack",
+     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "An independent Australian Member of Parliament is critically injured and hospitalized after being struck by a car. The prime minister stated the incident may have been a deliberate attack.",
+   "why": "A potential targeted political attack on a sitting lawmaker poses major security and democratic concerns.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.18
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792430081,
+   "articles": [
+    {
+     "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
+     "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "HSBC's Sharia-compliant fund invested $130 million into companies associated with Israel's military. The investments were made in breach of Islamic finance compliance rules.",
+   "why": "It exposes major regulatory and compliance failures in Islamic finance standards at a major international bank.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  }
+ ]
 }
