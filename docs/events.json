@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-19T00:09:30.568217Z",
+ "updated": "2026-10-19T03:29:15.861391Z",
  "events": [
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792361040,
-   "articles": [
-    {
-     "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-     "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Kenya has confirmed eight Ebola cases, according to a senior health official. Meanwhile, the virus has expanded to an eighth province in the Democratic Republic of Congo.",
-   "why": "The cross-border spread of Ebola presents an imminent, high-fatality public health threat across East and Central Africa.",
-   "impact": 8.2,
-   "under_radar": true,
-   "gap": 0.72
-  },
   {
    "pre": 5,
    "tier": "wire",
@@ -43,275 +19,35 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "The US president suspended multiple sanctions on Russia just two days before their planned implementation. Trump stated the decision was made to preserve momentum in ongoing peace negotiations.",
-   "why": "Halting major sanctions directly shifts US foreign policy posture toward Russia and fundamentally alters international peace negotiation leverage.",
-   "impact": 7.4,
+   "summary": "The US president blocked multiple sanctions against Russia two days before their planned implementation. The suspension was described as an effort to sustain ongoing peace negotiations.",
+   "why": "Altering US sanctions policy reshapes international geopolitical leverage and global security negotiations regarding Russia.",
+   "impact": 7.2,
    "under_radar": true,
-   "gap": 0.64
+   "gap": 0.62
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792204389,
+   "ts": 1792375809,
    "articles": [
     {
-     "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-     "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+     "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Environment",
+   "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Brazil has recorded a steep decline in Amazon deforestation ahead of a major election. The rainforest serves as an essential global climate buffer following previous years of high clearance.",
-   "why": "Reductions in Amazon deforestation directly impact global carbon cycles, climate targets, and South American ecological stability.",
+   "summary": "Ukraine launched over 1,000 drones at Russia in one of the war's largest airstrikes, igniting oil facilities. The attack occurred amid rising diplomatic tensions between Kyiv and Washington.",
+   "why": "A massive strike against energy infrastructure escalates the conflict and carries significant diplomatic and global energy repercussions.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792238400,
-   "articles": [
-    {
-     "title": "COP17: The world has a plan to save nature. Is it working?",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "Governments are gathering in Yerevan, Armenia, for COP17 to review progress on global biodiversity goals. UN Secretary-General has urged an end to the 'war on nature'.",
-   "why": "Global biodiversity summits shape international environmental agreements and funding commitments that affect planetary ecosystems.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792333200,
-   "articles": [
-    {
-     "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
-     "link": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "A suspected Ukrainian drone crashed and damaged a car in Lithuania, prompting NATO to scramble fighter jets. Kyiv stated that Russian electronic jamming likely diverted the drone from its target in Russia.",
-   "why": "The spillover of combat drones into NATO airspace creates significant risks of international escalation between NATO and combatants.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792338370,
-   "articles": [
-    {
-     "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-     "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "An overnight attack on St. Petersburg killed at least one person, hitting oil facilities and a major social media data center.",
-   "why": "Strikes deep within Russian territory targeting critical energy and digital infrastructure mark a major tactical escalation in the war.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792239118,
-   "articles": [
-    {
-     "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-     "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A nursery owner in China was sentenced to life in prison after poisoning hundreds of children by using inedible paint in meals to improve their appearance. Five staff members were also implicated.",
-   "why": "A severe mass child food safety and criminal justice case resulting in maximum sentencing for widespread institutional poisoning.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792349070,
-   "articles": [
-    {
-     "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-     "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Gulf ministers have called for action against the Houthis as fighting has displaced over 233,000 people across Yemen. The GCC also condemned Houthi attacks targeting Saudi Arabia.",
-   "why": "The conflict's escalation threatens broader regional stability and severely worsens an immense humanitarian displacement crisis.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792366125,
-   "articles": [
-    {
-     "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-     "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Regional",
-   "summary": "The leader of a major Ukrainian steel firm stated that EU trade tariffs aimed at curbing cheap Chinese imports are unintentionally harming Ukraine's steel industry. The executive argued Ukrainian producers were bundled into the measures unfairly.",
-   "why": "Unintended consequences of EU protectionist trade policy threaten the economic viability of Ukraine's wartime industrial base.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792340752,
-   "articles": [
-    {
-     "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-     "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Taiwan forced away 16 Chinese ships operating near the island. Taiwanese officials stated that China is ramping up its presence to alter the status quo.",
-   "why": "Increased maritime friction around Taiwan raises the likelihood of miscalculation in a critical international waterway.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792355163,
-   "articles": [
-    {
-     "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Offices at Albania's Supreme Court in Tirana were set on fire during the fifth day of anti-government protests.",
-   "why": "Violent attacks on a country's highest judicial building signal severe civil unrest and an escalating constitutional crisis.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "NPR World"
-   ],
-   "n_sources": 1,
-   "ts": 1792357211,
-   "articles": [
-    {
-     "title": "Political rivals implicated under Pakistan's anti-terror law",
-     "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Pakistani authorities have implicated additional political opposition figures under national anti-terror laws amidst an ongoing political showdown.",
-   "why": "Applying anti-terrorism statutes against political rivals undermines democratic norms and risks exacerbating nationwide civil instability.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792357222,
-   "articles": [
-    {
-     "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-     "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Communities in Chicago are confronting a surge in synthetic drugs impacting the region. The issue reflects wider national challenges concerning new illicit substances.",
-   "why": "The spread of synthetic narcotics represents a severe public health crisis driving high mortality and strain on local emergency services.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
   },
   {
    "pre": 5,
@@ -331,11 +67,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "A crowd crush at a Hindu festival event in Kolkata, India, killed at least 17 people and injured many others.",
-   "why": "A significant mass-casualty event exposing major crowd control and public safety failures during large-scale public events.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
+   "summary": "At least 17 people were killed and many others injured during a crowd crush at a Hindu festival event in Kolkata, India.",
+   "why": "A fatal mass casualty incident reflects critical failures in public crowd control and event safety regulations.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
    "pre": 5,
@@ -344,130 +80,22 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792197718,
+   "ts": 1792366125,
    "articles": [
     {
-     "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-     "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+     "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+     "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Jantar Mantar, an 18th-century landmark in Delhi widely used for public demonstrations, has been officially denotified as a protest site. The decision brings an end to its status as a central venue for civic gatherings in the capital.",
-   "why": "Denotifying a primary public demonstration site directly constrains civic space and the right to assemble in the national capital.",
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "The head of a major Ukrainian steel producer stated that EU tariffs intended to limit cheap imports from China are inadvertently affecting Ukraine. The executive warned that Ukrainian exports have been bundled together into these trade restrictions.",
+   "why": "Collateral damage from EU trade tariffs undermines Ukraine's critical wartime industrial base and economic viability.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792347731,
-   "articles": [
-    {
-     "title": "Why the US is holding secret talks with Myanmar’s military ruler",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The Trump administration is reportedly engaging in secret talks with Myanmar's military ruler. The junta leader has previously been accused of genocide.",
-   "why": "Direct diplomatic engagement by the United States could alter international policy toward Myanmar's internationally isolated military regime.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World"
-   ],
-   "n_sources": 2,
-   "ts": 1792336205,
-   "articles": [
-    {
-     "title": "European diplomats attacked by Israeli settlers in West Bank",
-     "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-     "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "European diplomats were attacked by Israeli settlers in the occupied West Bank. The Israeli military condemned the violence while the prime minister's office labeled it part of a 'smear' campaign.",
-   "why": "Direct physical assaults by settlers against foreign diplomatic staff threaten to trigger diplomatic retaliation and international crisis.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792345957,
-   "articles": [
-    {
-     "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Israeli settlers attack European diplomats in West Bank",
-     "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Israeli settlers attacked an EU delegation visiting olive harvesters near Taybeh in the occupied West Bank.",
-   "why": "Settler attacks on international diplomats highlight worsening security conditions and escalate diplomatic friction with European allies.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792348763,
-   "articles": [
-    {
-     "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-     "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Video footage captured masked militants moments before an attack on a European delegation, French clerics, and a visiting mayor in the West Bank. Israeli Prime Minister Benjamin Netanyahu responded by questioning the event.",
-   "why": "Attacks on foreign officials coupled with official denial create acute diplomatic friction between Israel and European governments.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
   },
   {
    "pre": 6,
@@ -493,59 +121,107 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Nationwide protests in France led by students, trade unionists, and Yellow Vest activists resulted in widespread clashes with police over high prices and inequality. Police arrested more than 1,000 individuals amidst chaotic scenes.",
-   "why": "Mass civil unrest and over a thousand arrests point to severe domestic instability and economic discontent in a major European power.",
+   "summary": "Nationwide protests by students, trade unionists, and Yellow Vest activists over inequality and high prices led to clashes with French police. Authorities arrested more than 1,000 individuals during the widespread unrest.",
+   "why": "Large-scale civil unrest and mass arrests disrupt national security and reflect severe domestic political and economic instability.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.34
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "DW"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1792341240,
+   "ts": 1792348763,
    "articles": [
     {
-     "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
-     "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+     "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Management at Riyadh's Kingdom Center tower instructed employees to work from home until further notice without providing an official reason. The instruction coincides with escalating Houthi attacks against Saudi Arabia.",
-   "why": "Precautionary closures of major commercial landmarks underscore direct economic and security vulnerabilities within Saudi Arabia's capital.",
-   "impact": 5.4,
+   "summary": "New video footage shows Israeli militants assaulting a European delegation, including diplomats, French clerics, and a visiting mayor in the occupied West Bank. Israeli Prime Minister Benjamin Netanyahu responded by attempting to raise doubt regarding the incident.",
+   "why": "Targeted violence against foreign diplomats and officials directly stresses diplomatic ties between European nations and Israel.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.38
   },
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1792350687,
+   "ts": 1792367491,
    "articles": [
     {
-     "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-     "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Obama condemns comments by ‘border czar’ that Ilhan Omar could ‘of course’ be denaturalized",
+     "link": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Former US President Barack Obama condemned remarks by Donald Trump's border czar suggesting Democratic Congresswoman Ilhan Omar could be denaturalized. Obama urged Americans to defend the lawmaker, warning that such measures would not stop with her.",
+   "why": "Suggestions of denaturalizing sitting federal lawmakers challenge foundational legal precedents regarding citizenship protections.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792368385,
+   "articles": [
+    {
+     "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+     "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Two men disclosed details regarding their covert sabotage operations within Russia conducted in support of Ukrainian intelligence. Their actions form part of internal resistance efforts during the ongoing war.",
+   "why": "Internal sabotage highlights asymmetric warfare tactics impacting Russian domestic security and military logistics.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792325774,
+   "articles": [
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "President Zelenskyy stated that the war against Ukraine must be brought to an end. He noted that communication between Kyiv and Washington remains constant despite tensions with Donald Trump.",
-   "why": "High-level diplomatic signaling between Ukraine and the United States determines military assistance pipelines and peace negotiation terms.",
-   "impact": 5.2,
+   "scale": "Regional",
+   "summary": "Israeli settlers attacked European diplomats in the West Bank, prompting condemnation from the Israeli military. The Israeli prime minister's office disputed the framing, labeling it part of a smear campaign.",
+   "why": "Direct physical clashes involving foreign diplomats escalate friction between European governments and Israeli leadership.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.42
+   "gap": 0.38
   },
   {
    "pre": 5,
@@ -565,125 +241,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "The Venezuelan opposition has reaffirmed its support for Maria Corina Machado as its leader. Operating from exile, Machado has formally petitioned for fresh elections in Venezuela and requested authorization to return to the country.",
-   "why": "Opposition alignment around a recognized leader is critical for diplomatic pressure and electoral legitimacy in Venezuela.",
-   "impact": 5.2,
+   "summary": "Venezuela's opposition has reaffirmed its support for Maria Corina Machado as its leader. The exiled Nobel laureate is petitioning for new national elections and permission to return to Venezuela.",
+   "why": "Consolidation of opposition leadership shapes international pressure and the trajectory of governance in Venezuela.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792344020,
-   "articles": [
-    {
-     "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Residents in Adigrat, near the Eritrean border, recounted recent drone strikes carried out by Ethiopian forces. The strikes occurred within the northern Tigray region.",
-   "why": "Renewed military strikes threaten fragile regional peace and put civilian lives at risk in northern Ethiopia.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792238400,
-   "articles": [
-    {
-     "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Local",
-   "summary": "Residents in the war-torn Gaza Strip, including Ahmed Al-Omari, are bracing for winter cold and rain using makeshift flood barriers. Displaced families are struggling to survive in damaged buildings and tattered tents.",
-   "why": "Severe winter weather compounds humanitarian risks for hundreds of thousands living in compromised shelters in Gaza.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW",
-    "NPR World",
-    "The Guardian World"
-   ],
-   "n_sources": 4,
-   "ts": 1792367593,
-   "articles": [
-    {
-     "title": "Major fire at Canada military base leaves four dead, dozens injured",
-     "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
-     "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
-     "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
-     "source": "NPR World"
-    },
-    {
-     "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A major fire at a military base in Alberta killed four service members and left dozens injured. Prime Minister Carney stated emergency crews fought the fire overnight in extreme conditions.",
-   "why": "A fatal disaster on a major national military installation affects operational capacity and prompts federal safety scrutiny.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.1
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792347191,
-   "articles": [
-    {
-     "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
-     "link": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Regional",
-   "summary": "UK Home Secretary Shabana Mahmood is set to hold talks with the EU's home affairs commissioner regarding law enforcement cooperation. The discussion follows UK ambitions to rejoin European police databases.",
-   "why": "Restoring cross-border security database access fundamentally reshapes post-Brexit policing and transnational crime cooperation.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
+   "gap": 0.38
   },
   {
    "pre": 7,
@@ -701,205 +263,13 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "US Ambassador to Israel Mike Huckabee denounced a West Bank settler attack on American photojournalist Heidi Levine as 'terror' and called for prosecution. Levine was hospitalized in Israel requiring surgery following the assault.",
-   "why": "Strong condemnation and framing of settler violence as terrorism by a top US diplomat highlights diplomatic friction and potential shifts in US oversight of West Bank violence.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792354762,
-   "articles": [
-    {
-     "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-     "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "President Emmanuel Macron condemned widespread rioting and looting in France and pledged to deploy increased security measures. However, he refrained from declaring a national state of emergency or establishing a curfew.",
-   "why": "The decision to bolster security while avoiding emergency decrees shapes the boundaries of state power during widespread civil unrest.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792339320,
-   "articles": [
-    {
-     "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
-     "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Protests over low wages and living costs have turned violent across Italian cities, prompting Prime Minister Meloni to voice support for the police. A major union has called for a general strike on November 20.",
-   "why": "Escalating labor unrest and a nationwide strike threaten widespread economic disruption across Italy.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792270380,
-   "articles": [
-    {
-     "title": "Anti-government protesters battle with police in Albania",
-     "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Violent clashes erupted in Tirana between anti-government protesters and riot police over the weekend. Demonstrators battled security forces throughout Saturday.",
-   "why": "Escalating political clashes in Albania's capital threaten domestic stability and governance in the region.",
+   "summary": "US Ambassador to Israel Mike Huckabee labeled a West Bank settler attack on American photojournalist Heidi Levine as 'terror' and called for the arrest and prosecution of those responsible. Levine required surgery and is recovering in a hospital in Israel.",
+   "why": "A US ambassador characterizing settler violence against an American citizen as 'terror' marks a notable diplomatic and legal stance.",
    "impact": 4.6,
    "under_radar": false,
    "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792231097,
-   "articles": [
-    {
-     "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A 16-year-old former pupil targeted a special educational needs classroom at a primary school before a teacher intervened and an armed father shot the suspect multiple times.",
-   "why": "An armed school attack raising concerns regarding school security, firearm intervention by civilians, and vulnerability of special needs pupils.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792321119,
-   "articles": [
-    {
-     "title": "Parisians wake up to protest damage and looted shops",
-     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Widespread violence, property damage, and store looting occurred across France during protests over school conditions and the cost of living. Parisians were left confronting damaged infrastructure and vandalized businesses the following morning.",
-   "why": "Nationwide civil unrest involving property destruction signals acute socioeconomic distress and public security vulnerabilities.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792272797,
-   "articles": [
-    {
-     "title": "How day of protests unfolded as disorder breaks out across France",
-     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Protests across France escalated into widespread disorder, resulting in arson targeting vehicles and structures alongside ransacked commercial properties. The demonstrations caused extensive disruption nationwide.",
-   "why": "Escalating civil disorder threatens public safety and causes widespread economic disruption.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792357847,
-   "articles": [
-    {
-     "title": "Macron condemns violence after riots lead to looting and mass arrests",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "French President Emmanuel Macron condemned violent riots that resulted in mass arrests and widespread looting. Macron stated that individuals responsible for attacking government buildings must be held legally accountable.",
-   "why": "State enforcement actions and mass arrests following attacks on public institutions directly impact civil liberties and legal stability.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "USGS Quakes"
-   ],
-   "n_sources": 1,
-   "ts": 1792300436,
-   "articles": [
-    {
-     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-     "source": "USGS Quakes"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a depth of 10.0 km. The event triggered a USGS PAGER Yellow alert and ShakeMap intensity VII.",
-   "why": "A shallow magnitude 5.7 earthquake with strong shaking in populated areas carries risk of casualties and infrastructural damage.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
   },
   {
    "pre": 5,
@@ -919,8 +289,56 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "French President Emmanuel Macron delivered a national address demanding calm and order following nationwide riots. The address came as instances of looting persisted in Paris.",
-   "why": "Direct presidential intervention reflects the severity of nationwide social disorder challenging the French government's authority.",
+   "summary": "French President Emmanuel Macron delivered a national address calling for calm and order following widespread riots across France. The appeal came amid continuing unrest and incidents of looting in Paris.",
+   "why": "A head-of-state appeal underscores the severity of ongoing civil unrest challenging state governance.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792239118,
+   "articles": [
+    {
+     "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+     "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A nursery owner in China has been sentenced to life in prison after hundreds of children were poisoned. The owner and five staff members used inedible paint in meals to enhance their appearance.",
+   "why": "The mass poisoning of hundreds of children led to severe legal accountability and highlights critical food safety enforcement in childcare.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792270380,
+   "articles": [
+    {
+     "title": "Anti-government protesters battle with police in Albania",
+     "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Violent confrontations erupted between anti-government demonstrators and riot police in Albania's capital, Tirana. Clashes persisted throughout the day across the city.",
+   "why": "Capital-wide civil clashes present significant risks to domestic governance and political stability in Albania.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
@@ -943,8 +361,80 @@
    "skip": false,
    "category": "Health",
    "scale": "Global",
-   "summary": "The Pope has been discharged from the hospital following lung cancer surgery. He is scheduled to deliver the traditional Angelus prayer and blessing in St Peter's Square.",
-   "why": "The health and recovery of the head of the Roman Catholic Church impacts global religious governance and leadership continuity.",
+   "summary": "The Pope was discharged from the hospital days after undergoing lung cancer surgery. He is scheduled to deliver the traditional Angelus prayer and blessing in St Peter's Square.",
+   "why": "The health and recovery of the head of the Catholic Church has substantial implications for global church leadership.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792357222,
+   "articles": [
+    {
+     "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+     "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Communities in Chicago are battling a new wave of synthetic drugs flooding into the United States. The crisis is ongoing as local areas confront the inflow of these substances.",
+   "why": "The influx of synthetic narcotics significantly impacts public health systems and community safety across major urban hubs.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792321772,
+   "articles": [
+    {
+     "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+     "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "Pope Leo XIV conducted his first public event since undergoing surgery for lung cancer. He addressed wellwishers and recited the Angelus prayer from the Apostolic Palace balcony.",
+   "why": "The operational return of papal leadership directly influences Vatican governance and global Catholic affairs.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792371377,
+   "articles": [
+    {
+     "title": "Kinship and surveillance: The return of Somali piracy",
+     "link": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A resurgence of Somali piracy has led to heightened surveillance and crackdowns. These enforcement measures have left local coastal fishermen struggling to maintain their livelihoods.",
+   "why": "Maritime piracy resurgences threaten international shipping lanes and complicate regional economic livelihoods.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
@@ -967,37 +457,8 @@
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "A historic town hall in Limoges was damaged during an apparent arson attack following nationwide protests. Residents expressed shock over the incident.",
-   "why": "The destruction of civic infrastructure marks an escalation in violence during ongoing nationwide unrest in France.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792337444,
-   "articles": [
-    {
-     "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-     "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
-     "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Police cracked down on a sixth consecutive day of student-led demonstrations in Tirana. Protesters are demanding the resignation of Prime Minister Edi Rama.",
-   "why": "Sustained street demonstrations and police crackdowns signal deepening domestic political instability in Albania.",
+   "summary": "A historic town hall in Limoges was damaged in an apparent arson attack following nationwide protests in France. The incident has left local residents in shock.",
+   "why": "The destruction of historic civic infrastructure marks an escalation in the physical fallout of domestic protests.",
    "impact": 4.2,
    "under_radar": false,
    "gap": 0.32
@@ -1009,19 +470,19 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792321772,
+   "ts": 1792321119,
    "articles": [
     {
-     "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-     "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+     "title": "Parisians wake up to protest damage and looted shops",
+     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "Pope Leo XIV conducted his first public appearance following lung cancer surgery, delivering the Angelus prayer from the Apostolic Palace balcony. He used the occasion to express gratitude to well-wishers.",
-   "why": "Public resumption of duties confirms the stabilization of Catholic Church leadership after a major medical intervention.",
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Violent demonstrations over the cost of living and school conditions broke out across France on Saturday. In Paris, shops were looted and property damage was reported following the unrest.",
+   "why": "Widespread civil unrest driven by economic pressures can disrupt public services and force policy responses.",
    "impact": 4.0,
    "under_radar": false,
    "gap": 0.3
@@ -1030,22 +491,22 @@
    "pre": 5,
    "tier": "wire",
    "sources": [
-    "DW"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792352820,
+   "ts": 1792272797,
    "articles": [
     {
-     "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
-     "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "How day of protests unfolded as disorder breaks out across France",
+     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Economy",
    "scale": "National",
-   "summary": "Albanian Prime Minister Edi Rama has refused to step down despite ongoing calls from anti-government demonstrators. Fresh violent clashes broke out between protesters and law enforcement.",
-   "why": "The prime minister's refusal to step down amid persistent unrest prolongs civil disruption and political gridlock.",
+   "summary": "Nationwide demonstrations in France turned violent, leading to ransacked shops and burning cars and buildings. The disorder occurred as part of protests across the country.",
+   "why": "Escalating nationwide violent unrest threatens public security and economic activity.",
    "impact": 4.0,
    "under_radar": false,
    "gap": 0.3
