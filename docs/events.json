@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-20T15:25:47.693523Z",
+ "updated": "2026-10-20T18:20:09.566220Z",
  "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792517415,
+   "articles": [
+    {
+     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+     "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Sudanese army drone strikes targeted a funeral truck and a fuel market alleged to supply the RSF, killing more than 300 people according to sources.",
+   "why": "Mass-casualty military strikes against civilian gatherings mark severe escalations in atrocities during Sudan's civil war.",
+   "impact": 8.0,
+   "under_radar": true,
+   "gap": 0.7
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792502433,
+   "articles": [
+    {
+     "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "US envoy Tom Barrack stated that President Trump did not follow Israel in going to war against Iran. He defended the decision regarding military action involving Iran.",
+   "why": "Direct military conflict involving the US, Israel, and Iran carries massive global security and economic ramifications.",
+   "impact": 7.8,
+   "under_radar": true,
+   "gap": 0.68
+  },
   {
    "pre": 7,
    "tier": "wire",
@@ -19,8 +67,8 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "A Houthi ballistic missile attack on a government security force training camp killed at least 53 people and injured over 200. This represents the largest single loss of life recorded since the Yemen civil war reignited.",
-   "why": "A record-casualty ballistic missile strike risks triggering substantial military escalation and instability across the region.",
+   "summary": "A Houthi ballistic missile strike on a Yemeni government training camp killed at least 53 people and injured more than 200. This represents the largest single loss of life since the reignition of the civil war.",
+   "why": "A mass-casualty missile strike escalates the Yemeni civil war and threatens stability across the Arabian Peninsula.",
    "impact": 7.4,
    "under_radar": true,
    "gap": 0.64
@@ -29,79 +77,25 @@
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "The Guardian World"
+    "NPR World"
    ],
    "n_sources": 1,
-   "ts": 1792421153,
+   "ts": 1792494232,
    "articles": [
     {
-     "title": "Drone attack near market kills 80 in Sudan",
-     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-     "source": "The Guardian World"
+     "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+     "source": "NPR World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A drone strike hit a transport hub near a market in al-Dibab in southern Sudan, killing 80 people, primarily commuters. The incident marks one of the deadliest single attacks of the ongoing war.",
-   "why": "Mass-casualty strikes on civilian transportation hubs highlight the severe humanitarian toll and intensifying violence in Sudan's conflict.",
-   "impact": 7.0,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "President Trump is seeking an end to the war in Ukraine amid high energy costs ahead of US midterms. His diplomatic engagement with Russia has reportedly resumed as part of these efforts.",
+   "why": "Shifts in US diplomacy toward Russia directly influence the trajectory and resolution of the war in Ukraine.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792426094,
-   "articles": [
-    {
-     "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
-     "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Doomsday cult leader Paul Mackenzie was found guilty in Kenya of murdering 190 children and one adult after directing followers to starve to death.",
-   "why": "The conviction establishes legal accountability for one of the worst mass-casualty religious cult atrocities in modern history.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792495775,
-   "articles": [
-    {
-     "title": "Australian MP Helen Haines remains in critical condition after car attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Australian MP Helen Haines remains in critical condition and lost a leg following a car attack outside her office.",
-   "why": "A severe violent attack targeting an elected lawmaker raises significant concerns regarding political security and safety.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "gap": 0.58
   },
   {
    "pre": 7,
@@ -121,11 +115,35 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Independent MP Helen Haines is in critical condition after losing a leg when a driver allegedly struck her twice in Wangaratta.",
-   "why": "The targeted vehicular assault of a lawmaker resulting in permanent catastrophic injury poses grave rule-of-law and security implications.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "Independent MP Helen Haines is in critical yet stable condition and lost a leg after a driver allegedly struck her twice in Wangaratta. Police arrested suspect Brendan Nugent, whose family noted a long friendship with Haines.",
+   "why": "The severe maiming of a sitting federal lawmaker represents a grave assault on national political leadership.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792515546,
+   "articles": [
+    {
+     "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+     "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Voters in the Canadian province of Alberta overwhelmingly rejected separatism in a referendum, choosing to remain part of Canada. Deep political divisions nevertheless persist within the province.",
+   "why": "The outcome averts constitutional disintegration and preserves the territorial and economic integrity of Canada.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
    "pre": 7,
@@ -145,113 +163,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Australian federal lawmaker Helen Haines suffered severe injuries in what the Prime Minister described as a deliberate car attack.",
-   "why": "Deliberate physical assaults on sitting members of parliament represent a severe escalation in threats against public officials.",
-   "impact": 5.6,
+   "summary": "Australian independent federal MP Helen Haines suffered severe injuries in what Prime Minister Anthony Albanese described as a deliberate car attack. The incident occurred as an alleged vehicle ramming.",
+   "why": "A deliberate vehicular attack on a sitting member of parliament signals heightened political violence risks in Australia.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792497292,
-   "articles": [
-    {
-     "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
-     "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "The UK Ministry of Defence announced it will deploy Typhoon fighter jets to Saudi Arabia in a defensive role against Houthi attacks.",
-   "why": "Foreign military deployment directly affects Gulf air defense architecture and international involvement in the Red Sea crisis.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792491868,
-   "articles": [
-    {
-     "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-     "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Ukrainian President Zelenskyy is set to hold talks in Oslo regarding the Russia-Ukraine war alongside US envoy Witkoff and the prime ministers of Norway and Finland.",
-   "why": "High-level diplomatic meetings involving European leaders and US envoys can shape international strategy and peace efforts concerning Ukraine.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792504300,
-   "articles": [
-    {
-     "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-     "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Ukrainian President Zelenskyy held talks with US envoys in Oslo, while the US Secretary of State denied claims that critical intelligence had been withheld from Ukraine.",
-   "why": "Discussions on US intelligence-sharing and diplomatic strategy directly impact the operational capability of Ukrainian forces.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792484460,
-   "articles": [
-    {
-     "title": "Germany news: Investment summit draws billions in commitments",
-     "link": "https://www.dw.com/en/germany-news-investment-summit-draws-billions-in-commitments/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Investors pledged billions of euros to Germany during an investment summit in Berlin. In addition, Germany agreed to deepen artificial intelligence cooperation with Nvidia.",
-   "why": "Large-scale capital commitments and strategic AI partnerships are critical drivers of economic modernization and industrial competitiveness.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
+   "gap": 0.48
   },
   {
    "pre": 5,
@@ -270,12 +186,60 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Local",
-   "summary": "Marseille is preparing for further unrest following severe protests and disorder that struck the city on Saturday.",
-   "why": "Widespread civil unrest in major metropolitan centers strains public infrastructure and local law enforcement.",
-   "impact": 4.2,
+   "scale": "National",
+   "summary": "Marseille is bracing for further unrest following severe violence and disorder during widespread protests across France. The city experienced some of the worst chaos over the weekend.",
+   "why": "Escalating civil disorder in major metropolitan hubs destabilizes national governance and public safety.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792487938,
+   "articles": [
+    {
+     "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Victoria police arrested a 43-year-old Tarrawingee man, Brendan Nugent, who now faces three charges over the alleged vehicular attack on MP Helen Haines in Wangaratta. Nugent's family stated they have known Haines for over two decades.",
+   "why": "The formal prosecution of an assailant targeting a federal representative is a critical judicial accountability measure.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792477803,
+   "articles": [
+    {
+     "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
+     "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Australian politicians and the Human Rights Commission condemned the alleged attack on critically injured MP Helen Haines. Prime Minister Anthony Albanese affirmed that the incident was clearly deliberate.",
+   "why": "Institutional condemnation and government acknowledgment frame the civic response to violence against elected officials.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
   }
  ]
 }
