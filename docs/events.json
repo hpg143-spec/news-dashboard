@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:20:09.566220Z",
+ "updated": "2026-10-20T21:19:07.787725Z",
  "events": [
   {
    "pre": 5,
@@ -8,115 +8,67 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792517415,
+   "ts": 1792505382,
    "articles": [
     {
-     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-     "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+     "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Sudanese army drone strikes targeted a funeral truck and a fuel market alleged to supply the RSF, killing more than 300 people according to sources.",
-   "why": "Mass-casualty military strikes against civilian gatherings mark severe escalations in atrocities during Sudan's civil war.",
-   "impact": 8.0,
+   "summary": "A Houthi missile strike hit a government-controlled training camp in Yemen's Shabwa province. The attack killed 73 security recruits, according to local authorities.",
+   "why": "A mass-casualty strike on military recruits threatens regional stability and could trigger severe escalations in the Yemeni conflict.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.7
+   "gap": 0.6
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792502433,
+   "ts": 1792440043,
    "articles": [
     {
-     "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+     "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "US envoy Tom Barrack stated that President Trump did not follow Israel in going to war against Iran. He defended the decision regarding military action involving Iran.",
-   "why": "Direct military conflict involving the US, Israel, and Iran carries massive global security and economic ramifications.",
-   "impact": 7.8,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Ukraine's military announced it conducted its first drone airlift to evacuate a wounded soldier from the front line. Ground extraction was impossible due to surrounding landmines and enemy drones.",
+   "why": "The successful medical evacuation by drone represents a major technological precedent in battlefield logistics and combat casualty care.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.68
+   "gap": 0.54
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "The Guardian World"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792430123,
+   "ts": 1792417361,
    "articles": [
     {
-     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-     "source": "The Guardian World"
+     "title": "Exiled critic of Rwandan president found beheaded",
+     "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "A Houthi ballistic missile strike on a Yemeni government training camp killed at least 53 people and injured more than 200. This represents the largest single loss of life since the reignition of the civil war.",
-   "why": "A mass-casualty missile strike escalates the Yemeni civil war and threatens stability across the Arabian Peninsula.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "NPR World"
-   ],
-   "n_sources": 1,
-   "ts": 1792494232,
-   "articles": [
-    {
-     "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "President Trump is seeking an end to the war in Ukraine amid high energy costs ahead of US midterms. His diplomatic engagement with Russia has reportedly resumed as part of these efforts.",
-   "why": "Shifts in US diplomacy toward Russia directly influence the trajectory and resolution of the war in Ukraine.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792492648,
-   "articles": [
-    {
-     "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Independent MP Helen Haines is in critical yet stable condition and lost a leg after a driver allegedly struck her twice in Wangaratta. Police arrested suspect Brendan Nugent, whose family noted a long friendship with Haines.",
-   "why": "The severe maiming of a sitting federal lawmaker represents a grave assault on national political leadership.",
+   "summary": "Former Rwandan army sergeant major Robert Kabera, an exiled critic of Rwanda's president, was found beheaded. He was a popular YouTuber and singer who had sought asylum in Uganda.",
+   "why": "The murder of an exiled dissident in a neighboring country points to transnational repression and risks escalating regional political tensions.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
@@ -128,46 +80,22 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792515546,
+   "ts": 1792461163,
    "articles": [
     {
-     "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-     "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+     "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+     "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Voters in the Canadian province of Alberta overwhelmingly rejected separatism in a referendum, choosing to remain part of Canada. Deep political divisions nevertheless persist within the province.",
-   "why": "The outcome averts constitutional disintegration and preserves the territorial and economic integrity of Canada.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792476120,
-   "articles": [
-    {
-     "title": "Australian MP seriously hurt in suspected car attack",
-     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Australian independent federal MP Helen Haines suffered severe injuries in what Prime Minister Anthony Albanese described as a deliberate car attack. The incident occurred as an alleged vehicle ramming.",
-   "why": "A deliberate vehicular attack on a sitting member of parliament signals heightened political violence risks in Australia.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "A rapid fire at a Canadian military base advanced one kilometer in under a minute. The blaze killed four men and injured dozens of others.",
+   "why": "A fatal disaster at a military facility raises serious concerns about base safety protocols and emergency management.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 5,
@@ -176,70 +104,118 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792498086,
+   "ts": 1792454552,
    "articles": [
     {
-     "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-     "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+     "title": "US church on front line of battle against drug known as 'tranq'",
+     "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "A US church is actively responding to the proliferation of the drug known as 'tranq'. The drug landscape has shifted due to a plentiful supply of potent synthetic opioids like fentanyl.",
+   "why": "The spread of new adulterants in synthetic opioids intensifies the public health crisis surrounding overdose fatalities.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792445408,
+   "articles": [
+    {
+     "title": "Clean up begins after French riots but police remain",
+     "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Marseille is bracing for further unrest following severe violence and disorder during widespread protests across France. The city experienced some of the worst chaos over the weekend.",
-   "why": "Escalating civil disorder in major metropolitan hubs destabilizes national governance and public safety.",
+   "summary": "Clean-up operations began across France following widespread riots, with police remaining deployed. In Marseille alone, over 600 shops were reported looted.",
+   "why": "Mass unrest and property destruction inflict substantial economic costs and test state stability and public security.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "The Guardian World"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792487938,
+   "ts": 1792392035,
    "articles": [
     {
-     "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Victoria police arrested a 43-year-old Tarrawingee man, Brendan Nugent, who now faces three charges over the alleged vehicular attack on MP Helen Haines in Wangaratta. Nugent's family stated they have known Haines for over two decades.",
-   "why": "The formal prosecution of an assailant targeting a federal representative is a critical judicial accountability measure.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792477803,
-   "articles": [
-    {
-     "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
-     "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-     "source": "The Guardian World"
+     "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Australian politicians and the Human Rights Commission condemned the alleged attack on critically injured MP Helen Haines. Prime Minister Anthony Albanese affirmed that the incident was clearly deliberate.",
-   "why": "Institutional condemnation and government acknowledgment frame the civic response to violence against elected officials.",
-   "impact": 4.6,
+   "summary": "More than half a million people demonstrated across France over the weekend amid widespread violence. The unrest resulted in looted shops and gutted restaurants in Paris and other cities.",
+   "why": "Large-scale civil unrest across an entire nation poses critical challenges to national governance, economic activity, and public safety.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.36
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792444350,
+   "articles": [
+    {
+     "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Abdulrahman Alfozan, a former OpenAI employee accused of planting a recording device, was denied bail. Prosecutors allege he acted with Saudi state support.",
+   "why": "Allegations of state-sponsored corporate espionage targeting leading AI firms have significant implications for international espionage and national security policy.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792503551,
+   "articles": [
+    {
+     "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+     "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Alberta's separatist movement suffered a decisive electoral defeat. Although leadership has pledged to continue, the significant margin of defeat poses a major setback.",
+   "why": "A decisive defeat alters the trajectory of regional separatist politics in Canada and eases immediate constitutional challenges.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
