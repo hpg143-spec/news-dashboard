@@ -1,4 +1,281 @@
 {
- "updated": "2026-10-20T12:19:43.775699Z",
- "events": []
+ "updated": "2026-10-20T15:25:47.693523Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792430123,
+   "articles": [
+    {
+     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A Houthi ballistic missile attack on a government security force training camp killed at least 53 people and injured over 200. This represents the largest single loss of life recorded since the Yemen civil war reignited.",
+   "why": "A record-casualty ballistic missile strike risks triggering substantial military escalation and instability across the region.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792421153,
+   "articles": [
+    {
+     "title": "Drone attack near market kills 80 in Sudan",
+     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A drone strike hit a transport hub near a market in al-Dibab in southern Sudan, killing 80 people, primarily commuters. The incident marks one of the deadliest single attacks of the ongoing war.",
+   "why": "Mass-casualty strikes on civilian transportation hubs highlight the severe humanitarian toll and intensifying violence in Sudan's conflict.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792426094,
+   "articles": [
+    {
+     "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
+     "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Doomsday cult leader Paul Mackenzie was found guilty in Kenya of murdering 190 children and one adult after directing followers to starve to death.",
+   "why": "The conviction establishes legal accountability for one of the worst mass-casualty religious cult atrocities in modern history.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792495775,
+   "articles": [
+    {
+     "title": "Australian MP Helen Haines remains in critical condition after car attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Australian MP Helen Haines remains in critical condition and lost a leg following a car attack outside her office.",
+   "why": "A severe violent attack targeting an elected lawmaker raises significant concerns regarding political security and safety.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792492648,
+   "articles": [
+    {
+     "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Independent MP Helen Haines is in critical condition after losing a leg when a driver allegedly struck her twice in Wangaratta.",
+   "why": "The targeted vehicular assault of a lawmaker resulting in permanent catastrophic injury poses grave rule-of-law and security implications.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792476120,
+   "articles": [
+    {
+     "title": "Australian MP seriously hurt in suspected car attack",
+     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Australian federal lawmaker Helen Haines suffered severe injuries in what the Prime Minister described as a deliberate car attack.",
+   "why": "Deliberate physical assaults on sitting members of parliament represent a severe escalation in threats against public officials.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792497292,
+   "articles": [
+    {
+     "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The UK Ministry of Defence announced it will deploy Typhoon fighter jets to Saudi Arabia in a defensive role against Houthi attacks.",
+   "why": "Foreign military deployment directly affects Gulf air defense architecture and international involvement in the Red Sea crisis.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792491868,
+   "articles": [
+    {
+     "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+     "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukrainian President Zelenskyy is set to hold talks in Oslo regarding the Russia-Ukraine war alongside US envoy Witkoff and the prime ministers of Norway and Finland.",
+   "why": "High-level diplomatic meetings involving European leaders and US envoys can shape international strategy and peace efforts concerning Ukraine.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792504300,
+   "articles": [
+    {
+     "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+     "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukrainian President Zelenskyy held talks with US envoys in Oslo, while the US Secretary of State denied claims that critical intelligence had been withheld from Ukraine.",
+   "why": "Discussions on US intelligence-sharing and diplomatic strategy directly impact the operational capability of Ukrainian forces.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792484460,
+   "articles": [
+    {
+     "title": "Germany news: Investment summit draws billions in commitments",
+     "link": "https://www.dw.com/en/germany-news-investment-summit-draws-billions-in-commitments/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Investors pledged billions of euros to Germany during an investment summit in Berlin. In addition, Germany agreed to deepen artificial intelligence cooperation with Nvidia.",
+   "why": "Large-scale capital commitments and strategic AI partnerships are critical drivers of economic modernization and industrial competitiveness.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792498086,
+   "articles": [
+    {
+     "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Marseille is preparing for further unrest following severe protests and disorder that struck the city on Saturday.",
+   "why": "Widespread civil unrest in major metropolitan centers strains public infrastructure and local law enforcement.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  }
+ ]
 }
