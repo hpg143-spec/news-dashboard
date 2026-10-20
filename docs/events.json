@@ -1,54 +1,6 @@
 {
- "updated": "2026-10-20T00:17:41.627829Z",
+ "updated": "2026-10-20T03:25:22.485186Z",
  "events": [
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792445926,
-   "articles": [
-    {
-     "title": "160 people reported killed in escalating drone attacks across Sudan",
-     "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Escalating drone attacks across Sudan have reportedly killed 160 people. Rights groups have cautioned that unmanned aircraft are increasingly targeting civilians and infrastructure.",
-   "why": "Mass civilian casualties from expanding aerial warfare severely exacerbate the humanitarian crisis and destruction of essential infrastructure.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792439830,
-   "articles": [
-    {
-     "title": "Finland seeking one million land mines as it eyes Russian threat",
-     "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Finland is seeking one million land mines to counter threats from Russia along its eastern border. This move follows Helsinki's withdrawal from the international treaty banning such munitions.",
-   "why": "Re-arming with landmines and withdrawing from international disarmament treaties marks a major shift in European border security and military doctrine.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
   {
    "pre": 5,
    "tier": "wire",
@@ -56,88 +8,46 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792442940,
+   "ts": 1792365615,
    "articles": [
     {
-     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+     "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "An adviser to Ukraine's president stated that US restrictions on intelligence sharing have caused Ukrainian casualties due to insufficient warning time for missile attacks. The White House maintained that no changes have been made to its intelligence-sharing policies.",
-   "why": "Disruptions or disputes over allied intelligence sharing directly affect air defense capabilities and sovereign military alliances.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792421153,
-   "articles": [
-    {
-     "title": "Drone attack near market kills 80 in Sudan",
-     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A drone attack near a market and transport hub in al-Dibab, southern Sudan, killed 80 people, mostly commuters. The strike is reported as one of the deadliest single attacks of the ongoing conflict.",
-   "why": "Mass-casualty strikes on civilian transport hubs represent an acute escalation in the lethality of the Sudanese conflict.",
+   "summary": "The US president suspended multiple incoming sanctions against Russia shortly before they were scheduled to take effect. Trump stated the action was taken to preserve ongoing peace negotiations.",
+   "why": "Halting sanctions on a major geopolitical adversary directly alters diplomatic leverage and international security dynamics.",
    "impact": 7.2,
    "under_radar": true,
    "gap": 0.62
   },
   {
-   "pre": 8,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "BBC World",
-    "DW",
-    "The Guardian World"
+    "BBC World"
    ],
-   "n_sources": 4,
-   "ts": 1792441881,
+   "n_sources": 1,
+   "ts": 1792454552,
    "articles": [
     {
-     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "title": "US church on frontline of battle against drug known as 'tranq'",
+     "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Kenya convicts cult leader over the murder of 190 children",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
-     "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Health",
    "scale": "National",
-   "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty in Kenya of 191 murder charges. All but one of the murder victims were children.",
-   "why": "The verdict establishes legal accountability for one of the worst mass-starvation cult tragedies in modern history.",
-   "impact": 6.6,
-   "under_radar": false,
-   "gap": 0.26
+   "summary": "Potent synthetic opioids, including fentanyl and the substance known as 'tranq', have significantly expanded across the US drug supply. Local groups and churches are actively responding on the frontlines.",
+   "why": "The spread of novel and highly potent synthetic drugs exacerbates the public health crisis and strains local emergency resources.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
   },
   {
    "pre": 5,
@@ -146,213 +56,94 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792438720,
+   "ts": 1792461015,
    "articles": [
     {
-     "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+     "title": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Environment",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "Deadly flooding in Spain has prompted military deployments to rescue stranded residents. Military personnel are currently hoisting people directly from the roofs of their submerged homes.",
-   "why": "Severe flooding causing fatalities and widespread destruction necessitates military intervention and extensive disaster recovery efforts.",
+   "summary": "Ukrainian President Zelenskyy is seeking explanations regarding failures in the SpaceX Starshield defense system.",
+   "why": "Disruptions to vital military satellite defense systems directly impact frontline tactical communication and strategic defense capabilities.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
   },
   {
-   "pre": 9,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "BBC World",
-    "DW",
-    "The Guardian World"
+    "Al Jazeera"
    ],
-   "n_sources": 3,
-   "ts": 1792430123,
+   "n_sources": 1,
+   "ts": 1792454760,
    "articles": [
     {
-     "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Houthi strike on Yemen government military camp kills at least 50",
-     "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-     "source": "The Guardian World"
+     "title": "Exiled critic of Rwandan president found beheaded in Uganda",
+     "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "National",
-   "summary": "Three missiles struck a training centre for new recruits in government-controlled Shabwa province. The attack killed at least 50 security recruits.",
-   "why": "A single attack with heavy casualties risks reigniting full-scale military conflict in Yemen.",
-   "impact": 6.2,
-   "under_radar": false,
-   "gap": 0.32
+   "scale": "Regional",
+   "summary": "Ugandan police discovered the beheaded body of an exiled critic of Rwanda's president near Kampala. The victim's head has not yet been recovered.",
+   "why": "The violent killing of a political dissident on foreign soil heightens cross-border tensions and fears of transnational repression.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1792444493,
-   "articles": [
-    {
-     "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-     "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "France: Partial curfews issued in Paris, Nice after unrest",
-     "link": "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-     "source": "The Guardian World"
-    },
-    {
-     "title": "France imposes partial curfews in several cities, including parts of Paris",
-     "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Authorities announced partial curfews in parts of central Paris and other cities following nationwide rioting. France's interior minister admitted that police lost control in some areas.",
-   "why": "The imposition of curfews and loss of police control in major French cities reflects a severe breakdown of public order.",
-   "impact": 6.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792418813,
+   "ts": 1792451305,
    "articles": [
     {
-     "title": "Catalonia's former rebel president can return to Spain, court rules",
-     "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+     "title": "Five ways El Niño is affecting the weather around the world",
+     "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A court upheld a decision lifting the arrest warrant against former Catalan president Carles Puigdemont. The warrant was originally tied to the independence bid he led in 2017.",
-   "why": "Lifting the arrest warrant enables Puigdemont's return to Spain and significantly impacts ongoing Spanish and Catalan political dynamics.",
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The strongest El Niño on record continues to intensify, causing observable impacts on global weather patterns.",
+   "why": "Major El Niño events trigger widespread weather disruptions, affecting global agriculture, disaster frequency, and economies.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
   },
   {
-   "pre": 10,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "BBC World",
-    "DW",
-    "The Guardian World",
-    "UN News"
+    "BBC World"
    ],
-   "n_sources": 4,
-   "ts": 1792411200,
+   "n_sources": 1,
+   "ts": 1792368385,
    "articles": [
     {
-     "title": "Gaza: Funding cuts leave half a million without food assistance",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-     "source": "UN News"
-    },
-    {
-     "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+     "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+     "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
-     "link": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-     "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Funding shortages have forced the World Food Programme to reduce food assistance to families in the Gaza Strip by roughly one third. The cuts will affect an estimated 500,000 people as winter approaches.",
-   "why": "Cutting food aid to half a million people in an active conflict zone threatens severe malnutrition and worsens an existing humanitarian crisis.",
-   "impact": 6.0,
-   "under_radar": false,
-   "gap": 0.2
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Drone strikes killed and injured dozens of people across Sudan on Monday. The strikes occurred as the ongoing war continues to drive soaring displacement and hunger.",
-   "why": "Expanding drone warfare worsens civilian casualties and deepens the acute displacement crisis across Sudan.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "The UN informed the Security Council that armed groups in Haiti are adapting to security operations by expanding into rural areas and increasing civilian reprisals. Elections in the country remain on hold amid the continuing gang activity.",
-   "why": "Gang adaptation into rural regions blocks democratic governance and deepens the collapse of state authority in Haiti.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "Two operatives reported conducting covert sabotage operations within Russia to assist Ukrainian intelligence during the ongoing war.",
+   "why": "Internal sabotage networks inside a warring state undermine domestic defense and widen the conflict's front lines.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 5,
@@ -361,82 +152,46 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792441786,
+   "ts": 1792461152,
    "articles": [
     {
-     "title": "Trump signs order launching women’s health division at NIH, White House",
-     "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "President Donald Trump signed an executive order establishing a women's health division within the NIH and the White House. The initiative was championed by First Lady Melania Trump.",
-   "why": "Restructuring federal research priorities via executive order directly shifts federal funding and institutional focus on women's healthcare.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World"
-   ],
-   "n_sources": 2,
-   "ts": 1792444350,
-   "articles": [
-    {
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
-     "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+     "title": "The human cost of surging US air strikes in Somalia",
+     "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "National",
-   "summary": "A court filing alleges that an ex-OpenAI employee accused of planting a device had Saudi backing. The Saudi government did not immediately respond to requests for comment.",
-   "why": "Allegations of foreign state involvement in physical sabotage at leading AI firms highlight severe emerging espionage risks.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.36
+   "scale": "Regional",
+   "summary": "The United States has accelerated air strikes against armed groups in Somalia. Local families report associated deaths, injuries, and displacement.",
+   "why": "Escalating military operations directly cause civilian casualties and alter regional security dynamics in the Horn of Africa.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
-   "pre": 6,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "BBC World"
+    "Al Jazeera"
    ],
-   "n_sources": 2,
-   "ts": 1792442979,
+   "n_sources": 1,
+   "ts": 1792458331,
    "articles": [
     {
-     "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-     "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+     "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Tech & Science",
-   "scale": "National",
-   "summary": "Ukraine's military conducted its first-ever drone airlift to evacuate a wounded soldier from the front line. The operation was executed because surrounding landmines and enemy drones made a ground rescue impossible.",
-   "why": "The operational deployment of drones for medical evacuation marks a significant technological advancement in battlefield logistics and survival.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.36
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Saudi Arabia has postponed its 2026 investment conference to 2027 following Houthi attacks. The government has also directed state staff to work remotely.",
+   "why": "The cancellation of a major international economic summit underscores escalating regional security threats affecting Saudi economic initiatives.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 5,
@@ -445,19 +200,91 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792392035,
+   "ts": 1792417361,
    "articles": [
     {
-     "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+     "title": "Exiled critic of Rwandan president found beheaded",
+     "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
+   "scale": "Regional",
+   "summary": "Robert Kabera, an exiled Rwandan army sergeant major, singer, and YouTuber who sought asylum in Uganda, was found beheaded.",
+   "why": "The murder of an exiled dissident in a neighboring country highlights severe transnational repression and threatens diplomatic relations.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792397839,
+   "articles": [
+    {
+     "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+     "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Saudi Arabia executed two Bangladeshi citizens for an alleged indecent act in a mosque. Bangladesh stated it was not informed prior to the executions.",
+   "why": "Unnotified capital punishment of foreign nationals strains consular conventions and bilateral diplomatic relations.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792452603,
+   "articles": [
+    {
+     "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "More than half a million people took to the streets across France over the weekend, leading to widespread violence. In Paris, shops were looted and restaurants were gutted.",
-   "why": "Mass civil unrest disrupting national infrastructure poses immediate risks to public safety, commerce, and state stability.",
+   "summary": "Fatima El Mansouri has become Morocco's first female prime minister, navigating pressures among the monarchy, religious clerics, and feminist advocates.",
+   "why": "The appointment of the nation's first female prime minister marks a major milestone for governance and women's rights in the region.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792409016,
+   "articles": [
+    {
+     "title": "Italy plans tougher security measures after violent protests",
+     "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Italian government plans to introduce tougher security measures following violent clashes during protests over rising living costs.",
+   "why": "State crackdowns and tightened public assembly laws can reshape civil liberties and alter domestic political stability.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
@@ -479,9 +306,33 @@
    ],
    "skip": false,
    "category": "Security",
+   "scale": "Local",
+   "summary": "A Russian drone strike on a park in Ukraine resulted in the deaths of six people, including children.",
+   "why": "Fatal strikes on civilian public infrastructure represent severe human casualties and ongoing violations of international humanitarian law.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792426611,
+   "articles": [
+    {
+     "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+     "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "Six people, including children, were killed in a Russian drone strike targeting a park in Ukraine.",
-   "why": "Lethal strikes on civilian recreational spaces represent severe casualties and continued targeting of non-combatants in the ongoing conflict.",
+   "summary": "Former President Obama criticized a federal search of Representative Ilhan Omar's home, calling it an effort to intimidate a critic of Donald Trump.",
+   "why": "Federal raids targeting sitting lawmakers raise serious constitutional concerns regarding the politicization of law enforcement.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
@@ -493,268 +344,46 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792446360,
+   "ts": 1792454177,
    "articles": [
     {
-     "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-     "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+     "title": "Colombia illegal gold mine collapse kills 14 people",
+     "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "The Egyptian parliament adjourned its session, delaying a vote on military support for Saudi Arabia. The delay occurred after an opposition party directed its members to abstain due to unclear commitments.",
-   "why": "Decisions on cross-border military support directly alter regional security architecture and military alliances in the Middle East.",
+   "category": "Health",
+   "scale": "Local",
+   "summary": "An illegal gold mine collapsed in southwestern Colombia, leaving 14 individuals dead and seven injured.",
+   "why": "The disaster causes immediate loss of life and highlights persistent safety hazards associated with unregulated extractive operations.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
   },
   {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Israeli attacks on Gaza killed at least six Palestinians over the weekend despite an existing ceasefire agreement. Concurrently, settler violence continued in the occupied West Bank during the olive harvest.",
-   "why": "Ongoing deadly strikes and agricultural disruptions undermine fragile truces and destabilize local livelihoods.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792348763,
-   "articles": [
-    {
-     "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-     "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Video footage captured masked Israeli militants moments before attacking a delegation of European diplomats, French clerics, and a visiting mayor in the occupied West Bank. Prime Minister Benjamin Netanyahu subsequently questioned the accounts of the incident.",
-   "why": "Attacks on foreign diplomats and elected officials by armed settlers risk severe international diplomatic fallout and heighten regional tensions.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792433114,
-   "articles": [
-    {
-     "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-     "link": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-     "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Regional",
-   "summary": "Israeli police arrested 10 suspects in a rare raid targeting West Bank settlers following attacks on a US journalist and European diplomats. Rights group Yesh Din reported that at least 170 settler attacks have occurred since late September.",
-   "why": "Rare state arrests of settlers following high-profile foreign attacks signal international pressure impacting local law enforcement.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
    "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792439333,
+   "ts": 1792445408,
    "articles": [
     {
-     "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-     "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Regional",
-   "summary": "The state of Florida issued an arrest warrant for Cuban leader Raul Castro. The action aligns with a federal indictment issued in May as US pressure on Cuba intensifies.",
-   "why": "Legal warrants targeting foreign heads of state escalate diplomatic confrontation and impact bilateral policies.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792404360,
-   "articles": [
-    {
-     "title": "Australian MP seriously hurt in suspected car attack",
-     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "Clean up begins after French riots but police remain",
+     "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Australian independent federal lawmaker Helen Haines was seriously injured after being struck by a car in an apparent attack. The incident was described by Australia's prime minister as an apparent targeted assault.",
-   "why": "Physical violence directed at elected officials poses a direct threat to democratic institutions and political security.",
-   "impact": 4.8,
+   "summary": "Cleanup efforts are underway in France after widespread riots, with police remaining deployed. In Marseille, over 600 shops were reported looted amid severe destruction.",
+   "why": "Widespread civil unrest and commercial destruction impose heavy economic losses and heighten domestic security tensions.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792445282,
-   "articles": [
-    {
-     "title": "Could your halal pension be funding Israel’s military?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "HSBC's sharia-compliant pension fund has invested over $100 million in companies with links to Israel's military.",
-   "why": "Scrutiny over compliance breaches in major ethical and religious investment funds can trigger significant capital reallocation and regulatory inquiry.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "USGS Quakes"
-   ],
-   "n_sources": 1,
-   "ts": 1792300436,
-   "articles": [
-    {
-     "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-     "source": "USGS Quakes"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "National",
-   "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar, Pakistan, at a depth of 10.00 km. The event produced a ShakeMap intensity of VII and triggered a Yellow PAGER alert.",
-   "why": "A shallow magnitude 5.7 earthquake with strong shaking risks localized casualties and infrastructure damage.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "NPR World"
-   ],
-   "n_sources": 1,
-   "ts": 1792357211,
-   "articles": [
-    {
-     "title": "Political rivals implicated under Pakistan's anti-terror law",
-     "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "More opposition figures in Pakistan have been implicated under the country's anti-terror laws. The legal actions occur amid an ongoing political showdown in the country.",
-   "why": "The use of anti-terror legislation against political rivals signals weaponization of the judicial system and escalating political volatility.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792452262,
-   "articles": [
-    {
-     "title": "Car allegedly did U-turn and struck Helen Haines twice, in what some believe was targeted attack against MP",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Independent MP Helen Haines remains in critical yet stable condition after a car allegedly did a U-turn and struck her twice in Wangaratta. Police are currently interviewing the alleged attacker regarding the suspected targeted incident.",
-   "why": "A targeted vehicular assault on a sitting member of parliament represents a severe escalation in domestic political violence.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792433461,
-   "articles": [
-    {
-     "title": "Benny Gantz drops out of Israel’s election race",
-     "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Benny Gantz has dropped out of Israel's election race. The decision follows polls showing his Blue and White party below the 3.25 percent electoral threshold needed to enter the Knesset.",
-   "why": "The withdrawal of a prominent political leader reshapes coalition dynamics and the parliamentary landscape in Israel.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
+   "gap": 0.4
   },
   {
    "pre": 5,
@@ -774,11 +403,83 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Tehran summoned the German envoy to reject any role in an alleged plot to kill leaders of German Jewish groups. This followed the conviction of two men in Germany over the plot.",
-   "why": "State-sponsored assassination attempts and the resulting diplomatic fallout heighten geopolitical tensions between Europe and Iran.",
-   "impact": 4.4,
+   "summary": "Tehran summoned the German envoy and denied involvement after two men were convicted of plotting to assassinate leaders of German Jewish groups.",
+   "why": "State-linked terror plots targeting religious leaders abroad trigger major diplomatic strain and potential security sanctions.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792461163,
+   "articles": [
+    {
+     "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+     "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A fast-moving fire at a Canadian military base killed four men and injured dozens of others. Accounts indicate the blaze advanced a kilometer in 30 to 60 seconds.",
+   "why": "A rapid and lethal fire on a military installation prompts urgent safety and operational reviews for defense facilities.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792464845,
+   "articles": [
+    {
+     "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+     "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Australian politicians reported growing threats prior to an incident where MP Helen Haines was hit by a car. Lawmakers have since tightened personal security and locked office doors.",
+   "why": "Rising threats and violence against elected officials jeopardize democratic governance and public safety.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792392035,
+   "articles": [
+    {
+     "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "More than half a million people took to the streets across France over the weekend. The demonstrations involved violence, including the looting of shops and gutting of restaurants in Paris.",
+   "why": "Large-scale civil unrest and property destruction disrupt urban safety, local economies, and national governance.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
   },
   {
    "pre": 5,
@@ -787,22 +488,46 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792439420,
+   "ts": 1792454881,
    "articles": [
     {
-     "title": "One killed in US shooting near mosque in Columbus, Ohio",
-     "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+     "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+     "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "One person was killed in a shooting near a mosque in Columbus, Ohio. Local authorities stated that the mosque itself was not the intended target of the attack.",
-   "why": "Lethal shootings carry irreversible loss of life, though local authorities report no targeted attack against the adjacent religious institution.",
-   "impact": 4.2,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Pete Hegseth made an unannounced trip to Israel to meet with Prime Minister Benjamin Netanyahu ahead of an election.",
+   "why": "High-level unannounced diplomatic visits influence bilateral defense coordination and domestic electoral dynamics.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792321772,
+   "articles": [
+    {
+     "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+     "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "The Pope made his first public appearance since undergoing lung cancer surgery, reciting the traditional Angelus prayer from the Apostolic Palace balcony.",
+   "why": "The health and public activity of the head of the Catholic Church carry significant implications for church leadership and global followers.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
