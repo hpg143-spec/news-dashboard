@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:26:06.351286Z",
+ "updated": "2026-10-21T12:19:45.638286Z",
  "events": [
   {
    "pre": 5,
@@ -19,11 +19,11 @@
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "Elon Musk proposed merging SpaceX and Tesla, asserting there is significant value in combining the two entities. The proposed transaction would stand as the largest corporate merger in history.",
-   "why": "A consolidation of this magnitude would dramatically alter the aerospace, automotive, and capital markets globally.",
-   "impact": 7.6,
+   "summary": "Elon Musk is considering a merger between SpaceX and Tesla, claiming there is significant benefit to combining the two companies. If completed, it would be the largest corporate merger in history.",
+   "why": "A merger of two massive tech and aerospace leaders would trigger immense financial, regulatory, and industrial reverberations globally.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.66
+   "gap": 0.64
   },
   {
    "pre": 5,
@@ -32,7 +32,31 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792539690,
+   "ts": 1792517415,
+   "articles": [
+    {
+     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+     "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Sudanese army drone strikes targeted a fuel market and a truck carrying mourners to a funeral, reportedly killing more than 300 people. The strikes targeted locations alleged to supply fuel to the RSF.",
+   "why": "The massive casualty count reflects an extreme escalation in civilian devastation amid Sudan's civil war.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792576515,
    "articles": [
     {
      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
@@ -42,12 +66,12 @@
    ],
    "skip": false,
    "category": "Health",
-   "scale": "Regional",
-   "summary": "Nine cases of Ebola have been confirmed in Kenya, prompting the US to advise reconsidering travel to the country. The Kenyan government is working to reassure the public that the situation is being managed.",
-   "why": "An outbreak of a high-fatality pathogen in a major regional hub poses significant epidemic and biosecurity risks.",
-   "impact": 7.6,
+   "scale": "National",
+   "summary": "Kenya has confirmed nine cases of Ebola, prompting the Kenyan government to attempt to reassure the public. In response, the United States issued an advisory urging citizens to reconsider travel to Kenya.",
+   "why": "An outbreak of a deadly pathogen like Ebola threatens regional containment, health systems, and international travel.",
+   "impact": 7.2,
    "under_radar": true,
-   "gap": 0.66
+   "gap": 0.62
   },
   {
    "pre": 5,
@@ -66,12 +90,12 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Regional",
-   "summary": "A Houthi missile attack on a government-controlled training camp in Shabwa province killed 73 security recruits. Three missiles struck the Yemen army facility on Monday.",
-   "why": "Represents a high-fatality strike in the Yemeni conflict that disrupts security forces and risks escalating regional warfare.",
-   "impact": 7.2,
+   "scale": "National",
+   "summary": "Three Houthi missiles struck a government-controlled training centre in Yemen's Shabwa province, killing 73 security recruits. The attack occurred on Monday according to the Yemeni army.",
+   "why": "A single strike causing mass military casualties threatens to destabilize fragile fronts in the Yemeni conflict.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.62
+   "gap": 0.56
   },
   {
    "pre": 5,
@@ -91,32 +115,8 @@
    "skip": false,
    "category": "Environment",
    "scale": "Regional",
-   "summary": "Months-long fires fueled by a 'Super El Niño' in Indonesia have generated toxic haze across Southeast Asia. The environmental disaster has sickened hundreds of thousands of people.",
-   "why": "Presents a massive transboundary public health and ecological crisis impacting multiple Southeast Asian nations.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792417361,
-   "articles": [
-    {
-     "title": "Exiled critic of Rwandan president found beheaded",
-     "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Former Rwandan army sergeant major Robert Kabera, an exiled critic of the Rwandan president, was found beheaded in Uganda. Kabera was a singer and YouTuber who had sought asylum.",
-   "why": "Signals a potential transnational assassination targeting political dissidents and threatens regional relations between Rwanda and Uganda.",
+   "summary": "Months-long fires driven by a 'Super El Niño' in Indonesia have generated toxic haze across Southeast Asia. The severe pollution has sickened hundreds of thousands of individuals.",
+   "why": "Widespread environmental contamination on this scale causes acute public health crises and cross-border ecological damage.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
@@ -139,11 +139,179 @@
    "skip": false,
    "category": "Security",
    "scale": "Global",
-   "summary": "Former OpenAI worker Abdulrahman Alfozan has been denied bail after being accused of planting a recording device. Prosecutors allege he received support from Saudi Arabia.",
-   "why": "Highlights nation-state espionage and corporate infiltration targeting foundational artificial intelligence labs.",
+   "summary": "A former OpenAI employee, Abdulrahman Alfozan, has been denied bail after being accused of planting a recording device. Prosecutors allege he acted with Saudi support.",
+   "why": "The case points to state-backed espionage targeting frontier artificial intelligence firms.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792440043,
+   "articles": [
+    {
+     "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+     "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Ukraine's military announced the first successful drone airlift evacuation of a wounded soldier from the front line. Hostile drones and surrounding landmines had prevented standard ground extraction.",
+   "why": "The use of drones for medical evacuation marks an unprecedented milestone in unmanned battlefield logistics and tactical warfare.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792454552,
+   "articles": [
+    {
+     "title": "US church on front line of battle against drug known as 'tranq'",
+     "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The proliferation of synthetic opioids, such as fentanyl and the drug known as tranq, continues to transform the US drug landscape. A local church is actively confronting this escalating crisis on the front line.",
+   "why": "The spread of high-potency synthetic adulterants compounds an already severe public health and mortality crisis across the country.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792578155,
+   "articles": [
+    {
+     "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+     "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The United Kingdom has deployed military jets to support the defense of Saudi Arabia against Houthi threats. This deployment continues a long-standing defense relationship between the two nations.",
+   "why": "Direct military involvement in Gulf regional defense influences regional security architecture and ongoing conflicts involving Houthi forces.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792534937,
+   "articles": [
+    {
+     "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+     "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Alberta voted overwhelmingly to stay in Canada. This decisive vote provides Mark Carney with the political backing to focus on reshaping the country's economy.",
+   "why": "Preserving Canadian federal unity removes a major secessionist threat and influences national economic policy.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792417361,
+   "articles": [
+    {
+     "title": "Exiled critic of Rwandan president found beheaded",
+     "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Robert Kabera, an exiled critic of Rwanda's president and former army sergeant major, was found beheaded in Uganda where he had sought asylum. Kabera was also known as a popular YouTuber and singer.",
+   "why": "The gruesome killing of an exiled dissident in a neighboring country underscores severe transnational repression risks.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792579784,
+   "articles": [
+    {
+     "title": "Cost of living protests aren’t just happening in Europe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Demonstrations concerning the rising cost of living are spreading internationally beyond the borders of Europe.",
+   "why": "Globalized inflation-driven unrest indicates widespread economic strain and risks broader political instability.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792524605,
+   "articles": [
+    {
+     "title": "Trump sued over Canadian tariffs in latest legal challenge",
+     "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "A lawsuit has been filed against President Trump over Canadian tariffs, alleging the White House exceeded its authority. The suit claims the trade measures caused immediate financial harm to American businesses.",
+   "why": "It challenges executive trade power and could alter cross-border commercial dynamics between the US and Canada.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
   },
   {
    "pre": 5,
@@ -162,12 +330,12 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "National",
-   "summary": "A fast-moving fire at a Canadian military base killed four men and injured dozens of others. Accounts report the blaze advanced approximately one kilometre in 30 to 60 seconds.",
-   "why": "Deadly incident on a national defense installation resulting in military casualties and rapid infrastructure hazards.",
-   "impact": 5.8,
+   "scale": "Local",
+   "summary": "A rapid fire at a Canadian military base advanced a kilometer in under a minute, killing four men and injuring dozens. Accounts indicate the blaze spread with alarming speed.",
+   "why": "The incident caused multiple military fatalities and raises serious concerns regarding fire safety protocols at defense installations.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.4
   },
   {
    "pre": 5,
@@ -176,22 +344,70 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792464305,
+   "ts": 1792445408,
    "articles": [
     {
-     "title": "Seventh day of violent clashes between Albanian protesters and police",
-     "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+     "title": "Clean up begins after French riots but police remain",
+     "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Nearly 300 people, including more than 150 police officers, have been injured during seven consecutive days of anti-government protests in Albania. Demonstrations show no sign of subsiding.",
-   "why": "Severe civil unrest and clashes threaten national political stability and internal security.",
-   "impact": 5.2,
+   "summary": "French authorities maintain a police presence as cleanup starts following severe riots, with Marseille suffering extensive damage. Shop owners in Marseille reported that more than 600 commercial premises were looted.",
+   "why": "Mass civil unrest and widespread looting inflict substantial economic costs and test state stability and policing capacity.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.42
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792502612,
+   "articles": [
+    {
+     "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+     "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "The son of a Kenyan cult leader reported that children are still being starved weeks before his father's trial. Dan Mackenzie stated he felt compelled to report his own grandmother.",
+   "why": "It indicates ongoing, severe child abuse linked to an infamous starvation cult even as legal proceedings advance.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792426611,
+   "articles": [
+    {
+     "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
+     "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Barack Obama criticized a federal search of Representative Ilhan Omar's home, calling it an attempt to intimidate a Trump critic.",
+   "why": "Allegations of politicized federal law enforcement targeting sitting lawmakers raise serious constitutional and democratic governance concerns.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
   },
   {
    "pre": 5,
@@ -211,11 +427,107 @@
    "skip": false,
    "category": "Tech & Science",
    "scale": "Global",
-   "summary": "A spacecraft is scheduled to launch on a mission to retrieve 10 grams of dust from a Martian moon and return it to Earth.",
-   "why": "Advancing planetary science and sample return capabilities provides insights into the formation of the solar system.",
-   "impact": 5.0,
+   "summary": "A spacecraft is set to launch on a mission to Mars to collect and return 10 grams of dust from its moon. The mission aims to bring Martian moon material back to Earth.",
+   "why": "Sample return missions from Martian moons provide crucial planetary science data on the origins of the solar system.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792464305,
+   "articles": [
+    {
+     "title": "Seventh day of violent clashes between Albanian protesters and police",
+     "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Violent anti-government demonstrations in Albania have entered their seventh day without signs of easing. Clashes between protesters and police have left almost 300 people injured, more than half of them officers.",
+   "why": "Sustained violent unrest highlights severe political instability and presents a challenge to domestic governance in Albania.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792571508,
+   "articles": [
+    {
+     "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+     "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Gambia has confirmed receiving $2.5 million from the sale of a seized Maryland mansion belonging to Yahya Jammeh. The proceeds are intended to compensate victims of Jammeh's rule.",
+   "why": "It marks a concrete step in asset recovery and reparations for state-sponsored human rights abuses.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792550233,
+   "articles": [
+    {
+     "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Local",
+   "summary": "Springfield, Ohio continues to be shaped by immigration debates and deportation initiatives involving Haitian migrants. The town was previously highlighted by President Trump's false claims regarding pets.",
+   "why": "Federal immigration enforcement shifts directly alter local demographics, workforce stability, and community cohesion.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792578934,
+   "articles": [
+    {
+     "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
+     "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "French protesters have adopted the slogan 'Bismillah, c’est les ténèbres' during demonstrations. The phrase embodies a diverse collection of grievances fueling the broader protest movement.",
+   "why": "Analyzing emerging protest slogans illuminates the underlying social and political friction driving nationwide unrest.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
   }
  ]
 }
