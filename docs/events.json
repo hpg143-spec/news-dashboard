@@ -1,279 +1,101 @@
 {
- "updated": "2026-10-21T06:31:58.841674Z",
+ "updated": "2026-10-21T09:26:06.351286Z",
  "events": [
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792497600,
+   "ts": 1792564599,
    "articles": [
     {
-     "title": "AI on track to ‘crowd out’ human decision-making in warfare",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168636",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "The head of the UN disarmament research institute warned that artificial intelligence is increasingly used on battlefields, rapidly crowding out human judgment.",
-   "why": "Diminishing human control over lethal autonomous military decisions represents a major, systemic shift in the nature of global warfare.",
-   "impact": 8.0,
-   "under_radar": true,
-   "gap": 0.7
-  },
-  {
-   "pre": 9,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "NPR World",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1792541695,
-   "articles": [
-    {
-     "title": "Nigeria records its first Ebola case, in capital Abuja",
-     "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-     "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-     "source": "NPR World"
-    },
-    {
-     "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-     "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Nigeria confirmed its first Ebola case during the latest continental outbreak originating in the DRC. The patient is a woman who recently flew to Abuja from Uganda.",
-   "why": "The arrival of Ebola in a densely populated regional transportation hub creates severe risk of wider cross-border transmission.",
-   "impact": 7.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "NPR World"
-   ],
-   "n_sources": 1,
-   "ts": 1792494232,
-   "articles": [
-    {
-     "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "President Trump is making Russia-friendly moves in an effort to end the war in Ukraine amid rising energy costs ahead of U.S. midterms. The action marks a shift in his relations with Moscow.",
-   "why": "Major shifts in U.S. foreign policy toward Russia directly impact the trajectory of the war in Ukraine and transatlantic security.",
-   "impact": 7.8,
-   "under_radar": true,
-   "gap": 0.68
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 3,
-   "ts": 1792561980,
-   "articles": [
-    {
-     "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+     "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
-     "link": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Musk confirms SpaceX and Tesla exploring merger",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
-     "link": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "Elon Musk confirmed that Tesla and SpaceX are exploring a merger, stating there is significant value to be gained. If completed, it would be the largest corporate merger in history.",
-   "why": "A combination of Tesla and SpaceX would create a massive corporate entity with vast ramifications for financial markets, space exploration, and electric mobility.",
-   "impact": 7.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792430123,
-   "articles": [
-    {
-     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-     "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "A Houthi ballistic missile strike on a Yemeni government training camp killed at least 53 people and injured over 200, predominantly young personnel. The attack represents the largest single loss of life since the Yemen civil war reignited.",
-   "why": "A major mass-casualty escalation that threatens stability in Yemen and the wider regional security environment.",
+   "summary": "Elon Musk proposed merging SpaceX and Tesla, asserting there is significant value in combining the two entities. The proposed transaction would stand as the largest corporate merger in history.",
+   "why": "A consolidation of this magnitude would dramatically alter the aerospace, automotive, and capital markets globally.",
    "impact": 7.6,
    "under_radar": true,
    "gap": 0.66
   },
   {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792540800,
+   "ts": 1792539690,
    "articles": [
     {
-     "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+     "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "U.S. official Rubio warned that reaching a peace agreement with Tehran is extremely difficult while attacks continue in the Strait of Hormuz. The remarks address ongoing war tensions involving Iran.",
-   "why": "Ongoing conflict and threats in the Strait of Hormuz significantly threaten global shipping, energy security, and international diplomacy.",
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Nine cases of Ebola have been confirmed in Kenya, prompting the US to advise reconsidering travel to the country. The Kenyan government is working to reassure the public that the situation is being managed.",
+   "why": "An outbreak of a high-fatality pathogen in a major regional hub poses significant epidemic and biosecurity risks.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792505382,
+   "articles": [
+    {
+     "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A Houthi missile attack on a government-controlled training camp in Shabwa province killed 73 security recruits. Three missiles struck the Yemen army facility on Monday.",
+   "why": "Represents a high-fatality strike in the Yemeni conflict that disrupts security forces and risks escalating regional warfare.",
    "impact": 7.2,
    "under_radar": true,
    "gap": 0.62
   },
   {
-   "pre": 6,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "NPR World",
-    "The Guardian World"
+    "BBC World"
    ],
-   "n_sources": 2,
-   "ts": 1792513445,
+   "n_sources": 1,
+   "ts": 1792540303,
    "articles": [
     {
-     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-     "source": "NPR World"
-    },
-    {
-     "title": "Alberta voters decide whether to take a step toward separating from Canada",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-     "source": "NPR World"
-    },
-    {
-     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-     "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-     "source": "The Guardian World"
+     "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+     "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Voters in Alberta overwhelmingly rejected a separation referendum, opting to remain part of Canada. The early results provide a significant boost to Prime Minister Carney's national unity agenda.",
-   "why": "The referendum outcome preserves Canadian federal unity and averts severe political and economic fragmentation in an energy-rich province.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 9,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1792549090,
-   "articles": [
-    {
-     "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Sudan drone strike kills around 150 in Abyei market",
-     "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Drone attack near market kills 80 in Sudan",
-     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
+   "category": "Environment",
    "scale": "Regional",
-   "summary": "A drone strike targeting a market in Abyei near the border of Sudan and South Sudan has killed approximately 150 people.",
-   "why": "A single mass-casualty strike in a contested border region threatens to ignite broader conflict between Sudan and South Sudan.",
-   "impact": 7.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1792545780,
-   "articles": [
-    {
-     "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
-     "link": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The UK is deploying fighter jets to Saudi Arabia to assist in defending against recurring Houthi rebel attacks. The deployment provides military support to the kingdom amid continued cross-border strikes.",
-   "why": "Direct British military deployment to protect Saudi airspace increases foreign involvement in Middle Eastern conflicts.",
-   "impact": 6.6,
+   "summary": "Months-long fires fueled by a 'Super El Niño' in Indonesia have generated toxic haze across Southeast Asia. The environmental disaster has sickened hundreds of thousands of people.",
+   "why": "Presents a massive transboundary public health and ecological crisis impacting multiple Southeast Asian nations.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.46
+   "gap": 0.58
   },
   {
    "pre": 5,
@@ -282,289 +104,91 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792555158,
+   "ts": 1792417361,
    "articles": [
     {
-     "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-     "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+     "title": "Exiled critic of Rwandan president found beheaded",
+     "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "A U.S. envoy is scheduled to meet President Putin in Russia as Ukrainian President Zelensky announced that intelligence sharing is currently functional. The development follows earlier friction over allegations that Washington had withheld key intelligence.",
-   "why": "Direct diplomatic contact between Washington and Moscow alongside restored intelligence sharing could alter the dynamics of the war in Ukraine.",
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Former Rwandan army sergeant major Robert Kabera, an exiled critic of the Rwandan president, was found beheaded in Uganda. Kabera was a singer and YouTuber who had sought asylum.",
+   "why": "Signals a potential transnational assassination targeting political dissidents and threatens regional relations between Rwanda and Uganda.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
   },
   {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "The UN reported that armed gangs in Haiti are expanding into rural areas and stepping up civilian reprisals in response to security operations. Consequently, national elections remain on hold.",
-   "why": "Gang adaptation to state security measures stalls the restoration of democratic governance and spreads violence into previously stable rural regions.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Gaza: Funding cuts leave half a million without food assistance",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "The World Food Programme has cut food aid to Gaza by roughly one third due to funding shortages. The reduction will impact approximately 500,000 people ahead of winter.",
-   "why": "Critical funding deficits directly deprive half a million vulnerable civilians of basic sustenance in an active crisis zone.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A wave of drone strikes across Sudan killed and injured dozens on Monday. The strikes occur amid a wider war causing soaring displacement and hunger.",
-   "why": "The escalating use of lethal drone strikes deepens civilian casualties and accelerates humanitarian devastation across Sudan.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792497600,
-   "articles": [
-    {
-     "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Millions of people across Afghanistan face severe hunger despite food being physically available. Extreme hunger warnings indicate parts of the country remain one step away from famine.",
-   "why": "Economic paralysis leaves millions of Afghans unable to purchase accessible food, deepening widespread famine risks.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168620",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "At the UN Biodiversity Conference in Yerevan, the lead UN official warned that ongoing biodiversity loss threatens the lives of billions. The official urged countries to take immediate action to protect planetary ecosystems.",
-   "why": "Conference rhetoric highlighting the ecological crisis without detailing immediate binding agreements or novel commitments.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 6,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
     "BBC World"
    ],
-   "n_sources": 2,
-   "ts": 1792531152,
+   "n_sources": 1,
+   "ts": 1792444350,
    "articles": [
     {
-     "title": "Trump sued over Canadian tariffs in latest legal challenge",
-     "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+     "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-     "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "International",
-   "summary": "A U.S. food importer filed a lawsuit challenging the Trump administration's 50 percent tariffs on Canadian goods, claiming the White House exceeded its authority. The suit alleges the tariffs cause immediate harm to American businesses.",
-   "why": "Legal challenges to major trade tariffs can reshape bilateral trade relations and limit executive authority over international commerce.",
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Former OpenAI worker Abdulrahman Alfozan has been denied bail after being accused of planting a recording device. Prosecutors allege he received support from Saudi Arabia.",
+   "why": "Highlights nation-state espionage and corporate infiltration targeting foundational artificial intelligence labs.",
    "impact": 6.2,
    "under_radar": true,
-   "gap": 0.42
+   "gap": 0.52
   },
   {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792497600,
-   "articles": [
-    {
-     "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168630",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The UN has warned against an early withdrawal of peacekeepers from the Central African Republic. This warning comes as the ongoing conflict in Sudan spills across the border.",
-   "why": "Cross-border spillover of the Sudanese conflict risks destabilizing neighboring Central African Republic and triggering broader regional insecurity.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792497600,
-   "articles": [
-    {
-     "title": "Yemen war continues to force families from homes amid hunger and disease",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "More than 250,000 people have fled renewed fighting in Yemen amid widespread hunger and disease. The UN reported severe humanitarian access constraints in Taiz city and the wider governorate.",
-   "why": "Renewed large-scale displacement in Yemen compounds an acute humanitarian crisis in areas where aid delivery is severely restricted.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Israeli strikes on Gaza killed at least six Palestinians over the weekend. Concurrently, settler violence continued to affect West Bank farmers during the annual olive harvest.",
-   "why": "Continued military strikes and settler violence undermine stability and cause fatal casualties across the Palestinian territories.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "The Guardian World"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792562403,
+   "ts": 1792461163,
    "articles": [
     {
-     "title": "Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling",
-     "link": "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling",
-     "source": "The Guardian World"
+     "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+     "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Security",
    "scale": "National",
-   "summary": "Labour MP Jess Phillips called on the UK Supreme Court to overturn an appeals court ruling that stops a domestic abuse survivor from suing police and prosecutors for disclosing her address to an abusive ex-partner. The legal dispute centers on institutional liability for sensitive disclosures.",
-   "why": "The outcome sets a crucial legal precedent regarding state liability and police accountability for safeguarding domestic abuse victims.",
-   "impact": 5.4,
+   "summary": "A fast-moving fire at a Canadian military base killed four men and injured dozens of others. Accounts report the blaze advanced approximately one kilometre in 30 to 60 seconds.",
+   "why": "Deadly incident on a national defense installation resulting in military casualties and rapid infrastructure hazards.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.48
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792411200,
+   "ts": 1792464305,
    "articles": [
     {
-     "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168627",
-     "source": "UN News"
+     "title": "Seventh day of violent clashes between Albanian protesters and police",
+     "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Other",
-   "scale": "Global",
-   "summary": "UN human rights chief Volker Türk stated that more than a quarter of humanity struggles to obtain sufficient food despite sufficient global production. He attributed this widespread hunger to systemic injustice and the denial of human rights.",
-   "why": "A high-level speech restating ongoing global hunger realities without announcing new policy or concrete developments.",
+   "category": "Security",
+   "scale": "National",
+   "summary": "Nearly 300 people, including more than 150 police officers, have been injured during seven consecutive days of anti-government protests in Albania. Demonstrations show no sign of subsiding.",
+   "why": "Severe civil unrest and clashes threaten national political stability and internal security.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.42
@@ -576,46 +200,22 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792545771,
+   "ts": 1792439146,
    "articles": [
     {
-     "title": "France is divided over who to blame for weekend riots and what to learn from them",
-     "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+     "title": "Mission blasts off for Mars to grab a piece of its moon",
+     "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "France faces deep internal and international divisions over the causes and lessons of recent weekend riots. The unrest is considered among the most severe seen across French cities in modern history.",
-   "why": "Severe domestic unrest challenges social cohesion and political stability across a major European power.",
-   "impact": 5.2,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "A spacecraft is scheduled to launch on a mission to retrieve 10 grams of dust from a Martian moon and return it to Earth.",
+   "why": "Advancing planetary science and sample return capabilities provides insights into the formation of the solar system.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "International",
-   "summary": "UN Secretary-General António Guterres paid tribute to four Indonesian peacekeepers recently killed in Lebanon. He used the occasion to defend the mission of UN peacekeeping amid difficult global conditions.",
-   "why": "Peacekeeper fatalities highlight the acute physical dangers facing international missions deployed in active conflict zones.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
+   "gap": 0.4
   }
  ]
 }
