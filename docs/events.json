@@ -1,22 +1,17 @@
 {
- "updated": "2026-10-21T00:23:41.688808Z",
+ "updated": "2026-10-21T03:25:35.555432Z",
  "events": [
   {
-   "pre": 7,
+   "pre": 9,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
     "DW",
-    "NPR World"
+    "NPR World",
+    "The Guardian World"
    ],
    "n_sources": 3,
-   "ts": 1792527556,
+   "ts": 1792541695,
    "articles": [
-    {
-     "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
-     "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
     {
      "title": "Nigeria records its first Ebola case, in capital Abuja",
      "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss",
@@ -26,16 +21,57 @@
      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
      "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
      "source": "NPR World"
+    },
+    {
+     "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+     "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "Nigeria's Health Ministry confirmed the country's first Ebola case in the capital city of Abuja. The infected individual tested positive after arriving on an international flight from Uganda.",
-   "why": "The arrival of a lethal infectious pathogen in a major continental aviation hub creates significant epidemic risks across Africa.",
+   "summary": "Nigeria confirmed its first known Ebola case in the capital city of Abuja involving a woman arriving from Uganda. The incident marks the spread of the latest outbreak originating in the DRC into West Africa.",
+   "why": "The arrival of Ebola in a densely populated African hub creates severe risks of rapid international transmission.",
    "impact": 8.0,
    "under_radar": false,
    "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792549090,
+   "articles": [
+    {
+     "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Sudan drone strike kills around 150 in Abyei market",
+     "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Drone attack near market kills 80 in Sudan",
+     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A drone strike on a market in Abyei near the border of Sudan and South Sudan killed approximately 150 people.",
+   "why": "The strike represents a massive mass-casualty event in a highly sensitive, contested border area.",
+   "impact": 7.4,
+   "under_radar": false,
+   "gap": 0.44
   },
   {
    "pre": 7,
@@ -55,11 +91,11 @@
    "skip": false,
    "category": "Tech & Science",
    "scale": "Global",
-   "summary": "The head of the UN's disarmament research institute warned that artificial intelligence is increasingly crowding out human decision-making in warfare. AI is already deployed widely on the battlefield as the role of human judgment diminishes.",
-   "why": "Autonomous and algorithmic warfare undermines human accountability and lowers barriers to lethal force globally.",
-   "impact": 7.8,
+   "summary": "The head of the UN disarmament research institute warned that artificial intelligence is increasingly crowding out human judgment on the battlefield. AI usage is expanding rapidly across active military operations.",
+   "why": "Automating lethal decision-making fundamentally alters warfare and challenges international humanitarian legal frameworks.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.68
+   "gap": 0.56
   },
   {
    "pre": 7,
@@ -79,65 +115,76 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "A Houthi ballistic missile attack on a military training camp killed at least 53 Yemeni government security personnel and injured over 200. Officials identified the strike as the largest single loss of life since the civil war reignited.",
-   "why": "Mass-casualty ballistic strikes severely escalate regional conflict and undermine prospects for ceasefires in Yemen.",
-   "impact": 7.4,
+   "summary": "A Houthi ballistic missile strike on a Yemeni government training camp killed at least 53 people and injured over 200. It marks the largest single loss of life since the civil war reignited.",
+   "why": "A mass-casualty strike of this magnitude marks a major escalation in the Yemen conflict, undermining regional stability.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.64
+   "gap": 0.56
   },
   {
-   "pre": 8,
+   "pre": 6,
    "tier": "wire",
    "sources": [
-    "DW",
+    "Al Jazeera",
+    "BBC World"
+   ],
+   "n_sources": 2,
+   "ts": 1792545562,
+   "articles": [
+    {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Musk confirms SpaceX and Tesla exploring merger",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Elon Musk announced that special committees have been established inside Tesla and SpaceX to evaluate a potential mega-merger between the two firms.",
+   "why": "Merging two multi-billion dollar technology and aerospace leaders would trigger massive financial, regulatory, and industrial realignments.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "NPR World",
     "The Guardian World"
    ],
    "n_sources": 2,
-   "ts": 1792519740,
+   "ts": 1792513445,
    "articles": [
     {
-     "title": "Sudan drone strike kills around 150 in Abyei market",
-     "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+     "source": "NPR World"
     },
     {
-     "title": "Drone attack near market kills 80 in Sudan",
-     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+     "title": "Alberta voters decide whether to take a step toward separating from Canada",
+     "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
+     "source": "NPR World"
+    },
+    {
+     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+     "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "A drone strike on a market in the disputed Abyei border region killed dozens after striking a fuel depot and igniting a large fire. South Sudanese officials attributed the strike to Sudan's military.",
-   "why": "A mass-casualty strike in a disputed territory risks escalating military confrontation between Sudan and South Sudan.",
-   "impact": 7.2,
+   "summary": "Voters in Alberta overwhelmingly rejected a secession referendum, voting to remain part of Canada. The outcome serves as a boost for Prime Minister Carney's national unity agenda.",
+   "why": "The rejection of secession by a major energy-producing province avoids constitutional instability and secures national territorial integrity.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "The UN warned the Security Council that armed groups in Haiti are expanding into rural areas and stepping up reprisals against civilians. Consequently, national elections remain on hold as gangs adapt to security crackdowns.",
-   "why": "The expansion of gang control halts democratic transition and deepens institutional collapse across Haiti.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
+   "gap": 0.46
   },
   {
    "pre": 8,
@@ -161,54 +208,13 @@
     }
    ],
    "skip": false,
-   "category": "Health",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "Funding shortages forced the World Food Programme to reduce food aid in Gaza by roughly one-third. The cut will affect approximately 500,000 people as winter approaches.",
-   "why": "Abrupt cuts to food assistance for half a million vulnerable people significantly raise the immediate risk of severe malnutrition.",
-   "impact": 6.8,
+   "summary": "Severe funding shortfalls have forced the World Food Programme to reduce food aid in Gaza by approximately one third. The cut will impact around 500,000 people ahead of winter.",
+   "why": "Halting food assistance to half a million vulnerable people drastically worsens malnutrition and survival conditions.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.48
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "NPR World",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1792513445,
-   "articles": [
-    {
-     "title": "Canada: Alberta rejects separation bid, CBC projects",
-     "link": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-     "source": "NPR World"
-    },
-    {
-     "title": "Alberta voters decide whether to take a step toward separating from Canada",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-     "source": "NPR World"
-    },
-    {
-     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-     "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Voters in Alberta decisively rejected a referendum proposal to begin the legal process toward independence from Canada. The outcome halts a secessionist push largely driven by economic grievances.",
-   "why": "The rejection of secession maintains Canada's territorial unity and prevents severe constitutional and economic disruption.",
-   "impact": 6.8,
-   "under_radar": false,
-   "gap": 0.38
+   "gap": 0.44
   },
   {
    "pre": 7,
@@ -220,67 +226,49 @@
    "ts": 1792411200,
    "articles": [
     {
-     "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+     "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
      "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "A UN official at the Biodiversity Conference in Yerevan warned that biodiversity losses continue to disrupt the lives of billions. The official called on countries to take urgent protective action.",
-   "why": "Global biodiversity loss undermines ecological stability and long-term economic prosperity worldwide.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "NPR World"
-   ],
-   "n_sources": 1,
-   "ts": 1792494232,
-   "articles": [
-    {
-     "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "President Trump is pursuing Russia-friendly measures to negotiate an end to the war in Ukraine. The policy shift occurs against the backdrop of elevated energy costs ahead of U.S. midterm elections.",
-   "why": "Reorientations in U.S. diplomatic posture toward Russia fundamentally influence the trajectory of the Ukraine war and international energy dynamics.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1792476120,
-   "articles": [
-    {
-     "title": "Australian MP seriously hurt in suspected car attack",
-     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Australian independent federal lawmaker Helen Haines suffered severe injuries in a vehicular assault. Australia's prime minister characterized the incident as a deliberate attack by a man driving a car.",
-   "why": "Targeted attacks against sitting lawmakers represent a direct threat to democratic institutions and political safety.",
+   "summary": "The UN warned the Security Council that armed groups in Haiti are adjusting to security operations by expanding into rural regions and attacking civilians. The continued violence has placed scheduled elections on hold.",
+   "why": "Gang adaptation into rural areas thwarts stabilization efforts and further delays constitutional governance.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792526739,
+   "articles": [
+    {
+     "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+     "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "New EU plan for Arctic warily eyes influence of Russia, US",
+     "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The European Union has updated its Arctic strategy, pivoting focus from climate considerations to immediate security measures amid competition from Russia and the US.",
+   "why": "A strategic pivot to Arctic defense signals growing militarization and geopolitical friction in the polar region.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
   },
   {
    "pre": 9,
@@ -300,35 +288,65 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "The UN warned against a premature withdrawal of peacekeepers as the war in Sudan spills into the Central African Republic.",
-   "why": "Cross-border spillover risks destabilizing neighboring countries and undermining regional peacekeeping infrastructure.",
+   "summary": "The UN warned against an early withdrawal of peacekeepers from the Central African Republic as the war in Sudan spills across the border.",
+   "why": "Cross-border destabilization threatens to expand the conflict zone across multiple fragile African nations.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "NPR World"
    ],
    "n_sources": 1,
-   "ts": 1792497600,
+   "ts": 1792494232,
    "articles": [
     {
-     "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-     "source": "UN News"
+     "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+     "source": "NPR World"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Millions of people across Afghanistan face severe hunger as food remains largely inaccessible despite being available. The situation follows extreme hunger warnings across the country.",
-   "why": "Economic exclusion from basic food supplies places millions at direct risk of famine.",
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "President Trump is pursuing Russia-friendly diplomatic moves to negotiate an end to the war in Ukraine amid rising energy costs ahead of US midterms.",
+   "why": "Shifts in US diplomatic posture toward Russia can fundamentally alter the trajectory of the Ukraine war and international alliances.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792545780,
+   "articles": [
+    {
+     "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+     "link": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UK is deploying fighter aircraft to provide military defense for Saudi Arabia against recurring strikes by Houthi forces.",
+   "why": "Direct UK military deployment deepens Western involvement in Middle Eastern defense against Iranian-backed militia attacks.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
   },
   {
    "pre": 7,
@@ -348,11 +366,107 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "Israeli attacks in Gaza killed at least six Palestinians over the weekend despite a ceasefire agreement. In the West Bank, settler violence disrupted the olive harvest, prompting warnings from UN experts.",
-   "why": "Violations of ceasefire terms and attacks during agricultural harvests threaten localized survival and fragile peace agreements.",
-   "impact": 6.2,
+   "summary": "Israeli strikes on Gaza killed at least six people, including children, over the weekend despite a ceasefire. Concurrently, settler attacks targeted Palestinian olive farmers across the occupied West Bank.",
+   "why": "Continued strikes and harvest attacks undermine ceasefire stability and deepen regional conflict.",
+   "impact": 6.0,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792540800,
+   "articles": [
+    {
+     "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Rubio stated to US media that securing a peace deal with Tehran is extremely difficult while attacks in the Strait of Hormuz continue.",
+   "why": "Conflict disrupting the Strait of Hormuz directly threatens international shipping lanes and global energy security.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792497600,
+   "articles": [
+    {
+     "title": "Yemen war continues to force families from homes amid hunger and disease",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Renewed fighting in Yemen has displaced over 250,000 individuals amid hunger and disease. The UN highlighted significant concerns for those sheltering in Taiz and its wider governorate, where humanitarian access is virtually blocked.",
+   "why": "Renewed displacement exacerbates severe humanitarian deprivation in an already devastated country.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792411200,
+   "articles": [
+    {
+     "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Drone strikes across Sudan on Monday killed and wounded dozens of people amid ongoing conflict. The war continues to accelerate widespread displacement and hunger throughout the country.",
+   "why": "Deadly aerial strikes sustain the high civilian death toll and instability in Sudan.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792497600,
+   "articles": [
+    {
+     "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168631",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Millions of people across Afghanistan are facing acute hunger because available food remains financially inaccessible. The country remains on the verge of widespread famine.",
+   "why": "Widespread purchasing power collapse leaves millions at imminent risk of starvation despite food availability.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 6,
@@ -378,107 +492,11 @@
    "skip": false,
    "category": "Economy",
    "scale": "National",
-   "summary": "A U.S. food importer filed a lawsuit challenging a 50 percent tariff imposed by President Trump on Canadian goods. The complaint alleges that the White House exceeded its statutory authority and caused direct harm to American businesses.",
-   "why": "Judicial challenges to trade tariffs can constrain executive emergency economic powers and reshape bilateral trade flows.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.42
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792497600,
-   "articles": [
-    {
-     "title": "Yemen war continues to force families from homes amid hunger and disease",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Renewed fighting in Yemen has displaced over 250,000 people, according to the UN. Humanitarian access remains essentially blocked in the southwestern city of Taiz and the surrounding governorate.",
-   "why": "Blockaded aid access combined with mass displacement directly exacerbates severe hunger and disease outbreaks.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Drone strikes across Sudan killed and injured dozens on Monday amid ongoing war. The conflict continues to cause widespread displacement and hunger.",
-   "why": "The proliferation of drone strikes worsens civilian casualties and exacerbates Sudan's humanitarian collapse.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792492648,
-   "articles": [
-    {
-     "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Independent MP Helen Haines lost a leg and remains in critical but stable condition after an alleged intentional vehicle attack. The suspect's family stated that they had known the lawmaker as a friend for more than 20 years.",
-   "why": "Severe physical disabling of an elected representative due to targeted violence heightens concerns over political safety.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168627",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "UN human rights chief Volker Türk stated that more than a quarter of humanity struggles to obtain sufficient food despite sufficient global production. He attributed the ongoing hunger crisis to human rights denials and injustice.",
-   "why": "It highlights systemic structural failures that keep over a quarter of the world's population food-insecure.",
-   "impact": 5.8,
+   "summary": "A US food importer has filed a lawsuit against the Trump administration challenging 50 percent tariffs on Canadian imports. The suit alleges the White House exceeded its statutory authority and damaged American businesses.",
+   "why": "Legal challenges to executive tariff authority directly affect international trade flows, supply chains, and consumer prices.",
+   "impact": 5.4,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.34
   },
   {
    "pre": 7,
@@ -496,61 +514,13 @@
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A man was charged in connection with an attack that left Australian MP Helen Haines in critical condition. The accused's family stated they had known the lawmaker for more than two decades.",
-   "why": "A violent assault critically injuring a sitting member of parliament directly impacts national political stability and security.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792540937,
-   "articles": [
-    {
-     "title": "Helen Haines live updates: Brendan Nugent doesn’t apply for bail in first court appearance since alleged attack",
-     "link": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Independent MP Helen Haines remains in critical condition following surgery after an alleged vehicle attack in Wangaratta. The accused suspect did not apply for bail during his initial court appearance as politicians across parliament condemned the violence.",
-   "why": "Judicial and medical developments concerning a critically injured parliamentarian impact national governance stability and security protocols.",
-   "impact": 5.6,
+   "summary": "Brendan Nugent has been charged over an attack on Australian MP Helen Haines, who remains in critical condition. His family stated they have known Haines for over 20 years.",
+   "why": "A violent attack leaving a sitting Member of Parliament in critical condition raises major concerns regarding political violence and the security of elected officials.",
+   "impact": 4.2,
    "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792411200,
-   "articles": [
-    {
-     "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers who died while serving in Lebanon. Guterres defended the ongoing role of UN peacekeeping during an increasingly difficult operating environment.",
-   "why": "Peacekeeper casualties signal escalating hazards for international stabilization forces in volatile border regions.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
+   "gap": 0.32
   }
  ]
 }
