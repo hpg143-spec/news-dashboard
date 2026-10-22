@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:26:51.206210Z",
+ "updated": "2026-10-22T06:31:41.725377Z",
  "events": [
   {
    "pre": 7,
@@ -19,11 +19,11 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "UN warnings indicate that global temperatures will exceed 1.5°C above pre-industrial levels. Rapid emission cuts are required to limit the temperature overshoot and return to international targets by century's end.",
-   "why": "Exceeding the 1.5°C threshold triggers major irreversible climate tipping points and catastrophic environmental disruptions.",
-   "impact": 8.2,
+   "summary": "Global temperatures are set to exceed 1.5°C above pre-industrial levels. Experts emphasize that nations must urgently make deep emissions cuts to minimize the temperature overshoot and return to the target by century's end.",
+   "why": "Surpassing 1.5°C threatens irreversible disruptions to global ecosystems and intensifies severe climate impacts worldwide.",
+   "impact": 8.4,
    "under_radar": true,
-   "gap": 0.72
+   "gap": 0.74
   },
   {
    "pre": 8,
@@ -49,35 +49,11 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "Nigeria confirmed its first case of Ebola, which matches the Bundibugyo strain from DR Congo. The strain is behind DR Congo's deadliest outbreak and has now reached West Africa for the first time.",
-   "why": "The geographic spread of a highly lethal Ebola strain into populous West Africa presents severe epidemic risks.",
-   "impact": 7.6,
+   "summary": "Nigeria has confirmed its first Ebola case, which matches the Bundibugyo strain currently causing the deadliest outbreak in DR Congo's history. This marks the first time the strain has reached West Africa.",
+   "why": "The emergence of a deadly Ebola strain in West Africa raises the risk of severe regional epidemics across dense urban populations.",
+   "impact": 8.2,
    "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792584000,
-   "articles": [
-    {
-     "title": "WHO supports Nigeria after first Ebola case confirmed",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "The World Health Organization is mobilizing aid for Nigeria after the country confirmed its first case of the Ebola Bundibugyo virus.",
-   "why": "Immediate international intervention is essential to prevent a wider Ebola outbreak in densely populated regions.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
+   "gap": 0.62
   },
   {
    "pre": 7,
@@ -97,11 +73,143 @@
    "skip": false,
    "category": "Tech & Science",
    "scale": "Global",
-   "summary": "The head of the UN disarmament research institute warned that artificial intelligence is actively reducing the role of human judgment in military combat operations.",
-   "why": "Autonomous decision-making in warfare fundamentally alters global security dynamics and raises critical accountability challenges.",
+   "summary": "Artificial intelligence is expanding rapidly across battlefields while human judgment in military decisions is diminishing. The head of the UN's independent disarmament research institute issued the warning regarding AI displacing human control in warfare.",
+   "why": "The reduction of human judgment in armed conflict lowers decision thresholds for lethal action and challenges international humanitarian law.",
+   "impact": 8.0,
+   "under_radar": true,
+   "gap": 0.7
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "WHO supports Nigeria after first Ebola case confirmed",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The WHO is assisting Nigeria following the country's first confirmed case of Ebola Bundibugyo virus disease.",
+   "why": "Rapid international intervention is vital to prevent an initial case of Ebola from escalating into widespread community transmission.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792648792,
+   "articles": [
+    {
+     "title": "The world is $365 trillion in debt, and the interest bill is climbing",
+     "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Total global debt reached $365 trillion as debt servicing costs escalated significantly. In Europe, rising sovereign borrowing costs have fueled protests, with France facing higher yields than Italy and Greece.",
+   "why": "Mounting debt service burdens constrain public spending, heighten sovereign default risks, and destabilize global fiscal policy.",
    "impact": 7.4,
    "under_radar": true,
    "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792497600,
+   "articles": [
+    {
+     "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168631",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Afghanistan faces a deepening hunger crisis pushing it to the brink of famine. While food supplies exist in the country, extreme poverty leaves them inaccessible to millions of residents.",
+   "why": "Severe, widespread food deprivation risks catastrophic mortality and irreversible developmental harm across an entire population.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792633680,
+   "articles": [
+    {
+     "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
+     "link": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The United States ordered some diplomats to depart Saudi Arabia following deadly strikes on an airport and an oil field. The attacks, attributed to Houthi forces, resulted in at least three deaths.",
+   "why": "Diplomatic withdrawals and strikes on energy infrastructure elevate regional conflict risks and threaten global energy supply chains.",
+   "impact": 6.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792606242,
+   "articles": [
+    {
+     "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+     "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "An Australian member of parliament required the amputation of both legs following a targeted attack. The incident has deeply affected the local constituency where the MP served.",
+   "why": "Targeted violence against elected representatives represents a severe threat to public safety and democratic institutions.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
   },
   {
    "pre": 7,
@@ -121,11 +229,35 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Two UN agencies issued an urgent appeal for aid to protect communities impacted by the strongest El Niño weather pattern on record.",
-   "why": "Extreme El Niño events disrupt global weather patterns, threatening food security and vulnerable populations worldwide.",
-   "impact": 6.0,
+   "summary": "Two UN agencies have appealed for immediate assistance to support vulnerable communities impacted by the strongest El Niño on record.",
+   "why": "Extreme climate patterns threaten global food systems and require proactive funding to prevent widespread humanitarian crises.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.5
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792633548,
+   "articles": [
+    {
+     "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+     "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Leaders from Qatar and France called for restoring unhindered navigation through the Strait of Hormuz. Both governments also jointly demanded the execution of a ceasefire in Gaza.",
+   "why": "Disruptions in the Strait of Hormuz threaten global trade and energy markets, linking Gulf security directly to international economic stability.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
    "pre": 9,
@@ -145,11 +277,35 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "The UN warned against an early withdrawal of peacekeepers from the Central African Republic as conflict from Sudan spills over its borders.",
-   "why": "Cross-border spillover risks destabilizing neighboring countries and worsening regional security vacuums.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "The UN has warned against an early withdrawal of peacekeepers from the Central African Republic. The warning comes as the ongoing war in neighboring Sudan spills over across the border.",
+   "why": "Regional spillover of the Sudanese conflict risks destabilizing neighboring countries and intensifying regional insecurity.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792634885,
+   "articles": [
+    {
+     "title": "Tigray resumes daily life amid fears of wider war",
+     "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Mekelle has resumed commercial and daily operations despite persistent economic hardship and regional instability. Residents continue to face acute uncertainty amid concerns that wider conflict could resume.",
+   "why": "Persistent instability in Tigray risks unraveling fragile peace agreements and reigniting large-scale humanitarian crises in the Horn of Africa.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 9,
@@ -167,13 +323,37 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Nearly two dozen nations met in Geneva to resume peace talks seeking a ceasefire and political transition in Sudan. The negotiations aim to resolve the drone warfare driving the humanitarian crisis.",
-   "why": "A ceasefire in Sudan could mitigate an immense humanitarian crisis affecting tens of millions of people.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
+   "category": "Security",
+   "scale": "National",
+   "summary": "Talks to halt fighting and ease the humanitarian crisis in Sudan continued in Geneva with nearly two dozen nations participating. The discussions focus on reaching a ceasefire and establishing a transition to peaceful governance.",
+   "why": "Ending the conflict in Sudan is essential to mitigating one of the world's most severe displacement and humanitarian emergencies.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792497600,
+   "articles": [
+    {
+     "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "UNICEF's leadership called for an end to child marriage in Bangladesh. The appeal highlighted the case of a 14-year-old girl saved from forced marriage through community intervention at a protection hub.",
+   "why": "Child marriage structurally undermines the health, education, and legal rights of millions of young girls.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
    "pre": 9,
@@ -193,11 +373,59 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Over 250,000 individuals have been displaced by renewed combat in Yemen, according to the UN. Access to aid is virtually blocked for populations sheltering in and around the southwestern city of Taiz.",
-   "why": "Renewed displacement and aid blockades worsen one of the world's most severe ongoing humanitarian emergencies.",
-   "impact": 5.4,
+   "summary": "Renewed fighting in Yemen has displaced more than 250,000 people, according to the UN. Access to civilians sheltering in the southwestern city of Taiz and the surrounding governorate remains largely blocked.",
+   "why": "Persistent conflict and aid blockades leave hundreds of thousands of displaced civilians vulnerable to starvation and untreated disease.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792647022,
+   "articles": [
+    {
+     "title": "How Arab parties could hold critical balance of power in Israeli election",
+     "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Arab Israeli political parties may hold the balance of power in upcoming parliamentary elections. Mobilization efforts seek to reverse historically low voter turnout to challenge the right-wing governing coalition.",
+   "why": "A shift in Arab party representation could reshape coalition arithmetic and determine the trajectory of Israeli governance.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792639178,
+   "articles": [
+    {
+     "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+     "link": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Trump administration appealed to the US Supreme Court to permit construction of a border wall in the Big Bend region. The project had been halted by a federal judge amid ongoing litigation.",
+   "why": "The ruling could establish binding precedent on presidential authority regarding border infrastructure and federal court injunctions.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 7,
@@ -217,59 +445,41 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "Regional",
-   "summary": "UN-appointed experts reported ongoing concern over North Korean nationals forcibly returned from China over the past three years. The fate of many of these repatriated individuals remains unknown.",
-   "why": "Refoulement of North Korean defectors exposes them to severe human rights violations, torture, and detention.",
-   "impact": 5.0,
+   "summary": "UN independent experts raised concerns over the unknown fate of North Korean nationals forcibly returned from China. The warnings follow three years of reported large-scale repatriations.",
+   "why": "Forcible repatriation of refugees to North Korea directly violates non-refoulement principles and exposes individuals to severe human rights abuses.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.46
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 8,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "Al Jazeera",
+    "BBC World"
    ],
-   "n_sources": 1,
-   "ts": 1792584000,
+   "n_sources": 2,
+   "ts": 1792638328,
    "articles": [
     {
-     "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168643",
-     "source": "UN News"
+     "title": "US embassy accuses Canada of election meddling ahead of midterms",
+     "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "US accuses Canada of election interference ahead of midterms",
+     "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "The WHO is expanding emergency health operations across Ethiopia's Afar, Amhara, and Tigray regions. The intervention responds to rising health and humanitarian needs triggered by active hostilities.",
-   "why": "Ongoing armed conflict in northern Ethiopia continues to cripple health systems and threaten vulnerable civilian populations.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792584000,
-   "articles": [
-    {
-     "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
+   "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "A UN report found that migrants paid up to $500 million in smuggling fees on European maritime routes last year.",
-   "why": "Human smuggling generates massive revenues for transnational criminal networks while exposing migrants to severe peril.",
-   "impact": 5.0,
+   "summary": "The US embassy has accused Canada of meddling in its upcoming midterm elections. Canadian Prime Minister Mark Carney rejected the claim, noting that the US had initiated trade actions against Canada.",
+   "why": "Diplomatic accusations of election interference between key allies can trigger retaliatory trade and political disputes.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.32
   },
   {
    "pre": 7,
@@ -289,11 +499,83 @@
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "Settler attacks involving live ammunition, arson, and tree destruction have disrupted the start of the West Bank olive harvest. Centuries-old olive trees have been destroyed in the territory.",
-   "why": "The destruction of olive groves directly deprives Palestinian farmers of their livelihood and deepens localized conflict.",
-   "impact": 4.6,
+   "summary": "The start of the olive harvest in the occupied West Bank has seen attacks involving live ammunition and arson. The violence has also led to the destruction of centuries-old olive trees.",
+   "why": "The destruction of mature agricultural assets directly impairs Palestinian rural livelihoods and escalates territorial strife.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.36
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "Migrants paid up to $500 million to smugglers on European maritime routes last year, according to a joint UNODC and IOM report.",
+   "why": "Massive illicit revenues strengthen organized smuggling cartels while reflecting persistent migration pressures toward Europe.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The WHO is scaling up emergency health operations in Ethiopia across Afar, Amhara, and Tigray. The response addresses growing humanitarian and medical demands driven by ongoing hostilities.",
+   "why": "Expanding medical relief is critical to curbing preventable mortality and disease outbreaks in active conflict zones.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792555096,
+   "articles": [
+    {
+     "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+     "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "A 43-year-old man appeared in a Wangaratta court charged with an attack on MP Helen Haines. The defendant remained silent throughout the initial legal proceeding.",
+   "why": "Judicial handling of attacks on public officials is critical for rule of law and political stability.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
   }
  ]
 }
