@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-22T00:14:08.949984Z",
+ "updated": "2026-10-22T03:26:51.206210Z",
  "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "UN warnings indicate that global temperatures will exceed 1.5°C above pre-industrial levels. Rapid emission cuts are required to limit the temperature overshoot and return to international targets by century's end.",
+   "why": "Exceeding the 1.5°C threshold triggers major irreversible climate tipping points and catastrophic environmental disruptions.",
+   "impact": 8.2,
+   "under_radar": true,
+   "gap": 0.72
+  },
   {
    "pre": 8,
    "tier": "wire",
@@ -25,35 +49,11 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "Nigeria confirmed its first case of Ebola, matching the deadly Bundibugyo strain from the DR Congo. This marks the first time that this specific strain has spread into West Africa.",
-   "why": "The spread of a deadly Ebola strain into densely populated West Africa poses serious cross-border epidemic containment challenges.",
-   "impact": 7.8,
+   "summary": "Nigeria confirmed its first case of Ebola, which matches the Bundibugyo strain from DR Congo. The strain is behind DR Congo's deadliest outbreak and has now reached West Africa for the first time.",
+   "why": "The geographic spread of a highly lethal Ebola strain into populous West Africa presents severe epidemic risks.",
+   "impact": 7.6,
    "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792517415,
-   "articles": [
-    {
-     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-     "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Sudanese military drone strikes killed more than 300 individuals, targeting a truck transporting funeral mourners and a market accused of supplying fuel to the RSF.",
-   "why": "Mass civilian casualties from military airstrikes represent an extreme humanitarian disaster and a major escalation in the Sudanese conflict.",
-   "impact": 7.8,
-   "under_radar": true,
-   "gap": 0.68
+   "gap": 0.56
   },
   {
    "pre": 7,
@@ -65,19 +65,19 @@
    "ts": 1792584000,
    "articles": [
     {
-     "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+     "title": "WHO supports Nigeria after first Ebola case confirmed",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "Global temperatures are projected to exceed the 1.5°C pre-industrial threshold, prompting warnings that nations must drastically slash emissions immediately. Fast cuts are necessary to minimize overshoot and bring temperatures back down by the end of the century.",
-   "why": "Surpassing 1.5°C of warming threatens irreversible tipping points and amplifies climate-related catastrophes worldwide.",
-   "impact": 7.6,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "The World Health Organization is mobilizing aid for Nigeria after the country confirmed its first case of the Ebola Bundibugyo virus.",
+   "why": "Immediate international intervention is essential to prevent a wider Ebola outbreak in densely populated regions.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.66
+   "gap": 0.64
   },
   {
    "pre": 7,
@@ -97,269 +97,11 @@
    "skip": false,
    "category": "Tech & Science",
    "scale": "Global",
-   "summary": "The head of the UN disarmament research institute warned that artificial intelligence is increasingly diminishing the role of human judgment in warfare. AI technology is already seeing widespread operational use on the battlefield.",
-   "why": "Ceding lethal tactical decisions to autonomous algorithms fundamentally alters the legal, ethical, and strategic landscape of armed conflict.",
+   "summary": "The head of the UN disarmament research institute warned that artificial intelligence is actively reducing the role of human judgment in military combat operations.",
+   "why": "Autonomous decision-making in warfare fundamentally alters global security dynamics and raises critical accountability challenges.",
    "impact": 7.4,
    "under_radar": true,
    "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 3,
-   "ts": 1792619347,
-   "articles": [
-    {
-     "title": "Meta fined $25bn for 'lies' over user data privacy",
-     "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
-     "link": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-     "link": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "A judge ordered Meta to pay a record $25 billion fine for data privacy violations linked to the Cambridge Analytica case. This marks the largest penalty to date against Facebook's parent company.",
-   "why": "An unprecedented multibillion-dollar fine sets a monumental precedent for big-tech regulation and user data liability.",
-   "impact": 7.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792618061,
-   "articles": [
-    {
-     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-     "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Missiles struck Kyiv shortly after Moscow stated it was ready in principle to resume peace talks with Ukraine following US calls. US President Donald Trump claimed the world is the closest it has been to ending the war.",
-   "why": "Contradictory military escalation during renewed peace diplomacy directly impacts European security and wartime civilian infrastructure.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792584000,
-   "articles": [
-    {
-     "title": "WHO supports Nigeria after first Ebola case confirmed",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "The World Health Organization is providing support to Nigeria after the country confirmed its first case of Ebola Bundibugyo virus disease. This intervention follows the identification of the viral strain inside the country.",
-   "why": "Rapid WHO deployment is critical to establishing contact tracing and containment to prevent a broader epidemic in West Africa.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792627200,
-   "articles": [
-    {
-     "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Iran's Islamic Revolutionary Guard Corps threatened to invade any nation that attacks it as part of a shift toward an offensive and asymmetrical defense doctrine.",
-   "why": "A formal pivot in Iranian military doctrine toward offensive action escalates regional deterrence stakes and risks of wider conflict.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792623843,
-   "articles": [
-    {
-     "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-     "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Elon Musk is considering a merger between SpaceX and Tesla, describing potential substantial advantages. If executed, the transaction would represent the largest corporate merger in history.",
-   "why": "A combination of these two major companies would create an unprecedented corporate entity with vast market and technological reach.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792610980,
-   "articles": [
-    {
-     "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Officials announced that Nigeria's first Ebola patient, the wife of an Abuja-based diplomat, had recently vacationed in Kampala, Uganda.",
-   "why": "Cross-border transmission of Ebola threatens regional public health and requires immediate epidemiological tracking.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792497600,
-   "articles": [
-    {
-     "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Afghanistan faces extreme hunger warnings, leaving the country one step away from famine. While food is available, it remains inaccessible for millions of residents.",
-   "why": "Widespread food insecurity threatens mass mortality and deepens an acute humanitarian emergency across an entire country.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792572169,
-   "articles": [
-    {
-     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
-     "link": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Elon Musk confirmed that special committees within Tesla and SpaceX have formed to assess a potential mega-merger. Musk described uniting the two companies as a good idea.",
-   "why": "A merger between two dominant aerospace and electric vehicle giants would create an unprecedented industrial conglomerate with major market and regulatory ramifications.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.48
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792620138,
-   "articles": [
-    {
-     "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-     "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "Indonesia is experiencing its most severe wildfire season in ten years, driven by burning peatlands. Reporting from central Kalimantan highlights the critical ecological threat posed by these peat fires.",
-   "why": "A decade-worst wildfire season in peatlands causes immense carbon release, air pollution, and long-term ecological devastation.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792594890,
-   "articles": [
-    {
-     "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
-     "link": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Poland’s lower house of parliament voted to approve two bills to ease its near-total abortion ban by removing penalties for those helping women access the procedure. However, the legislation faces a probable veto from the president.",
-   "why": "Legislative shifts on reproductive rights carry major national legal and social consequences, though a presidential veto threatens the outcome.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
   },
   {
    "pre": 7,
@@ -379,104 +121,8 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Two UN agencies have appealed for immediate aid to protect vulnerable communities impacted by the strongest El Niño weather pattern on record. The phenomenon is already causing adverse effects across affected regions.",
-   "why": "Record-strength climate phenomena aggravate global food insecurity, displacement, and extreme weather risks for vulnerable populations.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792606242,
-   "articles": [
-    {
-     "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-     "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "An Australian Member of Parliament underwent the amputation of both legs following a targeted attack. The incident has left the local community devastated.",
-   "why": "Severe physical attacks on elected officials present serious challenges to public safety and democratic norms.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792626741,
-   "articles": [
-    {
-     "title": "US accuses Canada of election interference ahead of midterms",
-     "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "International",
-   "summary": "The United States has accused Canada of attempting to interfere in its upcoming midterm elections. Washington cited Canadian tariffs, political meetings, and anti-Trump advertisements as evidence.",
-   "why": "Allegations of election interference between close allies stress diplomatic, political, and trade relations.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792534937,
-   "articles": [
-    {
-     "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-     "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Alberta has voted overwhelmingly to remain part of Canada. The result provides Mark Carney with the political capital to concentrate on restructuring the national economy.",
-   "why": "Alberta remaining in Canada solidifies national cohesion and enables federal leadership to pursue major economic reforms.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792623997,
-   "articles": [
-    {
-     "title": "Trump's green card curbs test Indian tech workers' American dream",
-     "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Indian technology workers face diminishing chances of obtaining US permanent residency due to tighter immigration curbs. This shift is accompanied by American tech companies cutting back on foreign recruitment.",
-   "why": "Policy restrictions on visas disrupt global tech talent pipelines and impact hundreds of thousands of migrant workers.",
+   "summary": "Two UN agencies issued an urgent appeal for aid to protect communities impacted by the strongest El Niño weather pattern on record.",
+   "why": "Extreme El Niño events disrupt global weather patterns, threatening food security and vulnerable populations worldwide.",
    "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
@@ -499,86 +145,8 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "The UN warned against an early withdrawal of peacekeepers from the Central African Republic as the war in Sudan spills over the border. Regional instability threatens to expand due to the ongoing cross-border conflict.",
-   "why": "A premature drawdown of peacekeepers amid spillover from Sudan risks destabilizing the fragile Central African Republic further.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792497600,
-   "articles": [
-    {
-     "title": "Yemen war continues to force families from homes amid hunger and disease",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Renewed fighting in Yemen has displaced over 250,000 individuals, according to the UN. Access to the southwestern city and governorate of Taiz is reported as essentially blocked amidst severe hunger and disease.",
-   "why": "The displacement of hundreds of thousands of people and blockades in Taiz compound Yemen's prolonged and severe humanitarian crisis.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792611482,
-   "articles": [
-    {
-     "title": "What happened to Australian politician Helen Haines?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
-     "link": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Australian lawmaker Helen Haines lost both legs after a vehicle rammed into her. A suspect involved in the attack has appeared in court.",
-   "why": "A violent vehicular attack severely injuring a sitting member of parliament raises urgent concerns over political violence and security.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792524605,
-   "articles": [
-    {
-     "title": "Trump sued over Canadian tariffs in latest legal challenge",
-     "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Regional",
-   "summary": "A legal challenge has been filed against the White House regarding its recent tariffs on Canada. The lawsuit claims the administration exceeded its legal authority and caused immediate financial harm to domestic businesses.",
-   "why": "This litigation tests executive authority over international trade policy and could reshape cross-border commerce.",
+   "summary": "The UN warned against an early withdrawal of peacekeepers from the Central African Republic as conflict from Sudan spills over its borders.",
+   "why": "Cross-border spillover risks destabilizing neighboring countries and worsening regional security vacuums.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
@@ -601,127 +169,32 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Talks involving nearly two dozen countries continued in Geneva to seek a ceasefire and transition to peaceful governance in Sudan. The negotiations aim to halt ongoing fighting and resolve the severe humanitarian crisis.",
-   "why": "Sudan's war has triggered one of the world's worst humanitarian crises, making ceasefire efforts crucial for regional stability.",
+   "summary": "Nearly two dozen nations met in Geneva to resume peace talks seeking a ceasefire and political transition in Sudan. The negotiations aim to resolve the drone warfare driving the humanitarian crisis.",
+   "why": "A ceasefire in Sudan could mitigate an immense humanitarian crisis affecting tens of millions of people.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
   },
   {
-   "pre": 7,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "DW",
-    "NPR World",
-    "The Guardian World"
-   ],
-   "n_sources": 3,
-   "ts": 1792622359,
-   "articles": [
-    {
-     "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-     "link": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Putin releases American Stephen Hubbard from Russian prison",
-     "link": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
-     "source": "NPR World"
-    },
-    {
-     "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-     "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-     "source": "NPR World"
-    },
-    {
-     "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-     "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "International",
-   "summary": "Russia released imprisoned American Stephen Hubbard during talks between Vladimir Putin and Steve Witkoff. The Kremlin also indicated it is open in principle to resuming trilateral talks next month.",
-   "why": "The release of a detained U.S. citizen and openness to talks could signal diplomatic maneuvering between Washington and Moscow.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.24
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World"
-   ],
-   "n_sources": 2,
-   "ts": 1792617921,
-   "articles": [
-    {
-     "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-     "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-     "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Former Mexican prosecutor César Jáuregui Moreno has been charged with treason. He is accused of permitting United States agents to participate in a raid on an alleged drug laboratory in April.",
-   "why": "Charging a state prosecutor with treason over US-led law enforcement cooperation indicates severe friction in US-Mexico security ties.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792571508,
+   "ts": 1792497600,
    "articles": [
     {
-     "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-     "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "The Gambia received $2.5 million from the sale of former ruler Yahya Jammeh's seized mansion in Maryland, United States. The funds are designated to compensate victims of Jammeh's regime.",
-   "why": "It serves as an important precedent for international asset recovery and restitution for victims of authoritarian human rights abuses.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792464305,
-   "articles": [
-    {
-     "title": "Seventh day of violent clashes between Albanian protesters and police",
-     "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Yemen war continues to force families from homes amid hunger and disease",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Violent demonstrations against the Albanian government have entered their seventh day without signs of abatement. Nearly 300 individuals have suffered injuries, with more than half being police officers.",
-   "why": "Sustained violent unrest threatens state stability and public order across the nation.",
+   "summary": "Over 250,000 individuals have been displaced by renewed combat in Yemen, according to the UN. Access to aid is virtually blocked for populations sheltering in and around the southwestern city of Taiz.",
+   "why": "Renewed displacement and aid blockades worsen one of the world's most severe ongoing humanitarian emergencies.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
@@ -744,104 +217,8 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "Regional",
-   "summary": "Independent UN human rights experts voiced serious concerns over the unknown fate of North Korean nationals forcibly returned from China. Large-scale forcible repatriations were reportedly resumed three years ago.",
-   "why": "Forcible repatriations to North Korea place deportees at extreme risk of severe human rights violations and arbitrary detention.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792584000,
-   "articles": [
-    {
-     "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Regional",
-   "summary": "Migrants paid up to $500 million in smuggling fees on European maritime routes last year, according to a joint report by UNODC and IOM. The data outlines the immense financial scale of human smuggling networks across sea passages.",
-   "why": "The substantial illicit revenue stream fuels organized crime and highlights the dangerous economic realities of irregular migration into Europe.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792623889,
-   "articles": [
-    {
-     "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Australian security agencies will review precautions for MPs' homes and offices following the alleged attack on MP Helen Haines. Concerns over personal safety were raised across major and crossbench parties during security briefings.",
-   "why": "Targeted violence against a lawmaker is prompting nationwide security overhauls across the Australian federal government.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792502612,
-   "articles": [
-    {
-     "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-     "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "The son of a Kenyan cult leader reported his grandmother after alleging the leader's children are still subjected to starvation prior to trial. The son had initially defended his father before reporting the abuse.",
-   "why": "It indicates ongoing severe child endangerment and criminal activity directly tied to an active cult investigation.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792584000,
-   "articles": [
-    {
-     "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168644",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "The opening weeks of the olive harvest in the occupied West Bank have been disrupted by settler attacks involving live ammunition, arson, and tree destruction. Centuries-old olive trees have been destroyed during the incidents.",
-   "why": "Attacks on agrarian communities threaten livelihoods and escalate chronic instability and conflict in the West Bank.",
+   "summary": "UN-appointed experts reported ongoing concern over North Korean nationals forcibly returned from China over the past three years. The fate of many of these repatriated individuals remains unknown.",
+   "why": "Refoulement of North Korean defectors exposes them to severe human rights violations, torture, and detention.",
    "impact": 5.0,
    "under_radar": false,
    "gap": 0.4
@@ -864,41 +241,11 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "The World Health Organization is expanding emergency health operations across the Afar, Amhara, and Tigray regions of Ethiopia. The scale-up responds to growing humanitarian and health needs caused by continuing conflict.",
-   "why": "Expanding medical operations is essential to preventing mass casualties and disease outbreaks in conflict-affected regions of Ethiopia.",
+   "summary": "The WHO is expanding emergency health operations across Ethiopia's Afar, Amhara, and Tigray regions. The intervention responds to rising health and humanitarian needs triggered by active hostilities.",
+   "why": "Ongoing armed conflict in northern Ethiopia continues to cripple health systems and threaten vulnerable civilian populations.",
    "impact": 5.0,
    "under_radar": false,
    "gap": 0.4
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792626420,
-   "articles": [
-    {
-     "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-     "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Pope Leo will not need further cancer treatment — Vatican",
-     "link": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "The Vatican announced that Pope Leo will not require further cancer treatment following surgery. The 71-year-old pontiff had the lower lobe of his right lung excised.",
-   "why": "The health and prognosis of the head of the Catholic Church has substantial implications for global church leadership and governance.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.3
   },
   {
    "pre": 7,
@@ -907,142 +254,46 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792497600,
+   "ts": 1792584000,
    "articles": [
     {
-     "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+     "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "UNICEF's chief has called for an end to child marriage in Bangladesh. This follows an intervention by community leaders at a UNICEF-supported hub to prevent a 14-year-old girl from being married off against her will.",
-   "why": "Child marriage affects millions of vulnerable girls, though statements and individual rescues represent incremental advocacy.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792613350,
-   "articles": [
-    {
-     "title": "Pope does not need further treatment after lung cancer surgery",
-     "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "Medical tests confirmed the Pope was diagnosed with localized lung adenocarcinoma. Doctors stated that he will not require further treatment following surgical intervention.",
-   "why": "The medical status of the head of state and religious leader of the Catholic Church influences church succession and continuity.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792555096,
-   "articles": [
-    {
-     "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-     "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Brendan Nugent, 43, remained silent during his first court appearance in Wangaratta regarding the alleged attack on Australian MP Helen Haines.",
-   "why": "This represents the criminal proceedings following an unprecedented assault on a sitting Australian lawmaker.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792605554,
-   "articles": [
-    {
-     "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
-     "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
+   "category": "Economy",
    "scale": "Regional",
-   "summary": "A Washington Post photojournalist recounted how Palestinian youths helped save her after she was seriously injured in an attack by Israeli settlers in the West Bank. She pledged to return to work and criticized Benjamin Netanyahu's response to the event.",
-   "why": "Violence against international journalists in conflict zones highlights press freedom and security issues in the West Bank.",
-   "impact": 4.2,
+   "summary": "A UN report found that migrants paid up to $500 million in smuggling fees on European maritime routes last year.",
+   "why": "Human smuggling generates massive revenues for transnational criminal networks while exposing migrants to severe peril.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.4
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792601896,
+   "ts": 1792584000,
    "articles": [
     {
-     "title": "Family of prison officer killed by IRA receives state apology",
-     "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Local Civic",
-   "scale": "National",
-   "summary": "The family of Brian Stack, a prison officer shot by the IRA in Dublin in 1983 who died 18 months later, received an official state apology.",
-   "why": "Official state apologies for Troubles-era killings represent significant historical closure and institutional accountability.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792530350,
-   "articles": [
-    {
-     "title": "Suspect arrested after historic town hall set alight - French media",
-     "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "A suspect has been taken into custody after Limoges city hall was set on fire in France. The fire led to the collapse of the historic clock tower's spire.",
-   "why": "The arson destroyed historic municipal infrastructure and disrupted local civic governance.",
-   "impact": 4.0,
+   "summary": "Settler attacks involving live ammunition, arson, and tree destruction have disrupted the start of the West Bank olive harvest. Centuries-old olive trees have been destroyed in the territory.",
+   "why": "The destruction of olive groves directly deprives Palestinian farmers of their livelihood and deepens localized conflict.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.3
+   "gap": 0.36
   }
  ]
 }
