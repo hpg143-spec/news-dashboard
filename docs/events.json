@@ -1,4 +1,622 @@
 {
- "updated": "2026-10-23T06:31:07.234613Z",
- "events": []
+ "updated": "2026-10-23T09:26:45.520924Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Global temperature rise is projected to exceed 1.5°C above pre-industrial levels. Countries must enact urgent emission cuts to minimize the overshoot and return to the agreed threshold by the end of the century.",
+   "why": "Breaching the 1.5°C threshold triggers severe, systemic climate disruptions affecting global ecosystems, economies, and human populations.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792678560,
+   "articles": [
+    {
+     "title": "Is Iran ready for another major US attack after midterm elections?",
+     "link": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Iranian officials state their goal is regime survival while threatening regional retaliation against potential US strikes being considered after the midterm elections. Reports suggest Donald Trump is evaluating military strikes against Iran.",
+   "why": "Potential direct military strikes between the United States and Iran threaten to trigger an expansive regional war with severe global energy repercussions.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1792707424,
+   "articles": [
+    {
+     "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+     "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+     "source": "NPR World"
+    },
+    {
+     "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+     "link": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The United States and Israel are planning for a potential military attack against Iran, according to reports and public statements. Both Donald Trump and Benjamin Netanyahu have indicated that military action remains under active consideration.",
+   "why": "Joint operational planning for an assault on Iran dramatically increases the probability of high-intensity regional conflict across the Middle East.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792670400,
+   "articles": [
+    {
+     "title": "First human case of Shamonda virus reported in France as patient dies",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168652",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "A patient in France has died after contracting the Shamonda virus. This marks the first recorded human case of the disease.",
+   "why": "The first documented fatal human spillover of an infectious pathogen carries high epidemiological surveillance importance.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "WHO supports Nigeria after first Ebola case confirmed",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The World Health Organization is providing assistance to Nigeria after the country confirmed its first case of Ebola Bundibugyo virus disease. This represents a new infection within the nation.",
+   "why": "Confirmation of a high-consequence pathogen in a densely populated country demands rapid containment to prevent a broader outbreak.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792670400,
+   "articles": [
+    {
+     "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168647",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "The Ebola outbreak in the Democratic Republic of the Congo has expanded to an eighth province. Investigators are actively pursuing leads to assess the risk of the virus spreading to Nigeria.",
+   "why": "The geographic expansion of a lethal Ebola outbreak raises significant risks of wider regional transmission across Africa.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168639",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Two UN agencies issued an appeal for immediate aid to support communities affected by the strongest El Niño weather pattern on record. Vulnerable populations are already suffering impacts from the phenomenon.",
+   "why": "A record-setting El Niño event triggers widespread weather disruptions affecting food security and livelihoods across multiple continents.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792720000,
+   "articles": [
+    {
+     "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+     "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "International",
+   "summary": "Donald Trump stated that Elon Musk restored Starlink access and lifted speed restrictions for Ukraine amid the war with Russia. Trump declined to elaborate on the process leading to this decision.",
+   "why": "Starlink provides critical battlefield communications infrastructure directly impacting military operational capacity in the Russia-Ukraine conflict.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792716711,
+   "articles": [
+    {
+     "title": "M 7.0 - 191 km ENE of Nagqu, China",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A magnitude 7.0 earthquake struck 191 km east-northeast of Nagqu, China, at a depth of 18.00 km. The event triggered an Orange PAGER alert and registered intensity VIII on the ShakeMap.",
+   "why": "A shallow magnitude 7.0 earthquake can cause extensive structural destruction and casualties in the affected region.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792741032,
+   "articles": [
+    {
+     "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+     "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Global emergency oil reserves have dropped to multidecade lows. Analysts warn the world may have only one to two months of supply if the Strait of Hormuz is closed during renewed US-Iran conflict.",
+   "why": "Critically depleted emergency oil reserves leave the global economy highly vulnerable to catastrophic energy price shocks if supply routes are blocked.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792670400,
+   "articles": [
+    {
+     "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Long-range Russian attacks intensified across Ukraine, including strikes on Kyiv that caused at least 14 civilian deaths and 78 injuries overnight. UN agencies are continuing to deliver aid amid the escalated strikes.",
+   "why": "Escalated long-range strikes against major population centers result in heavy civilian casualties and strain emergency services.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168638",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Nearly two dozen countries convened in Geneva to discuss a pathway to a ceasefire and peaceful governance in Sudan. The talks aim to halt the fighting and alleviate the humanitarian crisis fueled by drone warfare.",
+   "why": "International diplomatic talks are critical to ending Sudan's severe humanitarian catastrophe and active conflict.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168645",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "UN independent experts reported serious concerns regarding the fate of DPRK nationals forcibly returned from China. The large-scale forcible repatriations reportedly resumed three years ago.",
+   "why": "Forced repatriations to North Korea place returnees at acute risk of severe human rights abuses and detention.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A report by UNODC and IOM revealed that migrants paid up to $500 million in smuggling fees along European sea routes last year. The finding highlights the extensive scale of maritime human smuggling operations.",
+   "why": "The half-billion-dollar scale of maritime smuggling demonstrates massive illicit cash flows and risks to vulnerable migrants.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The World Health Organization is scaling up emergency health operations in Ethiopia across Afar, Amhara, and Tigray. The response addresses mounting humanitarian and health demands stemming from active conflict.",
+   "why": "Expanding emergency medical assistance is vital to preventing preventable disease and mortality in conflict-affected regions.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792670400,
+   "articles": [
+    {
+     "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168651",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A deadly flash flood tore through Nepal in August, described by a UN field agency head as a defining moment for the country and the international community. The agency builds essential infrastructure such as roads, schools, and clinics in crisis zones.",
+   "why": "Glacial floods represent severe climate-driven destruction to critical infrastructure and livelihoods in vulnerable mountain regions.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792742038,
+   "articles": [
+    {
+     "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+     "link": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+     "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "A magnitude-7 earthquake struck a mountainous, sparsely populated area of the Tibet Autonomous Region. The disaster killed at least 16 people, injured dozens, and destroyed hundreds of homes.",
+   "why": "A major seismic event caused fatalities and substantial destruction of shelter in a remote region.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.2
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792670400,
+   "articles": [
+    {
+     "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168650",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "New UN data indicates that mothers globally receive nearly eight times more paid leave than fathers. This disparity places the primary care burden on women, carrying economic and social costs for families and children.",
+   "why": "Global structural disparities in parental leave entrench gender inequality and impact labor market participation worldwide.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792584000,
+   "articles": [
+    {
+     "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "The annual olive harvest in the occupied West Bank has opened with settler attacks involving live ammunition and arson. Centuries-old olive trees have been destroyed during the violence.",
+   "why": "Physical attacks and destruction of agricultural assets directly threaten civilian livelihoods and exacerbate territorial tensions.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792647022,
+   "articles": [
+    {
+     "title": "How Arab parties could hold critical balance of power in Israeli election",
+     "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Arab political parties could hold the balance of power in Israel's upcoming election amid an effort to unseat the right-wing coalition. Disaffection has historically depressed voter turnout among Arab Israeli citizens.",
+   "why": "Shifts in Arab Israeli electoral participation could fundamentally alter the composition of Israel's governing coalition and its subsequent domestic and foreign policies.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792697126,
+   "articles": [
+    {
+     "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+     "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Paris has extended its curfew while Marseille and Lyon have banned protests following riots. Demonstrations are restricted to union-organized events in certain areas, and major museums will remain closed on Saturday.",
+   "why": "Widespread curfews, protest bans, and public closures reflect severe civil unrest impacting public safety and civil liberties across France.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792746219,
+   "articles": [
+    {
+     "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+     "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Debate surrounding the conscription of ultra-Orthodox citizens into the military has intensified ahead of Israel's elections. The issue highlights deep-seated societal and political divisions within the country.",
+   "why": "The conscription dispute challenges Israel's military manpower policies, social contract, and the stability of its political coalitions.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792657860,
+   "articles": [
+    {
+     "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+     "link": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Bulgaria's presidential election is being driven by Black Sea security concerns following drone attacks on maritime vessels and reduced state support for Ukraine. Foreign policy has become a decisive element in the first round of voting.",
+   "why": "The electoral outcome could shift Bulgaria's defense posture in the Black Sea and its level of support for Ukraine.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792693616,
+   "articles": [
+    {
+     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "State",
+   "summary": "Mark Zuckerberg obtained an agreement with Meta to assist in paying a potential California billionaire wealth tax. He had previously threatened to leave the state over the proposed measure.",
+   "why": "Corporate indemnification of executive wealth taxes sets a notable precedent for corporate governance and tax policy in California.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792710980,
+   "articles": [
+    {
+     "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+     "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Western diplomats in Moscow report enduring heightened surveillance and paranoia since Russia's full-scale invasion of Ukraine. Officials describe the current operating environment as comparable to the Cold War era.",
+   "why": "The severe breakdown in diplomatic norms and functioning impairs essential communication channels between nuclear-armed adversaries.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
