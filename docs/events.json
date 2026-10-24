@@ -1,257 +1,299 @@
 {
- "updated": "2026-10-24T06:15:29.612825Z",
+ "updated": "2026-10-24T09:20:09.194364Z",
  "events": [
   {
-   "pre": 6,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "DW",
-    "NPR World"
+    "UN News"
    ],
-   "n_sources": 2,
-   "ts": 1792759299,
+   "n_sources": 1,
+   "ts": 1792670400,
    "articles": [
     {
-     "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-     "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-     "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-     "source": "NPR World"
+     "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168647",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's primary airport. Uganda reported no active cases, but conflicting accounts surround the infection sources.",
-   "why": "Potential cross-border airport transmission of Ebola presents severe epidemiological risks across multiple African nations.",
+   "summary": "An Ebola outbreak in the Democratic Republic of the Congo has expanded into an eighth province. Investigators are actively pursuing leads to assess the risk of the virus spreading to Nigeria.",
+   "why": "Ebola geographic expansion and potential transmission to populous hubs like Nigeria presents an acute public health threat.",
    "impact": 7.4,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.64
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792755032,
+   "ts": 1792670400,
    "articles": [
     {
-     "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-     "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "First human case of Shamonda virus reported in France as patient dies",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168652",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "A patient in France has died from Shamonda virus. This represents the first recorded human case and death linked to the infection.",
+   "why": "The first recorded human fatality from a previously unobserved zoonotic or vector-borne pathogen poses unknown epidemiological risks.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Regional",
-   "summary": "A BBC investigation revealed that Sudanese paramilitary fighters systematically destroyed the healthcare system in el-Fasher, according to local doctors.",
-   "why": "The deliberate destruction of medical infrastructure leaves entire civilian populations without lifesaving care, compounding a humanitarian catastrophe.",
-   "impact": 7.0,
+   "scale": "National",
+   "summary": "UN human rights chief Volker Türk condemned an escalation in drone strikes across Sudan. The attacks killed at least 306 people and injured hundreds more within the first three weeks of October.",
+   "why": "Surging drone warfare marks an intensifying phase of lethality and civilian harm in Sudan's conflict.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.6
+   "gap": 0.56
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792797091,
+   "ts": 1792756800,
    "articles": [
     {
-     "title": "Are California voters about to impose world's first 'tax on billionaires'?",
-     "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "State",
-   "summary": "California voters are set to decide on a ballot measure to levy a billionaire tax intended to fund healthcare improvements.",
-   "why": "If enacted, it would establish a novel wealth-tax precedent with substantial fiscal consequences for healthcare and high-net-worth residents.",
-   "impact": 6.2,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "UN agencies report that more resources are urgently needed to battle an ongoing Ebola outbreak in the DRC and feed impacted families. Meanwhile, Kenya has acted to strengthen its containment measures against the disease.",
+   "why": "Persistent outbreak demands international resource mobilization to prevent widespread cross-border contagion.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.54
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792781537,
+   "ts": 1792756800,
    "articles": [
     {
-     "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-     "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Tech & Science",
-   "scale": "Regional",
-   "summary": "Ukraine reports that Starlink access remains restricted despite Donald Trump's claim that limits were lifted. The satellite network is critical to the Ukrainian military.",
-   "why": "Starlink's operational status directly affects Ukrainian frontline command-and-control capabilities.",
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "IAEA head Rafael Grossi called for a swift return of inspectors to Iran. He warned of growing fragility within the global nuclear non-proliferation regime.",
+   "why": "Nuclear oversight breakdown in Iran increases the risk of regional proliferation and diplomatic collapse.",
    "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792769827,
+   "ts": 1792756800,
    "articles": [
     {
-     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Local",
-   "summary": "Israeli forces initiated the demolition of Palestinian buildings in Hebron after two Israeli soldiers were killed at a checkpoint by Palestinian gunmen. The fatal shooting occurred on Friday morning outside the West Bank city.",
-   "why": "Punitive home demolitions and deadly clashes escalate regional unrest and violate human rights standards.",
+   "scale": "National",
+   "summary": "Aid agencies warned of a developing humanitarian emergency in Taiz City, Yemen. The city remains encircled by Houthi forces engaged in fighting with government troops, preventing aid access.",
+   "why": "Blockades on major urban centers block critical humanitarian supplies, risking catastrophic food and medical shortages.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792670400,
+   "articles": [
+    {
+     "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Intensifying long-range Russian strikes across Ukraine, including Kyiv, killed at least 14 civilians and injured 78 overnight. UN agencies are continuing to deliver humanitarian relief in response.",
+   "why": "Sustained bombardment of urban centers inflicts severe civilian casualties and ongoing infrastructure devastation.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN voiced extreme alarm over intensifying violence in the occupied West Bank. This comes as Israel moved to seal off the territory following a deadly attack on soldiers in Hebron.",
+   "why": "Sweeping movement restrictions and escalating conflict threaten stability across the Palestinian territories and Israel.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
   },
   {
-   "pre": 6,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "Al Jazeera",
-    "The Guardian World"
+    "UN News"
    ],
-   "n_sources": 2,
-   "ts": 1792813100,
+   "n_sources": 1,
+   "ts": 1792670400,
    "articles": [
     {
-     "title": "Pentagon designates Confucius Institutes a national security threat",
-     "link": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
-     "link": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
-     "source": "The Guardian World"
+     "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168651",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Environment",
    "scale": "National",
-   "summary": "The Pentagon has designated Chinese-backed Confucius Institutes as a national security threat. Pete Hegseth stated the department dismantled 80 operating entities across 30 universities.",
-   "why": "It formalizes defense policy against Chinese state-sponsored educational initiatives, impacting university partnerships and academic funding.",
-   "impact": 5.0,
+   "summary": "A deadly flash flood occurred in Nepal in August, described by a UN agency head as a defining moment for the country and global community. The agency continues to build infrastructure like roads, schools, and clinics in crisis areas.",
+   "why": "Glacial flood disasters highlight acute climate vulnerability and infrastructure destruction in mountainous developing regions.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.3
+   "gap": 0.42
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792702136,
+   "ts": 1792670400,
    "articles": [
     {
-     "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-     "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168650",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "Local",
-   "summary": "New York City has banned horse-drawn carriages, ending an industry that operated for over 160 years.",
-   "why": "It enacts a permanent municipal prohibition ending a long-standing local tourism and transport industry.",
+   "scale": "Global",
+   "summary": "New UN data reveals that mothers globally receive nearly eight times more paid leave than fathers. This disparity places the majority of the caregiving burden on women, impacting economies and families.",
+   "why": "Global structural disparities in parental leave entrench gender inequality and depress workforce participation.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792826940,
+   "articles": [
+    {
+     "title": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
+     "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "North Korean leader Kim Jong Un arrives in Chinese border city",
+     "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "North Korean leader Kim Jong Un has arrived in China, according to South Korean media. The visit follows the official opening of a major new bridge connecting the two nations.",
+   "why": "Direct high-level engagement between North Korea and China signals strategic alignment and sanctions coordination.",
    "impact": 4.8,
    "under_radar": false,
-   "gap": 0.38
+   "gap": 0.28
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792786693,
+   "ts": 1792756800,
    "articles": [
     {
-     "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-     "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Soil mapping aims to boost agricultural production in Kenya",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Economy",
    "scale": "National",
-   "summary": "Former Ukrainian prisoners reported that a freed US citizen endured beatings and sexual humiliation from Russian guards during detention in a Russian jail.",
-   "why": "Eyewitness evidence of torture against a US citizen compounds war crime allegations against Russian authorities.",
-   "impact": 4.6,
+   "summary": "A new initiative in Kenya aims to help farmers analyze and map their soils to raise crop yields. The effort is intended to counter intensifying climate shocks affecting agriculture.",
+   "why": "National soil mapping can improve agricultural resilience and long-term food security under climate stress.",
+   "impact": 4.2,
    "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792771176,
-   "articles": [
-    {
-     "title": "Watch: CCTV footage shows gunmen near church in Jordan",
-     "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Gunmen were captured on CCTV near a church in Jordan as a shooting occurred while dozens attended a funeral inside.",
-   "why": "An armed attack targeting a church during a service threatens community safety and raises sectarian security concerns.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1792796956,
-   "articles": [
-    {
-     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-     "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "The city hall of Limoges, France, was burned down amid national protests, sparking division among residents over the destruction.",
-   "why": "The arson of a municipal seat of government highlights the escalating physical toll of nationwide civil unrest.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
+   "gap": 0.32
   }
  ]
 }
