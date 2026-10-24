@@ -1,296 +1,554 @@
 {
- "updated": "2026-10-24T09:20:09.194364Z",
+ "updated": "2026-10-24T12:20:33.395823Z",
  "events": [
   {
-   "pre": 9,
-   "tier": "primary",
+   "pre": 6,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World",
+    "DW"
    ],
-   "n_sources": 1,
-   "ts": 1792670400,
+   "n_sources": 2,
+   "ts": 1792835213,
    "articles": [
     {
-     "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168647",
-     "source": "UN News"
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Ebola: Kenya announces second death",
+     "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "An Ebola outbreak in the Democratic Republic of the Congo has expanded into an eighth province. Investigators are actively pursuing leads to assess the risk of the virus spreading to Nigeria.",
-   "why": "Ebola geographic expansion and potential transmission to populous hubs like Nigeria presents an acute public health threat.",
-   "impact": 7.4,
+   "summary": "A 65-year-old woman has become the second patient to die of Ebola in Kenya. She was a close family member of the first victim, who had traveled from the Democratic Republic of Congo.",
+   "why": "Cross-border spread and fatal secondary transmission of Ebola elevate the risk of a wider regional outbreak.",
+   "impact": 7.8,
    "under_radar": true,
-   "gap": 0.64
+   "gap": 0.58
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 6,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "DW",
+    "NPR World"
    ],
-   "n_sources": 1,
-   "ts": 1792670400,
+   "n_sources": 2,
+   "ts": 1792759299,
    "articles": [
     {
-     "title": "First human case of Shamonda virus reported in France as patient dies",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168652",
-     "source": "UN News"
+     "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+     "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+     "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+     "source": "NPR World"
     }
    ],
    "skip": false,
    "category": "Health",
-   "scale": "Global",
-   "summary": "A patient in France has died from Shamonda virus. This represents the first recorded human case and death linked to the infection.",
-   "why": "The first recorded human fatality from a previously unobserved zoonotic or vector-borne pathogen poses unknown epidemiological risks.",
-   "impact": 7.4,
+   "scale": "Regional",
+   "summary": "Health officials are investigating whether Ebola patients identified in Kenya and Nigeria crossed paths at Uganda's main airport. Uganda maintains it currently has no active cases, despite conflicting accounts regarding the source of an infection.",
+   "why": "Potential transit hub transmission threatens to rapidly broaden an Ebola outbreak across multiple African nations.",
+   "impact": 7.6,
    "under_radar": true,
-   "gap": 0.64
+   "gap": 0.56
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792756800,
+   "ts": 1792797091,
    "articles": [
     {
-     "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-     "source": "UN News"
+     "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+     "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "State",
+   "summary": "California voters are considering a ballot measure to impose a tax on billionaires to fund healthcare improvements. If passed, it would represent a first-of-its-kind tax targeting the ultra-wealthy.",
+   "why": "A precedent-setting wealth tax could reshape state revenue policies and trigger significant capital movement.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792755032,
+   "articles": [
+    {
+     "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+     "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "UN human rights chief Volker Türk condemned an escalation in drone strikes across Sudan. The attacks killed at least 306 people and injured hundreds more within the first three weeks of October.",
-   "why": "Surging drone warfare marks an intensifying phase of lethality and civilian harm in Sudan's conflict.",
-   "impact": 6.6,
+   "summary": "A BBC investigation revealed evidence that Sudanese paramilitary fighters systematically destroyed the healthcare system in el-Fasher. Doctors detailed the direct targeting of local hospitals.",
+   "why": "Systematic attacks on medical facilities constitute severe human rights violations and collapse critical life-saving infrastructure for entire civilian populations.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.56
+   "gap": 0.58
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792756800,
+   "ts": 1792794276,
    "articles": [
     {
-     "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168655",
-     "source": "UN News"
+     "title": "Who actually controls Ukraine's access to Starlink?",
+     "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "UN agencies report that more resources are urgently needed to battle an ongoing Ebola outbreak in the DRC and feed impacted families. Meanwhile, Kenya has acted to strengthen its containment measures against the disease.",
-   "why": "Persistent outbreak demands international resource mobilization to prevent widespread cross-border contagion.",
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "President Zelensky stated that limitations on Starlink technology continue to hinder Ukrainian forces. Meanwhile, United States officials and Elon Musk have given conflicting statements regarding operational control of the network.",
+   "why": "Controlling critical battlefield communications infrastructure highlights the geopolitical vulnerability of relying on private technology firms in wartime.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
   },
   {
-   "pre": 9,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792756800,
+   "ts": 1792826264,
    "articles": [
     {
-     "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-     "source": "UN News"
+     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukraine and Russia have confirmed a truce in the Russian-occupied town of Oleshky, where trapped residents have faced severe starvation. The White House credited Melania Trump with brokering the deal.",
+   "why": "A localized truce provides vital humanitarian relief to a besieged civilian population and marks an unusual diplomatic intervention.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792769827,
+   "articles": [
+    {
+     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Israeli forces have started demolishing Palestinian buildings in Hebron after two Israeli soldiers were shot dead. The soldiers were killed in an attack by two Palestinian gunmen at an exterior West Bank checkpoint.",
+   "why": "Retaliatory structural demolitions escalate local conflict and displacement following deadly attacks on occupying forces.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792843960,
+   "articles": [
+    {
+     "title": "Ukraine says Starlink connection 'now stable' after network limits",
+     "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Ukraine reported that its Starlink connection has stabilized following network limitations. The disruptions had slowed connections and affected Ukrainian military and drone operations for a week.",
+   "why": "Starlink connectivity directly impacts battlefield communications and frontline drone operations in Ukraine.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792842632,
+   "articles": [
+    {
+     "title": "Czech Republic advances media funding overhaul despite criticism",
+     "link": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Czech Republic is moving forward with an overhaul of media funding despite public criticism. In response, journalists are preparing to strike, alleging the changes endanger press independence.",
+   "why": "Restructuring media funding mechanisms directly threatens institutional press independence and governance standards in an EU nation.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792786693,
+   "articles": [
+    {
+     "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+     "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "IAEA head Rafael Grossi called for a swift return of inspectors to Iran. He warned of growing fragility within the global nuclear non-proliferation regime.",
-   "why": "Nuclear oversight breakdown in Iran increases the risk of regional proliferation and diplomatic collapse.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "Former Ukrainian prisoners stated that a freed US citizen was subjected to torture, beatings, and sexual humiliation by Russian guards while in detention. The abuse was witnessed by fellow detainees held alongside the American.",
+   "why": "Evidence of state-sponsored torture against a US national highlights war crimes and intensifies diplomatic tensions between the US and Russia.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792756800,
+   "ts": 1792769447,
    "articles": [
     {
-     "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-     "source": "UN News"
+     "title": "Oil spill washes up on UAE beaches after tanker strike",
+     "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Aid agencies warned of a developing humanitarian emergency in Taiz City, Yemen. The city remains encircled by Houthi forces engaged in fighting with government troops, preventing aid access.",
-   "why": "Blockades on major urban centers block critical humanitarian supplies, risking catastrophic food and medical shortages.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792670400,
-   "articles": [
-    {
-     "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168648",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Intensifying long-range Russian strikes across Ukraine, including Kyiv, killed at least 14 civilians and injured 78 overnight. UN agencies are continuing to deliver humanitarian relief in response.",
-   "why": "Sustained bombardment of urban centers inflicts severe civilian casualties and ongoing infrastructure devastation.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792756800,
-   "articles": [
-    {
-     "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
+   "category": "Environment",
    "scale": "Regional",
-   "summary": "The UN voiced extreme alarm over intensifying violence in the occupied West Bank. This comes as Israel moved to seal off the territory following a deadly attack on soldiers in Hebron.",
-   "why": "Sweeping movement restrictions and escalating conflict threaten stability across the Palestinian territories and Israel.",
+   "summary": "An oil spill has washed up on beaches in the United Arab Emirates following a tanker strike. Satellite imagery reveals the oil is spreading for miles along the coast, threatening local marine wildlife.",
+   "why": "It represents acute ecological damage and potential disruption to regional maritime environments following armed conflict.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792818344,
+   "articles": [
+    {
+     "title": "How Brazil's changing working class is reshaping the presidential race",
+     "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Shifts in Brazil's working-class demographics are shaping the second round of the presidential election. These changing voter dynamics present a challenge to President Lula.",
+   "why": "Shifting voting blocs can decide the leadership and economic governance of Latin America's largest economy.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792819560,
+   "articles": [
+    {
+     "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
+     "link": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+     "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Typhoon Champi has killed one person and injured more than 500 in Taiwan while causing major disruptions. The storm is now heading towards mainland China.",
+   "why": "The storm caused hundreds of casualties in Taiwan and poses an imminent threat to populations in its path in China.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792802207,
+   "articles": [
+    {
+     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "The White House announced it will adjust tariffs on Canadian goods starting October 30. Tariffs will be lifted on items such as certain machinery while new tariffs will be placed on goods including carpets.",
+   "why": "Shifts in bilateral tariff policy affect cross-border trade flows and supply chains between the US and Canada.",
    "impact": 5.4,
    "under_radar": false,
    "gap": 0.44
   },
   {
-   "pre": 9,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792670400,
+   "ts": 1792795627,
    "articles": [
     {
-     "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168651",
-     "source": "UN News"
+     "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+     "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Environment",
-   "scale": "National",
-   "summary": "A deadly flash flood occurred in Nepal in August, described by a UN agency head as a defining moment for the country and global community. The agency continues to build infrastructure like roads, schools, and clinics in crisis areas.",
-   "why": "Glacial flood disasters highlight acute climate vulnerability and infrastructure destruction in mountainous developing regions.",
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Kaylub Giamanco killed a teenage gunman who fatally shot three children and a teacher at an Oregon school. Giamanco expressed anguish over being unable to save the victims.",
+   "why": "A fatal school shooting resulted in four deaths and ended when an armed bystander intervened.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.42
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 5,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792670400,
+   "ts": 1792835041,
    "articles": [
     {
-     "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168650",
-     "source": "UN News"
+     "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+     "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A multi-storey building under construction collapsed in Kenya's capital, leaving seven people missing. Rescue operations are currently under way to reach individuals trapped under the debris.",
+   "why": "The structural failure threatens the lives of trapped workers and points to potential urban building safety lapses.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792836265,
+   "articles": [
+    {
+     "title": "France braces for another day of mass protests as security on high alert",
+     "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "France has placed security forces on high alert ahead of another day of nationwide mass protests. Several planned demonstrations in major cities were banned, sparking backlash from civil rights organizations.",
+   "why": "Government prohibitions on mass assemblies and high-alert security measures test civil liberties and social stability across the country.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792789179,
+   "articles": [
+    {
+     "title": "Argentina drops investigation into President Milei over crypto fraud",
+     "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "Global",
-   "summary": "New UN data reveals that mothers globally receive nearly eight times more paid leave than fathers. This disparity places the majority of the caregiving burden on women, impacting economies and families.",
-   "why": "Global structural disparities in parental leave entrench gender inequality and depress workforce participation.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792826940,
-   "articles": [
-    {
-     "title": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
-     "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "North Korean leader Kim Jong Un arrives in Chinese border city",
-     "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "North Korean leader Kim Jong Un has arrived in China, according to South Korean media. The visit follows the official opening of a major new bridge connecting the two nations.",
-   "why": "Direct high-level engagement between North Korea and China signals strategic alignment and sanctions coordination.",
+   "scale": "National",
+   "summary": "Argentine authorities have dropped a crypto fraud investigation involving President Javier Milei. The inquiry concerned the crash of a cryptocurrency after Milei deleted a social media post promoting it.",
+   "why": "Ending the legal probe removes a potential constitutional and political obstacle for Argentina's sitting president.",
    "impact": 4.8,
    "under_radar": false,
-   "gap": 0.28
+   "gap": 0.38
   },
   {
-   "pre": 7,
-   "tier": "primary",
+   "pre": 6,
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "DW",
+    "The Guardian World"
    ],
-   "n_sources": 1,
-   "ts": 1792756800,
+   "n_sources": 2,
+   "ts": 1792842718,
    "articles": [
     {
-     "title": "Soil mapping aims to boost agricultural production in Kenya",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
-     "source": "UN News"
+     "title": "France protests: More violence feared amid renewed demonstrations",
+     "link": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Protests begin in France, as Italian police raid homes in Milan ahead of demonstrations – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Economy",
+   "category": "Security",
    "scale": "National",
-   "summary": "A new initiative in Kenya aims to help farmers analyze and map their soils to raise crop yields. The effort is intended to counter intensifying climate shocks affecting agriculture.",
-   "why": "National soil mapping can improve agricultural resilience and long-term food security under climate stress.",
+   "summary": "France is deploying approximately 70,000 police officers as fresh nationwide demonstrations begin. Tensions have been further fueled by a recent deadly shooting near Paris.",
+   "why": "Large-scale civil unrest requiring massive security deployment disrupts public order and signals acute domestic instability.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792796956,
+   "articles": [
+    {
+     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Local Civic",
+   "scale": "Local",
+   "summary": "The city hall of Limoges was destroyed by fire during nationwide French protests. The event has divided local residents between those viewing it as collateral damage and those seeing it as an unacceptable tragedy.",
+   "why": "The physical destruction of a municipal center highlights the escalating domestic unrest and social polarization in France.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792839665,
+   "articles": [
+    {
+     "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+     "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "German police took a suspicious individual into custody following a fire at the historical Eagle's Nest building. Authorities confirmed that no injuries were reported from the blaze.",
+   "why": "The apparent targeting of a prominent historical site raises potential domestic security and extremism concerns in Germany.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792702136,
+   "articles": [
+    {
+     "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+     "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Local",
+   "summary": "New York has enacted a ban on horse-drawn carriages after more than 160 years of operation. The decision has drawn mixed reactions from tourists, residents, and carriage industry workers.",
+   "why": "It formally ends a historic local industry, altering urban tourism and ending a long-running civic debate on animal welfare.",
    "impact": 4.2,
    "under_radar": false,
    "gap": 0.32
