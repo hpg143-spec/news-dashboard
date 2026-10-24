@@ -1,4 +1,257 @@
 {
- "updated": "2026-10-24T15:21:15.083311Z",
- "events": []
+ "updated": "2026-10-24T18:15:54.444515Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "UN human rights chief Volker Türk condemned an escalation in drone strikes across Sudan that killed at least 306 people and injured hundreds during the first three weeks of October.",
+   "why": "The surge in lethal drone warfare demonstrates worsening violence and severe civilian casualties in Sudan's ongoing conflict.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "IAEA head Rafael Grossi called for the swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
+   "why": "Unmonitored nuclear activities in Iran significantly elevate global proliferation risks and regional conflict potential.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "UN agencies stated that more resources are required to combat the continuing spread of Ebola in the DRC and support affected families.",
+   "why": "Unchecked Ebola transmission poses severe public health threats and cross-border contamination risks in Central and East Africa.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Aid agencies warned of a developing humanitarian emergency in Taiz City, Yemen, where relief supplies are blocked due to encirclement by Houthi forces.",
+   "why": "Blockades on humanitarian aid place entire urban populations at acute risk of starvation and disease.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792796903,
+   "articles": [
+    {
+     "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Serbia's Student List has mounted a neck-and-neck electoral challenge against President Vučić following nearly two years of anti-corruption protests.",
+   "why": "A competitive election in Serbia could potentially shift the country's governance and foreign policy alignment.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792864820,
+   "articles": [
+    {
+     "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+     "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Kim Jong-un crosses newly opened bridge into China",
+     "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "North Korean leader Kim Jong Un traveled into China across a newly opened bridge connecting the two nations.",
+   "why": "The opening of a new border bridge signals strengthening physical and economic connectivity between North Korea and China amidst international sanctions.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792823296,
+   "articles": [
+    {
+     "title": "M 7.0 - 191 km ENE of Nagqu, China",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A magnitude 7.0 earthquake struck east-northeast of Nagqu, China, at a depth of 18 km with an Orange PAGER alert and level VIII shaking.",
+   "why": "A shallow magnitude 7.0 earthquake with an Orange PAGER alert indicates significant potential for structural damage and casualties in the region.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792781354,
+   "articles": [
+    {
+     "title": "Trump administration sues to block certification of upcoming Alaska election",
+     "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "The Justice Department filed a lawsuit to block the certification of an Alaska election, claiming the presence of two candidates named Dan Sullivan could confuse voters.",
+   "why": "Federal legal interventions seeking to block state election certifications raise significant constitutional and electoral integrity questions.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN expressed extreme alarm over intensifying violence in the West Bank as Israel moved to seal off the territory following a fatal attack on soldiers in Hebron.",
+   "why": "Sweeping closures and escalating violence in the West Bank threaten regional stability and deepen humanitarian crises for the civilian population.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "Soil mapping aims to boost agricultural production in Kenya",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A new initiative in Kenya aims to help farmers map and understand their soils to boost agricultural production amid climate shocks.",
+   "why": "Improving soil knowledge helps protect agricultural output against worsening climate disruptions.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
