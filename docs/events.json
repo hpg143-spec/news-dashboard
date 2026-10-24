@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:15:54.444515Z",
+ "updated": "2026-10-24T21:16:11.947678Z",
  "events": [
   {
    "pre": 7,
@@ -19,11 +19,65 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "UN human rights chief Volker Türk condemned an escalation in drone strikes across Sudan that killed at least 306 people and injured hundreds during the first three weeks of October.",
-   "why": "The surge in lethal drone warfare demonstrates worsening violence and severe civilian casualties in Sudan's ongoing conflict.",
-   "impact": 6.8,
+   "summary": "UN human rights chief Volker Türk reported that escalating drone strikes in Sudan killed at least 306 people and wounded hundreds in the first three weeks of October. He strongly condemned the attacks.",
+   "why": "The intensifying use of drone warfare in Sudan sharply accelerates civilian casualties and deepens an already critical humanitarian crisis.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.58
+   "gap": 0.64
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792835213,
+   "articles": [
+    {
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Ebola: Kenya announces second death",
+     "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "A 65-year-old woman has become the second patient to die of Ebola in Kenya. She was a close family member of the initial victim, who had recently travelled from the Democratic Republic of Congo.",
+   "why": "Cross-border transmission and secondary fatalities from Ebola pose severe regional epidemic containment risks.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792738803,
+   "articles": [
+    {
+     "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
+     "link": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "The Indian government will cap the prices of 137 cancer drugs starting next month following a Supreme Court case initiated by a retired bank clerk. The court ruled that previous mark-ups amounted to extortion.",
+   "why": "Price caps on critical cancer drugs directly improve healthcare affordability and prevent financial ruin for millions of patients across India.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
   },
   {
    "pre": 9,
@@ -43,11 +97,35 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "IAEA head Rafael Grossi called for the swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
-   "why": "Unmonitored nuclear activities in Iran significantly elevate global proliferation risks and regional conflict potential.",
-   "impact": 6.2,
+   "summary": "IAEA head Rafael Grossi called for the prompt return of nuclear inspectors to Iran. He warned of increasing fragility within the global nuclear non-proliferation regime.",
+   "why": "Unmonitored nuclear activities in Iran directly threaten the integrity of international non-proliferation treaties and escalate Middle Eastern security tensions.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792755032,
+   "articles": [
+    {
+     "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+     "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A BBC investigation revealed that Sudanese paramilitary fighters have systematically destroyed the healthcare system in el-Fasher. Local doctors corroborated evidence detailing the deliberate targeting of medical facilities.",
+   "why": "Systematic destruction of essential civilian healthcare infrastructure constitutes severe violations of international humanitarian law affecting thousands.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
    "pre": 7,
@@ -67,35 +145,11 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "UN agencies stated that more resources are required to combat the continuing spread of Ebola in the DRC and support affected families.",
-   "why": "Unchecked Ebola transmission poses severe public health threats and cross-border contamination risks in Central and East Africa.",
-   "impact": 6.2,
+   "summary": "Ebola continues to spread in the Democratic Republic of the Congo, prompting UN agencies to appeal for more aid and resources. Concurrently, neighboring Kenya is strengthening containment measures.",
+   "why": "Ebola outbreaks present acute mortality risks and require rapid containment to prevent broader regional transmission across East and Central Africa.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1792756800,
-   "articles": [
-    {
-     "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Aid agencies warned of a developing humanitarian emergency in Taiz City, Yemen, where relief supplies are blocked due to encirclement by Houthi forces.",
-   "why": "Blockades on humanitarian aid place entire urban populations at acute risk of starvation and disease.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -115,11 +169,59 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Serbia's Student List has mounted a neck-and-neck electoral challenge against President Vučić following nearly two years of anti-corruption protests.",
-   "why": "A competitive election in Serbia could potentially shift the country's governance and foreign policy alignment.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "The anti-corruption Student List has created a closely contested national election challenge against Serbian President Vučić. The movement developed following nearly two years of protests.",
+   "why": "A competitive challenge to entrenched leadership could significantly shift Serbia's domestic governance and foreign policy alignment.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792779420,
+   "articles": [
+    {
+     "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+     "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Russia and Ukraine agreed to a US-brokered, localized ceasefire in the frontline city of Oleshky to address a humanitarian crisis. Ukrainian President Zelenskyy stated that negotiators are scheduled for wider talks next month.",
+   "why": "Establishes a rare diplomatic pause in the conflict that could serve as a precedent for broader peace negotiations.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792794276,
+   "articles": [
+    {
+     "title": "Who actually controls Ukraine's access to Starlink?",
+     "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "President Zelensky stated that operational limits on Starlink technology continue to affect Ukrainian military forces. Meanwhile, US officials and Elon Musk have given conflicting accounts over who controls access to the network.",
+   "why": "Control over vital satellite communications directly impacts frontline military capability and sets precedent for private defense dependencies.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
    "pre": 9,
@@ -151,35 +253,35 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "North Korean leader Kim Jong Un traveled into China across a newly opened bridge connecting the two nations.",
-   "why": "The opening of a new border bridge signals strengthening physical and economic connectivity between North Korea and China amidst international sanctions.",
-   "impact": 5.6,
+   "summary": "North Korean leader Kim Jong Un crossed into China via a newly opened bridge connecting the two nations.",
+   "why": "The opening and top-level diplomatic use of new border infrastructure marks a significant step in deepening economic and geopolitical integration between China and North Korea.",
+   "impact": 6.2,
    "under_radar": false,
-   "gap": 0.26
+   "gap": 0.32
   },
   {
    "pre": 7,
    "tier": "primary",
    "sources": [
-    "USGS Quakes"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792823296,
+   "ts": 1792756800,
    "articles": [
     {
-     "title": "M 7.0 - 191 km ENE of Nagqu, China",
-     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
-     "source": "USGS Quakes"
+     "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Environment",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "A magnitude 7.0 earthquake struck east-northeast of Nagqu, China, at a depth of 18 km with an Orange PAGER alert and level VIII shaking.",
-   "why": "A shallow magnitude 7.0 earthquake with an Orange PAGER alert indicates significant potential for structural damage and casualties in the region.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
+   "summary": "Aid agencies warned of an escalating humanitarian crisis in Taiz City, Yemen, where aid entry is blocked. The city remains encircled by Houthi forces engaging government troops.",
+   "why": "The blockade of essential aid into an urban conflict zone severely threatens the survival of trapped civilian populations.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 7,
@@ -199,11 +301,95 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "State",
-   "summary": "The Justice Department filed a lawsuit to block the certification of an Alaska election, claiming the presence of two candidates named Dan Sullivan could confuse voters.",
-   "why": "Federal legal interventions seeking to block state election certifications raise significant constitutional and electoral integrity questions.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
+   "summary": "The Justice Department filed a lawsuit to block the certification of an upcoming election in Alaska. The suit alleges potential voter confusion caused by two candidates sharing the name Dan Sullivan.",
+   "why": "Federal legal interventions seeking to block state election certifications directly affect electoral administration and democratic legitimacy.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792784790,
+   "articles": [
+    {
+     "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
+     "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Gunmen opened fire during a funeral at a church in Karak governorate, southern Jordan, killing seven people and injuring 34. Authorities have launched a manhunt to locate the attackers.",
+   "why": "A mass shooting at a religious site threatens national security and social cohesion in Jordan.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792851855,
+   "articles": [
+    {
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+     "source": "NPR World"
+    },
+    {
+     "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+     "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Three gunmen opened fire on a Greek Orthodox church in Karak, Jordan, during a funeral service, leaving up to nine dead and 40 wounded. The attack was captured on footage broadcast by Jordanian state television.",
+   "why": "A lethal mass shooting targeting a church during a service poses severe security and sectarian implications in Jordan.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792769447,
+   "articles": [
+    {
+     "title": "Oil spill washes up on UAE beaches after tanker strike",
+     "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "An oil spill has spread for miles along the UAE coastline following a strike on an oil tanker. The contamination has washed up on beaches and poses a severe threat to local marine life.",
+   "why": "A direct military or security strike on maritime energy infrastructure causing wide-scale ecological and coastal damage.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 9,
@@ -223,11 +409,269 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "The UN expressed extreme alarm over intensifying violence in the West Bank as Israel moved to seal off the territory following a fatal attack on soldiers in Hebron.",
-   "why": "Sweeping closures and escalating violence in the West Bank threaten regional stability and deepen humanitarian crises for the civilian population.",
+   "summary": "Israel initiated sweeping closures across the West Bank following a deadly attack on soldiers in Hebron. The United Nations voiced extreme alarm over the escalating violence.",
+   "why": "Broad territorial closures restrict civilian movement, disrupt daily life, and risk triggering broader violent confrontations across the region.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792823296,
+   "articles": [
+    {
+     "title": "M 7.0 - 191 km ENE of Nagqu, China",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A magnitude 7.0 earthquake occurred 191 km east-northeast of Nagqu, China, at a depth of 18 km. It triggered an Orange PAGER alert and produced ShakeMap VIII shaking.",
+   "why": "Severe ground shaking under an Orange PAGER alert indicates potential for notable casualties and structural destruction in the affected region.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792826264,
+   "articles": [
+    {
+     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukraine and Russia confirmed a local truce in Russian-occupied Oleshky, where residents have faced severe shortages. The White House credited Melania Trump with brokering the agreement.",
+   "why": "A verified ceasefire in a war zone provides critical humanitarian relief and marks unusual diplomatic involvement.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1792791534,
+   "articles": [
+    {
+     "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Israel's Prime Minister pledged to launch a major military operation in the West Bank following an attack by two Palestinian gunmen that killed two soldiers at a checkpoint. The offensive comes in direct retaliation for the fatal checkpoint ambush.",
+   "why": "A pledged major military offensive increases the likelihood of large-scale escalation and casualties in the West Bank.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792856840,
+   "articles": [
+    {
+     "title": "Ukraine says Starlink connection 'now stable' after network limits",
+     "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+     "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Ukraine's military announced that its Starlink connection has stabilized following network restrictions. The previous slowdowns had disrupted Ukrainian military and drone operations for roughly a week.",
+   "why": "The stability of frontline satellite communications directly influences Ukrainian military operations and battlefield coordination.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792862502,
+   "articles": [
+    {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Israeli forces demolished homes in Hebron, displacing Palestinian families. The action followed the fatal shooting of two Israeli soldiers by Palestinian gunmen and occurred ahead of Israel's national election.",
+   "why": "Punitive demolitions and escalations in Hebron exacerbate regional instability ahead of Israeli elections.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792802489,
+   "articles": [
+    {
+     "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Australian independent MP Helen Haines is in serious but stable condition after losing both legs in an alleged attack. Her condition was downgraded from critical following treatment at Melbourne's Alfred Hospital.",
+   "why": "A violent attack inflicting severe, permanent disability on a sitting member of parliament raises critical political and security concerns.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 2,
+   "ts": 1792870380,
+   "articles": [
+    {
+     "title": "Ukraine: Starlink satellite speeds restored to normal",
+     "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Ukraine says Starlink is back to normal after disruptions",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Regional",
+   "summary": "Starlink satellite connection speeds in Ukraine have returned to normal following recent disruptions. The restored connectivity follows network and Starshield restrictions that impacted Ukrainian military operations and strained relations with the US.",
+   "why": "Resolving satellite restrictions restores crucial battlefield communication infrastructure and eases allied diplomatic strain.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792765500,
+   "articles": [
+    {
+     "title": "Romania blames Russia for ship attack in the Black Sea",
+     "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Romania has attributed a Black Sea ship attack to Russia amid a sharp increase in strikes against commercial grain and cargo transport this month. The targeted vessels were attempting to export goods through the western Black Sea.",
+   "why": "Direct Russian attacks on commercial shipping in international waters threaten global food supply chains and NATO border stability.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792841722,
+   "articles": [
+    {
+     "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
+     "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The International Criminal Court's deputy prosecutor stated that new US sanctions are causing banking difficulties for some personnel. However, she emphasized that the court's core investigative and prosecutorial work remains unaffected.",
+   "why": "Sanctions against an international court challenge global judicial independence and diplomatic legal frameworks.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1792859804,
+   "articles": [
+    {
+     "title": "Serbian elections: A country where students may actually take power",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Serbia is conducting an early parliamentary election marked by high political tension. The country's leading politician faces a notable challenge, with students emerging as a prominent political rival.",
+   "why": "Parliamentary elections could shift national leadership and governance in Serbia.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.32
   },
   {
    "pre": 7,
@@ -247,11 +691,353 @@
    "skip": false,
    "category": "Environment",
    "scale": "National",
-   "summary": "A new initiative in Kenya aims to help farmers map and understand their soils to boost agricultural production amid climate shocks.",
-   "why": "Improving soil knowledge helps protect agricultural output against worsening climate disruptions.",
+   "summary": "A new initiative in Kenya provides soil mapping to help farmers understand their land. The project aims to improve agricultural yields amid increasing climate shocks.",
+   "why": "Enhancing soil management is crucial for bolstering national food security against the impacts of climate change.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792742038,
+   "articles": [
+    {
+     "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+     "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A magnitude-7 earthquake struck the northern regional city of Nagqu in Tibet, killing at least 16 people and injuring 54. Hundreds of homes were destroyed, and at least seven aftershocks were recorded as search and rescue efforts got underway.",
+   "why": "A powerful earthquake has caused fatal casualties and substantial structural destruction in northern Tibet.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1792819560,
+   "articles": [
+    {
+     "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
+     "link": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+     "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Typhoon Champi killed one person, injured more than 500, and caused major disruptions across Taiwan. The storm is currently tracking toward mainland China.",
+   "why": "A powerful storm has caused widespread injuries and infrastructure damage across Taiwan while threatening imminent landfall in China.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792874222,
+   "articles": [
+    {
+     "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Israel is preparing a full lockdown of the occupied West Bank following a gunfight in Hebron. The military measures come shortly before upcoming elections.",
+   "why": "A full regional lockdown restricts the movement of millions and risks escalating broader regional conflict.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1792748432,
+   "articles": [
+    {
+     "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israel ordered the closure of the West Bank after soldiers killed two men accused of launching an attack near Hebron. The underlying incident left at least five people injured, some critically.",
+   "why": "Imposes sweeping security restrictions on the Palestinian population while marking an immediate escalation in West Bank violence.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792818224,
+   "articles": [
+    {
+     "title": "The rise of AI election ads in US midterms campaign",
+     "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "Dozens of AI-generated advertisements have been tracked across US midterm election campaigns by BBC Verify. The tracking aims to assess the emerging role of artificial intelligence in electoral messaging.",
+   "why": "The growing adoption of generative AI in political advertising presents novel risks to voter information and election integrity.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792843233,
+   "articles": [
+    {
+     "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Federal health authorities reported 178 additional measles cases in the US, bringing total national cases to 4,588 across at least 43 outbreaks. This total represents more than double the tally recorded in 2025.",
+   "why": "A surging, vaccine-preventable epidemic poses a widespread public health threat across the United States.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792795627,
+   "articles": [
+    {
+     "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+     "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A father killed a teenage gunman who fatally shot three children and a teacher at an Oregon school. The man expressed anguish over the victims he was unable to save.",
+   "why": "It involves a lethal school shooting with multiple fatalities and civilian intervention.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792802207,
+   "articles": [
+    {
+     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "The White House announced tariff adjustments on Canadian goods starting October 30. Tariffs will be reduced on certain items like machinery while being implemented on others such as carpets.",
+   "why": "Bilateral trade tariff shifts alter cross-border manufacturing costs and consumer pricing between major trade partners.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792789179,
+   "articles": [
+    {
+     "title": "Argentina drops investigation into President Milei over crypto fraud",
+     "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Argentine authorities dropped a crypto fraud investigation into President Javier Milei. The probe had centered on a sharp decline in a cryptocurrency after Milei deleted a social media post regarding it.",
+   "why": "Resolves legal scrutiny concerning financial misconduct allegations against a sitting head of state.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792786693,
+   "articles": [
+    {
+     "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+     "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Former Ukrainian prisoners reported that a freed American citizen was subjected to beatings and sexual humiliation by Russian guards. These accounts were shared by individuals who were held alongside the US citizen in detention.",
+   "why": "Documented abuse of a foreign detainee impacts bilateral prisoner negotiations and evidentiary records of war crimes.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792784528,
+   "articles": [
+    {
+     "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+     "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "One person was killed and five wounded in a series of attacks near Paris described by President Macron as a racist terrorist attack. The suspected gunman has been taken into custody.",
+   "why": "It represents an act of deadly ideologically motivated violence with significant national social and security repercussions.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792862746,
+   "articles": [
+    {
+     "title": "Two rescued after Nairobi building collapse with five still missing",
+     "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A multi-storey building under construction collapsed in Nairobi, leaving two rescued and five people missing. Police have initiated a manhunt for the building's owner and contractor.",
+   "why": "A fatal structural failure highlighting critical construction safety and regulatory enforcement issues in an urban center.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792856198,
+   "articles": [
+    {
+     "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Polling shows the presidential run-off race between Brazil's incumbent president and the right-wing senator has tightened. The two candidates are currently roughly even.",
+   "why": "Determines the leadership and policy direction of Latin America's largest economy and democracy.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792796956,
+   "articles": [
+    {
+     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "The town hall of Limoges was destroyed by fire during wider national protests in France. The incident has caused deep community division regarding the acceptable boundaries of civic unrest.",
+   "why": "The physical destruction of a municipal governance building signifies escalating domestic unrest and civil polarization.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
