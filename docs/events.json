@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-25T00:15:53.271995Z",
+ "updated": "2026-10-25T03:25:36.936106Z",
  "events": [
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "The Guardian World"
+    "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792738803,
+   "ts": 1792886400,
    "articles": [
     {
-     "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
-     "link": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
-     "source": "The Guardian World"
+     "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "India's government will reduce the prices of 137 cancer drugs starting next month following a Supreme Court ruling deeming mark-ups 'extortion'. The ruling originated from a 2022 case filed by a patient who could not afford treatment.",
-   "why": "Mandated price cuts on critical oncology drugs directly alleviate life-threatening financial hardship for millions facing severe disease across India.",
-   "impact": 7.6,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Trump stated that the United States is weighing a potential attack on Iran as early as Sunday, or alternatively reaching a major deal with Tehran.",
+   "why": "Potential US military strikes or major diplomatic pacts with Iran would trigger massive global security and economic ramifications.",
+   "impact": 8.2,
    "under_radar": true,
-   "gap": 0.66
+   "gap": 0.72
   },
   {
    "pre": 6,
@@ -49,11 +49,59 @@
    "skip": false,
    "category": "Health",
    "scale": "Regional",
-   "summary": "A 65-year-old woman became the second person to die of Ebola in Kenya. She was a close relative of the first victim, who had recently travelled from the Democratic Republic of Congo.",
-   "why": "Cross-border transmission and secondary local deaths from Ebola pose severe epidemic risks requiring immediate containment.",
+   "summary": "A 65-year-old woman became the second person to die of Ebola in Kenya. She was a close contact of the first fatal case, an individual who had traveled from the Democratic Republic of Congo.",
+   "why": "Cross-border spread and localized transmission of Ebola represent a grave threat to regional biosecurity and epidemic control.",
    "impact": 7.6,
    "under_radar": true,
    "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792738803,
+   "articles": [
+    {
+     "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
+     "link": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "India's government will reduce the price of 137 cancer drugs starting next month following a Supreme Court ruling against excessive markups. The ruling originated from a petition filed by a retired bank clerk who could not afford cancer treatment.",
+   "why": "Mandated price cuts on dozens of critical oncology medications directly impact healthcare access and affordability for millions.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "UN human rights chief Volker Türk condemned an escalation in drone strikes across Sudan that killed at least 306 people and injured hundreds more in October. The casualties occurred within the first three weeks of the month.",
+   "why": "Surging drone warfare marks an intensifying phase of aerial violence causing mass civilian casualties in Sudan.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
    "pre": 6,
@@ -79,9 +127,153 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Gunmen killed seven people and wounded 34 others during an attack at a church funeral in Jordan's southern Karak governorate. Authorities have initiated a manhunt for the perpetrators.",
-   "why": "A mass-casualty armed assault at a place of worship signals serious domestic security threats and risks communal destabilization in Jordan.",
-   "impact": 7.0,
+   "summary": "Gunmen killed seven people and injured 34 others during an attack on a church funeral in Jordan's southern Karak governorate. Authorities have initiated a manhunt for the perpetrators.",
+   "why": "A mass-casualty assault on a religious gathering carries severe implications for internal security and sectarian stability in Jordan.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "UN agencies called for increased resources to fight Ebola and feed patients as the disease spreads in the Democratic Republic of the Congo. Meanwhile, neighboring Kenya is strengthening containment measures.",
+   "why": "Active spread of Ebola in Central Africa poses severe public health and cross-border containment challenges.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "IAEA head Rafael Grossi called for a swift return of nuclear inspectors to Iran. He warned of growing fragility in the global nuclear non-proliferation regime.",
+   "why": "Uninspected nuclear developments in Iran threaten the global non-proliferation framework and elevate regional conflict risks.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Aid agencies warned of an escalating humanitarian crisis in Taiz City, Yemen, as aid deliveries remain blocked. The city has been encircled by Houthi forces fighting government troops along the coast.",
+   "why": "Aid blockades around heavily populated urban centers threaten catastrophic famine and collapse of medical relief.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792883296,
+   "articles": [
+    {
+     "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Donald Trump praised First Lady Melania Trump following a localized Russia-Ukraine ceasefire in Oleshky.",
+   "why": "Even localized ceasefires alter front-line security dynamics and may impact humanitarian conditions in active conflict zones.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1792877969,
+   "articles": [
+    {
+     "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Lula and Bolsonaro held rallies drawing thousands of supporters ahead of Brazil's presidential run-off election. The vote will decide whether the country remains with its left-wing leadership or shifts right.",
+   "why": "The outcome will decide the leadership and economic trajectory of Latin America's largest nation.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1792779420,
+   "articles": [
+    {
+     "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+     "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Russia and Ukraine agreed to a US-brokered localized ceasefire in the frontline city of Oleshky, which faces a humanitarian crisis. President Zelenskyy stated negotiators plan to meet for wider talks next month.",
+   "why": "A localized truce between warring states could pave the way for broader diplomatic negotiations and establish humanitarian corridors.",
+   "impact": 6.0,
    "under_radar": true,
    "gap": 0.5
   },
@@ -103,35 +295,155 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "Israel's Prime Minister announced plans for a major military operation in the West Bank. The move follows a checkpoint attack by two Palestinian gunmen that resulted in the deaths of two Israeli soldiers.",
-   "why": "The launch of a major military offensive carries severe casualties, territorial escalation, and wide regional repercussions.",
-   "impact": 6.8,
+   "summary": "Israel's Prime Minister vowed to launch a major military operation in the West Bank following an attack on a military checkpoint. The attack by two Palestinian gunmen killed two Israeli soldiers.",
+   "why": "A major military operation in the West Bank risks a significant escalation of violence and regional instability.",
+   "impact": 6.0,
    "under_radar": true,
-   "gap": 0.58
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "USGS Quakes"
+   ],
+   "n_sources": 1,
+   "ts": 1792823296,
+   "articles": [
+    {
+     "title": "M 7.0 - 191 km ENE of Nagqu, China",
+     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+     "source": "USGS Quakes"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A shallow magnitude 7.0 earthquake occurred 191 km east-northeast of Nagqu, China, at a depth of 18 kilometers on 22 October 2026. It registered level VIII severe shaking and an orange PAGER alert.",
+   "why": "Shallow magnitude 7.0 earthquakes with severe shaking and orange alert status indicate probable casualties and significant infrastructure damage.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "DW"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1792779420,
+   "ts": 1792796903,
    "articles": [
     {
-     "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
-     "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The Student List has emerged from nearly two years of anti-corruption protests to mount a major challenge against President Vučić in a tight election.",
+   "why": "A competitive election in Serbia could end long-standing political dominance and reshape the country's governance.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792742038,
+   "articles": [
+    {
+     "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+     "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
    "scale": "Regional",
-   "summary": "Russia and Ukraine agreed to a US-brokered localized ceasefire in the frontline city of Oleshky to address a humanitarian crisis. President Zelenskyy noted that negotiators will convene for broader talks next month.",
-   "why": "This represents a critical humanitarian pause and a potential diplomatic opening for wider negotiations in the ongoing conflict.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
+   "summary": "A magnitude-7 earthquake hit the northern regional city of Nagqu in Tibet, killing at least 16 people and injuring 54. Hundreds of homes were destroyed, and at least seven aftershocks were recorded.",
+   "why": "A major seismic disaster has caused fatalities, extensive structural destruction, and triggered an emergency humanitarian response.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792802489,
+   "articles": [
+    {
+     "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Australian Independent MP Helen Haines's condition has improved to serious but stable at Melbourne’s Alfred Hospital. Her hospitalization follows an alleged attack in which she lost both legs.",
+   "why": "A violent, disabling attack on a sitting lawmaker raises acute concerns regarding political violence and parliamentary security.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1792756800,
+   "articles": [
+    {
+     "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN expressed alarm over intensifying violence in the occupied West Bank as Israel moved to seal off the territory. The closure followed a deadly attack on Israeli soldiers in Hebron.",
+   "why": "Sweeping territorial closures disrupt daily livelihoods and risk escalating broader conflict across the Palestinian territories.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1792784528,
+   "articles": [
+    {
+     "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+     "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "One person was killed and five others were wounded in a series of attacks near Paris that President Macron labeled a racist terrorist attack. A suspected gunman has been taken into custody.",
+   "why": "Lethal racially motivated terrorism directly threatens public safety and can escalate domestic civil tensions.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
    "pre": 7,
@@ -140,27 +452,106 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1792877969,
+   "ts": 1792874222,
    "articles": [
     {
-     "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+     "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israel is preparing a full lockdown of the occupied West Bank following a gunfight in Hebron. The security measure comes directly ahead of Tuesday's election.",
+   "why": "A full regional lockdown restricts civilian movement for millions and risks escalating military confrontations.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792877443,
+   "articles": [
+    {
+     "title": "Healey’s first budget to include big devolution package to boost growth",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "Thousands of supporters attended final election rallies for Brazilian presidential candidates Lula and Bolsonaro ahead of a close run-off vote. The result will determine whether Brazil maintains a left-wing government or turns to the right.",
-   "why": "A decisive election in Latin America's largest economy carries major national governance and international policy consequences.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "The upcoming UK budget will introduce a significant devolution package granting greater spending autonomy to local leaders in England. The measure aims to boost growth and reduce reliance on central funding from Westminster.",
+   "why": "Devolving substantial fiscal powers shifts the balance of governance and regional economic development across England.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1792843233,
+   "articles": [
+    {
+     "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "US health authorities reported 178 new measles cases, bringing the national total across active outbreaks to 4,588. The CDC noted the current tally is more than double the number of cases recorded in 2025.",
+   "why": "A rapid escalation of a highly contagious, preventable disease indicates weakening population immunity and strains public health systems.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1792864820,
+   "articles": [
+    {
+     "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+     "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Kim Jong-un crosses newly opened bridge into China",
+     "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "North Korean leader Kim Jong Un crossed a newly opened bridge linking North Korea to China. He traveled to a Chinese border city via the route.",
+   "why": "Physical and diplomatic transit links between North Korea and China signal expanding bilateral trade and sanctions resilience.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.22
   },
   {
    "pre": 6,
@@ -184,67 +575,61 @@
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Tech & Science",
    "scale": "Regional",
-   "summary": "Ukraine's military announced that Starlink satellite connections have stabilized after experiencing network restrictions. The previous slowdowns had hindered military and drone operations for a week.",
-   "why": "The reliability of commercial satellite communications directly determines operational capability and battlefield effectiveness in the Ukraine war.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.4
+   "summary": "The Ukrainian military announced that Starlink satellite connections have stabilized following recent restrictions. The preceding week of degraded speeds had hindered military and drone operations on the battlefield.",
+   "why": "Satellite communication reliability directly influences operational capacity and defense capabilities in active conflict zones.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.32
   },
   {
-   "pre": 6,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "DW",
-    "NPR World"
+    "Al Jazeera"
    ],
-   "n_sources": 2,
-   "ts": 1792870380,
+   "n_sources": 1,
+   "ts": 1792896343,
    "articles": [
     {
-     "title": "Ukraine: Starlink satellite speeds restored to normal",
-     "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Ukraine says Starlink is back to normal after disruptions",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-     "source": "NPR World"
+     "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Ukraine stated that Starlink satellite speeds have returned to normal after prior network limits. The restrictions had disrupted Ukrainian military operations and strained relations with the United States.",
-   "why": "Restoring high-speed satellite communications ends a disruption that degraded Ukrainian defense operations and heightened allied geopolitical tensions.",
-   "impact": 6.0,
-   "under_radar": true,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Bulgarians are voting for president amidst the ongoing war in Ukraine. The leading candidates both condemned recent Black Sea drone strikes but hold divergent positions on the wider conflict.",
+   "why": "The presidential election will determine Bulgaria's foreign policy alignment and its stance toward the war in Ukraine.",
+   "impact": 5.0,
+   "under_radar": false,
    "gap": 0.4
   },
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1792784528,
+   "ts": 1792876223,
    "articles": [
     {
-     "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-     "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+     "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "One person was killed and five others were wounded in a series of attacks near Paris described by President Macron as a racist terrorist attack. A suspected gunman has been apprehended by authorities.",
-   "why": "Deadly extremist violence represents a severe domestic security breach with potential sociopolitical repercussions.",
-   "impact": 5.8,
+   "summary": "Over one million supporters rallied for Brazilian President Luiz Inácio Lula da Silva in Rio de Janeiro ahead of the presidential runoff. Nearly 159 million voters are eligible to participate in the race against Flávio Bolsonaro.",
+   "why": "The outcome of the election determines the governance and policy direction for Latin America's largest democracy.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.4
   },
   {
    "pre": 7,
@@ -264,35 +649,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "State",
-   "summary": "The Justice Department has filed a lawsuit seeking to block certification of an upcoming election in Alaska. The suit argues that having two candidates named Dan Sullivan on the ballot could confuse voters.",
-   "why": "Federal intervention in state election certification processes sets a notable legal precedent and directly challenges electoral administration.",
-   "impact": 5.6,
+   "summary": "The Justice Department has filed a lawsuit to block the certification of an upcoming election in Alaska. The lawsuit argues that having two candidates named Dan Sullivan on the ballot could confuse voters.",
+   "why": "Federal legal interventions in election certification can delay results and establish significant legal precedents for ballot administration.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792883296,
-   "articles": [
-    {
-     "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Donald Trump credited the First Lady following the establishment of a localized Russia-Ukraine ceasefire in Oleshky. The pause halts fighting in the frontline city.",
-   "why": "Any cessation of hostilities, even localized, alters military dynamics on the ground in an active war zone.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
+   "gap": 0.38
   },
   {
    "pre": 7,
@@ -301,232 +662,70 @@
     "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1792742038,
+   "ts": 1792887377,
    "articles": [
     {
-     "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-     "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "A magnitude-7 earthquake struck the northern regional city of Nagqu in Tibet, killing at least 16 people and injuring 54. Hundreds of homes were destroyed, and at least seven aftershocks were recorded as search and rescue operations began.",
-   "why": "A major earthquake causes immediate loss of life, widespread displacement, and severe infrastructure destruction requiring regional emergency response.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792802489,
-   "articles": [
-    {
-     "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Australian independent MP Helen Haines is in serious but stable condition after losing both legs in an alleged attack. Her medical status was confirmed by Melbourne's Alfred Hospital.",
-   "why": "A violent, disabling attack on a sitting member of parliament raises urgent national security and political stability concerns.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792843233,
-   "articles": [
-    {
-     "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
-     "link": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "US health authorities reported 178 new measles cases this week across at least 43 outbreaks. Total nationwide cases reached 4,588, which is more than double the count recorded in 2025.",
-   "why": "A rapid escalation in outbreaks of a highly contagious, preventable disease threatens public health systems and vulnerable populations nationwide.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792841722,
-   "articles": [
-    {
-     "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
-     "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The deputy prosecutor of the International Criminal Court stated that court staff are experiencing banking issues due to new US sanctions, but operations remain unhindered. The court continues to make significant progress despite the diplomatic measures.",
-   "why": "Unilateral economic sanctions targeting an international judicial body test the resilience and global authority of international law.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1792874222,
-   "articles": [
-    {
-     "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Israel is preparing a complete lockdown of the occupied West Bank following a gunfight in Hebron. The measures come shortly before a national election.",
-   "why": "A full regional lockdown restricts civilian movement for hundreds of thousands and escalates security friction.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1792877443,
-   "articles": [
-    {
-     "title": "Healey’s first budget to include big devolution package to boost growth",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+     "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "National",
-   "summary": "The UK Chancellor's upcoming budget will include a significant devolution package intended to increase regional spending powers and foster growth in England. Local leaders, supported by Andy Burnham, will see reduced reliance on Westminster for funding.",
-   "why": "Structural devolution alters public spending control and governance across English regions, directly shaping local economic development.",
-   "impact": 5.4,
+   "scale": "State",
+   "summary": "California's attorney general criticized a federal Justice Department directive to verify 20,000 ballots, calling the action an improper politicization of the law. The conflict centers on federal efforts targeting alleged noncitizen voting in the state.",
+   "why": "Clashes between state and federal authorities over voter verification protocols directly affect election administration and legal authority.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.44
+   "gap": 0.38
   },
   {
    "pre": 7,
-   "tier": "wire",
+   "tier": "primary",
    "sources": [
-    "The Guardian World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1792876223,
+   "ts": 1792843200,
    "articles": [
     {
-     "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-     "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-     "source": "The Guardian World"
+     "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "National",
-   "summary": "More than one million supporters of Brazilian President Luiz Inácio Lula da Silva rallied on Rio de Janeiro's beach ahead of the presidential election runoff. Nearly 159 million voters are eligible to participate in the contest between Lula and Flávio Bolsonaro.",
-   "why": "The outcome of Brazil's presidential election directly impacts the governance and policy trajectory of Latin America's largest nation and its millions of citizens.",
-   "impact": 5.2,
+   "summary": "A profile recounts the outbreak of war in Khartoum on 15 April 2023 when the Rapid Support Forces attacked the army. It highlights how women serve as frontline responders under siege.",
+   "why": "Reflective human-interest framing highlights the prolonged humanitarian toll and civil response to the ongoing Sudanese conflict.",
+   "impact": 4.2,
    "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1792859804,
-   "articles": [
-    {
-     "title": "Serbian elections: A country where students may actually take power",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Serbia is holding early parliamentary elections amid significant tension and competitive challenges from student movements against the country's most powerful politicians.",
-   "why": "Early national elections can shift Serbia's domestic power balance and influence regional stability in the Western Balkans.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.3
+   "gap": 0.32
   },
   {
    "pre": 7,
-   "tier": "wire",
+   "tier": "primary",
    "sources": [
-    "BBC World",
-    "DW",
-    "The Guardian World"
+    "UN News"
    ],
-   "n_sources": 3,
-   "ts": 1792857408,
+   "n_sources": 1,
+   "ts": 1792756800,
    "articles": [
     {
-     "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-     "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Hitler's Eagle's Nest retreat catches fire, police say",
-     "link": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-     "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-     "source": "The Guardian World"
+     "title": "Soil mapping aims to boost agricultural production in Kenya",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Other",
-   "scale": "Local",
-   "summary": "A fire engulfed the historic Eagle's Nest retreat in Bavaria. Bavarian police have detained a 33-year-old German man in connection with the incident.",
-   "why": "The arson of a prominent historical site raises criminal and cultural heritage concerns.",
-   "impact": 4.0,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "A new initiative in Kenya aims to help farmers better understand their soils to enhance crop yields. The project is designed to counter intensifying climate shocks.",
+   "why": "Soil data initiatives support agricultural adaptation and food security against climate vulnerabilities.",
+   "impact": 4.2,
    "under_radar": false,
-   "gap": 0.1
+   "gap": 0.32
   }
  ]
 }
