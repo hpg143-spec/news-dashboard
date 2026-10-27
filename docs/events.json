@@ -1,4 +1,149 @@
 {
- "updated": "2026-10-27T06:35:37.448403Z",
- "events": []
+ "updated": "2026-10-27T09:29:22.193462Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793084190,
+   "articles": [
+    {
+     "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+     "link": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "The US, EU, and 30 other countries issued a joint warning regarding famine risk in Sudan and demanded humanitarian access. They urged warring factions to remove barriers impeding relief supplies.",
+   "why": "Highlights an acute, large-scale humanitarian crisis threatening millions with starvation.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793083785,
+   "articles": [
+    {
+     "title": "Sixty Christians killed in Ethiopia’s Oromia region",
+     "link": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Church officials reported that sixty Christians were killed and more than 20 injured during flare-ups in Ethiopia's Oromia region. In addition, 20 homes were burned down amid rising religious tensions.",
+   "why": "Significant sectarian violence with high loss of life and property destruction in an unstable region.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793090127,
+   "articles": [
+    {
+     "title": "Drone strike kills at least 21 and injures 40 in Sudan’s Nyala",
+     "link": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A drone strike on a market in northern Nyala city in Darfur, Sudan, killed at least 21 people and injured 40. The strike occurred on a Monday evening according to a local resident.",
+   "why": "Represents a deadly civilian mass casualty event in the ongoing Sudan conflict.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793090324,
+   "articles": [
+    {
+     "title": "Israelis begin voting as Netanyahu fights for political survival",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Israelis have begun voting in national elections with Prime Minister Benjamin Netanyahu facing Gadi Eisenkot. The election occurs amidst sharp divisions over conflicts in Gaza and Iran.",
+   "why": "The governance of Israel directly impacts regional conflict dynamics, diplomacy, and global stability.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793082493,
+   "articles": [
+    {
+     "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+     "link": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israel sealed off the West Bank and emptied sections of Hebron as its national election campaign concluded. Authorities also intensified restrictions on the Gaza Strip.",
+   "why": "Imposes broad movement restrictions and security pressures affecting millions of Palestinians.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793083853,
+   "articles": [
+    {
+     "title": "South Korea’s GDP growth beats forecasts amid AI boom",
+     "link": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "South Korea's economy grew 3.4 percent year-on-year, outperforming forecasts. The growth was driven primarily by robust demand for semiconductors amid the artificial intelligence boom.",
+   "why": "Reflects critical macroeconomic and supply chain health in a key global tech and chip-exporting hub.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
