@@ -1,4 +1,411 @@
 {
- "updated": "2026-10-28T18:28:32.891055Z",
- "events": []
+ "updated": "2026-10-28T21:28:41.379268Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168687",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "A UN report found that climate change has decreased the ocean's carbon absorption capacity by approximately six percent. Oceans typically absorb 30 percent of human CO2 emissions and 90 percent of excess heat.",
+   "why": "A degrading oceanic carbon sink creates an irreversible feedback loop that accelerates global temperature increases.",
+   "impact": 9.2,
+   "under_radar": true,
+   "gap": 0.82
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793102400,
+   "articles": [
+    {
+     "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168677",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Atmospheric levels of carbon dioxide and key greenhouse gases reached record highs in 2025, according to the World Meteorological Organization. These emissions lock in extended global warming that will endure for centuries.",
+   "why": "Record atmospheric greenhouse gas concentrations commit the planet to centuries of irreversible climatic changes.",
+   "impact": 9.2,
+   "under_radar": true,
+   "gap": 0.82
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Record heat-related deaths in 2023, WHO-partnered report finds",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168688",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "A UN-partnered report recorded an estimated 710,000 heat-related deaths worldwide in 2023. Over 70 percent of these fatalities were directly linked to human-caused climate change.",
+   "why": "Record human fatalities attributable to anthropogenic warming demonstrate the severe, quantifiable toll of global climate change.",
+   "impact": 8.2,
+   "under_radar": true,
+   "gap": 0.72
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168689",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Ebola cases in the Democratic Republic of the Congo have surpassed 10,000. The WHO emphasized the imperative for sustained interventions to prevent further spread.",
+   "why": "Crossing the 10,000-case threshold signifies severe epidemiological distress and risk of broader regional contagion.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 5,
+   "ts": 1793215977,
+   "articles": [
+    {
+     "title": "Watch: At the scene of Spain's deadly train crash",
+     "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "What we know so far about deadly Spain train crash",
+     "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Spain demands answers after deadliest train disaster in over a decade",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Spanish train crash leaves 68 dead, PM Sanchez declares 3 days of mourning",
+     "link": "https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Dozens of people killed after high-speed trains collide in central Spain",
+     "link": "https://www.dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A high-speed train collided with another train south of Madrid, causing fatalities in Spain's worst disaster since 2013. Authorities and the public are seeking explanations for the crash.",
+   "why": "A fatal high-speed rail disaster highlights critical safety vulnerabilities in major national transportation infrastructure.",
+   "impact": 6.8,
+   "under_radar": false,
+   "gap": 0.18
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793102400,
+   "articles": [
+    {
+     "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Displaced families in Gaza are facing a fourth winter in temporary shelters while UN aid operations encounter persistent disruption. Aid transport was halted after Israel shut the Kerem Shalom crossing for election day.",
+   "why": "Border closures directly disrupt humanitarian aid deliveries to millions facing severe winter conditions in conflict zones.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793102400,
+   "articles": [
+    {
+     "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "UNHCR warned that escalating Russian airstrikes have left no safe place in Ukraine as winter approaches. The agency called for continued international assistance to meet expanding humanitarian needs.",
+   "why": "Intensifying attacks on infrastructure prior to winter critically threatens the basic survival of millions across Ukraine.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793102400,
+   "articles": [
+    {
+     "title": "Four in five domestic workers lack formal job protections, UN finds",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168683",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A report from the UN labour agency revealed that 66.5 million domestic workers—over 80 percent globally—were informally employed in 2025. This leaves the vast majority without formal labor protections.",
+   "why": "Informal employment on this scale deprives tens of millions of workers of essential legal, economic, and social safeguards.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168693",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "New WFP head Luke Lindberg stated that halting conflict is the single most effective way to address global hunger. Conflict currently drives two-thirds of acute food insecurity, impacting 266 million people globally.",
+   "why": "Highlighting the link between conflict and food insecurity directs global policy toward resolving root causes affecting hundreds of millions.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 10,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1793219079,
+   "articles": [
+    {
+     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
+     "link": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Partial results from Israel's contentious election show no clear winner",
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
+     "source": "NPR World"
+    },
+    {
+     "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+     "source": "NPR World"
+    },
+    {
+     "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
+     "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Partial results show Benjamin Netanyahu's Likud party and allies leading Israel's election with 53 seats out of 120, based on 85% of counted ballots. The bloc remains short of a governing majority.",
+   "why": "The composition of Israel's parliament directly shapes domestic governance and regional geopolitical stability in the Middle East.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.18
+  },
+  {
+   "pre": 10,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "NPR World"
+   ],
+   "n_sources": 4,
+   "ts": 1793221626,
+   "articles": [
+    {
+     "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "How did Flávio Bolsonaro end up in Miami?",
+     "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Bolsonaro turns up in Florida after vanishing from public view",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Flavio Bolsonaro lands in US, declares himself 'president-elect' of Brazil",
+     "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-president-elect-of-brazil/a-79788659?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Flávio Bolsonaro arrives in Florida after fleeing Brazil",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Bolsonaro arrived in the United States, ending speculation about his location after failing to comply with an order to surrender his passports. He turned up in Florida following his defeat in Brazil's presidential election.",
+   "why": "A former leader evading a judicial order to surrender passports creates significant legal and diplomatic tensions between Brazil and the US.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.14
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793102400,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Women and girls face greater dangers in war",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "The UN Security Council convened to debate strategies to improve security for women and girls in war zones. Women face growing survival threats in conflict areas ranging from Gaza to Yemen.",
+   "why": "UN Security Council discussions highlight systematic risks faced by vulnerable populations in armed conflicts globally.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "Journalists and UN officials are urging action to protect women reporters facing online abuse, gender-based attacks, and impunity in conflict zones. These threats target those documenting front-line crises.",
+   "why": "Attacks on journalists undermine global press freedom and the flow of reliable information from war zones.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793102400,
+   "articles": [
+    {
+     "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168686",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The UN General Assembly opened debate on the US economic embargo against Cuba ahead of its 34th vote on a resolution urging its termination. Member States are scheduled to vote on 28 October.",
+   "why": "The annual UN resolution tests diplomatic consensus on decades-long unilateral sanctions affecting Cuba's economy.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  }
+ ]
 }
