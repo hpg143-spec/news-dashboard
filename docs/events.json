@@ -1,4 +1,317 @@
 {
- "updated": "2026-10-29T03:41:28.886970Z",
- "events": []
+ "updated": "2026-10-29T06:34:04.896897Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793180269,
+   "articles": [
+    {
+     "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+     "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "Africa CDC official Jean Kaseya warned that an unprecedented Ebola outbreak could reach the UK and other countries without increased preparedness funding. He cautioned that the illness could spread rapidly if international resources are not secured.",
+   "why": "An uncontained Ebola outbreak posing cross-continental transmission risks demands critical global health mobilization.",
+   "impact": 8.0,
+   "under_radar": true,
+   "gap": 0.7
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793186935,
+   "articles": [
+    {
+     "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+     "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "An ongoing Ebola outbreak has exceeded 10,000 infections since being declared in May. Separately, voter turnout in Israel's election reached record levels with results too close to call.",
+   "why": "Surpassing 10,000 cases represents a catastrophic public health emergency with severe mortality and regional containment risks.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1793244060,
+   "articles": [
+    {
+     "title": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
+     "link": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Non-profit group leaks data of more than 40,000 homeland security workers",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A data leak exposed the contact information of more than 40,000 US Department of Homeland Security personnel across multiple security agencies. This incident follows recent similar breaches targeting the FBI and the Defense Department.",
+   "why": "Compromising the personal data of tens of thousands of homeland security personnel poses major counterintelligence and operational security risks.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793202540,
+   "articles": [
+    {
+     "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+     "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Volodymyr Zelenskyy voiced concern regarding a potential summit between leaders of the US, China, and Russia next month. Concurrently, a localized truce was reportedly holding in the town of Oleshky.",
+   "why": "A tri-lateral summit among major global powers directly impacts the geopolitical and strategic trajectory of the war in Ukraine.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793197200,
+   "articles": [
+    {
+     "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
+     "link": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Saudi Arabia, Pakistan, and Turkey delivered a joint diplomatic push directly to Tehran aimed at averting military escalation. The outreach also serves as a warning to Iran regarding regional stability.",
+   "why": "Coordinated diplomatic intervention by major Muslim-majority nations is crucial for preventing a broader regional war.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1793250383,
+   "articles": [
+    {
+     "title": "Judge rejects Trump effort to block California ‘noncitizen’ ballots",
+     "link": "https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Judge rebuffs Trump DoJ’s bid to force California to set aside 20,000 ballots",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A judge rejected a legal effort to set aside 20,000 California ballots over alleged noncitizen voting. Meanwhile, federal authorities have issued over 100 subpoenas across 13 states regarding voter eligibility.",
+   "why": "Judicial rulings on ballot validity and widespread federal election subpoenas significantly affect electoral administration and legal precedents.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1793241218,
+   "articles": [
+    {
+     "title": "Kalshi, cofounders hit with criminal charges in US state of Utah",
+     "link": "https://www.aljazeera.com/economy/2026/10/29/kalshi-co-founders-hit-with-criminal-charges-in-us-state-of-utah?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Utah files criminal charges against prediction market Kalshi and company co-founders",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/utah-criminal-charges-kalshi",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Utah filed criminal charges against prediction market Kalshi and its co-founders. The action follows a federal judicial ruling permitting Utah to enforce state anti-gambling statutes against prediction platforms.",
+   "why": "State criminal prosecution of a major financial prediction platform sets a major precedent for regulatory enforcement across the United States.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793254455,
+   "articles": [
+    {
+     "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+     "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Absentee ballot counting is underway in Israel as coalition negotiations begin following a tight election. Analysts suggest Gadi Eisenkot's prospects of unseating Benjamin Netanyahu depend on cooperating with Palestinian parties.",
+   "why": "The outcome of coalition negotiations will determine Israel's governance, domestic policy, and regional security stance.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793222681,
+   "articles": [
+    {
+     "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A passenger train crashed in Spain's Toledo province on Wednesday, leaving survivors shocked and injured.",
+   "why": "Major transit accidents cause serious casualties and trigger critical investigations into national rail infrastructure safety.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793236441,
+   "articles": [
+    {
+     "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Defeated Brazilian political candidate Flávio Bolsonaro landed in Miami, denying that he fled Brazil. He maintained allegations of electoral fraud and asserted he is a victim of political persecution.",
+   "why": "Prominent political figures claiming persecution abroad can undermine democratic legitimacy and exacerbate institutional instability.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793170535,
+   "articles": [
+    {
+     "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+     "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "King Charles arrived in the Bahamas and confirmed he will discuss the legacy of slavery with Commonwealth leaders during his Caribbean tour. The discussions occur alongside polling showing support among younger Britons for slavery reparations dialogue.",
+   "why": "Direct diplomatic talks on slavery legacy and reparations could influence future institutional accountability and Commonwealth relations.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793182674,
+   "articles": [
+    {
+     "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Serbian police shoot dead assailant at Israeli Embassy",
+     "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Serbian police shot and killed an assailant who attacked an officer outside the Israeli embassy in Belgrade. Officials stated the attacker was an underage male who was already under security service surveillance.",
+   "why": "Targeted violence against diplomatic missions threatens international diplomatic security and signals heightened extremist threats.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.26
+  }
+ ]
 }
