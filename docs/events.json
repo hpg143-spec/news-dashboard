@@ -1,292 +1,173 @@
 {
- "updated": "2026-10-30T03:41:08.352937Z",
+ "updated": "2026-10-30T06:40:18.505316Z",
  "events": [
   {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Opium production in Afghanistan increased fivefold in a single year according to a UN survey released on Thursday. This marks the first significant rise since the Taliban banned poppy cultivation in 2022.",
-   "why": "A massive surge in Afghan opium output undermines Taliban narcotics enforcement and shifts global illicit drug supplies.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "The UN Security Council convened an open debate on Thursday regarding how drones, autonomous vessels, and cyberattacks alter threats to maritime shipping lanes. The discussions addressed both risks and protective measures for seafarers, international trade, food, and energy supply.",
-   "why": "Technological threats to maritime security directly impact critical international shipping routes and global supply chains.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
-  },
-  {
-   "pre": 11,
-   "tier": "primary",
-   "sources": [
-    "BBC World",
-    "DW",
-    "UN News"
-   ],
-   "n_sources": 3,
-   "ts": 1793283455,
-   "articles": [
-    {
-     "title": "Russia drone strike on Ukrainian railway station kills 13",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-     "source": "UN News"
-    },
-    {
-     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
-     "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A Russian drone strike on the main railway station in Dnipro, Ukraine, killed at least 13 civilians and injured 10 others. The UN's top humanitarian official in Ukraine condemned the attack on Thursday.",
-   "why": "It represents a direct, fatal strike on civilian transportation infrastructure during the ongoing Russia-Ukraine war.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.26
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A UN independent expert described Myanmar's human rights situation as 'catastrophic' as armed conflict intensifies without resolution. Civilians bear the brunt of the escalating violence fueled by the country's illicit economy.",
-   "why": "The compounding of conflict by illicit financial flows threatens sustained humanitarian collapse across Myanmar.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 10,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "BBC World",
-    "DW",
-    "The Guardian World"
+    "BBC World"
    ],
-   "n_sources": 4,
-   "ts": 1793328026,
+   "n_sources": 1,
+   "ts": 1793330652,
    "articles": [
     {
-     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-     "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+     "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Israel election: Authorities dispute Netanyahu’s fraud claims",
-     "link": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-     "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-     "source": "The Guardian World"
-    },
-    {
-     "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Prime Minister Netanyahu's Likud party alleged foreign interference and claimed Arab-led parties 'stole' the election after his coalition lost its majority. Israeli opposition and authorities have disputed these fraud allegations.",
-   "why": "Unsubstantiated fraud allegations by a sitting leader challenge the legitimacy of national democratic elections and risk post-electoral instability.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.12
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A drone attack on a market in Nyala, South Darfur, killed at least five children and injured two others on Monday. The casualties were reported by UNICEF on Thursday.",
-   "why": "It highlights the continued lethal toll of aerial strikes on civilian children in the Sudanese conflict.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793188800,
-   "articles": [
-    {
-     "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "UN independent investigators reported that civilians in El Obeid, Sudan, face constant threats from RSF drone attacks and arbitrary detentions by the SAF. Residents remain trapped between the opposing factions.",
-   "why": "It documents serious, ongoing human rights abuses and civilian encirclement by both factions in Sudan's civil war.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "DW",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1793315400,
-   "articles": [
-    {
-     "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
-     "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Final election ballot counts showed the pro-Netanyahu bloc finishing ahead of Gadi Eisenkot's bloc in Israel, but neither grouping secured a majority. The results set the stage for difficult coalition negotiations.",
-   "why": "A hung parliament leaves Israel facing political gridlock or prolonged coalition negotiations.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.28
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793188800,
-   "articles": [
-    {
-     "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168694",
-     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The UN General Assembly voted for the 34th time to demand an end to the United States embargo against Cuba. However, international support for the resolution fell to its lowest point in two decades.",
-   "why": "A 20-year low in support marks a measurable diplomatic shift in long-standing global alignment regarding US sanctions on Cuba.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
+   "scale": "National",
+   "summary": "Xi Jinping emphasized party discipline at a Chinese political gathering amid a record number of purges. Observers characterize the anti-corruption drive as an effort to consolidate authority.",
+   "why": "A record-level purge in the Chinese Communist Party reshapes the leadership structure and governance of the world's second-largest economy.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
   },
   {
-   "pre": 8,
+   "pre": 5,
    "tier": "wire",
    "sources": [
-    "BBC World",
-    "DW"
+    "BBC World"
    ],
-   "n_sources": 2,
-   "ts": 1793299800,
+   "n_sources": 1,
+   "ts": 1793255096,
    "articles": [
     {
-     "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-     "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+     "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+     "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
-    },
-    {
-     "title": "EU seeks 'highest level' ties with Canada in Montreal summit",
-     "link": "https://www.dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "EU chief Ursula von der Leyen outlined a vision for a closer Canada partnership at a Montreal summit, continuing to use the term 'associate member.' This phrasing persisted despite opposition from member states including Germany.",
-   "why": "Efforts to redefine EU-Canada ties could reshape bilateral trade and strategic alignment despite internal EU divisions.",
+   "summary": "El Salvador deployed 2,000 troops to Haiti to find four soldiers who went missing during an ambush near Port-au-Prince. The missing personnel disappeared on the capital's outskirts.",
+   "why": "A significant foreign military deployment of 2,000 troops marks a major escalation in international intervention in Haiti's security crisis.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793273116,
+   "articles": [
+    {
+     "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The United States imposed sanctions on Rwanda's defence ministry over the conflict in the Democratic Republic of the Congo. Congo claims Rwanda supports M23 rebels and extracts minerals in its eastern region.",
+   "why": "US sanctions on a national defense ministry escalate diplomatic pressure and influence an ongoing regional conflict involving armed groups and resource extraction.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793237443,
+   "articles": [
+    {
+     "title": "Details of thousands of US immigration agents leaked in major hack",
+     "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A hacking group called the Department of Peace leaked information belonging to more than 41,000 Department of Homeland Security staff. The breach affected thousands of US immigration agents.",
+   "why": "Doxxing tens of thousands of federal law enforcement agents poses direct security risks to personnel and sensitive immigration operations.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793335207,
+   "articles": [
+    {
+     "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+     "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Venezuelan opposition figure Machado returned from exile to call for elections in 2027 and criticized a US oil agreement with Caracas. She also commended Donald Trump regarding freedom.",
+   "why": "The return of a prominent opposition leader to Venezuela directly influences the country's political trajectory and international oil agreements.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793309615,
+   "articles": [
+    {
+     "title": "Young athlete and former minister among victims of Spain train crash",
+     "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A fatal train crash in Spain resulted in widespread grief and anger as victim identities were released. Among the casualties were a former government minister and a young athlete.",
+   "why": "A deadly mass transit disaster involving public figures carries transport safety implications and significant national impact.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793281479,
+   "articles": [
+    {
+     "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+     "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A rock formation known as a \"fairy chimney\" collapsed outside an open-air museum in Cappadocia, Turkey. The incident resulted in the deaths of two people.",
+   "why": "It reports a fatal geological collapse at a major tourist site.",
    "impact": 4.2,
    "under_radar": false,
-   "gap": 0.22
+   "gap": 0.32
   }
  ]
 }
