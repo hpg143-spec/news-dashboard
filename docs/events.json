@@ -1,4 +1,663 @@
 {
- "updated": "2026-10-29T21:31:03.218659Z",
- "events": []
+ "updated": "2026-10-30T00:26:23.240590Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793264520,
+   "articles": [
+    {
+     "title": "How AI drones are influencing the course of the Ukraine war",
+     "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Both Russia and Ukraine are deploying AI-powered drones that are increasingly fast and capable. Ukrainian President Volodymyr Zelenskyy warned that artificial intelligence could make battlefield decisions as early as next year.",
+   "why": "The transition to autonomous, AI-directed lethal decision-making represents a permanent and transformative shift in modern warfare doctrine.",
+   "impact": 7.8,
+   "under_radar": true,
+   "gap": 0.68
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793180269,
+   "articles": [
+    {
+     "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+     "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "Africa CDC official Jean Kaseya warned that an unprecedented Ebola outbreak could reach the UK and other nations without increased preparedness and funding. He cautioned that the illness risks spreading widely if resources remain insufficient.",
+   "why": "A failure to contain an unprecedented outbreak risks cross-border contagion and an international public health emergency.",
+   "impact": 7.8,
+   "under_radar": true,
+   "gap": 0.68
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793186935,
+   "articles": [
+    {
+     "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+     "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "More than 10,000 individuals have contracted Ebola since the current outbreak began in May. Concurrently, Israeli election results remain too close to call despite record voter turnout.",
+   "why": "An Ebola outbreak surpassing 10,000 infections indicates severe, dangerous epidemic spread with extreme mortality risks.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1793289950,
+   "articles": [
+    {
+     "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+     "link": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
+     "link": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "European Central Bank President Christine Lagarde plans to resign in February, nine months before the conclusion of her eight-year term. European Council President Antonio Costa confirmed that the selection process for her successor has commenced.",
+   "why": "An early leadership transition at the ECB directly affects eurozone monetary policy, market stability, and financial regulation.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793254211,
+   "articles": [
+    {
+     "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "National",
+   "summary": "A high-speed train collision in Spain killed 68 people after one train struck another from behind. The disaster is the country's second deadly rail crash this year, raising safety concerns ahead of a national election.",
+   "why": "A catastrophic mass casualty event on high-speed rail highlights severe infrastructural failures and influences upcoming national governance.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793278157,
+   "articles": [
+    {
+     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+     "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Chinese President Xi Jinping stressed party discipline amidst a record volume of political purges. Observers characterize the anti-corruption drive as a mechanism to reinforce and centralize his authority.",
+   "why": "Record purges within the Chinese Communist Party directly reshape domestic governance, factional power, and policy continuity.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168693",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "New WFP chief Luke Lindberg stated that halting conflict is the primary requirement for mitigating global hunger. He noted that armed conflicts cause acute food insecurity for two-thirds of the 266 million people affected globally.",
+   "why": "Highlights the direct link between global warfare and acute starvation affecting hundreds of millions of people.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793237443,
+   "articles": [
+    {
+     "title": "Details of thousands of US immigration agents leaked in major hack",
+     "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A group named the Department of Peace leaked records belonging to more than 41,000 Department of Homeland Security personnel. The major cyber breach targeted US immigration enforcement agents.",
+   "why": "A mass breach exposing tens of thousands of federal law enforcement agents severely compromises officer safety and agency operational security.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Opium production in Afghanistan increased fivefold over the past year according to a UN survey. This marks the first major rise in cultivation since the Taliban imposed a ban in 2022.",
+   "why": "A surge in Afghan opium output impacts global illicit drug supply chains and indicates shifting enforcement of Taliban policies.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793229119,
+   "articles": [
+    {
+     "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+     "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A construction boom in tourism, housing, and infrastructure has placed 300,000 people in the path of potential natural disasters in Nepal and Uttarakhand, India.",
+   "why": "Unplanned infrastructure expansion in fragile Himalayan terrain exposes hundreds of thousands to catastrophic landslide and flood hazards.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 10,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1793315693,
+   "articles": [
+    {
+     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+     "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Israel election: Authorities dispute Netanyahu’s fraud claims",
+     "link": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+     "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Benjamin Netanyahu's Likud party alleged foreign interference and claimed Arab-led parties stole the election after losing its parliamentary majority. Opposition figures accused the prime minister of attempting to delegitimize the election outcome.",
+   "why": "Allegations of electoral fraud by a sitting leader threaten institutional stability and complicate government formation.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.18
+  },
+  {
+   "pre": 12,
+   "tier": "primary",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "UN News"
+   ],
+   "n_sources": 4,
+   "ts": 1793297001,
+   "articles": [
+    {
+     "title": "Russia drone strike on Ukrainian railway station kills 13",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+     "source": "UN News"
+    },
+    {
+     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "At least 14 people killed in attack on Ukraine train station",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
+     "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A Russian drone strike on the main railway station in Dnipro, Ukraine, killed at least 13 civilians and injured 10 others. The UN's top humanitarian official in Ukraine condemned the attack.",
+   "why": "It represents a direct, lethal strike on critical civilian transport infrastructure during an ongoing armed conflict.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.16
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A UN independent expert warned that Myanmar's human rights situation has become catastrophic as conflict escalates without resolution. The violence is increasingly sustained by the country's illicit economy.",
+   "why": "Persistent conflict and expansion of illicit financing exacerbate regional instability and widespread human rights violations.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The UN Security Council convened an open debate regarding how emerging technologies like drones, autonomous vessels, and cyberattacks affect maritime security. The discussion centered on both the risks to global shipping and tools to defend trade lanes.",
+   "why": "Security Council focus on maritime technology addresses vulnerabilities critical to international energy and trade flows.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "UN-appointed investigators reported that civilians in El Obeid, Sudan, face drone strikes from the Rapid Support Forces and arbitrary detentions by the Sudanese Armed Forces.",
+   "why": "Demonstrates the direct trap faced by civilians in urban combat between rival military factions in Sudan.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793273116,
+   "articles": [
+    {
+     "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The US has imposed sanctions on Rwanda's defence ministry over the ongoing conflict in the Democratic Republic of Congo. Congo has accused Rwanda of supporting M23 rebels and looting mineral resources in its eastern region.",
+   "why": "US sanctions against a state defense ministry heighten diplomatic pressure and impact regional dynamics surrounding mineral supply chains and warfare in Central Africa.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793255096,
+   "articles": [
+    {
+     "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+     "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "International",
+   "summary": "El Salvador has deployed 2,000 troops to Haiti to rescue four soldiers missing after an ambush on the outskirts of Port-au-Prince.",
+   "why": "A large foreign military deployment to Haiti demonstrates expanding regional security interventions amidst ongoing unrest in the country.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793307025,
+   "articles": [
+    {
+     "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Watch: What leaked audio reveals about Spain train crash",
+     "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "National",
+   "summary": "Leaked audio from Spain's deadly train crash indicates a high-speed train was authorized to travel at normal speed despite a stalled train ahead. The exchanges capture communications between operators and drivers right before the incident.",
+   "why": "Evidence of systemic air traffic or rail dispatch protocol failures informs criminal investigations and urgent regulatory overhauls.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793308586,
+   "articles": [
+    {
+     "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+     "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Israel has expanded bans on Palestinians entering Al-Aqsa, including renewing a ban on its imam. Islamic Waqf officials warn that their authority at the holy site is being diminished.",
+   "why": "Shifts in control and access to Al-Aqsa represent a volatile flashpoint with significant regional security and diplomatic ramifications.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A drone strike on a market in Nyala, South Darfur, killed at least five children and injured two others. The attack was confirmed by the UN Children's Fund (UNICEF).",
+   "why": "It reflects ongoing civilian casualties and the direct impact of weaponized drones on vulnerable populations in Sudan's civil war.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793312211,
+   "articles": [
+    {
+     "title": "Trump administration attempts to take down leak of ICE personnel data",
+     "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The Trump administration is attempting to remove leaked ICE personnel data hosted by Icelandic web company FlokiNET. The hosting company defended maintaining the data online, citing legitimate public interest.",
+   "why": "The leak and legal dispute expose sensitive law enforcement personnel data and test international jurisdiction over whistleblowing and hosting platforms.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793188800,
+   "articles": [
+    {
+     "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The UN General Assembly passed its 34th resolution demanding an end to the US embargo on Cuba. However, international support for the resolution fell to its lowest level in 20 years.",
+   "why": "A noticeable shift in voting patterns reflects altering geopolitical alignments surrounding long-standing US-Cuba sanctions.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793299800,
+   "articles": [
+    {
+     "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "EU seeks 'highest level' ties with Canada in Montreal summit",
+     "link": "https://www.dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "European Commission President Ursula von der Leyen advocated for high-level ties with Canada at a Montreal summit, using the term 'associate member.' The characterization persists despite opposition from some EU members, including Germany.",
+   "why": "Deepening diplomatic and trade alignment between the EU and Canada alters transatlantic economic and political frameworks.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793273670,
+   "articles": [
+    {
+     "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+     "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Economists anticipate an upcoming GDP report will demonstrate fragile economic growth. Meanwhile, Israel's election remains deadlocked with no clear winner following the counting of 90% of the vote.",
+   "why": "Economic performance and political stability in major economies carry significant implications for policy direction and international markets.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793309472,
+   "articles": [
+    {
+     "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Alaska's governor ordered an investigation into allegations that Democrats supported a spoiler candidate named Dan Sullivan. The inquiry follows reporting regarding ties between the Democratic campaign and the duplicate-name candidate.",
+   "why": "Official investigations into electoral deception examine foundational ballot integrity and election interference at the state level.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  }
+ ]
 }
