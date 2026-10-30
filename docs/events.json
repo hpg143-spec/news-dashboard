@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-30T06:40:18.505316Z",
+ "updated": "2026-10-30T09:39:50.673904Z",
  "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793180269,
+   "articles": [
+    {
+     "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+     "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "Africa CDC official Jean Kaseya warned that an unprecedented Ebola outbreak could spread internationally, potentially reaching the UK, without increased preparedness and funding.",
+   "why": "Unchecked cross-border transmission of a lethal pathogen threatens international public health security and strained health systems.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793264520,
+   "articles": [
+    {
+     "title": "How AI drones are influencing the course of the Ukraine war",
+     "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Both Russia and Ukraine are deploying AI-powered drones to enhance operational speed and capability. Ukrainian President Volodymyr Zelenskyy cautioned that artificial intelligence could direct battlefield decisions as early as next year.",
+   "why": "The transition to autonomous, AI-driven battlefield decision-making represents an irreversible shift in modern warfare and global security doctrine.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793186935,
+   "articles": [
+    {
+     "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+     "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "More than 10,000 individuals have been infected since an Ebola outbreak was declared in May. Additionally, Israeli national elections remain too close to call following record voter turnout.",
+   "why": "An Ebola outbreak surpassing 10,000 cases represents a catastrophic public health crisis with high mortality and regional containment risks.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793275260,
+   "articles": [
+    {
+     "title": "US moves to lift sanctions on Russia's shadow fleet could undermine Western pressure on Moscow and help fund its war in Ukraine.",
+     "link": "https://www.dw.com/en/us-moves-to-lift-sanctions-on-russia-s-shadow-fleet-could-undermine-western-pressure-on-moscow-and-help-fund-its-war-in-ukraine/a-79787035?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The US is reportedly considering mechanisms to convert 'dark tankers' into legitimate vessels, permitting them to transport non-sanctioned crude oil. This potential move could weaken Western economic pressure on Russia and assist in funding its military efforts in Ukraine.",
+   "why": "Legitimizing Russian shadow fleet tankers could fundamentally alter global oil sanctions enforcement and Russian war revenue streams.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793254211,
+   "articles": [
+    {
+     "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A high-speed train collision in Spain killed 68 people after one train struck another from behind. The event marks the country's second fatal rail crash this year, prompting serious safety concerns regarding the national network.",
+   "why": "A major mass-casualty infrastructure disaster severely impacts public safety confidence and prompts regulatory scrutiny.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
   {
    "pre": 5,
    "tier": "wire",
@@ -17,130 +137,10 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "Xi Jinping emphasized party discipline at a Chinese political gathering amid a record number of purges. Observers characterize the anti-corruption drive as an effort to consolidate authority.",
-   "why": "A record-level purge in the Chinese Communist Party reshapes the leadership structure and governance of the world's second-largest economy.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793255096,
-   "articles": [
-    {
-     "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-     "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "El Salvador deployed 2,000 troops to Haiti to find four soldiers who went missing during an ambush near Port-au-Prince. The missing personnel disappeared on the capital's outskirts.",
-   "why": "A significant foreign military deployment of 2,000 troops marks a major escalation in international intervention in Haiti's security crisis.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793273116,
-   "articles": [
-    {
-     "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-     "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "The United States imposed sanctions on Rwanda's defence ministry over the conflict in the Democratic Republic of the Congo. Congo claims Rwanda supports M23 rebels and extracts minerals in its eastern region.",
-   "why": "US sanctions on a national defense ministry escalate diplomatic pressure and influence an ongoing regional conflict involving armed groups and resource extraction.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793237443,
-   "articles": [
-    {
-     "title": "Details of thousands of US immigration agents leaked in major hack",
-     "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A hacking group called the Department of Peace leaked information belonging to more than 41,000 Department of Homeland Security staff. The breach affected thousands of US immigration agents.",
-   "why": "Doxxing tens of thousands of federal law enforcement agents poses direct security risks to personnel and sensitive immigration operations.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793335207,
-   "articles": [
-    {
-     "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
-     "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Venezuelan opposition figure Machado returned from exile to call for elections in 2027 and criticized a US oil agreement with Caracas. She also commended Donald Trump regarding freedom.",
-   "why": "The return of a prominent opposition leader to Venezuela directly influences the country's political trajectory and international oil agreements.",
-   "impact": 6.6,
-   "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793309615,
-   "articles": [
-    {
-     "title": "Young athlete and former minister among victims of Spain train crash",
-     "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "A fatal train crash in Spain resulted in widespread grief and anger as victim identities were released. Among the casualties were a former government minister and a young athlete.",
-   "why": "A deadly mass transit disaster involving public figures carries transport safety implications and significant national impact.",
+   "summary": "Xi Jinping underscored party discipline at a major Chinese political gathering amid a record number of official purges. Analysts characterize the anti-corruption drive as an ongoing consolidation of his political authority.",
+   "why": "Large-scale purges within the Chinese Communist Party alter internal governance structures and reinforce centralized executive authority.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
@@ -152,22 +152,118 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793281479,
+   "ts": 1793340143,
    "articles": [
     {
-     "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-     "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+     "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A rock formation known as a \"fairy chimney\" collapsed outside an open-air museum in Cappadocia, Turkey. The incident resulted in the deaths of two people.",
-   "why": "It reports a fatal geological collapse at a major tourist site.",
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Syrian citizens face steep price increases and the termination of state subsidies under Ahmed al-Sharaa's administration. The resulting economic strain is fueling public discontent and complicating the nation's post-Assad recovery.",
+   "why": "Rapid economic deterioration and subsidy elimination threaten civil stability during a vulnerable transitional regime.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793340047,
+   "articles": [
+    {
+     "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
+     "link": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Spain's upcoming snap election dynamics have shifted following the country's latest fatal train crash. Prime Minister Pedro Sánchez is now actively defending his administration's transport safety record ahead of the vote.",
+   "why": "The political fallout from infrastructural failures directly threatens incumbent governance and national policy direction in Spain.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793351908,
+   "articles": [
+    {
+     "title": "Burnham says he wants to offer more ‘regional empowerment’ ahead of devolution summit – UK politics live",
+     "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The British Prime Minister traveled to Glasgow to confer with Scottish and Welsh leaders regarding further regional devolution. He noted that his first budget was constrained by prevailing economic uncertainty.",
+   "why": "Intergovernmental negotiations over UK devolution dictate the balance of legislative and economic power between central and devolved administrations.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793350380,
+   "articles": [
+    {
+     "title": "Andy Burnham admits he would have liked more radical first budget",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "The Prime Minister acknowledged that his inaugural budget lacked desired radicalism due to national economic uncertainty. He stated that policy flexibility was constrained by manifesto commitments and ongoing geopolitical crises.",
+   "why": "Fiscal constraints on a national budget define a government's capacity to fund public services and manage economic policy.",
    "impact": 4.2,
    "under_radar": false,
    "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793349155,
+   "articles": [
+    {
+     "title": "How Kenyans got caught in $130m US ghost student scam",
+     "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "Kenyan nationals were charged in an alleged $130 million scheme targeting US student aid funds. The operation purportedly exploited stolen identities to illicitly obtain federal educational support.",
+   "why": "A large-scale transnational fraud highlights vulnerabilities in foreign aid disbursements and student lending administration.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
