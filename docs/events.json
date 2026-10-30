@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-30T09:39:50.673904Z",
+ "updated": "2026-10-30T12:31:39.728023Z",
  "events": [
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793180269,
-   "articles": [
-    {
-     "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-     "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Global",
-   "summary": "Africa CDC official Jean Kaseya warned that an unprecedented Ebola outbreak could spread internationally, potentially reaching the UK, without increased preparedness and funding.",
-   "why": "Unchecked cross-border transmission of a lethal pathogen threatens international public health security and strained health systems.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
   {
    "pre": 7,
    "tier": "wire",
@@ -43,35 +19,11 @@
    "skip": false,
    "category": "Tech & Science",
    "scale": "Global",
-   "summary": "Both Russia and Ukraine are deploying AI-powered drones to enhance operational speed and capability. Ukrainian President Volodymyr Zelenskyy cautioned that artificial intelligence could direct battlefield decisions as early as next year.",
-   "why": "The transition to autonomous, AI-driven battlefield decision-making represents an irreversible shift in modern warfare and global security doctrine.",
-   "impact": 7.4,
+   "summary": "Artificial intelligence is being deployed by both Russia and Ukraine to make battlefield drones faster and more autonomous. President Volodymyr Zelenskyy cautioned that AI systems could begin leading tactical decisions within a year.",
+   "why": "Integrating autonomous AI into active warfare marks a major paradigm shift in military doctrine and lethal technology.",
+   "impact": 7.8,
    "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "NPR World"
-   ],
-   "n_sources": 1,
-   "ts": 1793186935,
-   "articles": [
-    {
-     "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-     "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-     "source": "NPR World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "More than 10,000 individuals have been infected since an Ebola outbreak was declared in May. Additionally, Israeli national elections remain too close to call following record voter turnout.",
-   "why": "An Ebola outbreak surpassing 10,000 cases represents a catastrophic public health crisis with high mortality and regional containment risks.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
+   "gap": 0.68
   },
   {
    "pre": 7,
@@ -91,11 +43,59 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "The US is reportedly considering mechanisms to convert 'dark tankers' into legitimate vessels, permitting them to transport non-sanctioned crude oil. This potential move could weaken Western economic pressure on Russia and assist in funding its military efforts in Ukraine.",
-   "why": "Legitimizing Russian shadow fleet tankers could fundamentally alter global oil sanctions enforcement and Russian war revenue streams.",
-   "impact": 6.6,
+   "summary": "The US is reportedly exploring mechanisms to convert Russian 'dark tankers' into legitimate vessels to transport non-sanctioned crude oil. The move could dilute Western economic leverage and facilitate war funding for Moscow.",
+   "why": "Altering the enforcement regime on Russia's shadow fleet fundamentally shifts global energy sanctions and war financing mechanisms.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.56
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793328000,
+   "articles": [
+    {
+     "title": "Bayer wins Roundup cancer trial after Supreme Court ruling",
+     "link": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Bayer won a Roundup cancer trial following a Supreme Court ruling addressing whether the weedkiller required a cancer warning label. Bayer continues to pursue settlements for tens of thousands of remaining claims.",
+   "why": "A Supreme Court-backed ruling sets significant product liability precedent affecting tens of thousands of toxic tort claims.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793319448,
+   "articles": [
+    {
+     "title": "Student-backed election winners demand sweeping resignations in Serbia",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Student List MPs have called for top figures to stand down in Serbia. This follows their recent ousting of Aleksandar Vučić's party from power.",
+   "why": "A political transition in Serbia removing a long-ruling party reshapes domestic governance and regional Balkan stability.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
    "pre": 7,
@@ -115,11 +115,107 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "A high-speed train collision in Spain killed 68 people after one train struck another from behind. The event marks the country's second fatal rail crash this year, prompting serious safety concerns regarding the national network.",
-   "why": "A major mass-casualty infrastructure disaster severely impacts public safety confidence and prompts regulatory scrutiny.",
-   "impact": 6.2,
+   "summary": "A high-speed train collision in Spain killed 68 people after one train struck another from behind. The disaster is the country's second fatal rail crash this year and has drawn scrutiny to national rail safety.",
+   "why": "A catastrophic mass-casualty rail disaster triggers national reviews of transit infrastructure and public transportation safety.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793362016,
+   "articles": [
+    {
+     "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+     "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "An IISS report states that Gulf nations must overhaul their trillion-dollar defense postures in light of conflict involving the US and Iran. The study questions the region's reliance on American bases and expensive, high-end defense systems following economic damage.",
+   "why": "A strategic shift away from US military dependencies could fundamentally alter Middle Eastern geopolitical alignments and defense procurement.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793361842,
+   "articles": [
+    {
+     "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Google's market valuation dropped by approximately $500 billion, pushing its stock to a six-month low. The decline followed disclosures that its automated AI search summaries are negatively impacting advertising revenues.",
+   "why": "The massive decline underscores how generative AI features can directly cannibalize the foundational business models of major tech companies.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A UN survey found that opium production in Afghanistan has surged fivefold over the past year. This marks the first major increase since the Taliban imposed a cultivation ban in 2022.",
+   "why": "Afghanistan is historically the world's primary source of illicit opium, and a fivefold surge has severe ramifications for global drug trafficking and public health.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793341020,
+   "articles": [
+    {
+     "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+     "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Final vote counts in Israel show the pro-Netanyahu bloc leading Gadi Eisenkot's anti-Netanyahu bloc, though neither secured an absolute majority. The outcome forces complex coalition negotiations to form a government.",
+   "why": "A deadlocked Israeli election influences ongoing Middle East security operations and future governing policy.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
    "pre": 5,
@@ -137,10 +233,70 @@
     }
    ],
    "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Chinese President Xi Jinping emphasized party discipline amid a record number of political purges during a major gathering. Observers describe the continued anti-corruption campaign as a mechanism to consolidate and preserve his authority.",
+   "why": "Record purges within the ruling party signal tightening political centralisation with significant impacts on Chinese governance and policy.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1793358540,
+   "articles": [
+    {
+     "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+     "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Russia: Critical newspaper 'Novaya Gazeta' to close",
+     "link": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
+     "link": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Xi Jinping underscored party discipline at a major Chinese political gathering amid a record number of official purges. Analysts characterize the anti-corruption drive as an ongoing consolidation of his political authority.",
-   "why": "Large-scale purges within the Chinese Communist Party alter internal governance structures and reinforce centralized executive authority.",
+   "summary": "Russian investigative newspaper Novaya Gazeta is closing, citing pressure from special services. The outlet, known as a symbol of independent journalism, was designated a 'foreign agent' by Moscow.",
+   "why": "The closure marks the further elimination of independent media and critical investigative journalism within Russia.",
+   "impact": 6.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793358180,
+   "articles": [
+    {
+     "title": "Brazil's new anti-gang law: Can it curb organized crime?",
+     "link": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Brazil has enacted a new anti-gang law aiming to crack down on drug cartels in Rio's favelas. The legislation follows a massacre from a year ago that resulted in more than 130 deaths.",
+   "why": "New federal legislation targeting organized crime directly alters policing, criminal justice, and public safety in major metropolitan areas.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
@@ -163,11 +319,479 @@
    "skip": false,
    "category": "Economy",
    "scale": "National",
-   "summary": "Syrian citizens face steep price increases and the termination of state subsidies under Ahmed al-Sharaa's administration. The resulting economic strain is fueling public discontent and complicating the nation's post-Assad recovery.",
-   "why": "Rapid economic deterioration and subsidy elimination threaten civil stability during a vulnerable transitional regime.",
+   "summary": "Soaring prices and the end of subsidies are causing widespread discontent in Syria, complicating post-Assad economic recovery. The growing financial strain poses a significant test for Ahmed al-Sharaa's new government.",
+   "why": "Severe economic hardship and subsidy cuts threaten the stability of the transition government and risk further unrest.",
    "impact": 6.2,
    "under_radar": true,
    "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A UN independent expert warned that Myanmar's human rights situation has become catastrophic as the internal conflict continues to escalate with no end in sight.",
+   "why": "The ongoing civil war causes widespread civilian casualties and destabilizes the surrounding region.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793356852,
+   "articles": [
+    {
+     "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+     "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The US is weighing new strikes on Iran while sending mixed signals alongside Iranian outreach. Analysts note that an ongoing lack of trust remains an obstacle to securing a deal.",
+   "why": "US-Iran escalations or diplomatic breakthroughs directly impact Middle Eastern regional stability and global energy markets.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793349371,
+   "articles": [
+    {
+     "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+     "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Brent crude prices remain more than 60 percent above pre-war levels despite easing conflict turmoil and rebounding oil supply. Flows have increased even as pricing pressures continue.",
+   "why": "Persistent high oil prices sustain global inflationary pressures and affect transport and manufacturing costs worldwide.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793360734,
+   "articles": [
+    {
+     "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
+     "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "BP reported an 18-year profit high with quarterly earnings reaching $8.46 billion, driven by surging oil and gas prices and increased trading amid war in the Middle East. The windfall profits have sparked criticism from climate campaigners.",
+   "why": "Spiking energy company profits reflect global energy price surges that directly drive inflation and strain household and industrial budgets worldwide.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1793315693,
+   "articles": [
+    {
+     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Israel election: Authorities dispute Netanyahu's fraud claims",
+     "link": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+     "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Prime Minister Netanyahu's Likud party has claimed election fraud and foreign interference after losing its majority, accusing Arab-led parties of stealing the election. Israeli opposition leaders have accused Netanyahu of attempting to delegitimize the election.",
+   "why": "Allegations of electoral fraud by a sitting leader threaten democratic stability and the peaceful transition of power.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.28
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793329680,
+   "articles": [
+    {
+     "title": "Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election",
+     "link": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Opposition leader Maria Corina Machado stated that the US backs a 2027 election in Venezuela. Her political positioning complicates US strategy, given previous backing for interim President Delcy Rodriguez.",
+   "why": "Shifts in US recognition and support among competing Venezuelan factions impact the country's governance and international sanctions.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793354450,
+   "articles": [
+    {
+     "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
+     "link": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "Britain is likely to miss its green heating targets following budget cuts by John Healey that diverted funds from renewable energy toward defence. Critics note the cuts undermine previous energy transition commitments set under Ed Miliband.",
+   "why": "Reallocating funding from decarbonization to defense slows the national transition away from fossil fuels and jeopardizes climate goals.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 10,
+   "tier": "primary",
+   "sources": [
+    "BBC World",
+    "UN News"
+   ],
+   "n_sources": 2,
+   "ts": 1793283455,
+   "articles": [
+    {
+     "title": "Russia drone strike on Ukrainian railway station kills 13",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+     "source": "UN News"
+    },
+    {
+     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A Russian drone strike on the main railway station in Dnipro, Ukraine, killed at least 13 civilians and injured 10 others. The attack was condemned by the UN's top humanitarian official in Ukraine.",
+   "why": "It represents a direct, lethal strike on critical civilian transport infrastructure resulting in significant casualties.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Hindu National"
+   ],
+   "n_sources": 2,
+   "ts": 1793354090,
+   "articles": [
+    {
+     "title": "Bhutan glacial lake outburst triggers flash floods",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam",
+     "link": "https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece",
+     "source": "The Hindu National"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "A glacial lake outburst in northern Bhutan triggered flash flooding across the area.",
+   "why": "Glacial lake outburst floods cause sudden downstream destruction and reflect mounting climate risks in the Himalayas.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793358052,
+   "articles": [
+    {
+     "title": "Families in the US are opting for earlier measles vaccinations amid outbreak",
+     "link": "https://www.theguardian.com/us-news/2026/oct/30/measles-outbreak-vaccination",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Measles cases in the US are accelerating, with confirmed cases reaching double the rate of the previous year. In response, parents are increasingly opting for earlier administration of the second MMR dose, aligning with guidance in Germany, the UK, and France.",
+   "why": "Surging infectious disease outbreaks threaten public health infrastructure and prompt shifts in national vaccination timelines.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "At least five children were killed and two injured in a drone strike on a market in Nyala, South Darfur. The incident was reported by UNICEF on Thursday.",
+   "why": "It highlights the continued direct danger to civilian populations and children amid the conflict in Sudan.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793275200,
+   "articles": [
+    {
+     "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "The UN Security Council convened an open debate to examine how emerging technologies, such as drones and cyberattacks, impact the safety of global shipping lanes and supply chains.",
+   "why": "Security threats to global maritime transit affect international trade and food and energy security.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793273670,
+   "articles": [
+    {
+     "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+     "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Economists anticipate an upcoming GDP report will demonstrate fragile economic growth ahead of Election Day. Concurrently, initial vote counts in Israel showed no clear victor.",
+   "why": "National GDP indicators determine macroeconomic policy adjustments and financial market sentiment.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793363153,
+   "articles": [
+    {
+     "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+     "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Residents have begun leaving Russian-occupied Oleshky after an evacuation corridor was established. Several hundred people have opted to remain in the frontline town despite being without running water, electricity, or gas.",
+   "why": "The civilian displacement highlights the severe humanitarian crisis and breakdown of basic utilities in active combat zones.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793346818,
+   "articles": [
+    {
+     "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+     "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Pakistani human rights lawyers Imaan Mazari and Hadi Ali Chattha have received 10-year prison sentences. The charges stemmed from an incident that occurred during the England cricket team's tour in 2024.",
+   "why": "Lengthy prison terms for human rights attorneys reflect shrinking civic space and severe judicial pressure on legal advocates.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "NPR World"
+   ],
+   "n_sources": 2,
+   "ts": 1793357421,
+   "articles": [
+    {
+     "title": "How can Israel break its election deadlock?",
+     "link": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Israel is in a political deadlock. What comes next?",
+     "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Israel faces political deadlock after no single political party secured the 61-seat majority required to form a government in the Knesset.",
+   "why": "Parliamentary paralysis in Israel impacts domestic governance and regional geopolitical dynamics.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793324664,
+   "articles": [
+    {
+     "title": "More than 43 million ballots cast so far in midterms early voting surge",
+     "link": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Over 43 million ballots have been cast during early voting for the US midterms. Increased participation among Hispanic voters has contributed to turnout rates exceeding previous election levels in several battleground counties.",
+   "why": "Unprecedented early voting patterns can determine legislative control in the US, shaping future policy trajectories.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793299800,
+   "articles": [
+    {
+     "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "EU seeks 'highest level' ties with Canada in Montreal summit",
+     "link": "https://www.dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "EU Commission chief Ursula von der Leyen advocated for high-level ties with Canada at a summit in Montreal, using the term 'associate member.' The characterization persists despite opposition from some EU member states, including Germany.",
+   "why": "Deepening integration between the European Union and Canada signals a major shift in trans-Atlantic diplomatic and economic relations.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.28
   },
   {
    "pre": 7,
@@ -187,11 +811,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Spain's upcoming snap election dynamics have shifted following the country's latest fatal train crash. Prime Minister Pedro Sánchez is now actively defending his administration's transport safety record ahead of the vote.",
-   "why": "The political fallout from infrastructural failures directly threatens incumbent governance and national policy direction in Spain.",
-   "impact": 4.4,
+   "summary": "Political dynamics in Spain's upcoming snap election have shifted following a recent train disaster. Prime Minister Pedro Sánchez faces pressure to defend his administration's transport safety record ahead of next month's vote.",
+   "why": "The political fallout from infrastructure failures could influence election outcomes and national transport safety oversight.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.36
   },
   {
    "pre": 7,
@@ -200,46 +824,22 @@
     "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1793351908,
+   "ts": 1793354836,
    "articles": [
     {
-     "title": "Burnham says he wants to offer more ‘regional empowerment’ ahead of devolution summit – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+     "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+     "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
      "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "The British Prime Minister traveled to Glasgow to confer with Scottish and Welsh leaders regarding further regional devolution. He noted that his first budget was constrained by prevailing economic uncertainty.",
-   "why": "Intergovernmental negotiations over UK devolution dictate the balance of legislative and economic power between central and devolved administrations.",
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "Severe rainfall, flood warnings, and strong winds have been issued for central Greece and western Turkey due to a regional low-pressure system. Turkey has already experienced powerful thunderstorms and a fatal tornado this week, with more heavy rain forecast.",
+   "why": "Extreme weather poses immediate risks to human life, infrastructure, and regional emergency response systems.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793350380,
-   "articles": [
-    {
-     "title": "Andy Burnham admits he would have liked more radical first budget",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "The Prime Minister acknowledged that his inaugural budget lacked desired radicalism due to national economic uncertainty. He stated that policy flexibility was constrained by manifesto commitments and ongoing geopolitical crises.",
-   "why": "Fiscal constraints on a national budget define a government's capacity to fund public services and manage economic policy.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
   },
   {
    "pre": 5,
@@ -258,9 +858,9 @@
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "Regional",
-   "summary": "Kenyan nationals were charged in an alleged $130 million scheme targeting US student aid funds. The operation purportedly exploited stolen identities to illicitly obtain federal educational support.",
-   "why": "A large-scale transnational fraud highlights vulnerabilities in foreign aid disbursements and student lending administration.",
+   "scale": "National",
+   "summary": "Kenyans are among those charged in an alleged $130 million fraud scheme targeting US student financial aid. The operation reportedly utilized stolen identities to illicitly obtain funds.",
+   "why": "Cross-border financial fraud of this magnitude reveals vulnerabilities in federal aid verification systems.",
    "impact": 4.0,
    "under_radar": false,
    "gap": 0.3
