@@ -1,4 +1,149 @@
 {
- "updated": "2026-10-31T12:23:26.445052Z",
- "events": []
+ "updated": "2026-10-31T15:25:30.534551Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793421127,
+   "articles": [
+    {
+     "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Former DR Congo President Joseph Kabila has launched a new rebel movement. The development raises serious concerns over its implications for the country.",
+   "why": "The entry of a former head of state into active armed rebellion poses a severe threat to national and regional security in the DRC.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793456423,
+   "articles": [
+    {
+     "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+     "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Syria's foreign minister stated that Damascus is evaluating joining the Mecca defense pact. The alliance currently includes Turkey, Saudi Arabia, and Pakistan.",
+   "why": "Syria's potential entry into a joint military alliance with Turkey, Saudi Arabia, and Pakistan would fundamentally reshape Middle Eastern strategic alignments.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793457097,
+   "articles": [
+    {
+     "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+     "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Iran's Foreign Minister Abbas Araghchi welcomed US outreach as a positive step while delegations met in Qatar. However, he stated that Tehran does not rule out an attack and remains prepared for all scenarios.",
+   "why": "Direct diplomatic signaling and military readiness between Iran and the US significantly influence the risk of broader regional conflict.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793450836,
+   "articles": [
+    {
+     "title": "Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?",
+     "link": "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Identical candidate names on an Alaska ballot sparked controversy, triggering a US Justice Department investigation into ballot stacking.",
+   "why": "A federal investigation into ballot stacking directly concerns voter confusion and legal integrity in US elections.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793402776,
+   "articles": [
+    {
+     "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+     "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A defendant who questioned Thailand's monarchy while dressed as Harry Potter has been sentenced to 34 years in prison. Thailand has prosecuted 294 individuals under its lèse-majesté law since 2020, with sentences reaching up to 50 years.",
+   "why": "It reflects the severe legal penalties and continued enforcement used to suppress political expression and royal criticism in Thailand.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793452763,
+   "articles": [
+    {
+     "title": "Burnham opens door to formal apology for Britain’s slave trade",
+     "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The UK Prime Minister has ruled out paying financial reparations for Britain's slave trade despite persistent demands from Caribbean nations. However, discussions have emerged regarding a formal state apology.",
+   "why": "It sets the official UK government stance on historical reparatory justice, impacting diplomatic relations with Caribbean states.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  }
+ ]
 }
