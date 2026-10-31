@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:35:22.823376Z",
+ "updated": "2026-10-31T03:40:14.113605Z",
  "events": [
   {
    "pre": 7,
@@ -11,7 +11,7 @@
    "ts": 1793404800,
    "articles": [
     {
-     "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+     "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
      "source": "Al Jazeera"
     }
@@ -19,35 +19,11 @@
    "skip": false,
    "category": "Security",
    "scale": "Global",
-   "summary": "The IRGC reported that four oil tankers were struck in the Strait of Hormuz. Donald Trump stated that the war on Iran would conclude soon.",
-   "why": "Direct kinetic attacks in the Strait of Hormuz threaten global maritime trade, international energy security, and regional stability.",
+   "summary": "The IRGC stated four tankers were hit in the Strait of Hormuz amidst conflict. Donald Trump stated that the war on Iran will wrap up soon.",
+   "why": "Attacks on maritime tankers in the Strait of Hormuz threaten global energy supplies and risk uncontrolled international escalation.",
    "impact": 8.4,
    "under_radar": true,
    "gap": 0.74
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793394794,
-   "articles": [
-    {
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Binance is seeking to recover $6.3bn stolen in a sophisticated cyberattack attributed to North Korea. The incident is believed to be the largest cryptocurrency theft of its kind in history.",
-   "why": "State-sponsored cyber thefts of this magnitude provide substantial illicit funding to sanctioned regimes while destabilizing the digital financial system.",
-   "impact": 8.0,
-   "under_radar": true,
-   "gap": 0.7
   },
   {
    "pre": 7,
@@ -65,109 +41,13 @@
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Artificial intelligence is increasing drone speed and capabilities for both Russia and Ukraine. Ukrainian President Volodymyr Zelenskyy warned that AI could begin leading battlefield decisions as early as next year.",
-   "why": "Autonomous decision-making in active warfare fundamentally transforms the speed, lethality, and ethical boundaries of military conflict.",
-   "impact": 7.4,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Russia and Ukraine are using AI-powered drones to enhance speed and capability on the battlefield. President Zelenskyy warned that AI could begin leading battlefield decisions by next year.",
+   "why": "The transition to autonomous, AI-driven decision-making fundamentally alters modern warfare and military ethics.",
+   "impact": 7.8,
    "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793398852,
-   "articles": [
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The United States has approved the sale of 500 Patriot missile interceptors to Ukraine. These interceptors represent Ukraine's only effective defense against incoming Russian ballistic missiles.",
-   "why": "Providing large quantities of critical air-defense munitions directly determines Ukraine's capacity to protect its critical infrastructure and civilian centers from ballistic strikes.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793364596,
-   "articles": [
-    {
-     "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
-     "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "An IISS study indicates Gulf states must overhaul their trillion-dollar defense postures following economic damage and doubts over the utility of US bases. The report highlights vulnerabilities tied to an overreliance on American military support and expensive, high-end defense systems.",
-   "why": "A strategic shift away from US defense guarantees would fundamentally reshape Middle Eastern security architecture and global energy logistics.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The UN rights office reported that Israeli operations continue to compress Palestinians into smaller areas while striking displacement sites and civilian infrastructure. OHCHR raised formal concerns over potential ethnic cleansing.",
-   "why": "The destruction of civilian infrastructure and shrinking safe spaces heighten legal, humanitarian, and geopolitical risks across the region.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793392911,
-   "articles": [
-    {
-     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Prominent independent Russian newspaper Novaya Gazeta has been shut down under intense pressure from state authorities. The publication had operated as a leading independent media voice in Russia for three decades.",
-   "why": "The closure of long-standing independent news organizations cements state control over information and eliminates public accountability.",
-   "impact": 6.8,
-   "under_radar": true,
-   "gap": 0.58
+   "gap": 0.68
   },
   {
    "pre": 7,
@@ -187,59 +67,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "A high-speed train collision in Spain killed 68 people after one train struck another from behind. It marks the country's second deadly high-speed rail disaster this year and has prompted safety concerns across the national rail network.",
-   "why": "Multiple mass-casualty rail failures in a single year point to critical systemic vulnerabilities in national transit infrastructure.",
-   "impact": 6.6,
+   "summary": "A high-speed train collision that killed 68 people has sparked serious concerns about the safety of Spain's rail network. This marks the country's second fatal train disaster this year ahead of a national election.",
+   "why": "A catastrophic mass-casualty rail disaster exposes critical infrastructure vulnerabilities and influences imminent national elections.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Over 28 million people in the Democratic Republic of the Congo are suffering from insufficient food intake, according to the IPC monitor. The crisis is projected to worsen in the coming months due to conflict, disease, and climate shocks.",
-   "why": "Acute food insecurity affecting tens of millions represents a massive humanitarian catastrophe with long-term survival implications.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793382201,
-   "articles": [
-    {
-     "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-     "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Colombia's President plans to cut funding for the nation's transitional justice court. Victims of war crimes have expressed grave concern over the impact on accountability.",
-   "why": "Budget reductions to transitional justice bodies jeopardize legal accountability and post-conflict reconciliation frameworks.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
+   "gap": 0.6
   },
   {
    "pre": 7,
@@ -259,113 +91,35 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "Newly elected Student List MPs have demanded sweeping resignations of top figures in Serbia. The calls follow their ousting of Aleksandar Vučić's party from power.",
-   "why": "Signals significant political disruption and potential institutional restructuring following a major electoral shift in Serbia.",
-   "impact": 6.2,
+   "summary": "Student List MPs in Serbia are demanding the resignation of top figures after ousting Aleksandar Vučić's party from power.",
+   "why": "Marks a major political transition and potential institutional overhaul following an election upset in Serbia.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.58
   },
   {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Regional",
-   "summary": "A UN survey indicates that Afghan opium production has surged fivefold over the past year. This marks the first major rise in cultivation since the Taliban imposed a ban in 2022.",
-   "why": "A fivefold surge in opium undermines drug eradication policies and significantly fuels illicit transnational economies across the region.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 8,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "BBC World"
+    "Al Jazeera"
    ],
-   "n_sources": 2,
-   "ts": 1793402382,
+   "n_sources": 1,
+   "ts": 1793413440,
    "articles": [
     {
-     "title": "Police deployed during stand-off over control of top Poland court",
-     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Polish police deployed to top court after head judge suspended",
-     "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+     "title": "Poland’s president joins protest amid constitutional crisis at top court",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Polish police were deployed to the top court amid an escalating standoff over judicial control. This action followed the government's suspension of two senior judges and steps to pursue criminal charges against them.",
-   "why": "Police intervention at a nation's top court signals a severe institutional confrontation over the rule of law and judicial independence.",
-   "impact": 6.0,
+   "summary": "Poland's president cut short an overseas trip to Senegal to join protesters facing off with police amid a constitutional crisis at the top court.",
+   "why": "A direct confrontation between the head of state and law enforcement signals an escalating constitutional breakdown in a major EU democracy.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.4
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1793358180,
-   "articles": [
-    {
-     "title": "Brazil's new anti-gang law: Can it curb organized crime?",
-     "link": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Brazil has enacted a new anti-gang law aimed at cracking down on drug cartels operating in Rio de Janeiro's favelas. The measure follows a massacre that resulted in more than 130 deaths one year prior.",
-   "why": "Establishes a new national statutory framework to combat violent organized crime in densely populated urban centers.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The UN Security Council convened an open debate on how emerging technologies such as drones, autonomous vessels, and cyber tools affect maritime security. Members evaluated risks and protective measures regarding global shipping lanes and supply chains.",
-   "why": "The evolution of asymmetric threats directly challenges international maritime law and vital global supply chains.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -385,32 +139,56 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Protesters clashed with police in Poland after Prime Minister Donald Tusk fired top court President Bogdan Swieczkowski. Tusk characterized the removal as an effort to restore the rule of law.",
-   "why": "Direct confrontation over the removal of judicial leadership challenges constitutional norms and civil stability in Poland.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.48
+   "summary": "Protesters clashed with police following the firing of top court President Bogdan Swieczkowski. Prime Minister Donald Tusk defended the removal as an effort to restore the rule of law.",
+   "why": "Reflects deep institutional friction and civil unrest over judicial control in Poland.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "DW"
    ],
    "n_sources": 1,
-   "ts": 1793275200,
+   "ts": 1793358180,
    "articles": [
     {
-     "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-     "source": "UN News"
+     "title": "Brazil's new anti-gang law: Can it curb organized crime?",
+     "link": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "A UN independent expert designated Myanmar's human rights situation as catastrophic as war continues without resolution. Illicit economic activities are fueling violence that disproportionately harms civilians.",
-   "why": "The intertwining of illicit economies and prolonged armed conflict deepens state collapse and severe civilian suffering.",
+   "summary": "A new Brazilian law aims to suppress drug cartels in Rio's favelas following a massacre that killed over 130 people last year.",
+   "why": "Changes in anti-gang legal frameworks directly influence public security, policing tactics, and civil rights in Brazil's urban centers.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793392790,
+   "articles": [
+    {
+     "title": "US appeals court again rejects Trump bid to set aside California ballots",
+     "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The 9th Circuit Court rejected a petition to remove 20,000 ballots from California's vote count, ruling the bid unconstitutional.",
+   "why": "Affirms the protection of certified ballots against legal challenges aimed at altering election results.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
@@ -432,234 +210,12 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "Regional",
-   "summary": "Israeli forces demolished the homes of Palestinians blamed for an attack on soldiers and detained at least 12 people. Meanwhile, nearly 5,000 Palestinians remain displaced from neighbourhoods in Hebron.",
-   "why": "Involves collective punishment tactics and significant displacement impacting regional stability and human rights.",
+   "scale": "Local",
+   "summary": "Israel demolished the homes of Palestinians blamed for an attack on soldiers and detained at least 12 people. Nearly 5,000 residents remain displaced across Hebron neighborhoods.",
+   "why": "Highlights punitive demolitions and large-scale displacement that exacerbate conflict and violate human rights.",
    "impact": 5.6,
    "under_radar": false,
    "gap": 0.46
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793392486,
-   "articles": [
-    {
-     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "US technology equities dropped sharply, pulling the Nasdaq to its lowest level in over two months as sector-wide AI capital spending approached $1tn. Intel shares continued their decline during the market downturn.",
-   "why": "Massive capital expenditure without immediate returns threatens market valuations and could trigger broader contractions in tech-driven economic growth.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1793372969,
-   "articles": [
-    {
-     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-     "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-     "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Israel's Likud party alleged election theft by Arab-led parties and claimed foreign interference occurred after losing its majority. The opposition subsequently accused Prime Minister Netanyahu of attempting to delegitimize the election outcome.",
-   "why": "Contesting election legitimacy poses substantial risks to democratic stability and institutional norms.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "Russia drone strike on Ukrainian railway station kills 13",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A Russian drone strike on Dnipro's main railway station killed at least 13 civilians and wounded 10 others. The UN's humanitarian official in Ukraine issued a condemnation of the attack.",
-   "why": "Attacks on primary transport hubs cause significant civilian casualties and disrupt crucial transit and evacuation corridors.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793378940,
-   "articles": [
-    {
-     "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
-     "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "BP reported an 18-year high in quarterly profits of $8.46bn as the Middle East conflict elevated oil and gas prices. The earnings have sparked backlash from climate campaigners amid ongoing regional warfare.",
-   "why": "Surging windfall energy profits during geopolitical conflict accelerate global inflation and intensify scrutiny over energy sector taxation and regulation.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793380039,
-   "articles": [
-    {
-     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-     "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Death row inmate Christa Pike stated she woke up in pain and confusion after surviving an execution by lethal injection in September. This marks her first public comment following the botched procedure.",
-   "why": "Execution failures directly challenge the constitutional and legal viability of lethal injection protocols nationwide.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "Yemen war makes reaching assistance too dangerous for many",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Fighting in Yemen has displaced more than 280,000 individuals, according to the UN refugee agency. Many vulnerable populations are unable to reach lifesaving aid due to hazardous security conditions.",
-   "why": "Severe displacement and blocked access to humanitarian relief exacerbate an ongoing, life-threatening famine and health crisis.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Over 300,000 individuals remain internally displaced in Lebanon following displacement that began in early March. The UN aid coordination office warned that the humanitarian crisis remains severe.",
-   "why": "Prolonged large-scale displacement strains national infrastructure and worsens humanitarian needs in an already fragile state.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793354836,
-   "articles": [
-    {
-     "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-     "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "A fatal tornado and severe thunderstorms have struck Turkey, with heavy rain and strong winds forecast to persist across southeastern Europe and Turkey. An area of low pressure is driving the prolonged severe weather and flood risks.",
-   "why": "Severe weather systems threaten lives, infrastructure, and agricultural capacity across multiple neighboring nations.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793275200,
-   "articles": [
-    {
-     "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "A drone strike on a market in Nyala, South Darfur, killed at least five children and wounded two others. UNICEF reported the casualties from the attack on Thursday.",
-   "why": "Direct attacks on civilian markets inflicting child casualties highlight the severe risks to non-combatants in the Sudan conflict.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
   },
   {
    "pre": 7,
@@ -668,43 +224,43 @@
     "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1793392790,
+   "ts": 1793394051,
    "articles": [
     {
-     "title": "US appeals court again rejects Trump bid to set aside California ballots",
-     "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+     "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+     "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
      "source": "Al Jazeera"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
-   "scale": "State",
-   "summary": "The US 9th Circuit Court of Appeals rejected an effort by Donald Trump to remove 20,000 ballots from California's vote tally. The court ruled the petition unconstitutional.",
-   "why": "Affirms the validity of contested ballots and upholds constitutional electoral procedures against legal challenges.",
-   "impact": 5.0,
+   "scale": "National",
+   "summary": "The Swiss Supreme Court upheld a 20-year sentence for Liberian ex-rebel commander Alieu Kosiah. He was convicted of killing civilians and unarmed soldiers, looting, and crimes against humanity.",
+   "why": "Reinforces universal jurisdiction and legal accountability for international crimes against humanity.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.42
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793275200,
+   "ts": 1793402357,
    "articles": [
     {
-     "title": "Nature is making a comeback – now restoration funding must quadruple",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168700",
-     "source": "UN News"
+     "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+     "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "Global ecosystems ranging from Canadian salmon grounds to Indonesian coral reefs are experiencing restoration at historic rates. Environmental advocates state that funding for restoration initiatives must now quadruple.",
-   "why": "Restoring ecosystems at scale is critical for biodiversity preservation, though realizing these goals demands massive capital mobilization.",
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A temporary ceasefire is unfolding in the devastated, Russian-occupied town of Oleshky.",
+   "why": "Ceasefires in active combat zones affect civilian survival and local frontline dynamics in the war.",
    "impact": 4.8,
    "under_radar": false,
    "gap": 0.38
@@ -726,198 +282,36 @@
    ],
    "skip": false,
    "category": "Economy",
-   "scale": "Global",
-   "summary": "Economists project upcoming US GDP figures will show fragile economic growth ahead of Election Day. Concurrently, Israeli election counts show a deadlocked result with 90 percent of votes tallied.",
-   "why": "Provides pivotal macro indicators on US economic stability alongside an unresolved national election in Israel.",
+   "scale": "National",
+   "summary": "Economists expect an upcoming GDP report to show fragile economic growth ahead of Election Day. Meanwhile, Israeli election counts show no clear winner after 90% of ballots were tallied.",
+   "why": "Economic growth data informs policy decisions and voter sentiment prior to national elections.",
    "impact": 4.6,
    "under_radar": false,
    "gap": 0.36
   },
   {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1793401997,
-   "articles": [
-    {
-     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
-     "link": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "State",
-   "summary": "An Alaska prosecutor is investigating allegations that Democrats recruited a second candidate named Dan Sullivan to confuse voters on the ballot. Incumbent Republican Senator Dan S. Sullivan has accused opponents of engineering the scheme.",
-   "why": "Deliberate ballot confusion tactics threaten electoral integrity and can sway narrow legislative majorities.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.26
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1793405855,
-   "articles": [
-    {
-     "title": "Germany and France brace for protests on Halloween weekend",
-     "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
-     "link": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Regional",
-   "summary": "Youth-led demonstrations against rising living costs and limited economic prospects are spreading across Europe, with actions planned in Germany and France. The mobilizations reflect broader public discontent over persistent price increases.",
-   "why": "Cross-border cost-of-living unrest risks destabilizing domestic governance and driving economic policy shifts across key European economies.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.24
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793372619,
-   "articles": [
-    {
-     "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-     "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Spanish Transport Minister Óscar Puente has rejected calls to resign following a collision between two high-speed trains that killed at least 69 people. The crash has triggered intense political pressure surrounding government oversight of rail transit.",
-   "why": "High-level political refusal to step down after major public infrastructure disasters influences government accountability and future transit regulatory reforms.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "The UN's top humanitarian official stated that the ceasefire in Oleshky provides hope for civilians in the city. The official emphasized that civilians wishing to leave must be permitted to do so safely and voluntarily.",
-   "why": "Ceasefires in frontline areas are vital for facilitating civilian evacuations and delivering aid amid active hostilities.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793394051,
-   "articles": [
-    {
-     "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
-     "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Switzerland's supreme court upheld a 20-year sentence for Liberian ex-rebel commander Alieu Kosiah. Kosiah was convicted of crimes against humanity, looting, and killing civilians and unarmed soldiers.",
-   "why": "Sets a final legal precedent under universal jurisdiction for prosecuting international war crimes in domestic courts.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793398312,
-   "articles": [
-    {
-     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-     "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The traditional G20 group photograph was cancelled amid protests regarding the participation of Russia's representative. During the summit, UK Foreign Secretary Ed Miliband directly confronted his Russian counterpart over civilian deaths in Ukraine.",
-   "why": "Diplomatic standoffs at major multilateral forums signal ongoing paralysis in international consensus and global governance.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 8,
-   "tier": "wire",
-   "sources": [
-    "BBC World",
     "DW"
    ],
-   "n_sources": 2,
-   "ts": 1793390940,
+   "n_sources": 1,
+   "ts": 1793359560,
    "articles": [
     {
-     "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-     "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
-     "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-xml-mrss",
+     "title": "Germany takes cautious approach on Israeli election results",
+     "link": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-xml-mrss",
      "source": "DW"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Hundreds of residents remain in the frontline town of Oleshky despite active conflict hazards. Others have been evacuated during a temporary ceasefire.",
-   "why": "Civilian presence in frontline conflict zones presents severe humanitarian challenges and life-safety risks.",
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "German politicians are delaying responses to Israeli election results while awaiting coalition developments. Many officials hope the eventual government will exclude religious hardliners.",
+   "why": "Diplomatic ties and Middle East policy depend heavily on the ideological makeup of Israel's upcoming governing coalition.",
    "impact": 4.0,
    "under_radar": false,
-   "gap": 0.2
+   "gap": 0.3
   }
  ]
 }
