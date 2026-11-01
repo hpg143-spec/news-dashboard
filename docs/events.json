@@ -1,4 +1,437 @@
 {
- "updated": "2026-11-01T18:23:12.968679Z",
- "events": []
+ "updated": "2026-11-01T21:28:04.345026Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793459780,
+   "articles": [
+    {
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+     "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "An Ebola outbreak in the Democratic Republic of Congo has killed over 5,000 individuals, making it the country's deadliest outbreak. Government data indicates that total infections have surpassed 10,000 cases.",
+   "why": "High-mortality pathogen outbreaks overwhelm regional public health infrastructure and present severe humanitarian crises.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793410025,
+   "articles": [
+    {
+     "title": "Global nature talks reach deal but money remains an issue",
+     "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Countries have reached a global agreement to halt nature decline, though funding remains an issue. The talks aimed to put global conservation efforts back on track.",
+   "why": "International biodiversity pacts set the framework for worldwide environmental conservation and resource commitments.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793534400,
+   "articles": [
+    {
+     "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Nations meeting at COP17 in Armenia agreed to the 'Yerevan Pathway' roadmap to accelerate global conservation efforts. The agreement follows a review indicating the world is currently off track to meet its 2030 biodiversity targets.",
+   "why": "Multilateral biodiversity roadmaps establish global conservation policy to combat widespread species and ecosystem decline.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793494506,
+   "articles": [
+    {
+     "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+     "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Aleksandar Vučić was defeated in Serbia's election, drawing comparisons to the fall of Viktor Orbán in Hungary.",
+   "why": "The electoral defeat of entrenched leaders reshapes national governance and regional political alignments in Central and Eastern Europe.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793534400,
+   "articles": [
+    {
+     "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The UN peacekeeping mission MINURSO in Western Sahara has begun winding down. UN Secretary-General António Guterres stated the UN remains committed to facilitating a lasting solution ensuring self-determination for the region's people.",
+   "why": "The departure of a decades-long UN peacekeeping force alters the regional security architecture and diplomatic efforts in Western Sahara.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793492853,
+   "articles": [
+    {
+     "title": "Judge orders Trump administration to stop threatening US election officials",
+     "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A judge ordered the Trump administration to cease issuing threats to US election officials. The ruling was issued after officials received demands to set aside ballots belonging to potential non-citizen voters.",
+   "why": "Judicial constraints on federal attempts to influence election administrators protect constitutional election management standards.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793448000,
+   "articles": [
+    {
+     "title": "Somalia looks to the future as the UN's political mission closes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "The United Nations' political mission in Somalia is concluding after three decades of operations in the Horn of Africa. The Deputy Special Representative characterized the mission's history as one of persistence, partnership, and adaptation.",
+   "why": "The formal conclusion of a 30-year UN political presence marks a major transition in Somalia's sovereignty and governance transition.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793497046,
+   "articles": [
+    {
+     "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+     "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Data centre operators are holding tens of billions of pounds in debt, raising concerns that the AI sector bubble could burst.",
+   "why": "High debt burdens across critical tech infrastructure pose systemic financial risks to both the technology industry and credit markets.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793566893,
+   "articles": [
+    {
+     "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+     "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Canadian Prime Minister Mark Carney announced progress in Canada-US trade deal negotiations ahead of the US midterm elections.",
+   "why": "Bilateral trade agreements between the US and Canada directly influence cross-border economic flows and broader market stability.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793448000,
+   "articles": [
+    {
+     "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "A UN rights official reports that North Koreans face unprecedented isolation from the outside world despite internal domestic modernizations. These internal changes include the rollout of smartphones, mobile banking, and new infrastructure.",
+   "why": "It documents a worsening human rights and information-isolation crisis inside North Korea despite technological modernization.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793482141,
+   "articles": [
+    {
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "More than 320,000 people protested across France against rising living costs and poor public services, with some clashes reported with police. Demonstrations also spread across other parts of Europe.",
+   "why": "Widespread civil unrest driven by the cost-of-living crisis threatens regional stability and pressures governments economically.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793414365,
+   "articles": [
+    {
+     "title": "The fight to save Canadian town threatened by Trump's tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Local",
+   "summary": "A century-old paper mill in Témiscaming, Quebec, closed indefinitely after the US imposed 50% tariffs on its products. The closure has left hundreds of workers unemployed.",
+   "why": "Protective trade tariffs directly disrupt cross-border supply chains and can devastate single-industry local economies.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793566918,
+   "articles": [
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Russian strikes cut power to thousands in Ukraine following the conclusion of a rare humanitarian ceasefire in Kherson. The temporary truce had enabled civilians to evacuate the Russian-occupied city of Oleshky.",
+   "why": "Attacks on energy infrastructure immediately disrupt vital civilian services following the breakdown of local ceasefires.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793469215,
+   "articles": [
+    {
+     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Residents evacuated from the Russia-occupied city of Oleshky have reunited with their families after surviving without basic utilities and food. Many had resorted to cooking garden weeds to survive.",
+   "why": "It highlights the extreme humanitarian distress and survival conditions faced by civilians trapped in occupied war zones.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793448000,
+   "articles": [
+    {
+     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "International",
+   "summary": "The UN human rights chief has demanded an independent probe into the death of a Yemeni UN staffer held by Houthis for over two years. The staffer's family only learned of the death weeks after it occurred.",
+   "why": "The incident highlights severe risks faced by international humanitarian personnel detained by non-state armed groups.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793465747,
+   "articles": [
+    {
+     "title": "Emotional reunions with loved ones for Oleshky evacuees",
+     "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Evacuated residents from Oleshky arrived via buses and ambulances at the northern Ukrainian border with Belarus after a temporary ceasefire. They were met with emotional reunions with family members.",
+   "why": "Temporary ceasefires facilitating humanitarian corridors are critical for preserving civilian life amid military conflict.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793398312,
+   "articles": [
+    {
+     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+     "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The traditional G20 'family photo' was cancelled following protests over the attendance of a Russian minister. UK Foreign Secretary Ed Miliband confronted his Russian counterpart, accusing Moscow of killing innocent civilians in Ukraine.",
+   "why": "Diplomatic rifts at top multilateral summits reflect deep fractures in international diplomacy due to the ongoing war in Ukraine.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793474546,
+   "articles": [
+    {
+     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+     "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Evacuated Ukrainian residents described surviving years in occupied Oleshky, including crossing minefields in search of food.",
+   "why": "It documents the acute danger and humanitarian hazards that front-line minefields impose on trapped civilians.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
