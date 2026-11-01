@@ -1,4 +1,550 @@
 {
- "updated": "2026-11-01T06:40:14.204083Z",
- "events": []
+ "updated": "2026-11-01T09:35:18.377687Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793459780,
+   "articles": [
+    {
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+     "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "More than 5,000 people have died in the Democratic Republic of the Congo's deadliest Ebola outbreak. Government data indicates that total infections have exceeded 10,000 cases.",
+   "why": "An outbreak of this magnitude reflects severe regional public health collapse and presents high fatality rates for a lethal pathogen.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793361600,
+   "articles": [
+    {
+     "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN human rights office warned that Israeli forces are compressing Palestinians into shrinking areas of the Gaza Strip while striking displacement sites and civilian infrastructure.",
+   "why": "The destruction of civilian infrastructure and severe confinement of displaced populations raise serious concerns under international humanitarian law.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 10,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1793525286,
+   "articles": [
+    {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+     "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+     "source": "NPR World"
+    },
+    {
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "The FBI stated that North Korea was responsible for a $6.3 billion hack targeting crypto firm Binance. Binance is attempting to recover the stolen funds and has covered 90% of the losses.",
+   "why": "A state-sponsored theft of this magnitude directly funds sanctioned regimes and exposes systemic vulnerabilities in global digital financial infrastructure.",
+   "impact": 6.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793516455,
+   "articles": [
+    {
+     "title": "India's opposition holds mega rally seeking election chief's resignation",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+     "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "India's opposition staged a major rally calling for the election chief's resignation over a voter roll revision exercise. The contested revision is feared to exclude up to 130 million voters from the rolls.",
+   "why": "Potential disenfranchisement on a scale of 130 million citizens poses a structural challenge to the integrity of democratic governance in the world's most populous nation.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793361600,
+   "articles": [
+    {
+     "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "According to the IPC global food security monitor, over 28 million people in the Democratic Republic of the Congo are suffering from acute food insecurity. The figure is projected to rise further due to ongoing conflict, Ebola, and climate shocks.",
+   "why": "Severe food insecurity affecting tens of millions represents one of the largest ongoing humanitarian crises globally.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793409103,
+   "articles": [
+    {
+     "title": "Police deployed during stand-off over control of top Poland court",
+     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Police were deployed during a stand-off regarding control over Poland's top court. The confrontation followed the government's suspension of two senior justices and moves to pursue criminal charges against them.",
+   "why": "Police intervention and executive actions against top judges represent a direct constitutional confrontation over judicial independence.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793410025,
+   "articles": [
+    {
+     "title": "Global nature talks reach deal but money remains an issue",
+     "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Countries have concluded a global agreement aimed at reversing biodiversity decline. However, unresolved funding mechanisms remain an obstacle to implementation.",
+   "why": "Global biodiversity pacts set crucial conservation targets, but lack of committed funding frequently undermines their real-world execution.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793494506,
+   "articles": [
+    {
+     "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+     "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Aleksandar Vučić was defeated in last weekend's vote in Serbia. The election result mirrors the political fall of Viktor Orbán in Hungary.",
+   "why": "The electoral removal of long-standing leaders in Serbia and Hungary signals a major shift in the political balance of Central and Southeastern Europe.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793513940,
+   "articles": [
+    {
+     "title": "Bolivia declares state of emergency over El Nino weather pattern",
+     "link": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
+     "link": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "Bolivia has declared a state of emergency due to the intensifying El Nino weather pattern. The drought has affected 78,000 families and resulted in the loss of over 75,000 cattle ahead of an expected peak in late 2026.",
+   "why": "Widespread agricultural destruction and severe water shortages threaten food security and rural livelihoods across the country.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793448000,
+   "articles": [
+    {
+     "title": "Somalia looks to the future as the UN's political mission closes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "The UN is concluding its political mission in Somalia after three decades of engagement, according to the UN Secretary-General's Deputy Special Representative.",
+   "why": "The withdrawal of a thirty-year UN political mission marks a major transition in the governance and security architecture of the Horn of Africa.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793448000,
+   "articles": [
+    {
+     "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "A UN rights official reported that North Korea's population is increasingly isolated from the outside world despite rapid domestic technological rollout, infrastructure construction, and new laws.",
+   "why": "The divergence between internal modernization and deepening totalitarian isolation highlights evolving human rights challenges within a closed nuclear state.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793361600,
+   "articles": [
+    {
+     "title": "Yemen war makes reaching assistance too dangerous for many",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Fighting in Yemen has displaced more than 280,000 people, according to the UN refugee agency. Many vulnerable individuals cannot access lifesaving aid due to hazardous conditions.",
+   "why": "The inability of aid organizations to reach hundreds of thousands of displaced persons severely escalates mortality risks in prolonged conflict.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793392911,
+   "articles": [
+    {
+     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Independent Russian newspaper Novaya Gazeta has shut down under pressure from state authorities. The publication had served as a prominent independent news source in Russia for thirty years.",
+   "why": "The closure extinguishes one of Russia's few remaining independent media organizations, further narrowing domestic press freedoms.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 8,
+   "tier": "primary",
+   "sources": [
+    "Al Jazeera",
+    "UN News"
+   ],
+   "n_sources": 2,
+   "ts": 1793508555,
+   "articles": [
+    {
+     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+     "source": "UN News"
+    },
+    {
+     "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+     "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UN human rights chief demanded an independent investigation into the death of a Yemeni staff member held by Houthis for over two years. The staffer's family learned of the death weeks after it occurred.",
+   "why": "The custodial death of international agency personnel jeopardizes diplomatic protections and future humanitarian field operations in contested territories.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793414365,
+   "articles": [
+    {
+     "title": "The fight to save Canadian town threatened by Trump's tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Local",
+   "summary": "A century-old paper mill in Témiscaming, Quebec, has closed indefinitely following the imposition of 50% US tariffs on its products. The closure has resulted in hundreds of job losses for the town.",
+   "why": "High cross-border tariffs can rapidly decimate specialized local economies reliant on trade with the United States.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793361600,
+   "articles": [
+    {
+     "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon. UN aid coordination officials warn that the humanitarian crisis is far from over.",
+   "why": "Mass internal displacement places severe strain on basic services and stability in an already fragile state.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793425461,
+   "articles": [
+    {
+     "title": "Spain train disaster clouds Sánchez chances of re-election",
+     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Spanish Prime Minister Pedro Sánchez faces complications to his re-election prospects following a major train disaster. The incident comes amid a sequence of crises ahead of a snap general election.",
+   "why": "Major infrastructure failures preceding national elections can rapidly alter leadership and public policy outcomes in a European economy.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793522580,
+   "articles": [
+    {
+     "title": "Shops looted as German cost of living protests turn violent",
+     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "Protests over the rising cost of living turned violent in German cities including Berlin, Hamburg, and Frankfurt, leading to looted shops. The demonstrations coincided with hundreds of thousands of protesters taking to the streets in France.",
+   "why": "Coordinated cross-border unrest highlights intensifying public frustration with inflation and economic strain across major European economies.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793482141,
+   "articles": [
+    {
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "More than 320,000 people demonstrated across France against poor public services and the rising cost of living. Clashes occurred between police and some demonstrators during the protests.",
+   "why": "Massive domestic mobilization pressures the government to address widespread discontent over deteriorating public services and inflation.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793456895,
+   "articles": [
+    {
+     "title": "Ethiopian PM puts ministers through military training",
+     "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Ethiopia's prime minister has mandated that government ministers undergo military training. The prime minister has previously cited military preparedness as fundamental to his administration's goals.",
+   "why": "Compelling civilian cabinet members to undergo military drills points to an increasing militarization of state governance.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793465747,
+   "articles": [
+    {
+     "title": "Emotional reunions with loved ones for Oleshky evacuees",
+     "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Residents evacuated from Oleshky arrived by buses and ambulances at the northern Ukrainian border with Belarus following a temporary ceasefire. The arrival allowed evacuees to reunite with their relatives.",
+   "why": "Temporary humanitarian ceasefires provide rare, critical relief to imperiled civilians caught on active front lines.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
