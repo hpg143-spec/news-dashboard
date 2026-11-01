@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-31T21:27:39.769527Z",
+ "updated": "2026-11-01T00:31:46.472215Z",
  "events": [
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "The UN rights office warned that Israeli forces are compressing civilians into increasingly confined zones in Gaza while destroying infrastructure and hitting displacement sites.",
-   "why": "Raises formal warnings from international bodies regarding potential ethnic cleansing and systematic humanitarian collapse.",
-   "impact": 7.6,
-   "under_radar": true,
-   "gap": 0.66
-  },
   {
    "pre": 7,
    "tier": "wire",
@@ -43,83 +19,11 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "Government data indicates over 5,000 people have died in the Democratic Republic of Congo's deadliest recorded Ebola outbreak. Total infections have surpassed 10,000 cases.",
-   "why": "An unprecedented death toll for an Ebola outbreak poses severe biosecurity and public health risks regionally.",
-   "impact": 7.6,
+   "summary": "Government records indicate over 5,000 people have died in the Democratic Republic of the Congo's deadliest Ebola outbreak to date. Total recorded infections have surpassed 10,000 cases.",
+   "why": "A 50% mortality rate across 10,000 cases represents a catastrophic public health emergency with severe epidemic transmission risks.",
+   "impact": 7.8,
    "under_radar": true,
-   "gap": 0.66
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793361600,
-   "articles": [
-    {
-     "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "More than 28 million people in the Democratic Republic of the Congo are suffering from food insecurity, driven by conflict, climate shocks, and disease outbreaks like Ebola. IPC monitors warn that these numbers are projected to increase.",
-   "why": "Represents one of the largest acute food security and humanitarian emergencies in the world.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793464328,
-   "articles": [
-    {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Cryptocurrency exchange Binance has covered 90% of losses following a massive $6.3 billion hack. Analytics firms point to a North Korean state-backed cyber group as the primary culprit.",
-   "why": "One of the largest cyber heists in history directly links state-sponsored actors to illicit funding channels through global financial platforms.",
-   "impact": 7.2,
-   "under_radar": true,
-   "gap": 0.62
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793394794,
-   "articles": [
-    {
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Cryptocurrency exchange Binance is attempting to recover $6.3 billion stolen in a complex cyber-attack linked to North Korea. The incident is believed to be the largest cyber heist of its kind in history.",
-   "why": "A state-linked theft of this unprecedented magnitude poses massive systemic risks to crypto markets and provides illicit state revenue.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
+   "gap": 0.68
   },
   {
    "pre": 5,
@@ -139,11 +43,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Former President Joseph Kabila has launched a new rebel movement in the Democratic Republic of the Congo.",
-   "why": "A former head of state leading an armed rebellion threatens significant destabilization in the DRC.",
-   "impact": 7.0,
+   "summary": "Former Democratic Republic of Congo President Joseph Kabila has launched a new rebel movement.",
+   "why": "A former head of state forming an armed insurgency risks reigniting large-scale armed conflict and regional instability in DR Congo.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.6
+   "gap": 0.64
   },
   {
    "pre": 7,
@@ -152,22 +56,22 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793448000,
+   "ts": 1793361600,
    "articles": [
     {
-     "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+     "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A UN rights official reported that North Korea is modernizing infrastructure, digital services, and domestic laws while cutting off its population from the outside world more than ever before.",
-   "why": "Demonstrates internal technological consolidation paired with deepening totalitarian isolation of an entire nation.",
-   "impact": 6.6,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The UN human rights office reported that Israeli military operations are confining Palestinians to shrinking areas while destroying infrastructure and targeting displacement sites. OHCHR warned of potential ethnic cleansing amidst the escalating displacement crisis.",
+   "why": "Systematic destruction and severe civilian compression threaten permanent demographic displacement and mass casualties.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.56
+   "gap": 0.6
   },
   {
    "pre": 7,
@@ -187,11 +91,59 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "Three decades of United Nations political missions in Somalia are concluding, according to Deputy Special Representative Raisedon Zenenga.",
-   "why": "Marks a significant turning point in international security oversight and political support for Somalia's statehood.",
-   "impact": 6.6,
+   "summary": "Three decades of UN political missions in Somalia are ending, marking a key transition for the Horn of Africa country. UN leadership described the engagement as an era of persistence, partnership, and adaptation.",
+   "why": "The complete withdrawal of a 30-year UN political framework significantly shifts governance and security responsibilities to Somalia's sovereign institutions.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.56
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793361600,
+   "articles": [
+    {
+     "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "More than 28 million people in the DRC face food shortages, with hunger levels projected to rise further due to conflict, Ebola, and climate shocks. The warning was published by the global food monitor IPC.",
+   "why": "Tens of millions face severe malnutrition driven by compounding crises of disease, warfare, and extreme weather.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793480479,
+   "articles": [
+    {
+     "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+     "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "Health authorities in northeast Nigeria are investigating two suspected Ebola cases. The individuals have been isolated while contact tracing and laboratory tests are conducted.",
+   "why": "A potential outbreak of Ebola carries severe public health and epidemic containment risks across the region.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
    "pre": 7,
@@ -200,19 +152,19 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793409103,
+   "ts": 1793491927,
    "articles": [
     {
-     "title": "Police deployed during stand-off over control of top Poland court",
-     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+     "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Police were deployed during a standoff over the leadership of Poland's top court. The move followed government actions suspending two senior justices and advancing criminal charges against them.",
-   "why": "Signals a severe constitutional crisis and direct confrontation between state executive power and the judicial branch.",
+   "summary": "India's opposition is preparing a major rally demanding the election chief's resignation amid disputes over voter roll revisions. Critics fear the revision process could disenfranchise 130 million registered voters.",
+   "why": "Disenfranchisement risks on this scale directly challenge democratic legitimacy in the world's most populous nation.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
@@ -235,59 +187,11 @@
    "skip": false,
    "category": "Security",
    "scale": "Global",
-   "summary": "Suspected North Korean state hackers are the prime suspects in the record-breaking Binance cryptocurrency heist. The scale of the breach highlights the growing sophistication of the country's elite cyber operations.",
-   "why": "It highlights North Korea's advanced cyber offensive capabilities used to bypass sanctions and extract billions.",
+   "summary": "Suspected North Korean hackers are the primary suspects in a record-breaking cyber heist targeting cryptocurrency exchange Binance.",
+   "why": "Major state-sponsored cyber operations targeting global financial platforms provide illicit revenue and demonstrate growing systemic digital vulnerabilities.",
    "impact": 6.6,
    "under_radar": true,
    "gap": 0.56
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793364596,
-   "articles": [
-    {
-     "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
-     "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "An IISS study indicates Gulf states must reconfigure their trillion-dollar defense postures following economic fallout and questioned utility of US bases during conflict. The report highlights overreliance on American support and costly high-end defense systems.",
-   "why": "Shifting Gulf defense architectures away from US reliance could fundamentally reshape Middle Eastern regional security alliances and global arms procurement.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793458845,
-   "articles": [
-    {
-     "title": "Maurene Comey ruling offers hope of check on Trump’s assault on rule of law",
-     "link": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "A judicial ruling rejected the firing of federal prosecutor Maurene Comey, daughter of former FBI director James Comey. Legal experts noted the decision pushes back against politicized dismissals, though an appeal remains likely.",
-   "why": "The decision establishes a critical judicial check on executive efforts to purge civil servants and prosecutors for political reasons.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
   },
   {
    "pre": 5,
@@ -307,32 +211,8 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Global nature talks have concluded with a deal intended to halt biodiversity decline, though financing remains unresolved. Participating countries sought to put global conservation commitments back on track.",
-   "why": "Global biodiversity pacts set critical environmental frameworks, though their success hinges on contentious funding mechanisms.",
-   "impact": 6.4,
-   "under_radar": true,
-   "gap": 0.54
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793480479,
-   "articles": [
-    {
-     "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-     "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Regional",
-   "summary": "Health authorities in northeast Nigeria are investigating two suspected Ebola cases. The individuals have been isolated while officials conduct contact tracing and laboratory tests.",
-   "why": "Ebola outbreaks carry severe mortality risks and significant potential for cross-border public health crises.",
+   "summary": "Countries have reached a global agreement to halt nature decline, though funding remains unresolved. The negotiations aimed to get international biodiversity efforts back on track.",
+   "why": "Global biodiversity agreements govern worldwide conservation policy and impact ecosystem survival, though effectiveness hinges on resolving funding shortfalls.",
    "impact": 6.4,
    "under_radar": true,
    "gap": 0.54
@@ -355,11 +235,11 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Fighting in Yemen has internally displaced more than 280,000 people, according to the UN refugee agency. Heavy danger is preventing many vulnerable populations from accessing lifesaving humanitarian aid.",
-   "why": "Severe insecurity blocking essential relief exacerbates an already acute humanitarian and displacement catastrophe.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
+   "summary": "Fighting in Yemen has displaced more than 280,000 individuals, according to the UN refugee agency. The insecurity has rendered it too dangerous for many vulnerable people to receive lifesaving relief.",
+   "why": "Severe security threats prevent critical aid delivery to hundreds of thousands of displaced individuals facing acute crisis.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 7,
@@ -368,46 +248,22 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793361600,
+   "ts": 1793448000,
    "articles": [
     {
-     "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+     "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Geopolitics",
    "scale": "National",
-   "summary": "Over 300,000 individuals remain internally displaced in Lebanon since early March, with UN aid officials warning that the humanitarian crisis persists.",
-   "why": "Persistent mass displacement strains basic infrastructure and stability in an already economically fragile state.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "DW"
-   ],
-   "n_sources": 1,
-   "ts": 1793402520,
-   "articles": [
-    {
-     "title": "Poland: Protesters, police clash amid top court standoff",
-     "link": "https://www.dw.com/en/poland-protesters-police-clash-amid-top-court-standoff/a-79813882?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Clashes broke out between protesters and police in Poland over a standoff involving the country's top court. Prime Minister Donald Tusk defended the suspension of top court President Bogdan Swieczkowski as an effort to restore the rule of law.",
-   "why": "Constitutional confrontations between the executive and judiciary threaten institutional stability and rule-of-law standards in an EU member state.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "Despite introducing internal advancements such as mobile banking, smartphones, and new factories, the DPRK has left its population more isolated from the outside world than ever. This assessment was issued by a UN human rights official.",
+   "why": "Deepening isolation directly compounds state control and human rights violations over an entire national population.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 5,
@@ -427,11 +283,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "A demonstrator was sentenced to 34 years in prison after questioning Thailand's monarchy while dressed in costume. Thailand has prosecuted 294 individuals under its lèse majesté law since 2020, with prison terms reaching up to 50 years.",
-   "why": "It demonstrates severe and escalating legal repression of political speech and protest in Thailand.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "summary": "A Thai activist was sentenced to 34 years in prison after questioning the monarchy during a protest. Thailand has prosecuted 294 individuals under its lèse majesté law since 2020, issuing sentences up to 50 years.",
+   "why": "The rigorous enforcement of harsh lèse-majesté laws represents a systematic suppression of political speech and civil liberties across Thailand.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
   },
   {
    "pre": 5,
@@ -451,137 +307,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "Turkish President Erdogan hosted Ukrainian President Zelenskyy in Istanbul, where both agreed to work on a new Black Sea grain corridor. Erdogan also called for an end to Black Sea attacks involving Russia and Ukraine.",
-   "why": "Re-establishing a Black Sea grain corridor directly influences global food security and supply chains.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793448000,
-   "articles": [
-    {
-     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "The UN human rights chief demanded an independent investigation into the death of a Yemeni staff member held by Houthis for over two years. The victim's family learned of his death weeks after it occurred.",
-   "why": "Underscores severe risks to humanitarian workers and escalating violations of international immunity by Houthi authorities.",
+   "summary": "Turkish President Erdogan urged Russia and Ukraine to halt Black Sea attacks during a meeting with President Zelenskyy in Istanbul. Both leaders agreed to collaborate on establishing a new Black Sea grain corridor.",
+   "why": "Restoring a Black Sea grain corridor directly impacts global food security and maritime navigation in a major conflict zone.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793392486,
-   "articles": [
-    {
-     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "The Nasdaq fell to its lowest level in over two months, led by drops in tech shares like Intel, as artificial intelligence expenditure approaches $1 trillion. US tech stocks experienced broad sharp declines.",
-   "why": "Major stock contractions tied to unsustainable capital expenditures can rattle global financial markets and venture funding.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "The Guardian World"
-   ],
-   "n_sources": 1,
-   "ts": 1793354836,
-   "articles": [
-    {
-     "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-     "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Regional",
-   "summary": "Severe rainfall and flood warnings have been issued for central Greece and western Turkey, following a fatal tornado and powerful thunderstorms in Turkey. A persistent low-pressure area will continue to bring heavy rain and strong winds across south-eastern Europe.",
-   "why": "Severe weather patterns present immediate risks to human life, infrastructure, and regional emergency services.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World"
-   ],
-   "n_sources": 2,
-   "ts": 1793475463,
-   "articles": [
-    {
-     "title": "Clashes erupt between police and protesters in Paris",
-     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Tension and clashes as hundreds of thousands protest again in France",
-     "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "More than 320,000 protesters demonstrated across France in a third weekend of actions against poor public services and rising living costs. Clashes erupted between demonstrators and police in Paris.",
-   "why": "Widespread mass mobilization reflects severe domestic socio-economic strain that risks paralyzing governance and public services in France.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793392911,
-   "articles": [
-    {
-     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "The founder of Novaya Gazeta stated the newspaper was effectively strangled after shutting down under pressure from Russian authorities. The publication had operated as a prominent independent Russian news outlet for three decades.",
-   "why": "The closure marks a definitive end to one of the last major independent media institutions inside Russia.",
-   "impact": 5.2,
-   "under_radar": false,
-   "gap": 0.42
   },
   {
    "pre": 5,
@@ -601,11 +331,179 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "Israeli attacks in Gaza, including shelling of the Nuseirat refugee camp, have killed at least four Palestinians.",
-   "why": "Fatal strikes on refugee areas represent lethal physical harm amid ongoing armed conflict.",
+   "summary": "Israeli attacks in Gaza, including the shelling of the Nuseirat refugee camp, have killed at least four Palestinians.",
+   "why": "It documents ongoing casualties and military strikes within a civilian refugee area.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793361600,
+   "articles": [
+    {
+     "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Over 300,000 individuals remain internally displaced in Lebanon since early March, according to the UN's aid coordination office. OCHA warned that the ongoing humanitarian crisis is far from over.",
+   "why": "Large-scale displacement exacerbates Lebanon's ongoing socioeconomic collapse and regional stability.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793392911,
+   "articles": [
+    {
+     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Prominent independent Russian newspaper Novaya Gazeta has shut down under pressure from authorities. The founder stated that official pressure effectively strangled the three-decade-old publication.",
+   "why": "The closure of Russia's most prominent independent news outlet marks a major contraction in domestic press freedom.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793414365,
+   "articles": [
+    {
+     "title": "The fight to save Canadian town threatened by Trump's tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Local",
+   "summary": "A century-old paper mill in Témiscaming, Quebec has closed indefinitely after the United States imposed 50% tariffs on its products. The closure has left hundreds of workers unemployed.",
+   "why": "Targeted trade tariffs can directly eliminate primary employers and destabilize local single-industry economies.",
    "impact": 5.2,
    "under_radar": false,
    "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793448000,
+   "articles": [
+    {
+     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "The UN human rights chief has demanded an independent investigation into the death of a Yemeni UN staff member held in Houthi custody for over two years. The victim's family was notified only weeks after his death occurred.",
+   "why": "The custodial death of international personnel highlights worsening threats to diplomatic immunity and aid operations in Houthi-held Yemen.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793467740,
+   "articles": [
+    {
+     "title": "Jerusalem Daily: Who will form Israel’s next government?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Netanyahu and Eisenkot are competing to assemble a governing coalition within Israel's Knesset.",
+   "why": "The outcome determines the leadership and political direction of Israel's national government.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793425461,
+   "articles": [
+    {
+     "title": "Spain train disaster clouds Sánchez chances of re-election",
+     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "A recent train disaster has added to political crises facing Spanish Prime Minister Pedro Sánchez just weeks before a snap election. The events complicate his administration's chances for re-election.",
+   "why": "Major infrastructure failures near national elections can decisively swing voting outcomes and reshape government leadership.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793474369,
+   "articles": [
+    {
+     "title": "How vulnerable are cryptocurrency platforms?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Hackers have targeted Binance, the world's largest cryptocurrency exchange.",
+   "why": "Security threats to the largest digital asset exchange could affect the financial assets of millions of global users.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
   },
   {
    "pre": 10,
@@ -646,187 +544,13 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Evacuated residents from Russian-occupied Oleshky arrived at the northern Ukrainian border with Belarus via buses and ambulances. The evacuation followed a temporary ceasefire allowing civilians to reach Kyiv-controlled territory.",
-   "why": "It marks a rare functional humanitarian corridor facilitating civilian evacuations across active front lines in the Russia-Ukraine war.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.1
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793425461,
-   "articles": [
-    {
-     "title": "Spain train disaster clouds Sánchez chances of re-election",
-     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "National",
-   "summary": "Spanish Prime Minister Pedro Sánchez faces compounding political crises following a major train disaster. The incident threatens his re-election prospects weeks ahead of a snap election.",
-   "why": "Disaster management failures could alter governing coalitions and electoral outcomes in a major European economy.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793380039,
-   "articles": [
-    {
-     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-     "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "US inmate Christa Pike made her first public statement after surviving a failed lethal injection execution in September. Pike stated that she woke up confused and in pain following the botched procedure.",
-   "why": "Botched executions directly impact constitutional and legal scrutiny surrounding capital punishment protocols.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793467740,
-   "articles": [
-    {
-     "title": "Jerusalem Daily: Who will form Israel’s next government?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Benjamin Netanyahu and Gadi Eisenkot are engaged in negotiations to form a governing coalition in Israel's Knesset.",
-   "why": "Coalition negotiations determine the composition and policy direction of the national government.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "n_sources": 2,
-   "ts": 1793464084,
-   "articles": [
-    {
-     "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
-     "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Gen Z protests sweep cities across Germany",
-     "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Thousands of Gen Z demonstrators rallied across more than 30 German cities, including Berlin. The protests were driven by frustration over increasing living costs alongside government military spending.",
-   "why": "Broad youth mobilization across dozens of cities indicates rising public resistance to European defense spending prioritized over living standards.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.28
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793474369,
-   "articles": [
-    {
-     "title": "How vulnerable are cryptocurrency platforms?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Hackers have targeted Binance, the world's largest cryptocurrency exchange.",
-   "why": "Cyberattacks against the largest crypto exchange pose systemic financial risks to digital asset markets.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793456895,
-   "articles": [
-    {
-     "title": "Ethiopian PM puts ministers through military training",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "Ethiopia's prime minister has put government ministers through military training. The prime minister has previously emphasized military preparedness as central to his administration's ambitions.",
-   "why": "It signals an unusual militarization of civilian executive leadership in a volatile regional power.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793414365,
-   "articles": [
-    {
-     "title": "The fight to save Canadian town threatened by Trump's tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Local",
-   "summary": "A century-old paper mill in Témiscaming, Quebec, has closed indefinitely after the United States imposed 50% tariffs on its products. The closure has left hundreds of local workers unemployed.",
-   "why": "It demonstrates how targeted cross-border trade tariffs can immediately devastate single-industry local economies.",
+   "summary": "Evacuated residents from Russian-occupied Oleshky arrived at the northern Ukrainian border with Belarus via buses and ambulances following a temporary ceasefire. They have now reached Kyiv-controlled territory to reunite with families.",
+   "why": "It marks a successful humanitarian corridor facilitating civilian evacuation across conflict lines during an active war.",
    "impact": 4.4,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.04
   },
   {
    "pre": 9,
@@ -844,37 +568,13 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "The UN's top humanitarian official stated that the ceasefire in Oleshky provides hope for civilians, insisting that departures must remain voluntary and safe. However, attacks against aid vehicles in the area continue.",
-   "why": "Highlights the extreme vulnerability of ongoing civilian evacuation corridors and the limits of temporary ceasefires.",
-   "impact": 4.2,
-   "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793402357,
-   "articles": [
-    {
-     "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-     "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "Local",
-   "summary": "A temporary ceasefire is unfolding in the devastated Russian-occupied town of Oleshky. Dan Johnson reports on conditions surrounding the pause in fighting.",
-   "why": "Temporary ceasefires in occupied front-line cities can offer critical humanitarian relief and opportunities for civilian evacuation.",
-   "impact": 4.2,
+   "summary": "The UN's top humanitarian official noted that each day the Oleshky ceasefire holds provides hope for civilians, though attacks on aid vehicles persist. The official emphasized that residents wishing to leave must be permitted safe and voluntary passage.",
+   "why": "Fragile local ceasefires determine civilian survival and the viability of international humanitarian operations under ongoing fire.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.34
   },
   {
    "pre": 5,
@@ -894,113 +594,11 @@
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "Israeli settlers in the occupied West Bank have subjected Palestinian farmers to deadly violence during the olive harvest.",
-   "why": "Lethal violence against farmers threatens civilian lives and undermines agricultural livelihoods in occupied territories.",
-   "impact": 4.2,
+   "summary": "Israeli settlers in the occupied West Bank have turned the olive harvest into a deadly activity for Palestinians.",
+   "why": "It reflects ongoing violence and territorial tensions impacting the safety and livelihoods of local residents in the West Bank.",
+   "impact": 4.4,
    "under_radar": false,
-   "gap": 0.32
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793371702,
-   "articles": [
-    {
-     "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-     "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Other",
-   "scale": "National",
-   "summary": "Pope Leo XIV cast a mail-in ballot for the US midterm elections, becoming the first pontiff to participate in an American election.",
-   "why": "An unprecedented intersection of papal authority and US electoral politics, breaking historical convention.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 7,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "n_sources": 1,
-   "ts": 1793472509,
-   "articles": [
-    {
-     "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-     "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "National",
-   "summary": "Police in London arrested 139 people as hundreds protested the proscription of Palestine Action. The demonstrations occurred ahead of a UK Supreme Court appeal challenging the ban.",
-   "why": "Mass arrests and the upcoming Supreme Court appeal test state powers regarding the criminalization and proscription of protest organizations.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "The Guardian World"
-   ],
-   "n_sources": 2,
-   "ts": 1793478635,
-   "articles": [
-    {
-     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-     "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
-     "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
-     "source": "The Guardian World"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Local",
-   "summary": "The District of Columbia and Virginia filed a lawsuit to stop the construction of Donald Trump's planned triumphal arch. Local authorities cite potential traffic disruption and harm to historic views.",
-   "why": "Highlights an escalating legal battle between local jurisdictions and federal executive authority over public infrastructure and urban planning.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.2
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793474546,
-   "articles": [
-    {
-     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-     "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Health",
-   "scale": "Local",
-   "summary": "Civilians evacuated from the Russian-occupied front-line city of Oleshky reported crossing minefields to search for food. Trapped residents described the conditions under occupation as severe deprivation.",
-   "why": "Demonstrates the extreme humanitarian crisis and physical danger faced by civilians trapped along active front lines in occupied Ukraine.",
-   "impact": 4.0,
-   "under_radar": false,
-   "gap": 0.3
+   "gap": 0.34
   }
  ]
 }
