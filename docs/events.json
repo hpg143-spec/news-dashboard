@@ -1,4 +1,173 @@
 {
- "updated": "2026-11-02T18:43:45.459948Z",
- "events": []
+ "updated": "2026-11-02T21:36:01.034404Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793538697,
+   "articles": [
+    {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Cryptocurrency platform Binance has covered 90% of losses following a $6.3 billion hack. The FBI attributed the massive cyberattack to North Korea.",
+   "why": "State-sponsored cyber hefts of this scale directly fund sanctioned regimes while demonstrating severe vulnerabilities in global financial infrastructure.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793651884,
+   "articles": [
+    {
+     "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+     "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The United States is suspending duty-free trade access for South Africa and Rwanda. The loss of preferential access will impact $1.7 billion worth of annual South African exports, notably including vehicles and agricultural goods.",
+   "why": "The withdrawal of major preferential trade status causes immediate economic friction and reshapes export markets and bilateral diplomatic ties.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793552792,
+   "articles": [
+    {
+     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+     "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israeli strikes across Gaza have killed eight individuals, including a child and five Hamas-run police officers, according to hospital officials. The deaths occurred in Khan Younis and Gaza City.",
+   "why": "Targeted strikes in an active conflict zone result in irreversible loss of life and impact local administrative stability.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793652884,
+   "articles": [
+    {
+     "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Campaign spending for the 2026 US midterm elections is projected to reach nearly $12 billion, setting a new historical record. BBC Verify is investigating the primary sources of the unprecedented political funding.",
+   "why": "Unprecedented campaign expenditure reflects shifting electoral dynamics and expanding influence of private capital in national governance.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793599534,
+   "articles": [
+    {
+     "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+     "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "An Iranian mother is publicly confronting the regime following the killing of her teenage daughter Sevda by security forces. The case has been documented by BBC Panorama.",
+   "why": "Public defiance by families of victims underscores persistent domestic opposition to state repression in Iran.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793599254,
+   "articles": [
+    {
+     "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+     "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "A mother is challenging the Iranian government after her 16-year-old daughter was shot dead during mass protests in January. The shooting occurred while both were actively participating in demonstrations.",
+   "why": "Documented fatalities of civilians during protests reflect ongoing human rights abuses and civil-state conflict in Iran.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793534268,
+   "articles": [
+    {
+     "title": "Shops looted as German cost-of-living protests turn violent",
+     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "Cost-of-living protests across German cities including Berlin, Hamburg, and Frankfurt turned violent with reports of looted shops. The demonstrations coincided with widespread protests in France involving hundreds of thousands.",
+   "why": "Coordinated unrest across major European economies highlights acute economic pressure capable of driving public disorder.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  }
+ ]
 }
