@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-01T21:28:04.345026Z",
+ "updated": "2026-11-02T00:36:49.064212Z",
  "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793577600,
+   "articles": [
+    {
+     "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Two tankers caught fire after hitting mines in the Strait of Hormuz, according to the IRGC. The incident comes as the US president warned Iran to reach a deal while claiming the conflict would end soon.",
+   "why": "Disruptions and mine attacks in the Strait of Hormuz threaten a critical global energy chokepoint and risk massive escalation in international shipping and military conflict.",
+   "impact": 8.4,
+   "under_radar": true,
+   "gap": 0.74
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793538697,
+   "articles": [
+    {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "The FBI concluded that North Korea was behind a $6.3 billion cryptocurrency theft targeting the firm Binance. Binance has reportedly covered 90% of the incurred customer losses.",
+   "why": "State-sponsored multi-billion dollar cyber thefts provide immense untraceable revenue to North Korea while testing the systemic stability of digital asset infrastructure.",
+   "impact": 7.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793571553,
+   "articles": [
+    {
+     "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Gulf leaders gathered in Qatar following intensive mediation efforts to avert a potential new round of US attacks on Iran after midterm elections. The ongoing uncertainty has left the entire Gulf region on edge.",
+   "why": "Regional diplomatic intervention attempts to stave off a severe military escalation that could destabilize Middle Eastern energy security and trade.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793547868,
+   "articles": [
+    {
+     "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+     "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Polish Prime Minister Donald Tusk announced he will carry out an overhaul of the country's constitutional court despite ongoing protests. Tusk stated that restructuring the court is vital to repair damage caused by years of political dispute.",
+   "why": "Overhauling the constitutional court reshapes Poland's judiciary and determines the institutional balance of power following years of rule-of-law disputes.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
   {
    "pre": 7,
    "tier": "wire",
@@ -19,35 +121,35 @@
    "skip": false,
    "category": "Health",
    "scale": "National",
-   "summary": "An Ebola outbreak in the Democratic Republic of Congo has killed over 5,000 individuals, making it the country's deadliest outbreak. Government data indicates that total infections have surpassed 10,000 cases.",
-   "why": "High-mortality pathogen outbreaks overwhelm regional public health infrastructure and present severe humanitarian crises.",
-   "impact": 7.2,
+   "summary": "More than 5,000 people have died in the Democratic Republic of Congo during its deadliest Ebola outbreak. Over 10,000 individuals have contracted the virus, according to government data.",
+   "why": "High fatality rates and widespread transmission in an active epidemic pose severe threats to regional public health systems.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.62
+   "gap": 0.56
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1793410025,
+   "ts": 1793563377,
    "articles": [
     {
-     "title": "Global nature talks reach deal but money remains an issue",
-     "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Environment",
-   "scale": "Global",
-   "summary": "Countries have reached a global agreement to halt nature decline, though funding remains an issue. The talks aimed to put global conservation efforts back on track.",
-   "why": "International biodiversity pacts set the framework for worldwide environmental conservation and resource commitments.",
-   "impact": 6.8,
+   "scale": "State",
+   "summary": "The Northern Territory government faces criticism over a plan to eliminate legal requirements that set aside water for the environment. Environmental groups described the move as an extreme attack on nature.",
+   "why": "Removing water protection mandates could cause irreversible ecological degradation to Northern Territory freshwater systems and biodiversity.",
+   "impact": 6.6,
    "under_radar": true,
-   "gap": 0.58
+   "gap": 0.56
   },
   {
    "pre": 7,
@@ -67,11 +169,59 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Nations meeting at COP17 in Armenia agreed to the 'Yerevan Pathway' roadmap to accelerate global conservation efforts. The agreement follows a review indicating the world is currently off track to meet its 2030 biodiversity targets.",
-   "why": "Multilateral biodiversity roadmaps establish global conservation policy to combat widespread species and ecosystem decline.",
-   "impact": 6.6,
+   "summary": "Meeting in Armenia for COP17, nations agreed on the 'Yerevan Pathway' roadmap to accelerate action for nature. The agreement comes after a global review revealed the world is off track to meet its 2030 biodiversity targets.",
+   "why": "Global biodiversity roadmaps guide international conservation efforts and multilateral environmental policies.",
+   "impact": 6.2,
    "under_radar": true,
-   "gap": 0.56
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793409103,
+   "articles": [
+    {
+     "title": "Police deployed during stand-off over control of top Poland court",
+     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Police were deployed during a confrontation over control of Poland's top court. The action followed government moves to suspend two senior justices and pursue criminal charges against them.",
+   "why": "A direct police intervention and executive suspension of senior judges indicates a constitutional crisis over judicial independence.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793553360,
+   "articles": [
+    {
+     "title": "Serbia: Police chief arrested after election for abuse of office",
+     "link": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Serbian police chief Marko Kricak, an Aleksandar Vucic loyalist, was arrested for abuse of office regarding the alleged suppression and manipulation of a murder investigation. Prosecutors stated the arrest is unrelated to Vucic's recent election loss.",
+   "why": "The arrest of a high-ranking police chief and political loyalist reflects major post-election shifts in Serbia's security and judicial apparatus.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
   },
   {
    "pre": 5,
@@ -80,22 +230,22 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793494506,
+   "ts": 1793552792,
    "articles": [
     {
-     "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-     "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+     "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Aleksandar Vučić was defeated in Serbia's election, drawing comparisons to the fall of Viktor Orbán in Hungary.",
-   "why": "The electoral defeat of entrenched leaders reshapes national governance and regional political alignments in Central and Eastern Europe.",
-   "impact": 6.4,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Israeli strikes killed eight people, including five Hamas-run police officers in Khan Younis and three individuals, one a child, in Gaza City. The casualties were confirmed by local hospital officials.",
+   "why": "Targeted strikes on local administrative police and residential areas perpetuate high civilian casualties and instability within Gaza.",
+   "impact": 6.0,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.5
   },
   {
    "pre": 7,
@@ -104,22 +254,22 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793534400,
+   "ts": 1793448000,
    "articles": [
     {
-     "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+     "title": "Somalia looks to the future as the UN's political mission closes",
+     "link": "https://news.un.org/feed/view/en/story/2026/10/1168714",
      "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "The UN peacekeeping mission MINURSO in Western Sahara has begun winding down. UN Secretary-General António Guterres stated the UN remains committed to facilitating a lasting solution ensuring self-determination for the region's people.",
-   "why": "The departure of a decades-long UN peacekeeping force alters the regional security architecture and diplomatic efforts in Western Sahara.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
+   "summary": "Three decades of UN political missions in Somalia are concluding, according to UN Deputy Special Representative Raisedon Zenenga. The transition marks an end to sustained international political engagement in the Horn of Africa country.",
+   "why": "The termination of long-standing UN missions shifts full governance and security oversight to local institutions amid regional instability.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
    "pre": 7,
@@ -139,35 +289,59 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "A judge ordered the Trump administration to cease issuing threats to US election officials. The ruling was issued after officials received demands to set aside ballots belonging to potential non-citizen voters.",
-   "why": "Judicial constraints on federal attempts to influence election administrators protect constitutional election management standards.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
+   "summary": "A judge has ordered the Trump administration to stop issuing threats against US election officials. The decision follows letters sent to officials demanding the segregation of ballots belonging to suspected non-citizen voters.",
+   "why": "Judicial intervention against federal interference directly impacts election administration and the protection of voting rights.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1793448000,
+   "ts": 1793571314,
    "articles": [
     {
-     "title": "Somalia looks to the future as the UN's political mission closes",
-     "link": "https://news.un.org/feed/view/en/story/2026/10/1168714",
-     "source": "UN News"
+     "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+     "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "The United Nations' political mission in Somalia is concluding after three decades of operations in the Horn of Africa. The Deputy Special Representative characterized the mission's history as one of persistence, partnership, and adaptation.",
-   "why": "The formal conclusion of a 30-year UN political presence marks a major transition in Somalia's sovereignty and governance transition.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.5
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A localized six-day ceasefire in Ukraine's Kherson region has ended without reported violations during its duration. Meanwhile, strikes between Moscow and Kyiv have continued elsewhere across Ukraine.",
+   "why": "The expiration of the local truce signals an immediate resumption of intense combat in the Kherson sector.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793542380,
+   "articles": [
+    {
+     "title": "Ukraine: Oleshky ceasefire ends, Russian attacks continue",
+     "link": "https://www.dw.com/en/ukraine-oleshky-ceasefire-ends-russian-attacks-continue/live-79815409?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A US-brokered ceasefire in Kherson's Oleshky area concluded Sunday night with no reported violations. Russian drone and missile strikes have persisted in other Ukrainian regions.",
+   "why": "The end of the diplomatic ceasefire in southern Ukraine restores active frontline fighting in the area.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
    "pre": 5,
@@ -176,46 +350,46 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793497046,
+   "ts": 1793572704,
    "articles": [
     {
-     "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-     "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "Data centre operators are holding tens of billions of pounds in debt, raising concerns that the AI sector bubble could burst.",
-   "why": "High debt burdens across critical tech infrastructure pose systemic financial risks to both the technology industry and credit markets.",
-   "impact": 5.8,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Ukraine's Air Force reported that an air raid application was apparently hacked to broadcast a false radiation warning to users. Officials advised the public to remain calm and confirmed there was no real threat.",
+   "why": "Cyber manipulation of public emergency alert networks creates immediate panic and disrupts civil defense communications in a wartime environment.",
+   "impact": 5.4,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.44
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "Al Jazeera"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793566893,
+   "ts": 1793534400,
    "articles": [
     {
-     "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-     "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Canadian Prime Minister Mark Carney announced progress in Canada-US trade deal negotiations ahead of the US midterm elections.",
-   "why": "Bilateral trade agreements between the US and Canada directly influence cross-border economic flows and broader market stability.",
-   "impact": 5.6,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "UN Secretary-General António Guterres affirmed the UN's commitment to supporting self-determination and a peaceful political solution in Western Sahara. This comes as the MINURSO peacekeeping mission begins winding down.",
+   "why": "The departure of a decades-long UN peacekeeping mission creates a potential security and diplomatic vacuum in a disputed region.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.42
   },
   {
    "pre": 7,
@@ -235,59 +409,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "A UN rights official reports that North Koreans face unprecedented isolation from the outside world despite internal domestic modernizations. These internal changes include the rollout of smartphones, mobile banking, and new infrastructure.",
-   "why": "It documents a worsening human rights and information-isolation crisis inside North Korea despite technological modernization.",
-   "impact": 5.4,
+   "summary": "A UN human rights official reports that the DPRK is undergoing domestic modernization with factories, smartphones, and mobile banking, alongside rapid legal changes. Concurrently, North Korean citizens face greater isolation from the outside world than at any previous point in history.",
+   "why": "It highlights evolving internal socio-economic conditions paired with worsening total information control by the regime.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793482141,
-   "articles": [
-    {
-     "title": "Thousands demonstrate in Paris as protests spread across Europe",
-     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Regional",
-   "summary": "More than 320,000 people protested across France against rising living costs and poor public services, with some clashes reported with police. Demonstrations also spread across other parts of Europe.",
-   "why": "Widespread civil unrest driven by the cost-of-living crisis threatens regional stability and pressures governments economically.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793414365,
-   "articles": [
-    {
-     "title": "The fight to save Canadian town threatened by Trump's tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Local",
-   "summary": "A century-old paper mill in Témiscaming, Quebec, closed indefinitely after the US imposed 50% tariffs on its products. The closure has left hundreds of workers unemployed.",
-   "why": "Protective trade tariffs directly disrupt cross-border supply chains and can devastate single-industry local economies.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
+   "gap": 0.38
   },
   {
    "pre": 7,
@@ -296,7 +422,7 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793566918,
+   "ts": 1793570101,
    "articles": [
     {
      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
@@ -307,35 +433,35 @@
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "Russian strikes cut power to thousands in Ukraine following the conclusion of a rare humanitarian ceasefire in Kherson. The temporary truce had enabled civilians to evacuate the Russian-occupied city of Oleshky.",
-   "why": "Attacks on energy infrastructure immediately disrupt vital civilian services following the breakdown of local ceasefires.",
-   "impact": 5.2,
+   "summary": "Russian strikes cut electricity to thousands of people in Ukraine following the conclusion of a Kherson ceasefire. The brief humanitarian truce had allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "why": "Attacks on energy infrastructure during wartime disrupt vital civilian lifelines and humanitarian access.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.42
+   "gap": 0.38
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "The Guardian World"
    ],
    "n_sources": 1,
-   "ts": 1793469215,
+   "ts": 1793571971,
    "articles": [
     {
-     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+     "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Residents evacuated from the Russia-occupied city of Oleshky have reunited with their families after surviving without basic utilities and food. Many had resorted to cooking garden weeds to survive.",
-   "why": "It highlights the extreme humanitarian distress and survival conditions faced by civilians trapped in occupied war zones.",
-   "impact": 5.0,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "British officials opposed including slavery reparations on the formal Commonwealth summit agenda in Antigua and Barbuda. However, the British prime minister has agreed to engage in structured dialogue regarding reparatory justice.",
+   "why": "The formal agreement to structured talks marks a shift in UK diplomatic engagement on historic colonial reparations among Commonwealth nations.",
+   "impact": 4.8,
    "under_radar": false,
-   "gap": 0.4
+   "gap": 0.38
   },
   {
    "pre": 7,
@@ -354,81 +480,9 @@
    ],
    "skip": false,
    "category": "Security",
-   "scale": "International",
-   "summary": "The UN human rights chief has demanded an independent probe into the death of a Yemeni UN staffer held by Houthis for over two years. The staffer's family only learned of the death weeks after it occurred.",
-   "why": "The incident highlights severe risks faced by international humanitarian personnel detained by non-state armed groups.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793465747,
-   "articles": [
-    {
-     "title": "Emotional reunions with loved ones for Oleshky evacuees",
-     "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Evacuated residents from Oleshky arrived via buses and ambulances at the northern Ukrainian border with Belarus after a temporary ceasefire. They were met with emotional reunions with family members.",
-   "why": "Temporary ceasefires facilitating humanitarian corridors are critical for preserving civilian life amid military conflict.",
-   "impact": 4.6,
-   "under_radar": false,
-   "gap": 0.36
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793398312,
-   "articles": [
-    {
-     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-     "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Global",
-   "summary": "The traditional G20 'family photo' was cancelled following protests over the attendance of a Russian minister. UK Foreign Secretary Ed Miliband confronted his Russian counterpart, accusing Moscow of killing innocent civilians in Ukraine.",
-   "why": "Diplomatic rifts at top multilateral summits reflect deep fractures in international diplomacy due to the ongoing war in Ukraine.",
-   "impact": 4.4,
-   "under_radar": false,
-   "gap": 0.34
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793474546,
-   "articles": [
-    {
-     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-     "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Local",
-   "summary": "Evacuated Ukrainian residents described surviving years in occupied Oleshky, including crossing minefields in search of food.",
-   "why": "It documents the acute danger and humanitarian hazards that front-line minefields impose on trapped civilians.",
+   "scale": "National",
+   "summary": "The UN human rights chief demanded an independent investigation into the death of a Yemeni UN employee held in Houthi custody for over two years. The staffer's family learned of the death weeks after it occurred.",
+   "why": "The death of UN personnel in detention highlights grave risks to international aid workers and ongoing human rights abuses in Yemen.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
