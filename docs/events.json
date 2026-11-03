@@ -1,77 +1,95 @@
 {
- "updated": "2026-11-02T21:36:01.034404Z",
+ "updated": "2026-11-03T00:31:42.297687Z",
  "events": [
   {
-   "pre": 5,
+   "pre": 6,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "Al Jazeera",
+    "NPR World"
    ],
-   "n_sources": 1,
-   "ts": 1793538697,
+   "n_sources": 2,
+   "ts": 1793652224,
    "articles": [
     {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "What’s the future of the Western Sahara conflict?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+     "source": "NPR World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Cryptocurrency platform Binance has covered 90% of losses following a $6.3 billion hack. The FBI attributed the massive cyberattack to North Korea.",
-   "why": "State-sponsored cyber hefts of this scale directly fund sanctioned regimes while demonstrating severe vulnerabilities in global financial infrastructure.",
-   "impact": 6.4,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "The United Nations is terminating its 35-year peacekeeping mission in Western Sahara. The extension was blocked jointly by the United States and Russia.",
+   "why": "Ending a decades-long UN peacekeeping mandate leaves a security vacuum that significantly raises the risk of renewed armed conflict in Western Sahara.",
+   "impact": 7.6,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.56
   },
   {
-   "pre": 5,
+   "pre": 6,
    "tier": "wire",
    "sources": [
-    "Al Jazeera"
+    "BBC World",
+    "The Guardian World"
    ],
-   "n_sources": 1,
-   "ts": 1793651884,
+   "n_sources": 2,
+   "ts": 1793605353,
    "articles": [
     {
-     "title": "US to suspend South Africa and Rwanda from duty-free trade access",
-     "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
-     "source": "Al Jazeera"
+     "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+     "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "source": "The Guardian World"
     }
    ],
    "skip": false,
    "category": "Economy",
    "scale": "Global",
-   "summary": "The United States is suspending duty-free trade access for South Africa and Rwanda. The loss of preferential access will impact $1.7 billion worth of annual South African exports, notably including vehicles and agricultural goods.",
-   "why": "The withdrawal of major preferential trade status causes immediate economic friction and reshapes export markets and bilateral diplomatic ties.",
-   "impact": 6.4,
+   "summary": "Binance experienced a record cyber hack linked to a North Korean group, prompting users to withdraw billions of dollars. The exchange temporarily froze transactions before resuming customer withdrawals.",
+   "why": "A multi-billion dollar theft from the world's largest crypto exchange threatens market liquidity and underscores significant state-sponsored cybersecurity threats to financial infrastructure.",
+   "impact": 7.2,
    "under_radar": true,
-   "gap": 0.54
+   "gap": 0.52
   },
   {
-   "pre": 5,
+   "pre": 6,
    "tier": "wire",
    "sources": [
-    "BBC World"
+    "BBC World",
+    "DW"
    ],
-   "n_sources": 1,
-   "ts": 1793552792,
+   "n_sources": 2,
+   "ts": 1793621940,
    "articles": [
     {
-     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-     "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+     "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+     "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
+    },
+    {
+     "title": "Uganda begins withdrawing troops from Somalia after two decades",
+     "link": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Regional",
-   "summary": "Israeli strikes across Gaza have killed eight individuals, including a child and five Hamas-run police officers, according to hospital officials. The deaths occurred in Khan Younis and Gaza City.",
-   "why": "Targeted strikes in an active conflict zone result in irreversible loss of life and impact local administrative stability.",
-   "impact": 6.0,
+   "summary": "Uganda has started pulling its troops out of Somalia after two decades of involvement. The forces had been supporting Somalia against an insurgency led by the al-Shabab militant group since 2007.",
+   "why": "The withdrawal of a primary troop contributor risks destabilizing the Horn of Africa and shifting the security balance against al-Shabab.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.5
+   "gap": 0.48
   },
   {
    "pre": 5,
@@ -80,22 +98,106 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793652884,
+   "ts": 1793664425,
    "articles": [
     {
-     "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
-     "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+     "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+     "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Thousands of European troops will participate in rehearsals for a potential deployment to Ukraine in the event of peace. Officials emphasized that these forces would not take part in offensive operations.",
+   "why": "Planning for European peacekeeping forces marks a significant structural commitment to post-conflict security guarantees in Eastern Europe.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1793655600,
+   "articles": [
+    {
+     "title": "Trump to remove Rwanda and South Africa from US trade deal",
+     "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+     "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "The US plans to remove Rwanda and South Africa from a duty-free trade initiative. This decision follows US Treasury sanctions on Rwanda's defence ministry a week earlier.",
+   "why": "Losing duty-free access directly impacts export revenues and trade dynamics for two significant African economies while signaling shifts in US diplomatic strategy.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.44
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1793646460,
+   "articles": [
+    {
+     "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+     "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+     "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Dozens of shops across multiple European countries suffered a cyber-attack affecting their fridges and freezers. The attack has raised broader concerns regarding vulnerabilities in retail technology.",
+   "why": "It demonstrates a novel attack vector targeting commercial IoT and cold-chain infrastructure that could disrupt retail food distribution.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793650131,
+   "articles": [
+    {
+     "title": "Man guilty of stealing cash from farm owned by South African president",
+     "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Campaign spending for the 2026 US midterm elections is projected to reach nearly $12 billion, setting a new historical record. BBC Verify is investigating the primary sources of the unprecedented political funding.",
-   "why": "Unprecedented campaign expenditure reflects shifting electoral dynamics and expanding influence of private capital in national governance.",
-   "impact": 5.6,
+   "summary": "A man was convicted of stealing cash from a farm owned by South African President Cyril Ramaphosa. The incident forms part of the ongoing \"Farmgate\" scandal affecting Ramaphosa's presidency.",
+   "why": "Legal developments in the Farmgate scandal carry political consequences for the leadership and stability of the South African government.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.4
   },
   {
    "pre": 5,
@@ -104,70 +206,94 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793599534,
+   "ts": 1793622130,
    "articles": [
     {
-     "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-     "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "An Iranian mother is publicly confronting the regime following the killing of her teenage daughter Sevda by security forces. The case has been documented by BBC Panorama.",
-   "why": "Public defiance by families of victims underscores persistent domestic opposition to state repression in Iran.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793599254,
-   "articles": [
-    {
-     "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-     "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "National",
-   "summary": "A mother is challenging the Iranian government after her 16-year-old daughter was shot dead during mass protests in January. The shooting occurred while both were actively participating in demonstrations.",
-   "why": "Documented fatalities of civilians during protests reflect ongoing human rights abuses and civil-state conflict in Iran.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1793534268,
-   "articles": [
-    {
-     "title": "Shops looted as German cost-of-living protests turn violent",
-     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "title": "Ryanair says it may freeze workers' pay and raise airfares",
+     "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Economy",
    "scale": "Regional",
-   "summary": "Cost-of-living protests across German cities including Berlin, Hamburg, and Frankfurt turned violent with reports of looted shops. The demonstrations coincided with widespread protests in France involving hundreds of thousands.",
-   "why": "Coordinated unrest across major European economies highlights acute economic pressure capable of driving public disorder.",
-   "impact": 4.6,
+   "summary": "Ryanair announced potential wage freezes and ticket price increases due to escalating operating costs. The carrier cited a potential €2bn surge in fuel costs by 2028 tied to regional conflict involving the US, Israel, and Iran.",
+   "why": "Fuel cost pressures on Europe's largest budget airline signal broader economic strain on commercial aviation and consumer travel costs.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.36
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793664494,
+   "articles": [
+    {
+     "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+     "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Local",
+   "summary": "Investigators suggest a plane may have broken apart prior to a fatal crash in Florida. The National Transportation Safety Board noted weather may have played a role, though the exact cause remains undetermined.",
+   "why": "While a tragic aviation accident, it is currently a localized incident pending findings that might imply broader fleet-wide safety issues.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793644464,
+   "articles": [
+    {
+     "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A hacked mobile application broadcast a fake nuclear warning across Ukraine, causing unease rather than mass panic. Many citizens doubted the messages due to years of experience with attacks.",
+   "why": "It highlights cyber threats targeting civilian warning infrastructure to cause psychological disruption during active warfare.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793616527,
+   "articles": [
+    {
+     "title": "Five arrested after South African farmer shot and tortured",
+     "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Five individuals were arrested following the shooting and torture of a 50-year-old South African farmer. The assault occurred amidst discredited rhetoric from right-wing groups alleging white genocide.",
+   "why": "The violent crime touches on sensitive racial and political tensions in South Africa, frequently exploited for political agitation.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
   }
  ]
 }
