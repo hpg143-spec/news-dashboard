@@ -1,4 +1,298 @@
 {
- "updated": "2026-11-03T12:46:03.205998Z",
- "events": []
+ "updated": "2026-11-03T15:37:07.705956Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793713325,
+   "articles": [
+    {
+     "title": "Trump says US will stop giving Israel aid after year-end",
+     "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Former US President Trump declared that the US will cease military aid to Israel after year-end. The issue of US aid to Israel remains a prominent subject of national political debate.",
+   "why": "A cutoff of US military assistance to Israel would represent a monumental shift in Middle Eastern defense alliances and security architecture.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793705434,
+   "articles": [
+    {
+     "title": "How India pulled 500 million people out of poverty as inequality deepens",
+     "link": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "According to the World Bank, India's extreme poverty rate dropped from 27.1 percent in 2011 to 2.6 percent in 2023. This reduction lifted approximately 500 million people out of poverty amid deepening domestic inequality.",
+   "why": "The transition of hundreds of millions out of extreme poverty represents one of the largest socioeconomic transformations in modern history.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793717890,
+   "articles": [
+    {
+     "title": "Global food security is under threat",
+     "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+     "link": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Attacks targeting Russian and Ukrainian grain shipments across the Black Sea threaten global food supplies. These disruptions risk driving up food prices and disproportionately impacting import-dependent nations.",
+   "why": "Disruptions to major Black Sea grain flows risk triggering widespread food price inflation and worsening global food insecurity.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793705234,
+   "articles": [
+    {
+     "title": "Polls open in closely contested US midterm elections 2026",
+     "link": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Voting has commenced in the competitive 2026 US midterm elections. Democratic contenders seek congressional gains that could significantly alter the nation's political trajectory.",
+   "why": "Midterm results determine legislative control and set the policy framework for the world's largest economy.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793709183,
+   "articles": [
+    {
+     "title": "Two police officers protecting polio workers in Pakistan shot dead",
+     "link": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Gunmen on a motorcycle killed two police officers assigned to protect polio vaccination workers in Pakistan's Khyber Pakhtunkhwa province.",
+   "why": "Violent targeting of vaccination security jeopardizes crucial public health efforts to eradicate polio.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793709501,
+   "articles": [
+    {
+     "title": "Cyberattack disrupts supermarkets across Europe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/cyberattack-disrupts-supermarkets-across-europe?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Regional",
+   "summary": "A cyberattack has caused widespread operational disruptions across supermarket networks in Europe.",
+   "why": "Cyberattacks on essential retail and supply chain infrastructure can directly disrupt public access to basic necessities.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793652884,
+   "articles": [
+    {
+     "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Elon Musk has contributed $446 million toward the US midterm elections, with total campaign spending projected to approach $12 billion. BBC Verify examined the funding sources behind this record-setting total.",
+   "why": "Unprecedented private campaign financing can heavily influence national electoral outcomes and policy trajectories.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793712117,
+   "articles": [
+    {
+     "title": "Iran commander sets out five conditions for regional security",
+     "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "An Iranian military commander outlined five conditions for regional security as mediator Qatar reported that the US and Iran are reviewing proposals to resume talks. Qatari officials stated they remain hopeful about securing an agreement.",
+   "why": "Diplomatic engagement between Iran and the US directly impacts regional stability and international nonproliferation efforts.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793718010,
+   "articles": [
+    {
+     "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+     "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Israeli opposition leaders are backing Gadi Eisenkot in an effort to oust Prime Minister Netanyahu. The opposition has pledged to rapidly establish a government, though divisions persist regarding potential alliances with Arab-led parties.",
+   "why": "A change in Israeli leadership would significantly alter domestic governance and ongoing regional conflict dynamics.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793711139,
+   "articles": [
+    {
+     "title": "Qatar remains hopeful the US and Iran can reach a deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Qatari foreign ministry spokesperson Majed al-Ansari stated that regional and international partners are actively working toward a US-Iran deal. Qatar remains optimistic that the parties can reach an agreement.",
+   "why": "Sustained mediation efforts are critical to de-escalating heightened geopolitical tensions between the US and Iran.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793711618,
+   "articles": [
+    {
+     "title": "New bodycam video shows aftermath of fatal National Guard shooting",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/new-bodycam-video-shows-aftermath-of-fatal-national-guard-shooting?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "Newly released bodycam footage depicts Tennessee National Guard personnel aiming firearms at 20-year-old Tyrin Johnson in the aftermath of a fatal shooting.",
+   "why": "The incident raises legal and accountability questions surrounding military personnel involvement in fatal domestic shootings.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793711103,
+   "articles": [
+    {
+     "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
+     "link": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "Outgoing Florida Governor Ron DeSantis is poised to influence the state's 2026 midterm elections. The report highlights his role in shaping Florida as a leading conservative policy model.",
+   "why": "State-level political strategies often serve as templates for national legislative agendas and electoral campaigns.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  }
+ ]
 }
