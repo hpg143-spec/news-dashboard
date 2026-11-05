@@ -1,4 +1,173 @@
 {
- "updated": "2026-11-05T03:46:10.027336Z",
- "events": []
+ "updated": "2026-11-05T06:58:15.678475Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793801142,
+   "articles": [
+    {
+     "title": "Everything you need to know from the US midterm elections",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Democrats achieved major victories and several historic firsts in the U.S. midterm elections. President Trump formally congratulated the party on its gains.",
+   "why": "U.S. midterm outcomes alter the balance of legislative power and set the federal policy agenda.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793832523,
+   "articles": [
+    {
+     "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+     "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Kyiv reported that at least 40 people were killed and roughly 30 more may remain under rubble after a Russian double-tap bombing on a Ukrainian village. Officials stated that bodycam video documents the deadly attack.",
+   "why": "Targeted double-tap strikes causing mass civilian casualties highlight severe violations of international humanitarian law and escalate wartime destruction.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793833967,
+   "articles": [
+    {
+     "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+     "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Regional",
+   "summary": "East Asia is experiencing unusually severe weather as typhoons batter the region, driven by El Niño conditions heating the Pacific. The extreme weather has persisted over recent months.",
+   "why": "Unusually severe climate and weather events in East Asia threaten millions of livelihoods, infrastructure, and regional economic stability.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793815287,
+   "articles": [
+    {
+     "title": "What Democrats can and can't do with their new power after taking Congress",
+     "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Following midterm elections, Democrats hold power to pass legislation through Congress. However, President Trump retains executive veto power.",
+   "why": "A split government directly shapes the trajectory of national legislation, federal budgets, and statutory oversight in the United States.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793806098,
+   "articles": [
+    {
+     "title": "Secret police files released in Hungary, 37 years after fall of communism",
+     "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Hungary released communist-era secret police files 37 years after the regime's collapse. Critics argue the release is incomplete, long overdue, and risks creating domestic division.",
+   "why": "The public disclosure of historical surveillance archives affects transitional justice, national accountability, and public trust in state institutions.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1793859051,
+   "articles": [
+    {
+     "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+     "link": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "An interview with jailed scholar Sharjeel Imam triggered national debate after he challenged foundational ideas of Indian nationalism. The discussion centers on the treatment and representation of Muslims in Indian democracy.",
+   "why": "Contestation over minority rights and constitutional foundations directly affects civil liberties and political polarization in India.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1793810072,
+   "articles": [
+    {
+     "title": "The young politicians with African roots making history in the US midterms",
+     "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Young politicians of African descent secured historic victories in the U.S. midterms. The wins are inspiring political engagement among youth in African countries.",
+   "why": "Diaspora electoral breakthroughs influence transnational political mobilization and cross-border civic engagement.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  }
+ ]
 }
