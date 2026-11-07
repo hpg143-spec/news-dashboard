@@ -1,20 +1,61 @@
 {
- "updated": "2026-11-07T03:41:55.464405Z",
+ "updated": "2026-11-07T06:45:31.541612Z",
  "events": [
   {
-   "pre": 6,
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793880000,
+   "articles": [
+    {
+     "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025. This has heightened children's exposure to disease outbreaks, malnutrition, and violence.",
+   "why": "Systemic destruction of water infrastructure in war zones drastically drives up child mortality and disease spread.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 8,
    "tier": "wire",
    "sources": [
+    "BBC World",
     "DW",
+    "NPR World",
     "The Guardian World"
    ],
-   "n_sources": 2,
-   "ts": 1794016511,
+   "n_sources": 4,
+   "ts": 1794021900,
    "articles": [
+    {
+     "title": "Paraguay's President Santiago Peña impeached and arrested",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Paraguay President Santiago Peña resigns after bank collapse",
+     "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
     {
      "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
      "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
      "source": "DW"
+    },
+    {
+     "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+     "source": "NPR World"
     },
     {
      "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
@@ -23,235 +64,289 @@
     }
    ],
    "skip": false,
-   "category": "Economy",
+   "category": "Geopolitics",
    "scale": "National",
-   "summary": "Paraguay's Senate ousted President Santiago Peña and placed him under house arrest over the failure of a major bank linked to his administration. The banking crisis has frozen accounts for 60% of the country, trapping public pension and healthcare funds.",
-   "why": "The unprecedented crisis paralyzes essential public services and deprives a majority of the population of their financial assets.",
-   "impact": 7.8,
-   "under_radar": true,
-   "gap": 0.58
+   "summary": "Santiago Peña was ousted following a banking crisis. The crisis left millions of people unable to access their money.",
+   "why": "The sudden removal of a head of state triggered by a systemic financial collapse destabilizes national governance and public trust.",
+   "impact": 7.4,
+   "under_radar": false,
+   "gap": 0.34
   },
   {
    "pre": 7,
-   "tier": "wire",
+   "tier": "primary",
    "sources": [
-    "DW"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793987220,
+   "ts": 1793880000,
    "articles": [
     {
-     "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
-     "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Iran is intensifying attacks on commercial shipping in the Persian Gulf and Strait of Hormuz, leaving one seafarer dead after a Greek-owned tanker was struck. Iran also reported that two other vessels were set on fire.",
-   "why": "Attacks on shipping in the Strait of Hormuz threaten a critical global energy chokepoint and risk wide-scale international military escalation.",
+   "category": "Health",
+   "scale": "National",
+   "summary": "Two new Ebola vaccine candidates are being incorporated into clinical trials in the Democratic Republic of the Congo. The addition comes as the country confronts an active outbreak caused by the Bundibugyo species of the virus.",
+   "why": "Expanding clinical trials offers a critical pathway toward securing medical countermeasures against a deadly Ebola species lacking standard vaccines.",
    "impact": 7.4,
    "under_radar": true,
    "gap": 0.64
   },
   {
-   "pre": 6,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World",
-    "The Guardian World"
+    "UN News"
    ],
-   "n_sources": 2,
-   "ts": 1793945782,
+   "n_sources": 1,
+   "ts": 1793966400,
    "articles": [
     {
-     "title": "Paraguay President Santiago Peña resigns after bank collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-     "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-     "source": "The Guardian World"
+     "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "Paraguayan President Santiago Peña resigned after a bank collapse triggered an impeachment vote in the lower house of congress. Millions of citizens' savings were left frozen due to the banking crisis.",
-   "why": "The collapse of a major financial institution has triggered the fall of a national government and disrupted the financial security of millions.",
-   "impact": 7.2,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Scientists drifting through polar darkness are documenting rapid Arctic changes marked by retreating sea ice and incoming oil tankers. A conversation with the UN chief highlighted the global implications of climate science in the region.",
+   "why": "Arctic ice loss irreversibly reshapes global climate systems and accelerates industrial exploitation in vulnerable ecosystems.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.6
   },
   {
-   "pre": 6,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "Al Jazeera",
-    "DW"
+    "UN News"
    ],
-   "n_sources": 2,
-   "ts": 1793996580,
+   "n_sources": 1,
+   "ts": 1793966400,
    "articles": [
     {
-     "title": "Why is Paraguay facing a banking and political crisis?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-     "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
+     "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "National",
-   "summary": "The collapse of Ueno Bank has triggered a major political and banking crisis in Paraguay. The failure has raised broader concerns regarding state influence and institutional accountability.",
-   "why": "It threatens systemic stability in Paraguay's banking system and raises serious integrity questions regarding state oversight.",
-   "impact": 6.4,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The climate emergency poses an immediate threat to refugees, with nearly 90 million people living in countries with severe exposure to hazards like drought, floods, and extreme heat.",
+   "why": "Displaced populations have negligible capacity to withstand severe climate shocks, heightening risks of repeated displacement and humanitarian crises.",
+   "impact": 7.0,
    "under_radar": true,
-   "gap": 0.44
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793880000,
+   "articles": [
+    {
+     "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Drone strikes that killed at least 30 people in Abyei last month have introduced a concerning new threat to the disputed region. The UN peacekeeping chief briefed the Security Council on the escalating situation.",
+   "why": "The proliferation of lethal drone warfare into contested border zones significantly elevates conflict intensity and endangers peacekeeper operations.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
   },
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "DW",
-    "The Guardian World"
+    "BBC World"
    ],
-   "n_sources": 3,
-   "ts": 1794015486,
+   "n_sources": 1,
+   "ts": 1793953090,
    "articles": [
     {
-     "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-     "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Stephen Miller named by Trump as new White House chief of staff",
-     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
-    {
-     "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-     "source": "The Guardian World"
+     "title": "Somalia's top court rejects president's term extension amid political crisis",
+     "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Donald Trump named Stephen Miller as his new White House chief of staff, replacing Susie Wiles. The appointment comes amid post-election staff reshuffling.",
-   "why": "The White House chief of staff controls executive operations and policy implementation for the entire United States administration.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.28
+   "summary": "Somalia's top court rejected a presidential term extension, casting uncertainty over the country's upcoming election timetable. These were planned to be the nation's first nationwide elections since 1969.",
+   "why": "Judicial invalidation of executive term extensions reopens deep constitutional friction that could derail Somalia's long-delayed democratic transition.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
-   "pre": 7,
-   "tier": "wire",
+   "pre": 9,
+   "tier": "primary",
    "sources": [
-    "The Guardian World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793886420,
+   "ts": 1793966400,
    "articles": [
     {
-     "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-     "link": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
-     "source": "The Guardian World"
+     "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Yemen's UN-recognized government has dismissed ministers and military officers following territorial losses to the Houthis and growing pressure from southern Yemenis. The reshuffle is intended to regain lost territory and break the siege of Taiz.",
-   "why": "A leadership shake-up in Yemen's internationally recognized government directly impacts the balance of power and civilian conditions in the civil war.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 6,
-   "tier": "wire",
-   "sources": [
-    "Al Jazeera",
-    "BBC World"
-   ],
-   "n_sources": 2,
-   "ts": 1794015219,
-   "articles": [
-    {
-     "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "EU prosecutor office investigates fatal train crash in Spain",
-     "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
-     "source": "Al Jazeera"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Regional",
-   "summary": "European prosecutors have opened an investigation into the use of EU funds meant for upgrading the Spanish rail line where a train crash killed 69 people. Spanish rail authorities are facing fraud scrutiny as part of the probe.",
-   "why": "The probe targets potential corruption and misuse of public safety funds linked directly to a mass-casualty rail disaster.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.36
+   "summary": "Aid teams working to help millions displaced by the war in Sudan have appealed for international assistance. They are facing severe funding shortages, empty warehouses, and overwhelming needs.",
+   "why": "Funding collapses amidst a massive displacement crisis risk pushing millions into famine and total aid dependency.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
   },
   {
    "pre": 7,
    "tier": "wire",
    "sources": [
-    "NPR World"
+    "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1793997771,
+   "ts": 1793986555,
    "articles": [
     {
-     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-     "source": "NPR World"
+     "title": "Nigerian court rules opposition candidate cannot stand in elections",
+     "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A high court has removed the leadership of the opposition ADC party in Nigeria. The ruling comes only months before scheduled elections.",
+   "why": "Judicial intervention removing opposition leadership just months before polls threatens electoral competitiveness and political stability.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+     "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
    "scale": "National",
-   "summary": "An inconclusive Israeli election has provided the center-right opposition an opportunity to unseat Benjamin Netanyahu. Success will rely on securing the backing of Arab-led political parties.",
-   "why": "The outcome determines the governance of Israel and could significantly alter regional diplomacy and conflict dynamics.",
-   "impact": 5.2,
+   "summary": "A senior UN official stated that Afghanistan is at a difficult crossroad five years after the Taliban's return to power. Relative stability is being undercut by an economic crisis, sweeping rights restrictions, and acute humanitarian needs.",
+   "why": "Entrenched institutional restrictions and compounding economic distress threaten the survival and rights of an entire population.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.42
+   "gap": 0.48
   },
   {
-   "pre": 5,
-   "tier": "wire",
+   "pre": 7,
+   "tier": "primary",
    "sources": [
-    "BBC World"
+    "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793999185,
+   "ts": 1793966400,
    "articles": [
     {
-     "title": "AI stocks climb after trillions wiped from market values",
-     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
+     "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+     "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "AI stocks have rebounded after trillions of dollars were wiped from their market values in earlier sell-offs. The previous declines were driven in part by investor fears that a Democratic election victory would slow artificial intelligence development.",
-   "why": "Large-scale fluctuations in AI valuations influence trillions in global capital allocation and tech sector investment.",
-   "impact": 4.2,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "At least 30 civilians were killed overnight in North Kivu's Beni Territory in the Democratic Republic of the Congo. The casualties were reported by local sources cited by the UN aid coordination office.",
+   "why": "Persistent massacres of civilians in eastern DR Congo underscore the chronic failure to secure vulnerable communities against armed groups.",
+   "impact": 5.8,
    "under_radar": false,
-   "gap": 0.32
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1793977723,
+   "articles": [
+    {
+     "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+     "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+     "source": "NPR World"
+    },
+    {
+     "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+     "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Paul Mackenzie was sentenced after ordering followers to starve their children to death in a forest so they could meet Jesus.",
+   "why": "The sentencing concludes legal proceedings for a horrific mass-casualty religious cult tragedy, setting a legal benchmark for accountability.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.24
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793880000,
+   "articles": [
+    {
+     "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "UN Secretary-General António Guterres remains concerned over potential military escalation across the Demilitarized Zone on the Korean Peninsula. His spokesperson relayed the remarks on Thursday.",
+   "why": "Heightened friction across the DMZ carries perpetual risks of miscalculation between heavily armed, nuclear-capable adversaries.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
   }
  ]
 }
