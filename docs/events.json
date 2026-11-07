@@ -1,30 +1,6 @@
 {
- "updated": "2026-11-07T06:45:31.541612Z",
+ "updated": "2026-11-07T09:35:30.481392Z",
  "events": [
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793880000,
-   "articles": [
-    {
-     "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Global",
-   "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025. This has heightened children's exposure to disease outbreaks, malnutrition, and violence.",
-   "why": "Systemic destruction of water infrastructure in war zones drastically drives up child mortality and disease spread.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
   {
    "pre": 8,
    "tier": "wire",
@@ -35,16 +11,11 @@
     "The Guardian World"
    ],
    "n_sources": 4,
-   "ts": 1794021900,
+   "ts": 1794036000,
    "articles": [
     {
-     "title": "Paraguay's President Santiago Peña impeached and arrested",
+     "title": "Paraguay's president impeached and under house arrest after bank collapse",
      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    },
-    {
-     "title": "Paraguay President Santiago Peña resigns after bank collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     },
     {
@@ -64,16 +35,40 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "Santiago Peña was ousted following a banking crisis. The crisis left millions of people unable to access their money.",
-   "why": "The sudden removal of a head of state triggered by a systemic financial collapse destabilizes national governance and public trust.",
-   "impact": 7.4,
+   "summary": "Santiago Peña was ousted from office and placed under house arrest following a banking collapse. The crisis left millions of people unable to access their funds.",
+   "why": "The sudden removal of a sitting president alongside a systemic banking freeze triggers profound constitutional and financial instability.",
+   "impact": 7.2,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.32
   },
   {
    "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1793987220,
+   "articles": [
+    {
+     "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+     "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "A seafarer was killed after a Greek-owned tanker was struck by a missile in the Persian Gulf and Strait of Hormuz. Iran also reported two other vessels were set on fire as attacks on shipping intensify.",
+   "why": "Lethal strikes against commercial vessels in critical choke points jeopardize international maritime trade and risk broader military escalation.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 9,
    "tier": "primary",
    "sources": [
     "UN News"
@@ -82,43 +77,108 @@
    "ts": 1793880000,
    "articles": [
     {
-     "title": "Two new Ebola vaccines to join DR Congo clinical trial",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+     "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
      "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Health",
-   "scale": "National",
-   "summary": "Two new Ebola vaccine candidates are being incorporated into clinical trials in the Democratic Republic of the Congo. The addition comes as the country confronts an active outbreak caused by the Bundibugyo species of the virus.",
-   "why": "Expanding clinical trials offers a critical pathway toward securing medical countermeasures against a deadly Ebola species lacking standard vaccines.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793966400,
-   "articles": [
-    {
-     "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
    "scale": "Global",
-   "summary": "Scientists drifting through polar darkness are documenting rapid Arctic changes marked by retreating sea ice and incoming oil tankers. A conversation with the UN chief highlighted the global implications of climate science in the region.",
-   "why": "Arctic ice loss irreversibly reshapes global climate systems and accelerates industrial exploitation in vulnerable ecosystems.",
+   "summary": "Attacks damaging or destroying water and sanitation infrastructure in conflict zones tripled between 2021 and 2025. This destruction has significantly heightened children's vulnerability to violence, malnutrition, and disease outbreaks.",
+   "why": "The tripling of attacks on essential water networks severely degrades public health and survival prospects for millions of children in war zones.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1794035101,
+   "articles": [
+    {
+     "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Trump confirms new US strikes on Iran’s Qeshm island",
+     "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "US President Donald Trump confirmed that the United States conducted minor strikes on Iran's Qeshm Island.",
+   "why": "Direct military strikes by the United States on Iranian territory risk triggering a broader regional military escalation.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1794035437,
+   "articles": [
+    {
+     "title": "Qatari PM says US willing to seek solution to war with Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "The Qatari Prime Minister stated that the United States is willing to seek a diplomatic solution to war with Iran.",
+   "why": "Mediation signals potential de-escalation in a major regional conflict with massive international security and energy implications.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World"
+   ],
+   "n_sources": 2,
+   "ts": 1794015219,
+   "articles": [
+    {
+     "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "EU prosecutor office investigates fatal train crash in Spain",
+     "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "European prosecutors launched an investigation into EU funds earmarked for upgrading a Spanish railway line where a train crash killed 69 people. The probe targets Spanish rail authorities for potential fraud.",
+   "why": "A European-level fraud probe into fatal infrastructure failures could uncover systemic corruption and trigger major changes to EU public transit oversight.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
   },
   {
    "pre": 7,
@@ -138,35 +198,11 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "The climate emergency poses an immediate threat to refugees, with nearly 90 million people living in countries with severe exposure to hazards like drought, floods, and extreme heat.",
-   "why": "Displaced populations have negligible capacity to withstand severe climate shocks, heightening risks of repeated displacement and humanitarian crises.",
-   "impact": 7.0,
+   "summary": "Nearly 90 million refugees, representing three in four worldwide, live in countries severely exposed to climate hazards. These hazards include extreme heat, droughts, and floods.",
+   "why": "Severe climate risks intersect with displacement, compounding humanitarian crises across vulnerable populations worldwide.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.6
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793880000,
-   "articles": [
-    {
-     "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Drone strikes that killed at least 30 people in Abyei last month have introduced a concerning new threat to the disputed region. The UN peacekeeping chief briefed the Security Council on the escalating situation.",
-   "why": "The proliferation of lethal drone warfare into contested border zones significantly elevates conflict intensity and endangers peacekeeper operations.",
-   "impact": 7.0,
-   "under_radar": true,
-   "gap": 0.6
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -186,35 +222,11 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Somalia's top court rejected a presidential term extension, casting uncertainty over the country's upcoming election timetable. These were planned to be the nation's first nationwide elections since 1969.",
-   "why": "Judicial invalidation of executive term extensions reopens deep constitutional friction that could derail Somalia's long-delayed democratic transition.",
-   "impact": 6.8,
+   "summary": "Somalia's top court rejected a presidential term extension amid an ongoing political crisis. The ruling places the timetable for next year's nationwide elections—the first planned since 1969—into doubt.",
+   "why": "The judicial decision enforces constitutional limits while potentially delaying Somalia's first nationwide vote in decades.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.58
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1793966400,
-   "articles": [
-    {
-     "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "National",
-   "summary": "Aid teams working to help millions displaced by the war in Sudan have appealed for international assistance. They are facing severe funding shortages, empty warehouses, and overwhelming needs.",
-   "why": "Funding collapses amidst a massive displacement crisis risk pushing millions into famine and total aid dependency.",
-   "impact": 6.2,
-   "under_radar": true,
-   "gap": 0.52
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -234,11 +246,35 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "A high court has removed the leadership of the opposition ADC party in Nigeria. The ruling comes only months before scheduled elections.",
-   "why": "Judicial intervention removing opposition leadership just months before polls threatens electoral competitiveness and political stability.",
-   "impact": 6.2,
+   "summary": "Nigeria's high court has sacked the leadership of the opposition ADC party months before upcoming elections. The ruling prevents the party's candidate from standing.",
+   "why": "Judicial intervention altering opposition candidate eligibility directly impacts the democratic integrity and political balance of Africa's most populous nation.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1793886420,
+   "articles": [
+    {
+     "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+     "link": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Yemen's UN-recognized government restructured its political and military leadership by dismissing ministers and officers. The shake-up aims to counter Houthi territorial gains and break the siege of Taiz.",
+   "why": "Leadership restructuring during major military losses directly shapes the trajectory of the Yemeni civil war and regional humanitarian conditions.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
   },
   {
    "pre": 7,
@@ -247,19 +283,43 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793966400,
+   "ts": 1793880000,
    "articles": [
     {
-     "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+     "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168742",
      "source": "UN News"
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Health",
    "scale": "National",
-   "summary": "A senior UN official stated that Afghanistan is at a difficult crossroad five years after the Taliban's return to power. Relative stability is being undercut by an economic crisis, sweeping rights restrictions, and acute humanitarian needs.",
-   "why": "Entrenched institutional restrictions and compounding economic distress threaten the survival and rights of an entire population.",
+   "summary": "Two new Ebola vaccine candidates are joining a clinical trial in the Democratic Republic of the Congo. The trial responds to an active outbreak driven by the Bundibugyo species of the virus.",
+   "why": "Developing clinical defenses against the Bundibugyo strain addresses a critical medical gap in managing deadly hemorrhagic fever outbreaks.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Aid teams in Sudan appealed for urgent international assistance due to severe funding shortages and empty warehouses. Millions of people remain displaced amidst overwhelming humanitarian needs caused by the ongoing war.",
+   "why": "A critical funding shortfall directly threatens life-saving assistance for millions displaced by brutal armed conflict.",
    "impact": 5.8,
    "under_radar": false,
    "gap": 0.48
@@ -271,22 +331,22 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793966400,
+   "ts": 1793880000,
    "articles": [
     {
-     "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+     "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
      "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "Local",
-   "summary": "At least 30 civilians were killed overnight in North Kivu's Beni Territory in the Democratic Republic of the Congo. The casualties were reported by local sources cited by the UN aid coordination office.",
-   "why": "Persistent massacres of civilians in eastern DR Congo underscore the chronic failure to secure vulnerable communities against armed groups.",
-   "impact": 5.8,
+   "summary": "Drone strikes killed at least 30 people in the disputed area of Abyei last month. The UN peacekeeping chief warned the Security Council that the use of drones adds a concerning new dimension to the area's security.",
+   "why": "The introduction of weaponized drones into Abyei escalates lethality and complicates peacekeeping efforts in a contested border zone.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.48
+   "gap": 0.46
   },
   {
    "pre": 7,
@@ -318,11 +378,35 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "National",
-   "summary": "Paul Mackenzie was sentenced after ordering followers to starve their children to death in a forest so they could meet Jesus.",
-   "why": "The sentencing concludes legal proceedings for a horrific mass-casualty religious cult tragedy, setting a legal benchmark for accountability.",
+   "summary": "Kenyan cult leader Paul Mackenzie was sentenced after ordering followers to starve their children to death in a forest. The fatal starvation was framed by the leader as a way for children to meet Jesus.",
+   "why": "The sentencing concludes legal proceedings against the leader of one of the deadliest cult-related mass casualties in modern history.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1793997771,
+   "articles": [
+    {
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Following an inconclusive election in Israel, the center-right opposition seeks to unseat Netanyahu. Forming a government will require the support of Arab-led political parties.",
+   "why": "Arab-led parties holding coalition-making power represents a potential shift in Israeli parliamentary governance and regional posture.",
    "impact": 5.4,
    "under_radar": false,
-   "gap": 0.24
+   "gap": 0.44
   },
   {
    "pre": 7,
@@ -331,22 +415,142 @@
     "UN News"
    ],
    "n_sources": 1,
-   "ts": 1793880000,
+   "ts": 1793966400,
    "articles": [
     {
-     "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+     "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "At least 30 civilians were killed overnight in Beni Territory in North Kivu, Democratic Republic of the Congo. The casualty report was provided by local sources cited by the UN aid coordination office.",
+   "why": "The massacre underscores the persistent deadly violence threatening civilian populations in eastern DR Congo.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Scientists drifting through polar darkness are documenting the rapid retreat of sea ice as oil tankers navigate into the Arctic. The team stressed to the UN chief that polar climate science has critical global ramifications.",
+   "why": "The transformation of the Arctic affects global climate equilibrium and oceanic navigation patterns.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1794035220,
+   "articles": [
+    {
+     "title": "India news: Vehicles major cause of Delhi pollution, top court says",
+     "link": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "India's Supreme Court identified vehicles as a major contributor to Delhi's air pollution. The court also called for responsible celebrations during festivals such as Diwali.",
+   "why": "Top-level judicial scrutiny on Delhi's severe air quality crisis directs regulatory and public pressure toward vehicular emissions and festival practices.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
      "source": "UN News"
     }
    ],
    "skip": false,
    "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "UN Secretary-General António Guterres remains concerned over potential military escalation across the Demilitarized Zone on the Korean Peninsula. His spokesperson relayed the remarks on Thursday.",
-   "why": "Heightened friction across the DMZ carries perpetual risks of miscalculation between heavily armed, nuclear-capable adversaries.",
-   "impact": 4.4,
+   "scale": "National",
+   "summary": "A senior UN official stated that Afghanistan stands at a difficult crossroads more than five years after the Taliban took power. Fragile economic conditions, sweeping rights restrictions, and acute humanitarian needs continue to undermine stability.",
+   "why": "Systemic civil rights restrictions and economic fragility threaten the basic livelihood and rights of tens of millions of Afghans.",
+   "impact": 5.0,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1794028263,
+   "articles": [
+    {
+     "title": "Russia launches missile attack on Kyiv, injuring residents",
+     "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Russian air strikes launched against Kyiv damaged buildings and injured two civilians. The strikes occurred following warnings from President Zelenskyy about potential new attacks.",
+   "why": "Direct missile attacks on the capital continue to destroy infrastructure and sustain high risks to civilian life amidst ongoing warfare.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1794042805,
+   "articles": [
+    {
+     "title": "New Zealand election 2026 live results: Labour draws level with National as count continues in close race",
+     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Live vote counting in the 2026 New Zealand election shows Labour drawing level with National. Projections indicate no single coalition will reach an outright majority, positioning a minor party as kingmaker.",
+   "why": "Determines the leadership and policy direction of New Zealand's government under a tight coalition formation process.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
   }
  ]
 }
