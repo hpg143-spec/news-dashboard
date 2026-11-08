@@ -1,4 +1,407 @@
 {
- "updated": "2026-11-07T19:11:48.646360Z",
- "events": []
+ "updated": "2026-11-08T00:08:07.287405Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1794079042,
+   "articles": [
+    {
+     "title": "Paraguay's former president charged after bank collapse",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Paraguay’s ousted president charged over banking scandal",
+     "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Paraguay's ousted president Santiago Peña has been charged and placed under house arrest following a major banking scandal. The collapse left 60% of the population, representing millions of people, unable to access their bank accounts.",
+   "why": "The widespread loss of account access directly cripples national commerce and citizen livelihoods across Paraguay.",
+   "impact": 7.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 9,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 5,
+   "ts": 1794095145,
+   "articles": [
+    {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+     "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Israeli president tasks Gadi Eisenkot with forming government",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Israel's president tasked opposition leader Eisenkot with forming the next government over Benjamin Netanyahu. The decision follows an election in which neither rival bloc secured a parliamentary majority.",
+   "why": "A shift away from Netanyahu's leadership fundamentally reshapes Israeli governance and Middle Eastern diplomatic dynamics.",
+   "impact": 7.0,
+   "under_radar": false,
+   "gap": 0.2
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "A team of scientists drifting on a ship in the Arctic is documenting retreating sea ice and advancing oil tankers. The mission issued a warning to world leaders emphasizing the broader necessity of trusting climate science.",
+   "why": "Rapid Arctic warming drives global sea level rise and alters international climate patterns.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Nearly 90 million refugees, representing three in four globally, reside in countries facing high to severe hazards from the climate emergency. These hazards include extreme heat, severe droughts, and floods.",
+   "why": "The intersection of displacement and climate vulnerability jeopardizes the survival of tens of millions of people.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Aid teams in Sudan appealed for more international assistance to help millions displaced by the ongoing war. The humanitarian response faces severe funding shortages, empty warehouses, and escalating needs.",
+   "why": "The conflict and humanitarian collapse in Sudan impact millions of displaced people across the region.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 3,
+   "ts": 1793977723,
+   "articles": [
+    {
+     "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+     "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+     "source": "NPR World"
+    },
+    {
+     "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+     "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Kenyan doomsday cult leader Paul Mackenzie received a multi-century prison sentence for murdering 191 followers, mostly children. Mackenzie had instructed his followers to starve their children to death in a forest.",
+   "why": "The sentencing delivers legal accountability for one of the deadliest cult mass killings in modern history.",
+   "impact": 6.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1794092329,
+   "articles": [
+    {
+     "title": "What we know so far after Krakow gun attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Poland: Gunman kills 6 in Krakow main square",
+     "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A gunman killed six people in Krakow's main square during a random shooting. Polish authorities later discovered three additional bodies at the suspect's residence.",
+   "why": "A severe mass casualty event in Poland with significant local public safety implications.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A senior UN official stated that Afghanistan faces a deep humanitarian crisis more than five years after the Taliban's return. The country's relative stability is compromised by severe economic weakness and sweeping human rights restrictions.",
+   "why": "It highlights persistent systemic human rights curbs and economic deterioration affecting Afghanistan's entire population.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 3,
+   "ts": 1794073163,
+   "articles": [
+    {
+     "title": "Houthis say at least 25 killed in Saudi air strike",
+     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Houthis report 25 killed in Yemen strikes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+     "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Houthi officials reported that at least 22 to 25 people were killed in a Saudi air strike near Sanaa. Saudi Arabia has not commented on the incident.",
+   "why": "Fatal strikes risk escalating the conflict between Houthi forces and the Saudi-led coalition in Yemen.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.26
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1794035220,
+   "articles": [
+    {
+     "title": "India news: Vehicles major cause of Delhi pollution, top court says",
+     "link": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "India's Supreme Court declared vehicles to be a primary cause of New Delhi's air pollution during ongoing efforts to tackle severe smog. The court also called for responsible celebrations ahead of Diwali.",
+   "why": "Judicial intervention targets the severe health crisis affecting tens of millions in India's capital region.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1793966400,
+   "articles": [
+    {
+     "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "At least 30 civilians were killed overnight in Beni Territory in North Kivu, Democratic Republic of the Congo. The toll was reported by local sources cited by the UN aid coordination office.",
+   "why": "The deadly attack reflects ongoing severe violence against civilians in eastern DR Congo.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794066988,
+   "articles": [
+    {
+     "title": "No clear winner after tight New Zealand general election",
+     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Preliminary results in New Zealand's general election showed no clear winner and pointed to a highly divided parliament. Weeks of coalition negotiations are expected to follow.",
+   "why": "The political impasse leaves national governance and policy directions uncertain pending coalition talks.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1794052440,
+   "articles": [
+    {
+     "title": "New Zealand election too close to call with over 95% of votes counted",
+     "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "New Zealand's election remains undecided with over 95% of votes counted and fewer than 4,000 votes separating the two main parties. Official results will not be known until special votes are tabulated later this month.",
+   "why": "A razor-thin margin delays the formation of New Zealand's next national government.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1794071489,
+   "articles": [
+    {
+     "title": "Jerusalem Daily: Heavy rains flood Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Local",
+   "summary": "Heavy rains have caused flooding across Gaza according to the Jerusalem Daily.",
+   "why": "Flooding exacerbates critical infrastructure deficits and displacement conditions in Gaza.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  }
+ ]
 }
