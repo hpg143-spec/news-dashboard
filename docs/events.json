@@ -1,4 +1,305 @@
 {
- "updated": "2026-11-09T14:29:03.525434Z",
- "events": []
+ "updated": "2026-11-09T23:40:09.566728Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794266429,
+   "articles": [
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "US President Donald Trump stated that the FBI is investigating Nvidia CEO Jensen Huang over an alleged affair with a Chinese spy. Trump said he questioned Huang directly regarding the allegations.",
+   "why": "Espionage allegations involving the leader of the world's most critical semiconductor firm carry enormous national security and supply-chain implications.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794254281,
+   "articles": [
+    {
+     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "Nvidia shares fell sharply, erasing hundreds of billions of dollars in market capitalization. The plunge followed reports of an investigation into its CEO's alleged ties with a Chinese spy.",
+   "why": "A loss of hundreds of billions in value from a central tech giant creates wide systemic ripples across global financial markets.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1794250080,
+   "articles": [
+    {
+     "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani met with US President Donald Trump. Talks reportedly concerned ending war involving Iran.",
+   "why": "Direct high-level diplomacy between key regional mediators and the US president can shape broader Middle East conflict resolution efforts.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1794248498,
+   "articles": [
+    {
+     "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+     "link": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+     "link": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Independent Russian newspaper Novaya Gazeta has shuttered its Moscow newsroom citing a government clampdown. The outlet was one of the few remaining domestic publications openly critical of Moscow's war on Ukraine.",
+   "why": "The closure marks the further dismantling of independent journalism and free press inside Russia.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1794249423,
+   "articles": [
+    {
+     "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+     "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Yemeni government forces reported new advances across critical fronts as cross-border Houthi attacks surged amid heavy fighting.",
+   "why": "Escalation in fighting in Yemen and cross-border assaults threatens regional stability and critical trade corridors.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794247687,
+   "articles": [
+    {
+     "title": "Russia's leading independent newspaper closes after eviction",
+     "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Novaya Gazeta was evicted from its offices of 30 years and reported being blocked from receiving donations. The actions led to the closure of Russia's prominent independent news outlet.",
+   "why": "Financial and physical suppression of prominent independent press deepens state information control.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794243978,
+   "articles": [
+    {
+     "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "International",
+   "summary": "Nine Zimbabweans were detained while allegedly attempting to depart South Africa to fight in the Ukraine conflict. Ukraine claims hundreds of citizens from various African countries have been recruited to serve in Russian forces.",
+   "why": "Foreign mercenary recruitment networks targeting African nationals broaden the international human footprint of the war in Ukraine.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794242035,
+   "articles": [
+    {
+     "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+     "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A migrant vessel headed for Europe sank off the coast of Senegal, resulting in at least 39 deaths. The route to Spain's Canary Islands remains an active and lethal maritime crossing.",
+   "why": "The disaster highlights the ongoing humanitarian emergency and death toll along irregular Atlantic migration corridors.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1794260918,
+   "articles": [
+    {
+     "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+     "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Suspect in Charlie Kirk killing to stand trial for murder in July 2028",
+     "link": "https://www.theguardian.com/us-news/2026/nov/09/charlie-kirk-murder-trial",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in the 2025 killing of conservative activist Charlie Kirk. A trial date has been set for mid-2028.",
+   "why": "A high-profile political assassination trial has significant domestic implications for political discourse and the legal system.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794246449,
+   "articles": [
+    {
+     "title": "Trump questions midterm elections integrity after previously accepting results",
+     "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Donald Trump made unsubstantiated claims on social media questioning the integrity of midterm election results. The statements mark a reversal from his earlier acceptance of the outcomes.",
+   "why": "Baseless challenges to election credibility by major political figures undermine public confidence in democratic institutions.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794232201,
+   "articles": [
+    {
+     "title": "Thirteen migrants die after boat sinks off Crete",
+     "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "At least 13 migrants died when a boat sank off the coast of Crete, while 18 Sudanese survivors were rescued by the Greek coastguard.",
+   "why": "Fatal shipwrecks in the Mediterranean continue to underscore the risks and human toll of regional displacement and migration.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1794099648,
+   "articles": [
+    {
+     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+     "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "New Zealand faces a potentially weeks-long delay in establishing its next government following an election that left results too close to call. While the National party will be the largest, neither major bloc secured an outright majority.",
+   "why": "Prolonged political uncertainty delays policy formation and governance for the entire nation.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  }
+ ]
 }
