@@ -1,4 +1,262 @@
 {
- "updated": "2026-11-15T10:00:59.982770Z",
- "events": []
+ "updated": "2026-11-15T18:09:33.361713Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794671635,
+   "articles": [
+    {
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Donald Trump, Vladimir Putin, and Xi Jinping plan to hold a joint meeting in China next week, according to the White House. Talks are slated to cover the reduction of nuclear weapons.",
+   "why": "An unprecedented trilateral summit among the leaders of the three major nuclear superpowers carries profound implications for global security.",
+   "impact": 9.2,
+   "under_radar": true,
+   "gap": 0.82
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1794722405,
+   "articles": [
+    {
+     "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+     "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The International Court of Justice is set to rule on whether Myanmar committed genocide against its Rohingya minority. The court has never previously found a state guilty of genocide, setting a legal precedent that will affect other cases, including against Israel.",
+   "why": "A first-ever ICJ finding of state-sponsored genocide would establish massive legal precedents and influence ongoing global international humanitarian law proceedings.",
+   "impact": 8.2,
+   "under_radar": true,
+   "gap": 0.72
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794754581,
+   "articles": [
+    {
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Megaspeed stated that a suspected Chinese spy linked to Nvidia's former leadership left the company in 2025. The incident has raised questions about whether advanced AI chips reached China despite US export controls.",
+   "why": "Potential breaches of advanced semiconductor export controls directly affect the strategic balance of global AI technology.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794765429,
+   "articles": [
+    {
+     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "International",
+   "summary": "Ukrainian President Zelensky urged the US and Elon Musk to lift restrictions on Starlink. He stated that the ongoing limitations make it difficult for Ukraine to intercept Russian missiles.",
+   "why": "Satellite infrastructure controls directly impact frontline air defense capabilities and the trajectory of the war in Ukraine.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794730661,
+   "articles": [
+    {
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Hamas and the IDF confirmed the death of Samir Abu Younis, commander of the Rafah Brigade, in an Israeli strike on a Gaza camp.",
+   "why": "The targeted killing removes a top Hamas brigade leader, affecting military command in southern Gaza.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794726631,
+   "articles": [
+    {
+     "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "National",
+   "summary": "The US transport secretary stated that a copper wire upgrade caused a nationwide flight suspension. Officials are investigating whether the disruption stemmed from faulty equipment or incompetence.",
+   "why": "Identifies the core vulnerability behind widespread national aviation infrastructure grounding.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794740792,
+   "articles": [
+    {
+     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Three men in Jordan have been sentenced to death over a church funeral shooting that killed nine people and injured 34 last month.",
+   "why": "It concludes the legal proceedings for a major mass-casualty sectarian attack in Jordan with capital sentences.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1794681660,
+   "articles": [
+    {
+     "title": "Italy fines Meta €805m over accessing users' photos",
+     "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Italy slaps Meta with €805mn fine over access to Android photos",
+     "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Italy has fined Meta €805m for accessing the photos of 20 million users without informing them.",
+   "why": "It represents one of the largest regulatory data privacy penalties against a tech giant, potentially altering mobile OS data collection oversight.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "The Hindu National"
+   ],
+   "n_sources": 2,
+   "ts": 1794764363,
+   "articles": [
+    {
+     "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Record number of migrants arrive in Spain’s Canary Islands",
+     "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Nearly 2,200 migrants reach Canary Islands in two days, Spain says",
+     "link": "https://www.thehindu.com/news/national/nearly-2200-migrants-reach-canary-islands-in-two-days-spain-says/article71705702.ece",
+     "source": "The Hindu National"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Nearly 1,500 migrants arrived at Spain's Canary Islands in a single day, with total arrivals reaching nearly 2,200 over two days.",
+   "why": "Surges in sea-crossing arrivals strain emergency response capacity and escalate European migration management pressures.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1794734797,
+   "articles": [
+    {
+     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+     "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "A fifth Canadian soldier, Pte William Douglas Dal Bianco, has died from injuries sustained in a large fire at CFB Wainwright a month ago.",
+   "why": "Adds to the fatal casualty toll from a serious domestic military base incident.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  }
+ ]
 }
