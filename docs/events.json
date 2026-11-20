@@ -1,4 +1,197 @@
 {
- "updated": "2026-11-19T22:38:19.827398Z",
- "events": []
+ "updated": "2026-11-20T04:35:48.653860Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795109009,
+   "articles": [
+    {
+     "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+     "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Donald Trump, Vladimir Putin, and Xi Jinping issued a joint declaration of peace after concluding trilateral talks. Analysts are evaluating the outcomes each leader secured from the historic summit.",
+   "why": "A joint peace declaration between the leaders of the three premier global superpowers dramatically reshapes international relations and security architectures.",
+   "impact": 9.4,
+   "under_radar": true,
+   "gap": 0.84
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795095083,
+   "articles": [
+    {
+     "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Venezuela has signed a military pact with the United States less than a year after the removal of Nicolas Maduro. The US Secretary of Defence stated Venezuela has transformed from a regional threat into a compliant security partner.",
+   "why": "This marks a major strategic realignment in Western Hemisphere defense relations and regional stability following Venezuelan regime change.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795107803,
+   "articles": [
+    {
+     "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "The Israeli military concluded a ground operation beyond the Yellow Line in Gaza to dismantle what it stated was a terror tunnel. Hamas denounced the military action as a flagrant ceasefire violation.",
+   "why": "Incursions across designated lines threaten to unravel existing ceasefires and trigger renewed escalations in regional warfare.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795092990,
+   "articles": [
+    {
+     "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+     "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A US consortium secured a major mining agreement at Kenya's Mrima Hill site, prevailing over Chinese competitors. The site contains critical mineral deposits valued at over $60bn.",
+   "why": "Securing massive critical mineral reserves shifts the balance of strategic supply chains away from Chinese dominance.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795136090,
+   "articles": [
+    {
+     "title": "More climate money for Africa? Europe says use what's already pledged",
+     "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "African nations at a UN climate summit in Turkey are seeking increased financial support from developed countries to handle climate change. European representatives stated that already pledged funds should be spent before additional commitments are made.",
+   "why": "Disputes over climate financing directly impede the capacity of developing nations to construct necessary climate adaptation and mitigation infrastructure.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795132345,
+   "articles": [
+    {
+     "title": "How did Anthropic's stock market debut unfold?",
+     "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "Artificial intelligence firm Anthropic debuted as a publicly traded company on the stock market. Shares in the company concluded their first trading day up by 17%.",
+   "why": "A public listing for a primary frontier AI developer introduces public market scrutiny and sets capital benchmarks for the entire tech sector.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795044483,
+   "articles": [
+    {
+     "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+     "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "A Russian individual was arrested for espionage targeting US defense contractor Palantir over its support for Ukraine. Prosecutors stated the suspect shadowed employees while in possession of fake US identification and two Russian passports.",
+   "why": "It reveals active hostile intelligence targeting of private defense technology infrastructure vital to ongoing war efforts.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795080114,
+   "articles": [
+    {
+     "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+     "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "National",
+   "summary": "Survivors of a deadly landslide in Uganda have brought their case to the United Nations. They have rejected official relocation plans, stating they disregard their safety, land rights, and livelihoods.",
+   "why": "It spotlights legal and human rights challenges in government-led disaster relocations driven by climate risks.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  }
+ ]
 }
