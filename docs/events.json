@@ -1,4 +1,610 @@
 {
- "updated": "2026-11-21T13:52:53.827480Z",
- "events": []
+ "updated": "2026-11-21T20:47:16.870501Z",
+ "events": [
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The President of the UN General Assembly visited Rohingya refugee camps in Bangladesh following an International Court of Justice ruling that Myanmar committed genocide. The official urged the international community to translate the judicial decision into action.",
+   "why": "A formal international genocide finding against a state sets major legal precedents for accountability and state obligations toward refugees.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "A coalition of nations from Europe, Africa, Latin America, and the Pacific challenged the proposed draft agreement at the COP31 summit in Antalya. The countries demand stronger climate finance commitments and explicit targets on fossil fuels as negotiations approach a deadline.",
+   "why": "The outcome of multilateral climate negotiations dictates international financial flows and regulatory commitments for global emissions reductions.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1795278971,
+   "articles": [
+    {
+     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "source": "NPR World"
+    },
+    {
+     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+     "source": "NPR World"
+    },
+    {
+     "title": "International UN talks on controlling use of autonomous weapons collapse",
+     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "U.N. talks in Geneva have failed to establish binding international rules to regulate autonomous weapons systems. Humanitarian groups warned that the advancement of military AI is outpacing international diplomatic efforts.",
+   "why": "The failure to regulate autonomous weapons leaves global warfare without enforceable ethical and legal constraints as AI military tech rapidly advances.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795289629,
+   "articles": [
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Disagreements over fossil fuels have stalled COP31 climate negotiations. Nearly 200 nations remain in a deadlock over establishing a new global climate agreement.",
+   "why": "Diplomatic stagnation at UN climate talks delays coordinated international policy necessary to curb global emissions.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795278915,
+   "articles": [
+    {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "The FBI is investigating an apparent cyberattack targeting its National Crime Information Center database. The compromised system is used by both federal and local law enforcement agencies to share critical data.",
+   "why": "A breach of the premier US criminal database poses severe national security and law enforcement operational vulnerabilities.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "The World Food Programme announced it needs $12.1 billion to provide aid to 91 million people next year. The agency warned that persistent funding shortfalls will leave millions more people hungry amid an impending global food crisis.",
+   "why": "Massive financing gaps in international aid directly correlate to rising starvation and acute malnutrition across vulnerable global populations.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1795281603,
+   "articles": [
+    {
+     "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+     "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Russia strikes Zelenskyy's hometown, killing 2",
+     "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "A Russian strike on Kryvyi Rih killed two people and wounded 60. The attack occurred alongside reports of Russian missiles landing in Poland as US-led peace efforts face uncertainty.",
+   "why": "Escalating strikes and potential missile incursions into NATO territory carry significant risks of widening the international conflict.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "UNICEF reported that child casualty figures in Ukraine have risen to record levels during the deadliest year for youngsters in the conflict. Ongoing infrastructure damage and power outages continue to threaten children during severe winter conditions.",
+   "why": "Sustained warfare targeting energy infrastructure poses direct humanitarian and survival risks to millions of vulnerable civilians during winter.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Aid and development agencies reported that expanding restrictions on women and girls in Afghanistan are blocking increasing numbers of pregnant women from obtaining essential healthcare. Officials characterized the regulatory measures as an escalating assault on fundamental rights.",
+   "why": "Restricting access to maternal healthcare significantly elevates risks of maternal and infant mortality on a nationwide scale.",
+   "impact": 6.2,
+   "under_radar": true,
+   "gap": 0.52
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1795202869,
+   "articles": [
+    {
+     "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+     "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Nikhil Gupta was sentenced to more than 19 years in prison for his role in a plot to assassinate a US-based Sikh separatist leader. Gupta had pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering.",
+   "why": "The sentencing concludes a critical legal proceeding in a cross-border assassination plot that directly strained US-India diplomatic relations.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.4
+  },
+  {
+   "pre": 8,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "NPR World",
+    "The Guardian World"
+   ],
+   "n_sources": 4,
+   "ts": 1795285800,
+   "articles": [
+    {
+     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+     "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+     "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+     "source": "NPR World"
+    },
+    {
+     "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+     "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Mexican security forces arrested cartel leader Chapo Isidro in Sinaloa. The suspect was on the FBI's most wanted list and faces drug charges in the United States.",
+   "why": "The detention of a prominent cartel boss can disrupt drug trafficking networks and trigger short-term retaliatory violence.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.18
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "DW"
+   ],
+   "n_sources": 2,
+   "ts": 1795245000,
+   "articles": [
+    {
+     "title": "Man convicted of starting Palisades fire in Los Angeles",
+     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+     "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "State",
+   "summary": "A 30-year-old Los Angeles resident was convicted of arson for starting the deadly Palisades fire. The wildfire killed 12 people and destroyed over 6,800 buildings.",
+   "why": "The conviction resolves legal accountability for one of the most destructive and fatal urban arson fires in recent California history.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 9,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168854",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "UN Secretary-General António Guterres is travelling to Barbados to co-host a special summit on artificial intelligence safety. The summit focuses on bridging the gap between rapid AI risks and nations' capabilities to respond.",
+   "why": "International governance efforts seek to address unequal regulatory and technical capacity among states dealing with rapid AI deployment.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795262400,
+   "articles": [
+    {
+     "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Years of gang violence, displacement, and economic instability alongside climate shocks have left millions of Haitians facing severe food shortages. Haitian farmers are attempting to rebuild agricultural operations amid continuous insecurity and poor harvest yields.",
+   "why": "Compounding security and climatic crises in Haiti are systematically eroding national food sovereignty and basic survival systems.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795288822,
+   "articles": [
+    {
+     "title": "Russia-bound ship attacked in Gulf of Finland",
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A Russia-bound vessel was targeted in a drone attack in the Gulf of Finland. Finnish defence forces stated that Ukraine was likely behind the strike.",
+   "why": "Maritime strikes expanding into the Baltic Sea region present a major geographic broadening of Ukraine's operational theater against Russian assets.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795214567,
+   "articles": [
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A tech stock sell-off drove major US markets lower, pushing both the S&P 500 and the Dow Jones Industrial Average into correction territory. The downturn followed declines in Anthropic shares.",
+   "why": "A correction across benchmark US stock indexes impacts global investor sentiment and broader economic liquidity.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795266921,
+   "articles": [
+    {
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "International",
+   "summary": "Mexican drug lord Fausto Isidro Meza Flores, who was on the FBI's Ten Most Wanted list, was arrested following a shootout with authorities. He is accused of drug trafficking and torture.",
+   "why": "The apprehension of a top cartel leader disrupts transnational trafficking networks and represents a notable counter-narcotics development.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.44
+  },
+  {
+   "pre": 7,
+   "tier": "primary",
+   "sources": [
+    "UN News"
+   ],
+   "n_sources": 1,
+   "ts": 1795176000,
+   "articles": [
+    {
+     "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+     "source": "UN News"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israeli settlers conducted more than 400 attacks resulting in casualties or property damage during this year's olive harvest in the occupied West Bank. UN agencies and NGOs reported that this marks a record high number of incidents compared to past seasons.",
+   "why": "Record violence targeting critical agricultural livelihoods deepens economic dispossession and physical insecurity across the West Bank.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 6,
+   "tier": "wire",
+   "sources": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "n_sources": 2,
+   "ts": 1795269830,
+   "articles": [
+    {
+     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+     "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Denmark has expelled Russia's defence attaché over an alleged plot to assassinate a US-Ukrainian rapper. The Russian embassy in Denmark has denied the allegation.",
+   "why": "Targeted assassination plots on European soil and subsequent diplomatic expulsions escalate tensions between NATO members and Russia.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.3
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795214229,
+   "articles": [
+    {
+     "title": "French police officers sentenced for beating of music producer Michel Zecler",
+     "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "French police officers have been sentenced for the 2020 assault of Black music producer Michel Zecler. The court upheld that the beating involved the aggravated circumstance of racism.",
+   "why": "The ruling provides legal accountability and judicial precedent regarding racially motivated police violence in France.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795267058,
+   "articles": [
+    {
+     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ukrainian President Zelensky defended strikes on the Crimean Bridge as a fair response to 109 Russian aerial attacks on Ukrainian bridges. He made the remarks during a meeting with the UK's Wes Streeting.",
+   "why": "Strikes on strategic infrastructure like the Crimean Bridge directly impact Russian logistics and influence wartime military escalation.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795219299,
+   "articles": [
+    {
+     "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+     "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Local",
+   "summary": "A plan has been announced to close New York's Rikers Island jail complex by 2032. The city council originally voted to shut the facility in 2019, but execution has been delayed over housing arrangements for inmates.",
+   "why": "The closure of Rikers Island is a central development for New York City's criminal justice system and local correctional infrastructure.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795248625,
+   "articles": [
+    {
+     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Ukrainian President Zelensky publicly labeled Vladimir Putin a 'killer' following remarks by Donald Trump praising his relationship with the Russian leader. Trump previously met Putin in China and described them as having a 'great relationship.'",
+   "why": "Rhetorical friction between Ukraine and high-profile US political figures signals shifting diplomatic alignments influencing future war negotiations.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  }
+ ]
 }
