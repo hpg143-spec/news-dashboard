@@ -1,54 +1,6 @@
 {
- "updated": "2026-11-21T20:47:16.870501Z",
+ "updated": "2026-11-22T00:52:33.955923Z",
  "events": [
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1795176000,
-   "articles": [
-    {
-     "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Law & Policy",
-   "scale": "Global",
-   "summary": "The President of the UN General Assembly visited Rohingya refugee camps in Bangladesh following an International Court of Justice ruling that Myanmar committed genocide. The official urged the international community to translate the judicial decision into action.",
-   "why": "A formal international genocide finding against a state sets major legal precedents for accountability and state obligations toward refugees.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1795176000,
-   "articles": [
-    {
-     "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Environment",
-   "scale": "Global",
-   "summary": "A coalition of nations from Europe, Africa, Latin America, and the Pacific challenged the proposed draft agreement at the COP31 summit in Antalya. The countries demand stronger climate finance commitments and explicit targets on fossil fuels as negotiations approach a deadline.",
-   "why": "The outcome of multilateral climate negotiations dictates international financial flows and regulatory commitments for global emissions reductions.",
-   "impact": 7.4,
-   "under_radar": true,
-   "gap": 0.64
-  },
   {
    "pre": 6,
    "tier": "wire",
@@ -78,11 +30,11 @@
    "skip": false,
    "category": "Tech & Science",
    "scale": "Global",
-   "summary": "U.N. talks in Geneva have failed to establish binding international rules to regulate autonomous weapons systems. Humanitarian groups warned that the advancement of military AI is outpacing international diplomatic efforts.",
-   "why": "The failure to regulate autonomous weapons leaves global warfare without enforceable ethical and legal constraints as AI military tech rapidly advances.",
-   "impact": 7.2,
+   "summary": "United Nations talks in Geneva failed to establish binding rules governing autonomous weapons. Humanitarian organizations warned that military AI technology is developing significantly faster than diplomatic efforts can regulate it.",
+   "why": "The failure to establish legal constraints on lethal autonomous weapons permits an unregulated AI arms race in global warfare.",
+   "impact": 7.6,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.56
   },
   {
    "pre": 5,
@@ -91,7 +43,7 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1795289629,
+   "ts": 1795299583,
    "articles": [
     {
      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -102,11 +54,59 @@
    "skip": false,
    "category": "Environment",
    "scale": "Global",
-   "summary": "Disagreements over fossil fuels have stalled COP31 climate negotiations. Nearly 200 nations remain in a deadlock over establishing a new global climate agreement.",
-   "why": "Diplomatic stagnation at UN climate talks delays coordinated international policy necessary to curb global emissions.",
-   "impact": 7.0,
+   "summary": "Negotiators from nearly 200 nations have reached a deadlock at COP31 over a dispute concerning fossil fuels.",
+   "why": "A breakdown in global consensus stalls worldwide commitments needed to combat accelerating climate disruption.",
+   "impact": 7.4,
    "under_radar": true,
-   "gap": 0.6
+   "gap": 0.64
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795305543,
+   "articles": [
+    {
+     "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Bahrain condemned Iranian strikes targeting US military installations within its territory as regional hostilities expanded. Concurrently, Houthi military actions continue to threaten Saudi Arabia.",
+   "why": "Direct state attacks on host-nation military bases escalate the risk of broader regional conflict and disrupt Persian Gulf maritime security.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1795175863,
+   "articles": [
+    {
+     "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+     "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Global",
+   "summary": "The International Court of Justice ruled that Myanmar committed genocide against its Rohingya minority. The United States greeted the ruling cautiously, while the EU praised the court's role and China warned of judicial overreach.",
+   "why": "A formal genocide determination by the world's highest court establishes binding international legal accountability, impacting global diplomacy and future humanitarian intervention.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
   },
   {
    "pre": 5,
@@ -115,7 +115,7 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1795278915,
+   "ts": 1795306244,
    "articles": [
     {
      "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -126,35 +126,83 @@
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "The FBI is investigating an apparent cyberattack targeting its National Crime Information Center database. The compromised system is used by both federal and local law enforcement agencies to share critical data.",
-   "why": "A breach of the premier US criminal database poses severe national security and law enforcement operational vulnerabilities.",
+   "summary": "The FBI is investigating an apparent hack of its National Crime Information Center database. The compromised system is widely utilized by federal and local law enforcement agencies to exchange criminal data.",
+   "why": "A breach of the premier US law enforcement database compromises nationwide operational security, sensitive informant records, and criminal investigations.",
+   "impact": 7.2,
+   "under_radar": true,
+   "gap": 0.62
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795258320,
+   "articles": [
+    {
+     "title": "COP31: UN Climate summit runs into overtime as deal remains elusive",
+     "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The COP31 UN climate summit has entered overtime as participating countries remain deadlocked on joint action. Delegations are currently reviewing a third draft text to secure an agreement.",
+   "why": "Delays and impasses in global climate negotiations impede binding commitments necessary to finance and implement worldwide emissions mitigation.",
    "impact": 7.0,
    "under_radar": true,
    "gap": 0.6
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "Al Jazeera"
    ],
    "n_sources": 1,
-   "ts": 1795176000,
+   "ts": 1795286558,
    "articles": [
     {
-     "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
-     "source": "UN News"
+     "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+     "source": "Al Jazeera"
     }
    ],
    "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "The World Food Programme announced it needs $12.1 billion to provide aid to 91 million people next year. The agency warned that persistent funding shortfalls will leave millions more people hungry amid an impending global food crisis.",
-   "why": "Massive financing gaps in international aid directly correlate to rising starvation and acute malnutrition across vulnerable global populations.",
-   "impact": 6.6,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Russian forces launched over 400 drones and 110 missiles at Ukraine in an overnight bombardment. The strikes killed at least seven individuals in Kyiv.",
+   "why": "Mass aerial bombardments inflict immediate civilian casualties and compound severe strain on nationwide defensive and civil infrastructure.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.56
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795252680,
+   "articles": [
+    {
+     "title": "'Killer robots' talks at UN end with no legally binding ban",
+     "link": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "United Nations negotiations concluded without establishing a legally binding prohibition on lethal autonomous weapons systems. Member states instead chose to prolong discussions for an additional two years.",
+   "why": "The absence of enforceable multilateral restrictions permits the ongoing unchecked development and deployment of autonomous military technologies.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
   },
   {
    "pre": 6,
@@ -178,76 +226,243 @@
     }
    ],
    "skip": false,
-   "category": "Geopolitics",
+   "category": "Security",
    "scale": "Regional",
-   "summary": "A Russian strike on Kryvyi Rih killed two people and wounded 60. The attack occurred alongside reports of Russian missiles landing in Poland as US-led peace efforts face uncertainty.",
-   "why": "Escalating strikes and potential missile incursions into NATO territory carry significant risks of widening the international conflict.",
-   "impact": 6.6,
+   "summary": "A Russian strike on Kryvyi Rih killed two people and wounded 60. The attack coincided with Russian missiles landing in NATO member Poland and heightened uncertainty surrounding peace efforts.",
+   "why": "Strikes affecting Ukrainian civilian centers alongside missile incursions into NATO territory sharply increase the risk of direct escalation.",
+   "impact": 6.8,
    "under_radar": true,
-   "gap": 0.46
+   "gap": 0.48
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "BBC World",
+    "DW",
+    "NPR World"
    ],
-   "n_sources": 1,
-   "ts": 1795176000,
+   "n_sources": 3,
+   "ts": 1795264216,
    "articles": [
     {
-     "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
-     "source": "UN News"
+     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    },
+    {
+     "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+     "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "An Anthropic mathematician claims to have used an AI system to prove the Riemann hypothesis. The reported proof will require time to be independently verified.",
+   "why": "A confirmed proof of the Riemann hypothesis assisted by AI would mark a major milestone in both pure mathematics and computer science capabilities.",
+   "impact": 6.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795206840,
+   "articles": [
+    {
+     "title": "COP31: No agreement on climate science, disinformation spreading",
+     "link": "https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "Negotiations at COP31 in Antalya face potential delays due to organized challenges against climate science and the spread of disinformation. Countries are navigating these obstacles as the summit concludes.",
+   "why": "Erosion of scientific consensus in international forums hinders the adoption of rigorous, data-driven climate policies.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795294595,
+   "articles": [
+    {
+     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+     "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Global",
+   "summary": "Iran conducted negotiations with Qatari mediators concerning maritime access. Iran's foreign minister stated reopening the strait is straightforward if the US accepts reasonable conditions.",
+   "why": "Negotiations over critical maritime chokepoints directly affect global trade flows and international energy security.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795298523,
+   "articles": [
+    {
+     "title": "Bahrain says Iranian attack hits industrial facility",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Bahrain says Iranian attack causes fire at industrial facility",
+     "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "An Iranian attack struck an industrial facility in Bahrain, causing a fire. Bahraini authorities reported the direct impact on the site.",
+   "why": "Targeting commercial and industrial infrastructure in the Gulf elevates operational risks for global energy and manufacturing corridors.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795211002,
+   "articles": [
+    {
+     "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+     "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "Regional",
+   "summary": "New agreements have been reached between the United Kingdom and the European Union. Analysis focuses on how the deal will shape future post-Brexit relations.",
+   "why": "Bilateral treaties between the UK and EU directly govern trade, regulatory alignment, and international mobility.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795187641,
+   "articles": [
+    {
+     "title": "What we know about the latest Russian missile strikes on Ukraine",
+     "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "UNICEF reported that child casualty figures in Ukraine have risen to record levels during the deadliest year for youngsters in the conflict. Ongoing infrastructure damage and power outages continue to threaten children during severe winter conditions.",
-   "why": "Sustained warfare targeting energy infrastructure poses direct humanitarian and survival risks to millions of vulnerable civilians during winter.",
-   "impact": 6.2,
+   "summary": "Russia launched a major attack targeting bridges and railway stations across the Ukrainian capital of Kyiv.",
+   "why": "Strikes on strategic transport hubs disrupt civilian mobility, supply chains, and critical national infrastructure.",
+   "impact": 6.4,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.54
   },
   {
    "pre": 7,
-   "tier": "primary",
+   "tier": "wire",
    "sources": [
-    "UN News"
+    "DW"
    ],
    "n_sources": 1,
-   "ts": 1795176000,
+   "ts": 1795273080,
    "articles": [
     {
-     "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168844",
-     "source": "UN News"
+     "title": "New EU budget proposal aims at tax gobal tech giants",
+     "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
     }
    ],
    "skip": false,
-   "category": "Health",
-   "scale": "National",
-   "summary": "Aid and development agencies reported that expanding restrictions on women and girls in Afghanistan are blocking increasing numbers of pregnant women from obtaining essential healthcare. Officials characterized the regulatory measures as an escalating assault on fundamental rights.",
-   "why": "Restricting access to maternal healthcare significantly elevates risks of maternal and infant mortality on a nationwide scale.",
-   "impact": 6.2,
+   "category": "Economy",
+   "scale": "Regional",
+   "summary": "European Council President Antonio Costa proposed a 2028-2034 EU budget containing a 3% tax on large digital companies. France has formally dismissed the proposal as insufficient.",
+   "why": "The structure of the multi-year EU budget determines member funding commitments and introduces targeted regulatory tax liabilities for multinational tech firms.",
+   "impact": 6.0,
    "under_radar": true,
-   "gap": 0.52
+   "gap": 0.5
   },
   {
-   "pre": 6,
+   "pre": 5,
    "tier": "wire",
    "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795304640,
+   "articles": [
+    {
+     "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+     "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Lebanese President Joseph Aoun called for an Israeli withdrawal and criticized Iranian interference. He stated these two linked factors obstruct Lebanon's ability to fully celebrate independence.",
+   "why": "Formal pushback from Lebanon's leadership against neighboring powers indicates shifting regional security alignments.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera",
     "BBC World",
     "The Guardian World"
    ],
-   "n_sources": 2,
-   "ts": 1795202869,
+   "n_sources": 3,
+   "ts": 1795295358,
    "articles": [
     {
      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
+    },
+    {
+     "title": "Indian man jailed over plot to kill Sikh separatist in US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+     "source": "Al Jazeera"
     },
     {
      "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
@@ -256,55 +471,157 @@
     }
    ],
    "skip": false,
-   "category": "Security",
+   "category": "Law & Policy",
    "scale": "National",
-   "summary": "Nikhil Gupta was sentenced to more than 19 years in prison for his role in a plot to assassinate a US-based Sikh separatist leader. Gupta had pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering.",
-   "why": "The sentencing concludes a critical legal proceeding in a cross-border assassination plot that directly strained US-India diplomatic relations.",
-   "impact": 6.0,
-   "under_radar": true,
-   "gap": 0.4
+   "summary": "Nikhil Gupta was sentenced to over 19 years in prison in connection with a conspiracy to assassinate a US-based Sikh separatist leader. He had previously pleaded guilty to murder-for-hire and money laundering charges.",
+   "why": "The sentencing establishes legal accountability for state-linked extraterritorial assassination plots and impacts US-India diplomatic relations.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.28
   },
   {
-   "pre": 8,
+   "pre": 7,
    "tier": "wire",
    "sources": [
-    "Al Jazeera",
-    "DW",
-    "NPR World",
-    "The Guardian World"
+    "BBC World"
    ],
-   "n_sources": 4,
-   "ts": 1795285800,
+   "n_sources": 1,
+   "ts": 1795208052,
    "articles": [
     {
-     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-     "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-     "source": "Al Jazeera"
-    },
+     "title": "Trump threatens ban on US firms building AI data centres overseas",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "The US president has raised the possibility of barring domestic firms from constructing AI data centers in foreign countries. He provided few details, noting members of his team were just learning about the concept.",
+   "why": "Restricting overseas infrastructure could fundamentally alter global supply chains and capital allocation in the expanding artificial intelligence industry.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795288822,
+   "articles": [
     {
-     "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
-     "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss",
-     "source": "DW"
-    },
+     "title": "Russia-bound ship attacked in Gulf of Finland",
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A Russia-bound vessel was struck in a drone attack in the Gulf of Finland. Finnish defence forces stated that Ukraine was likely responsible for the strike.",
+   "why": "A maritime drone strike in the Baltic region expands the geographical perimeter of Ukrainian strikes close to NATO maritime waters.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795303877,
+   "articles": [
     {
-     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-     "source": "NPR World"
-    },
-    {
-     "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-     "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-     "source": "The Guardian World"
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
     }
    ],
    "skip": false,
    "category": "Security",
    "scale": "National",
-   "summary": "Mexican security forces arrested cartel leader Chapo Isidro in Sinaloa. The suspect was on the FBI's most wanted list and faces drug charges in the United States.",
-   "why": "The detention of a prominent cartel boss can disrupt drug trafficking networks and trigger short-term retaliatory violence.",
-   "impact": 5.8,
+   "summary": "Mexican cartel leader Fausto Isidro Meza Flores, who was on the FBI's Ten Most Wanted list for drug trafficking and torture, was arrested following a gun fight with authorities.",
+   "why": "Capturing a top-tier cartel figure can disrupt major cross-border narcotics trafficking pipelines and trigger internal leadership struggles.",
+   "impact": 5.6,
    "under_radar": false,
-   "gap": 0.18
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795214567,
+   "articles": [
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "A tech stock sell-off sparked by sliding Anthropic shares pulled US markets downward. The losses pushed both the S&P 500 and the Dow Jones Industrial Average into correction territory.",
+   "why": "Market corrections driven by AI and tech valuation drops wipe out trillions in capital and can tighten corporate credit and investment.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795295514,
+   "articles": [
+    {
+     "title": "Impunity fuels surge in settler violence across occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "A surge in settler violence has been reported across the occupied West Bank. The rise in attacks is linked to widespread impunity.",
+   "why": "Escalating violence and lack of accountability destabilize occupied territories and aggravate regional conflicts.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795292113,
+   "articles": [
+    {
+     "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+     "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "State",
+   "summary": "The US Army conducted delayed detonations of lead-rich explosives within Iowa. The operations have raised environmental and public health concerns in the state.",
+   "why": "Military disposal of toxic materials poses contamination risks to local ecosystems and public health.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
   },
   {
    "pre": 6,
@@ -328,61 +645,61 @@
     }
    ],
    "skip": false,
+   "category": "Security",
+   "scale": "Local",
+   "summary": "A 30-year-old Los Angeles resident was convicted of arson for sparking the 2025 Palisades fire. The wildfire killed 12 people and destroyed over 6,800 buildings.",
+   "why": "It brings legal closure to one of the deadliest and most destructive wildfire arson cases in California history.",
+   "impact": 5.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795267058,
+   "articles": [
+    {
+     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Ukrainian President Zelensky defended strikes on the Crimean Bridge as a fair response to 109 Russian aerial attacks against Ukrainian bridges. He made the remarks during a meeting with the UK's Streeting.",
+   "why": "Targeting critical Russian logistics infrastructure marks persistent escalation in the Black Sea theater with active Western diplomatic backing.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795214229,
+   "articles": [
+    {
+     "title": "French police officers sentenced for beating of music producer Michel Zecler",
+     "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
    "category": "Law & Policy",
-   "scale": "State",
-   "summary": "A 30-year-old Los Angeles resident was convicted of arson for starting the deadly Palisades fire. The wildfire killed 12 people and destroyed over 6,800 buildings.",
-   "why": "The conviction resolves legal accountability for one of the most destructive and fatal urban arson fires in recent California history.",
-   "impact": 5.8,
-   "under_radar": false,
-   "gap": 0.38
-  },
-  {
-   "pre": 9,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1795176000,
-   "articles": [
-    {
-     "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168854",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Tech & Science",
-   "scale": "Global",
-   "summary": "UN Secretary-General António Guterres is travelling to Barbados to co-host a special summit on artificial intelligence safety. The summit focuses on bridging the gap between rapid AI risks and nations' capabilities to respond.",
-   "why": "International governance efforts seek to address unequal regulatory and technical capacity among states dealing with rapid AI deployment.",
-   "impact": 5.6,
-   "under_radar": false,
-   "gap": 0.46
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1795262400,
-   "articles": [
-    {
-     "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
    "scale": "National",
-   "summary": "Years of gang violence, displacement, and economic instability alongside climate shocks have left millions of Haitians facing severe food shortages. Haitian farmers are attempting to rebuild agricultural operations amid continuous insecurity and poor harvest yields.",
-   "why": "Compounding security and climatic crises in Haiti are systematically eroding national food sovereignty and basic survival systems.",
-   "impact": 5.6,
+   "summary": "French police officers were sentenced for the 2020 assault of Black music producer Michel Zecler. The court formally upheld racial aggravation as an aggravating circumstance in the case.",
+   "why": "The legal ruling establishes a significant precedent for judicial accountability and the recognition of systemic racism within French policing.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.46
+   "gap": 0.42
   },
   {
    "pre": 5,
@@ -391,94 +708,22 @@
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1795288822,
+   "ts": 1795222959,
    "articles": [
     {
-     "title": "Russia-bound ship attacked in Gulf of Finland",
-     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+     "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "A Russia-bound vessel was targeted in a drone attack in the Gulf of Finland. Finnish defence forces stated that Ukraine was likely behind the strike.",
-   "why": "Maritime strikes expanding into the Baltic Sea region present a major geographic broadening of Ukraine's operational theater against Russian assets.",
-   "impact": 5.4,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Fraudsters made millions exploiting detained immigrants through a bail business despite being fined $811 million. Their evasion of shutdown efforts left targeted migrants incarcerated.",
+   "why": "Regulatory evasion of massive financial penalties reveals enforcement gaps affecting vulnerable civil populations.",
+   "impact": 5.2,
    "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1795214567,
-   "articles": [
-    {
-     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Economy",
-   "scale": "Global",
-   "summary": "A tech stock sell-off drove major US markets lower, pushing both the S&P 500 and the Dow Jones Industrial Average into correction territory. The downturn followed declines in Anthropic shares.",
-   "why": "A correction across benchmark US stock indexes impacts global investor sentiment and broader economic liquidity.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1795266921,
-   "articles": [
-    {
-     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "International",
-   "summary": "Mexican drug lord Fausto Isidro Meza Flores, who was on the FBI's Ten Most Wanted list, was arrested following a shootout with authorities. He is accused of drug trafficking and torture.",
-   "why": "The apprehension of a top cartel leader disrupts transnational trafficking networks and represents a notable counter-narcotics development.",
-   "impact": 5.4,
-   "under_radar": false,
-   "gap": 0.44
-  },
-  {
-   "pre": 7,
-   "tier": "primary",
-   "sources": [
-    "UN News"
-   ],
-   "n_sources": 1,
-   "ts": 1795176000,
-   "articles": [
-    {
-     "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-     "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-     "source": "UN News"
-    }
-   ],
-   "skip": false,
-   "category": "Security",
-   "scale": "Regional",
-   "summary": "Israeli settlers conducted more than 400 attacks resulting in casualties or property damage during this year's olive harvest in the occupied West Bank. UN agencies and NGOs reported that this marks a record high number of incidents compared to past seasons.",
-   "why": "Record violence targeting critical agricultural livelihoods deepens economic dispossession and physical insecurity across the West Bank.",
-   "impact": 5.0,
-   "under_radar": false,
-   "gap": 0.4
+   "gap": 0.42
   },
   {
    "pre": 6,
@@ -504,59 +749,35 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Regional",
-   "summary": "Denmark has expelled Russia's defence attaché over an alleged plot to assassinate a US-Ukrainian rapper. The Russian embassy in Denmark has denied the allegation.",
-   "why": "Targeted assassination plots on European soil and subsequent diplomatic expulsions escalate tensions between NATO members and Russia.",
+   "summary": "Denmark is expelling Russia's defence attaché over an alleged plot to assassinate a US-Ukrainian rapper. The Russian embassy in Denmark denied the accusation.",
+   "why": "Targeted assassination plots on European soil and subsequent diplomatic expulsions aggravate tensions between NATO members and Russia.",
    "impact": 5.0,
    "under_radar": false,
    "gap": 0.3
   },
   {
-   "pre": 5,
+   "pre": 7,
    "tier": "wire",
    "sources": [
     "BBC World"
    ],
    "n_sources": 1,
-   "ts": 1795214229,
+   "ts": 1795221291,
    "articles": [
     {
-     "title": "French police officers sentenced for beating of music producer Michel Zecler",
-     "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "title": "ANC fights to keep control of South Africa's key cities after election setback",
+     "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World"
     }
    ],
    "skip": false,
-   "category": "Law & Policy",
+   "category": "Local Civic",
    "scale": "National",
-   "summary": "French police officers have been sentenced for the 2020 assault of Black music producer Michel Zecler. The court upheld that the beating involved the aggravated circumstance of racism.",
-   "why": "The ruling provides legal accountability and judicial precedent regarding racially motivated police violence in France.",
-   "impact": 5.0,
+   "summary": "South Africa's ANC is resisting extending its national coalition arrangement with the DA to municipal governments. The party is seeking to retain administrative authority across major cities following election losses.",
+   "why": "Municipal coalition stability directly dictates governance, service delivery, and public spending across South Africa's primary economic hubs.",
+   "impact": 4.6,
    "under_radar": false,
-   "gap": 0.4
-  },
-  {
-   "pre": 5,
-   "tier": "wire",
-   "sources": [
-    "BBC World"
-   ],
-   "n_sources": 1,
-   "ts": 1795267058,
-   "articles": [
-    {
-     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World"
-    }
-   ],
-   "skip": false,
-   "category": "Geopolitics",
-   "scale": "Regional",
-   "summary": "Ukrainian President Zelensky defended strikes on the Crimean Bridge as a fair response to 109 Russian aerial attacks on Ukrainian bridges. He made the remarks during a meeting with the UK's Wes Streeting.",
-   "why": "Strikes on strategic infrastructure like the Crimean Bridge directly impact Russian logistics and influence wartime military escalation.",
-   "impact": 4.8,
-   "under_radar": false,
-   "gap": 0.38
+   "gap": 0.36
   },
   {
    "pre": 5,
@@ -576,8 +797,32 @@
    "skip": false,
    "category": "Law & Policy",
    "scale": "Local",
-   "summary": "A plan has been announced to close New York's Rikers Island jail complex by 2032. The city council originally voted to shut the facility in 2019, but execution has been delayed over housing arrangements for inmates.",
-   "why": "The closure of Rikers Island is a central development for New York City's criminal justice system and local correctional infrastructure.",
+   "summary": "A new plan was announced to close New York City's Rikers Island jail by 2032. The city council first approved closing the facility in 2019, though implementation suffered repeated delays over inmate placement.",
+   "why": "Setting a renewed closure timeline addresses prolonged humanitarian and civil rights crises at one of the nation's largest municipal jail complexes.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795294938,
+   "articles": [
+    {
+     "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+     "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Former Brazilian president Jair Bolsonaro has been admitted to intensive care with a bowel obstruction while serving a sentence for plotting a coup. The hospital reported he is stable and breathing independently.",
+   "why": "The health status of an imprisoned former head of state can influence national political stability.",
    "impact": 4.4,
    "under_radar": false,
    "gap": 0.34
@@ -600,11 +845,11 @@
    "skip": false,
    "category": "Geopolitics",
    "scale": "Global",
-   "summary": "Ukrainian President Zelensky publicly labeled Vladimir Putin a 'killer' following remarks by Donald Trump praising his relationship with the Russian leader. Trump previously met Putin in China and described them as having a 'great relationship.'",
-   "why": "Rhetorical friction between Ukraine and high-profile US political figures signals shifting diplomatic alignments influencing future war negotiations.",
-   "impact": 4.4,
+   "summary": "Volodymyr Zelensky labeled Vladimir Putin a 'killer' after Donald Trump referred to the Russian leader as a friend. Trump had previously met Putin in China and stated they maintain a 'great relationship.'",
+   "why": "Diverging rhetoric between allied leaders regarding Russia signals diplomatic friction over ongoing wartime alliances.",
+   "impact": 4.0,
    "under_radar": false,
-   "gap": 0.34
+   "gap": 0.3
   }
  ]
 }
