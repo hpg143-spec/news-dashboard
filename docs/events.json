@@ -1,4 +1,269 @@
 {
- "updated": "2026-11-22T10:29:06.804334Z",
- "events": []
+ "updated": "2026-11-22T18:47:21.880085Z",
+ "events": [
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795370665,
+   "articles": [
+    {
+     "title": "UN climate talks collapse without a deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The longest UN climate summit in history concluded in Turkiye without an agreement. This marks the first total failure to reach a consensus deal at a UN climate summit since 2009.",
+   "why": "The collapse of global consensus threatens international climate commitments and future multilateral mitigation policies.",
+   "impact": 8.4,
+   "under_radar": true,
+   "gap": 0.74
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795365206,
+   "articles": [
+    {
+     "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+     "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Environment",
+   "scale": "Global",
+   "summary": "The COP31 climate talks concluded without a deal after oil-producing nations opposed referencing fossil fuels. Delegates criticized the final draft text as overly weak.",
+   "why": "Deep diplomatic divisions over phasing out fossil fuels threaten global climate governance and emission targets.",
+   "impact": 8.2,
+   "under_radar": true,
+   "gap": 0.72
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795370400,
+   "articles": [
+    {
+     "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+     "link": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Virginia recorded the first measles-linked death of 2026 in a child under the age of five. The fatality follows the stripping of the United States' measles elimination status amid a surge in cases.",
+   "why": "Signifies a dangerous reversal in public health gains and declining immunization coverage in the United States.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795359099,
+   "articles": [
+    {
+     "title": "The Drugs Don’t Work",
+     "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Global",
+   "summary": "Antibiotic overuse poses a severe threat by breeding superbugs. Projections indicate resistant infections could cause eight million deaths annually by 2050.",
+   "why": "Antimicrobial resistance constitutes a massive, compounding systemic threat to modern medicine and global health.",
+   "impact": 7.4,
+   "under_radar": true,
+   "gap": 0.64
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795359818,
+   "articles": [
+    {
+     "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+     "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Drone attacks blamed on the Rapid Support Forces killed four people near Sudan's capital. The strikes also hit government facilities, Khartoum's airport, and damaged a UN building.",
+   "why": "Direct attacks on UN infrastructure and key transit hubs mark a severe escalation in Sudan's conflict.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795358930,
+   "articles": [
+    {
+     "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Russian attacks killed at least six people near Kyiv and one in Zaporizhzhia. In response, President Zelenskyy urged the United States to supply Patriot missiles.",
+   "why": "Directly impacts critical air defense diplomacy and civilian protection amid Russia's sustained aerial assault on Ukraine.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795358006,
+   "articles": [
+    {
+     "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+     "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Mexican security forces engaged in deadly battles with gunmen in Sinaloa state during the capture of alleged cartel leader El Chapo Isidro.",
+   "why": "The capture of a high-profile cartel boss can destabilize regional criminal dynamics and trigger retaliatory violence.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795358155,
+   "articles": [
+    {
+     "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+     "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Violence broke out in Bangladesh as supporters of ousted Prime Minister Sheikh Hasina protested the rejection of her return. Hasina is currently residing in self-imposed exile in India.",
+   "why": "Political unrest and cross-border tensions threaten political transition and stability in Bangladesh.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795371127,
+   "articles": [
+    {
+     "title": "Civilians killed in RSF drone strikes in Sudan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Drone strikes conducted by Sudan's Rapid Support Forces have killed several civilians. The strikes also resulted in damage to multiple buildings.",
+   "why": "Reflects ongoing civilian targeting and escalation in Sudan's devastating civil conflict.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795222959,
+   "articles": [
+    {
+     "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+     "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Convicted fraudsters made millions from detained immigrants and evaded attempts to shut down their bail business. Despite an $811 million fine, the operations continued, leaving migrants behind bars.",
+   "why": "Highlights severe enforcement gaps in predatory legal and bail schemes targeting vulnerable detained populations.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795370526,
+   "articles": [
+    {
+     "title": "Cox’s Bazar: Rohingya Life in Exile",
+     "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Other",
+   "scale": "Regional",
+   "summary": "Rohingya families in Cox's Bazar are facing hunger, loss, and an uncertain future during Ramadan. The community continues to live in exile under difficult conditions.",
+   "why": "Persistent humanitarian deprivation among one of the world's largest displaced populations.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  }
+ ]
 }
