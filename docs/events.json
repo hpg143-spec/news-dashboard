@@ -1,4 +1,562 @@
 {
- "updated": "2026-11-27T15:43:21.630905Z",
- "events": []
+ "updated": "2026-11-28T00:50:11.573184Z",
+ "events": [
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "NPR World"
+   ],
+   "n_sources": 1,
+   "ts": 1795700829,
+   "articles": [
+    {
+     "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+     "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+     "source": "NPR World"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "Regional",
+   "summary": "An Ebola outbreak in eastern Democratic Republic of the Congo has reached 12,000 cases. Active fighting between government forces and rebel groups has forced some responders to evacuate, disrupting containment efforts.",
+   "why": "The confluence of active armed conflict and an uncontrolled lethal epidemic threatens a catastrophic regional health crisis.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795811997,
+   "articles": [
+    {
+     "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+     "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Russian President Vladimir Putin unveiled a new nuclear-powered submarine equipped with hypersonic weapons. The Kremlin intends to add five new nuclear submarines to its naval fleet by 2030.",
+   "why": "The deployment of hypersonic-capable nuclear submarines alters global nuclear deterrence dynamics and maritime security balances.",
+   "impact": 7.6,
+   "under_radar": true,
+   "gap": 0.66
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1795694422,
+   "articles": [
+    {
+     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+     "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "Global",
+   "summary": "China has reserved the right to implement countermeasures following Donald Trump's proposed new tariffs on 14 trading partners, including China and the EU. Beijing condemned the levies as political manipulation, while Brazil rejected the threats.",
+   "why": "Retaliatory trade measures between major economies could disrupt global supply chains and heighten worldwide inflation risks.",
+   "impact": 7.0,
+   "under_radar": true,
+   "gap": 0.6
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795740463,
+   "articles": [
+    {
+     "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+     "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "Ousted Prime Minister Sheikh Hasina plans to return to Bangladesh in December. The move risks renewed domestic unrest and escalates diplomatic tensions between Dhaka and New Delhi.",
+   "why": "Her return could trigger widespread civil unrest in Bangladesh and significantly destabilize diplomatic relations with India.",
+   "impact": 6.8,
+   "under_radar": true,
+   "gap": 0.58
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795685220,
+   "articles": [
+    {
+     "title": "Russia-Ukraine war extends to Baltic, Mediterranean",
+     "link": "https://www.dw.com/en/russia-ukraine-war-extends-to-baltic-mediterranean/a-80054604?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Global",
+   "summary": "Ukraine has expanded strikes against Russian vessels into the Baltic and Mediterranean Seas. The military actions aim to raise pressure on Russia and signal Western allies, impacting international shipping.",
+   "why": "The geographical expansion of naval conflict into major international waterways threatens global maritime commerce and escalates security risks.",
+   "impact": 6.6,
+   "under_radar": true,
+   "gap": 0.56
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795820944,
+   "articles": [
+    {
+     "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+     "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "Taiwanese voters will vote on whether to repeal the country's 'nuclear-free homeland' policy. The outcome bears significant implications for the energy-intensive domestic AI and semiconductor sectors.",
+   "why": "Energy policy decisions in Taiwan directly impact global supply chains for advanced semiconductors and AI infrastructure.",
+   "impact": 6.4,
+   "under_radar": true,
+   "gap": 0.54
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795798260,
+   "articles": [
+    {
+     "title": "Divisions deepen between EU member states after tense budget summit",
+     "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "Regional",
+   "summary": "An EU leaders summit on the seven-year budget collapsed due to disagreements over funding for Ukraine. The disputed proposal also features a 3% tax levy on US tech firms to raise bloc revenue.",
+   "why": "A breakdown in EU budget negotiations threatens continuous aid to Ukraine and risks escalating trade friction with the United States.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795774080,
+   "articles": [
+    {
+     "title": "German Catholic Church abuse victims may receive higher compensation",
+     "link": "https://www.dw.com/en/german-catholic-church-abuse-victims-may-receive-higher-compensation/a-80071917?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    },
+    {
+     "title": "Germany news: Cologne court awards record damages in Catholic sex abuse case",
+     "link": "https://www.dw.com/en/germany-news-cologne-court-awards-record-damages-in-catholic-sex-abuse-case/live-80056746?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "A Cologne court issued a landmark ruling finding the Catholic Church liable for abuse committed by clergy members. The verdict awards record damages and may entitle other victims to higher compensation.",
+   "why": "The legal precedent exposes religious institutions to direct institutional liability and higher financial damages for historical abuses.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795813887,
+   "articles": [
+    {
+     "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+     "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "High prices, dwindling aid, and an absence of work are leaving families hungry in northern Yemen. Although basic staples such as flour and oil remain available in markets in Hodeidah and Sanaa, residents cannot afford them.",
+   "why": "It illustrates how severe economic collapse and aid shortfalls generate acute famine conditions despite physical market supply.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795809395,
+   "articles": [
+    {
+     "title": "Is Iraq facing renewed instability?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "National",
+   "summary": "Iraq's Prime Minister has asserted federal control over natural resources located in the semi-autonomous Kurdish region.",
+   "why": "Federal reassertion of authority over Kurdish resources risks reigniting deep internal constitutional conflict and oil export disputes.",
+   "impact": 6.0,
+   "under_radar": true,
+   "gap": 0.5
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795671900,
+   "articles": [
+    {
+     "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+     "link": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Regional",
+   "summary": "Russia is developing Rassvet, a satellite network intended as a counterpart to SpaceX's Starlink. Starlink has previously provided vital operational support to the Ukrainian military.",
+   "why": "A sovereign Russian satellite network could challenge Western satellite reconnaissance and communications dominance on the battlefield.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795812051,
+   "articles": [
+    {
+     "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+     "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Tech & Science",
+   "scale": "Global",
+   "summary": "OpenAI has filed a trade secrets countersuit against Apple amid intensifying rivalry in AI product development. The legal dispute marks an escalation in corporate competition between the two tech firms.",
+   "why": "High-stakes litigation between frontier tech giants can alter proprietary IP norms and industry partnerships across the AI sector.",
+   "impact": 5.8,
+   "under_radar": false,
+   "gap": 0.48
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795809205,
+   "articles": [
+    {
+     "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+     "link": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Israeli strikes in Gaza killed four people while Khalil al-Hayya's son survived. According to Hamas, four of al-Hayya's other sons were previously killed by Israeli forces.",
+   "why": "Continual fatal military operations in Gaza sustain intense conflict dynamics and civilian casualties.",
+   "impact": 5.6,
+   "under_radar": false,
+   "gap": 0.46
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795807080,
+   "articles": [
+    {
+     "title": "Germany news: Lawmakers approve debt-laden 2027 budget",
+     "link": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Economy",
+   "scale": "National",
+   "summary": "German lawmakers have approved a federal budget allocating €556 billion in spending. The approved budget plan relies heavily on debt.",
+   "why": "Federal spending decisions by Europe's largest economy influence continental fiscal stability and national economic health.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795784760,
+   "articles": [
+    {
+     "title": "In Iran, child marriage risks complicated by war",
+     "link": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Health",
+   "scale": "National",
+   "summary": "Rights advocates warn that ongoing war, poverty, and school disruptions could heighten the risk of child marriage among Iranian girls.",
+   "why": "Societal disruptions compound systemic human rights vulnerabilities for young girls, leading to lasting harm.",
+   "impact": 5.2,
+   "under_radar": false,
+   "gap": 0.42
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "DW"
+   ],
+   "n_sources": 1,
+   "ts": 1795685820,
+   "articles": [
+    {
+     "title": "Germany: 2 arrested, suspected of plotting synagogue attack",
+     "link": "https://www.dw.com/en/germany-2-arrested-suspected-of-plotting-synagogue-attack/a-80057715?maca=en-rss-en-all-1573-xml-mrss",
+     "source": "DW"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "National",
+   "summary": "Federal prosecutors arrested two members of a pro-Iranian group in Heidelberg and Cologne. The individuals are suspected of planning an attack on a synagogue.",
+   "why": "Foiled terror plots targeting religious minorities highlight ongoing security risks and foreign-linked extremism in Europe.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795802316,
+   "articles": [
+    {
+     "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+     "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "International",
+   "summary": "Mexico lodged a formal complaint with the United States regarding a DEA tip line targeting alleged drug dealers. Mexican officials emphasized the need to respect national sovereignty amid rising bilateral friction.",
+   "why": "Friction over unilateral US law enforcement tools imperils strategic security and counternarcotics cooperation along the US-Mexico border.",
+   "impact": 5.0,
+   "under_radar": false,
+   "gap": 0.4
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795823823,
+   "articles": [
+    {
+     "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+     "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "At least eight people were found dead on a migrant boat off Spain's Canary Islands. Spanish rescue services airlifted six others to the hospital in serious condition.",
+   "why": "It highlights the ongoing lethal perils faced by migrants navigating Atlantic maritime routes to Europe.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795810725,
+   "articles": [
+    {
+     "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Hamas leader Khalil al-Hayya's last surviving son, Izzeldeen, survived an Israeli targeted strike in Gaza on Friday.",
+   "why": "Targeted assassination efforts against leadership networks directly affect leadership continuity and ceasefire diplomacy in Gaza.",
+   "impact": 4.8,
+   "under_radar": false,
+   "gap": 0.38
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "The Guardian World"
+   ],
+   "n_sources": 1,
+   "ts": 1795747095,
+   "articles": [
+    {
+     "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+     "link": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+     "source": "The Guardian World"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Final election results in New Zealand show Prime Minister Christopher Luxon's right-wing coalition lost its majority. The coalition must negotiate support from the centrist Opportunity party to govern or risk snap elections.",
+   "why": "The shift forces coalition-building with a minor party, shaping New Zealand's executive policy and national political stability.",
+   "impact": 4.6,
+   "under_radar": false,
+   "gap": 0.36
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "BBC World"
+   ],
+   "n_sources": 1,
+   "ts": 1795759491,
+   "articles": [
+    {
+     "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World"
+    }
+   ],
+   "skip": false,
+   "category": "Security",
+   "scale": "Regional",
+   "summary": "Houthi strikes continue to test Saudi Arabia's security environment. Despite the attacks, commercial activity remains busy in Riyadh as residents maintain trust in state defenses.",
+   "why": "Ongoing cross-border strikes threaten regional stability and the perceived domestic security of a major Gulf power.",
+   "impact": 4.4,
+   "under_radar": false,
+   "gap": 0.34
+  },
+  {
+   "pre": 7,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795799735,
+   "articles": [
+    {
+     "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+     "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Law & Policy",
+   "scale": "National",
+   "summary": "Spanish Prime Minister Pedro Sánchez is making a final effort to overcome right-wing parties in upcoming national voting. He is counting on a left-wing turnout surge to counter polling deficits.",
+   "why": "The outcome of Spain's election could significantly alter the governance and political alignment of a major EU member state.",
+   "impact": 4.2,
+   "under_radar": false,
+   "gap": 0.32
+  },
+  {
+   "pre": 5,
+   "tier": "wire",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "n_sources": 1,
+   "ts": 1795810230,
+   "articles": [
+    {
+     "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+     "source": "Al Jazeera"
+    }
+   ],
+   "skip": false,
+   "category": "Geopolitics",
+   "scale": "International",
+   "summary": "Costa Rica has refused entry to UN Special Rapporteur Francesca Albanese, alleging links to terrorist acts.",
+   "why": "Denying entry to a sitting UN Special Rapporteur tests international diplomatic norms and standard UN human rights mandates.",
+   "impact": 4.0,
+   "under_radar": false,
+   "gap": 0.3
+  }
+ ]
 }
